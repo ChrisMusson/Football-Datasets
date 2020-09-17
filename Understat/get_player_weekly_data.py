@@ -65,7 +65,9 @@ async def get_data(league, year):
 
 
 async def main():
-    await get_data("EPL", 2014)
+    leagues = ["La Liga", "Bundesliga", "Serie A", "Ligue 1", "RFPL"]
+    for l in leagues:
+        await get_data(l, 2019)
 
 
 asyncio.get_event_loop().run_until_complete(main())
