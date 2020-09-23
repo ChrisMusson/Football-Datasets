@@ -3,6 +3,7 @@ import aiohttp
 from understat import Understat
 import pandas as pd
 import os
+import html
 
 
 async def get_data(league, year):
@@ -13,6 +14,7 @@ async def get_data(league, year):
     async with aiohttp.ClientSession() as session:
         understat = Understat(session)
         t = await understat.get_teams(league, year)
+        max_fixtures = max(len(x["history"]) for x in t)
         teams = [x["title"] for x in t]
         data = []
 
@@ -24,7 +26,7 @@ async def get_data(league, year):
                 y = await understat.get_player_matches(player["id"], season=str(year))
                 p_matches = [x["id"] for x in y]
 
-                statData = [["-"] * len(fixture_ids) for _ in range(len(stats))]
+                statData = [["-"] * max_fixtures for _ in range(len(stats))]
                 for i, ID in enumerate(p_matches):
                     try:
                         for j, stat in enumerate(stats):
@@ -37,7 +39,7 @@ async def get_data(league, year):
 
                 data.append(
                     [
-                        [player["id"], player["player_name"], player["team_title"]] +
+                        [player["id"], html.unescape(player["player_name"]), player["team_title"]] +
                         statData[i] +
                         [round(sum(x for x in statData[i] if x != "-"), 4)]
                         for i in range(len(statData))
@@ -52,7 +54,7 @@ async def get_data(league, year):
             df = pd.DataFrame(
                 [data[x][i] for x in range(len(data))],
                 columns=["id", "name", "team"] +
-                list(range(1, len(fixtures) + 1)) +
+                list(range(1, max_fixtures + 1)) +
                 ["total"]
             )
 
