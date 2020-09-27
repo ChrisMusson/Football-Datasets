@@ -1,278 +1,335 @@
-id,name,team,1,2,total
-2290,Iago Aspas,Celta Vigo,0,2,2
-6124,Maxi Gómez,Valencia,1,1,2
-7834,Manu Vallejo,Valencia,2,0,2
-2186,Morales,Levante,2,-,2
-2120,Gerard Moreno,Villarreal,1,1,2
-7195,Roberto López,Real Sociedad,1,-,1
-3667,Nabil Fekir,Real Betis,0,1,1
-1421,Cristian Tello,Real Betis,1,0,1
-4208,Míchel,Real Valladolid,1,0,1
-493,Gabriel,Valencia,1,0,1
-1715,Álvaro Negredo,Cadiz,0,1,1
-8736,Jorge Pombo,Cadiz,0,1,1
-7009,Jaime Mata,Getafe,1,-,1
-2305,Adrián,Osasuna,1,0,1
-2183,Rubén García,Osasuna,1,0,1
-6926,William Carvalho,Real Betis,0,1,1
-5074,Kike García,Eibar,0,1,1
-2380,Paco Alcácer,Villarreal,0,1,1
-8725,Luis Milla,Granada,1,0,1
-7350,Yangel Herrera,Granada,1,0,1
-4226,Darwin Machís,Granada,0,1,1
-2311,Roberto Soldado,Granada,0,1,1
-866,Joselu,Alaves,0,1,1
-1003,Pablo Maffeo,SD Huesca,1,0,1
-8390,Rafa Soares,Eibar,0,0,0
-1672,Jonathan Calleri,Osasuna,-,0,0
-8209,Miguel Ángel Atienza,Eibar,-,0,0
-6225,Paulo Oliveira,Eibar,0,0,0
-8707,Damian Kadzior,Eibar,0,0,0
-5140,Kike Barja,Osasuna,0,0,0
-1884,Facundo Roncaglia,Osasuna,-,0,0
-5090,David García,Osasuna,0,0,0
-5093,Roberto Torres,Osasuna,0,0,0
-5128,Oier,Osasuna,0,0,0
-5153,Kévin Rodrigues,Eibar,-,0,0
-5159,Marc Cardona,Osasuna,0,0,0
-5162,Nacho Vidal,Osasuna,0,0,0
-7050,Lucas Torró,Osasuna,0,0,0
-7856,Aridane Hernández,Osasuna,0,0,0
-7857,Jon Moncayola,Osasuna,0,0,0
-7859,Sergio Herrera,Osasuna,0,0,0
-8131,Iñigo Pérez,Osasuna,0,0,0
-8744,Juan Cruz,Osasuna,0,0,0
-1131,Rodrigo Ely,Alaves,0,0,0
-1700,Lucas Pérez,Alaves,0,-,0
-6224,Marko Dmitrovic,Eibar,0,0,0
-2119,Rober Correa,Eibar,0,0,0
-5081,Edu Expósito,Eibar,0,0,0
-5117,Víctor Díaz,Granada,0,0,0
-7208,Samuel Chukwueze,Villarreal,0,0,0
-8001,Takefusa Kubo,Villarreal,0,0,0
-8271,Fernando Niño,Villarreal,0,-,0
-8306,Sofian Chakla,Villarreal,-,0,0
-689,Kenedy,Granada,0,0,0
-2155,Jorge Molina,Granada,-,0,0
-2368,Montoro,Granada,0,0,0
-2509,Dimitri Foulquier,Granada,0,0,0
-3274,Maxime Gonalons,Granada,0,0,0
-4051,Ramón Azeez,Granada,0,-,0
-4069,Fede Vico,Granada,0,-,0
-5109,Rui Silva,Granada,0,0,0
-5234,Jesús Vallejo,Granada,-,0,0
-4188,Quique González,Eibar,-,0,0
-7860,Domingos Duarte,Granada,0,0,0
-7861,Germán Sánchez,Granada,0,0,0
-7863,Antonio Puertas,Granada,0,0,0
-7864,Carlos Neva,Granada,0,0,0
-452,Takashi Inui,Eibar,0,0,0
-2112,Papakouly Diop,Eibar,0,-,0
-2110,Rubén Duarte,Alaves,0,0,0
-2135,Sergi Enrich,Eibar,0,0,0
-2197,Pedro León,Eibar,0,0,0
-2212,Sergio Álvarez,Eibar,0,0,0
-2337,Recio,Eibar,0,0,0
-2353,Pedro Bigas,Eibar,0,0,0
-2088,Edgar Méndez,Alaves,0,0,0
-4052,Ximo Navarro,Alaves,-,0,0
-2185,Deyverson,Alaves,0,0,0
-2193,Cala,Cadiz,0,0,0
-2589,Rafa Mir,SD Huesca,0,0,0
-4037,Pablo Insúa,SD Huesca,0,-,0
-4070,Borja,SD Huesca,-,0,0
-4219,Juan Carlos,SD Huesca,0,0,0
-5064,Dimitrios Siovas,SD Huesca,-,0,0
-5131,Eugeni,SD Huesca,0,0,0
-6656,Sergio Gómez,SD Huesca,-,0,0
-6950,Jorge Pulido,SD Huesca,0,0,0
-6956,David Ferreiro,SD Huesca,0,0,0
-7258,Joaquín Muñoz,SD Huesca,0,0,0
-7385,Javi Galán,SD Huesca,0,0,0
-7493,Jaime Seoane,SD Huesca,0,-,0
-8767,Kelechi Nwakali,SD Huesca,0,-,0
-8769,Dani Escriche,SD Huesca,-,0,0
-2267,Augusto Fernández,Cadiz,-,0,0
-2406,Mikel Rico,SD Huesca,0,-,0
-2391,José Mari,Cadiz,0,0,0
-3206,Yann Bodiger,Cadiz,0,0,0
-4177,Álex Fernández,Cadiz,0,0,0
-6226,Iván Alejo,Cadiz,0,0,0
-6533,Anthony Lozano,Cadiz,0,-,0
-8730,David Gil,Cadiz,0,-,0
-8731,Isaac Carcelén,Cadiz,0,0,0
-8732,Marcos Mauro,Cadiz,0,0,0
-8733,Alfonso Espino,Cadiz,0,0,0
-8734,Sergio González,Cadiz,0,-,0
-8735,Salvi Sánchez,Cadiz,0,0,0
-8737,Jens Jonsson,Cadiz,0,0,0
-8738,Filip Malbasic,Cadiz,0,0,0
-8739,Alberto Cifuentes,Cadiz,-,0,0
-2500,Luisinho,SD Huesca,0,-,0
-2320,Pedro Mosquera,SD Huesca,0,0,0
-2287,John Guidetti,Alaves,-,0,0
-2161,Nacho,Real Valladolid,0,0,0
-2482,Tomás Pina,Alaves,0,-,0
-5136,Estupiñán,Villarreal,-,0,0
-5042,Fernando Pacheco,Alaves,0,0,0
-5044,Víctor Laguardia,Alaves,0,0,0
-5073,Florian Lejeune,Alaves,-,0,0
-5198,Martín Aguirregabiria,Alaves,0,-,0
-6117,Pere Pons,Alaves,0,0,0
-7870,Luis Rioja,Alaves,0,0,0
-7871,Borja Sainz,Alaves,-,0,0
-8413,Javier López,Alaves,0,-,0
-8414,Mahmoud Abdallahi,Alaves,-,0,0
-8750,Rodrigo Battaglia,Alaves,0,0,0
-8751,Sergi García,Alaves,0,-,0
-2105,Jordi Masip,Real Valladolid,0,-,0
-2285,Fabián Orellana,Real Valladolid,0,0,0
-2075,Andrés Fernández,SD Huesca,0,0,0
-2444,Bruno,Real Valladolid,0,0,0
-4054,Pablo Hervías,Real Valladolid,0,0,0
-5087,Roberto Jiménez,Real Valladolid,-,0,0
-5212,Sergi Guardiola,Real Valladolid,0,0,0
-6914,Javi Moyano,Real Valladolid,0,0,0
-6921,Óscar Plano,Real Valladolid,0,0,0
-7233,Joaquín Fernández,Real Valladolid,0,0,0
-7245,Javi Sánchez,Real Valladolid,-,0,0
-7525,Waldo Rubio,Real Valladolid,0,0,0
-7905,Fede San Emeterio,Real Valladolid,0,0,0
-8470,Kike Pérez,Real Valladolid,0,0,0
-8761,Shon Weissman,Real Valladolid,0,0,0
-8762,Luis Pérez,Real Valladolid,-,0,0
-754,Shinji Okazaki,SD Huesca,0,0,0
-6221,Pau Torres,Villarreal,0,0,0
-2296,Mario,Villarreal,0,0,0
-5075,Rubén Peña,Villarreal,0,-,0
-2396,Balenziaga,Athletic Club,0,-,0
-2475,Jaume,Valencia,0,0,0
-2494,Denis Cheryshev,Valencia,0,-,0
-2505,José Gayá,Valencia,0,0,0
-4076,Jason,Valencia,-,0,0
-5047,Rubén Sobrino,Valencia,0,0,0
-5666,Mouctar Diakhaby,Valencia,0,0,0
-5682,Gonçalo Guedes,Valencia,0,0,0
-7313,Lee Kang-In,Valencia,0,0,0
-7330,Uros Racic,Valencia,0,-,0
-8058,Thierry Correia,Valencia,-,0,0
-8149,Vicente Esquerdo,Valencia,0,0,0
-8771,Yunus Musah,Valencia,0,0,0
-2125,Ander Capa,Athletic Club,0,-,0
-2130,Dani García,Athletic Club,0,-,0
-2399,Iñaki Williams,Athletic Club,0,-,0
-2521,Alfonso,Villarreal,0,0,0
-2400,Raúl García,Athletic Club,0,-,0
-2401,Muniain,Athletic Club,0,-,0
-2452,De Marcos,Athletic Club,0,-,0
-2484,Iñigo Martínez,Athletic Club,0,-,0
-4091,Unai López,Athletic Club,0,-,0
-5062,Yeray Álvarez,Athletic Club,0,-,0
-5077,Mikel Vesga,Athletic Club,0,-,0
-5173,Asier Villalibre,Athletic Club,0,-,0
-5185,Unai Simón,Athletic Club,0,-,0
-7779,Oihan Sancet,Athletic Club,0,-,0
-8329,Unai Vencedor,Athletic Club,0,-,0
-8727,Jon Morcillo,Athletic Club,0,-,0
-680,Thibaut Courtois,Real Madrid,0,-,0
-2245,Raphael Varane,Real Madrid,0,-,0
-2284,Daniel Wass,Valencia,0,0,0
-1516,Geoffrey Kondogbia,Valencia,0,0,0
-626,Eliaquim Mangala,Valencia,0,-,0
-7134,Marc Cucurella,Getafe,0,-,0
-617,David Silva,Real Sociedad,-,0,0
-2163,Diego Llorente,Real Sociedad,0,-,0
-2228,Aritz Elustondo,Real Sociedad,0,0,0
-2234,Mikel Oyarzabal,Real Sociedad,0,0,0
-2238,Jon Bautista,Real Sociedad,0,0,0
-2417,Igor Zubeldia,Real Sociedad,0,-,0
-2555,Remiro,Real Sociedad,0,0,0
-5232,Alexander Isak,Real Sociedad,0,0,0
-5304,Mikel Merino,Real Sociedad,0,0,0
-6118,Portu,Real Sociedad,0,0,0
-6126,Ander Guevara,Real Sociedad,-,0,0
-6325,Andoni Gorosabel,Real Sociedad,0,0,0
-7276,Robin Le Normand,Real Sociedad,-,0,0
-7306,Aihen Muñoz,Real Sociedad,0,0,0
-7308,Ander Barrenetxea,Real Sociedad,0,0,0
-8861,Urko Gonzalez,Real Sociedad,-,0,0
-565,Nyom,Getafe,0,-,0
-2194,Damián Suárez,Getafe,0,-,0
-2394,Etxeita,Getafe,0,-,0
-2415,David Soria,Getafe,0,-,0
-3264,Mauro Arambarri,Getafe,0,-,0
-4136,Ángel,Getafe,0,-,0
-5066,David Timor,Getafe,0,-,0
-5642,Erick Cabaco,Getafe,0,-,0
-6076,Nemanja Maksimovic,Getafe,0,-,0
-6151,Djené Dakonam,Getafe,0,-,0
-6219,Enes Ünal,Getafe,0,-,0
-6368,Mathías Olivera,Getafe,0,-,0
-6954,Juan Camilo Hernández,Getafe,0,-,0
-2246,Sergio Ramos,Real Madrid,0,-,0
-2248,Casemiro,Real Madrid,0,-,0
-2250,Luka Modric,Real Madrid,0,-,0
-6227,Brais Méndez,Celta Vigo,0,0,0
-6931,Fran Beltrán,Celta Vigo,-,0,0
-6932,Okay Yokuslu,Celta Vigo,0,0,0
-7514,Lucas Olaza,Celta Vigo,0,0,0
-7826,Joseph Aidoo,Celta Vigo,0,0,0
-8710,Renato Tapia,Celta Vigo,0,0,0
-8711,Miguel Baeza,Celta Vigo,0,0,0
-8713,Gabriel Veiga,Celta Vigo,-,0,0
-897,Juanmi,Real Betis,-,0,0
-1731,Claudio Bravo,Real Betis,0,0,0
-2148,Joaquín,Real Betis,0,0,0
-2217,Antonio Sanabria,Real Betis,-,0,0
-2453,Marc Bartra,Real Betis,0,0,0
-2543,Borja Iglesias,Real Betis,0,0,0
-2571,Sergio Canales,Real Betis,0,0,0
-3237,Aissa Mandi,Real Betis,0,0,0
-4120,Álex Moreno,Real Betis,0,0,0
-6427,Aitor Ruibal,Real Betis,0,-,0
-7354,Diego Lainez,Real Betis,0,-,0
-7355,Paul Akouokou,Real Betis,-,0,0
-7430,Emerson,Real Betis,0,0,0
-8267,Guido Rodríguez,Real Betis,0,0,0
-497,Francis Coquelin,Villarreal,0,0,0
-1588,Raúl Albiol,Villarreal,0,0,0
-2065,Vicente Iborra,Villarreal,0,0,0
-2198,Moi Gómez,Villarreal,0,0,0
-323,Adnan Januzaj,Real Sociedad,0,0,0
-2301,Manu Trigueros,Villarreal,-,0,0
-2378,Daniel Parejo,Villarreal,0,0,0
-2460,Sergio Asenjo,Villarreal,0,0,0
-6930,Néstor Araújo,Celta Vigo,0,0,0
-5272,Emre Mor,Celta Vigo,0,0,0
-2260,Daniel Carvajal,Real Madrid,0,-,0
-5033,Iván Villar,Celta Vigo,0,0,0
-2369,Toni Kroos,Real Madrid,0,-,0
-2370,Karim Benzema,Real Madrid,0,-,0
-2517,Martin Odegaard,Real Madrid,0,-,0
-6233,Ferland Mendy,Real Madrid,0,-,0
-6241,Federico Valverde,Real Madrid,0,-,0
-7008,Vinícius Júnior,Real Madrid,0,-,0
-8015,Rodrygo,Real Madrid,0,-,0
-8862,Sergio Arribas,Real Madrid,0,-,0
-8863,Marvin Park,Real Madrid,0,-,0
-2073,Coke,Levante,0,-,0
-2289,Nemanja Radoja,Levante,0,-,0
-2326,Rober,Levante,0,-,0
-2435,Óscar Duarte,Levante,0,-,0
-4034,José Campaña,Levante,0,-,0
-4193,Aitor Fernández,Levante,0,-,0
-5095,Sergio León,Levante,0,-,0
-5101,Carlos Clerc,Levante,0,-,0
-6215,Sergio Postigo,Levante,0,-,0
-6217,Enis Bardhi,Levante,0,-,0
-6949,Jorge Miramón,Levante,0,-,0
-6953,Gonzalo Melero,Levante,0,-,0
-7155,Nikola Vukcevic,Levante,0,-,0
-8107,Jorge De Frutos,Levante,0,-,0
-8774,Dani Gómez,Levante,0,-,0
-1508,Jeison Murillo,Celta Vigo,-,0,0
-1732,Nolito,Celta Vigo,0,0,0
-2281,Hugo Mallo,Celta Vigo,0,0,0
-2308,Denis Suárez,Celta Vigo,-,0,0
-2384,Santi Mina,Celta Vigo,0,-,0
-8741,Fali,Cadiz,-,0,0
+id,name,team,1,2,3,total
+2186,Morales,Levante,2,1,-,3
+7195,Roberto López,Real Sociedad,1,-,1,2
+2120,Gerard Moreno,Villarreal,1,1,-,2
+6124,Maxi Gómez,Valencia,1,1,0,2
+7834,Manu Vallejo,Valencia,2,0,0,2
+4091,Unai López,Athletic Club,0,2,-,2
+6926,William Carvalho,Real Betis,0,1,1,2
+5074,Kike García,Eibar,0,1,1,2
+2290,Iago Aspas,Celta Vigo,0,2,-,2
+2098,Luis Suárez,Atletico Madrid,2,-,-,2
+3667,Nabil Fekir,Real Betis,0,1,0,1
+2275,Ángel Correa,Atletico Madrid,1,-,-,1
+2518,Marcos Llorente,Atletico Madrid,1,-,-,1
+7892,João Félix,Atletico Madrid,1,-,-,1
+5064,Dimitrios Siovas,SD Huesca,-,0,1,1
+1003,Pablo Maffeo,SD Huesca,1,0,-,1
+2311,Roberto Soldado,Granada,0,1,-,1
+4226,Darwin Machís,Granada,0,1,0,1
+493,Gabriel,Valencia,1,0,-,1
+2284,Daniel Wass,Valencia,0,0,1,1
+4208,Míchel,Real Valladolid,1,0,-,1
+7350,Yangel Herrera,Granada,1,0,0,1
+2380,Paco Alcácer,Villarreal,0,1,-,1
+8725,Luis Milla,Granada,1,0,0,1
+2566,Roger,Levante,-,1,-,1
+6953,Gonzalo Melero,Levante,0,1,-,1
+866,Joselu,Alaves,0,1,0,1
+802,Diego Costa,Atletico Madrid,1,-,-,1
+5093,Roberto Torres,Osasuna,0,0,1,1
+2305,Adrián,Osasuna,1,0,0,1
+2183,Rubén García,Osasuna,1,0,0,1
+323,Adnan Januzaj,Real Sociedad,0,0,1,1
+1421,Cristian Tello,Real Betis,1,0,0,1
+3237,Aissa Mandi,Real Betis,0,0,1,1
+6241,Federico Valverde,Real Madrid,0,1,-,1
+2246,Sergio Ramos,Real Madrid,0,1,-,1
+1715,Álvaro Negredo,Cadiz,0,1,-,1
+8736,Jorge Pombo,Cadiz,0,1,-,1
+6118,Portu,Real Sociedad,0,0,1,1
+7009,Jaime Mata,Getafe,1,0,-,1
+2155,Jorge Molina,Granada,-,0,1,1
+2500,Luisinho,SD Huesca,0,-,0,0
+6225,Paulo Oliveira,Eibar,0,0,0,0
+2391,José Mari,Cadiz,0,0,-,0
+3206,Yann Bodiger,Cadiz,0,0,-,0
+4177,Álex Fernández,Cadiz,0,0,-,0
+8707,Damian Kadzior,Eibar,0,0,0,0
+8390,Rafa Soares,Eibar,0,0,-,0
+8209,Miguel Ángel Atienza,Eibar,-,0,-,0
+6224,Marko Dmitrovic,Eibar,0,0,0,0
+6533,Anthony Lozano,Cadiz,0,-,-,0
+5153,Kévin Rodrigues,Eibar,-,0,0,0
+5081,Edu Expósito,Eibar,0,0,0,0
+4188,Quique González,Eibar,-,0,0,0
+2586,Anaitz Arbilla,Eibar,-,-,0,0
+2519,Tejero,Eibar,-,-,0,0
+2353,Pedro Bigas,Eibar,0,0,0,0
+1672,Jonathan Calleri,Osasuna,-,0,0,0
+1884,Facundo Roncaglia,Osasuna,-,0,-,0
+2267,Augusto Fernández,Cadiz,-,0,-,0
+2216,Jony,Osasuna,-,-,0,0
+4130,Raúl Navas,Osasuna,-,-,0,0
+5090,David García,Osasuna,0,0,0,0
+5128,Oier,Osasuna,0,0,0,0
+5140,Kike Barja,Osasuna,0,0,-,0
+5159,Marc Cardona,Osasuna,0,0,0,0
+5162,Nacho Vidal,Osasuna,0,0,0,0
+7050,Lucas Torró,Osasuna,0,0,0,0
+7349,Enric Gallego,Osasuna,-,-,0,0
+7856,Aridane Hernández,Osasuna,0,0,-,0
+7857,Jon Moncayola,Osasuna,0,0,0,0
+7859,Sergio Herrera,Osasuna,0,0,0,0
+8131,Iñigo Pérez,Osasuna,0,0,0,0
+8744,Juan Cruz,Osasuna,0,0,0,0
+6226,Iván Alejo,Cadiz,0,0,-,0
+8730,David Gil,Cadiz,0,-,-,0
+2406,Mikel Rico,SD Huesca,0,-,-,0
+3274,Maxime Gonalons,Granada,0,0,-,0
+8734,Sergio González,Cadiz,0,-,-,0
+5117,Víctor Díaz,Granada,0,0,0,0
+5109,Rui Silva,Granada,0,0,0,0
+8735,Salvi Sánchez,Cadiz,0,0,-,0
+4069,Fede Vico,Granada,0,-,0,0
+4051,Ramón Azeez,Granada,0,-,0,0
+2509,Dimitri Foulquier,Granada,0,0,0,0
+8731,Isaac Carcelén,Cadiz,0,0,-,0
+2368,Montoro,Granada,0,0,-,0
+689,Kenedy,Granada,0,0,0,0
+8737,Jens Jonsson,Cadiz,0,0,-,0
+8738,Filip Malbasic,Cadiz,0,0,-,0
+8739,Alberto Cifuentes,Cadiz,-,0,-,0
+4219,Juan Carlos,SD Huesca,0,0,0,0
+8733,Alfonso Espino,Cadiz,0,0,-,0
+5234,Jesús Vallejo,Granada,-,0,0,0
+7860,Domingos Duarte,Granada,0,0,0,0
+7861,Germán Sánchez,Granada,0,0,0,0
+7862,Yan Eteki,Granada,-,-,0,0
+7863,Antonio Puertas,Granada,0,0,0,0
+7864,Carlos Neva,Granada,0,0,-,0
+8726,Alberto Soro,Granada,-,-,0,0
+8732,Marcos Mauro,Cadiz,0,0,-,0
+47,Yoshinori Muto,Eibar,-,-,0,0
+452,Takashi Inui,Eibar,0,0,0,0
+2112,Papakouly Diop,Eibar,0,-,0,0
+2119,Rober Correa,Eibar,0,0,0,0
+2135,Sergi Enrich,Eibar,0,0,-,0
+2197,Pedro León,Eibar,0,0,0,0
+2212,Sergio Álvarez,Eibar,0,0,-,0
+2337,Recio,Eibar,0,0,0,0
+2193,Cala,Cadiz,0,0,-,0
+1131,Rodrigo Ely,Alaves,0,0,-,0
+2589,Rafa Mir,SD Huesca,0,0,0,0
+2285,Fabián Orellana,Real Valladolid,0,0,-,0
+6921,Óscar Plano,Real Valladolid,0,0,-,0
+6914,Javi Moyano,Real Valladolid,0,0,-,0
+5212,Sergi Guardiola,Real Valladolid,0,0,-,0
+5087,Roberto Jiménez,Real Valladolid,-,0,-,0
+4054,Pablo Hervías,Real Valladolid,0,0,-,0
+2444,Bruno,Real Valladolid,0,0,-,0
+2161,Nacho,Real Valladolid,0,0,-,0
+2578,Javi Ontiveros,SD Huesca,-,-,0,0
+2105,Jordi Masip,Real Valladolid,0,-,-,0
+7493,Jaime Seoane,SD Huesca,0,-,0,0
+8767,Kelechi Nwakali,SD Huesca,0,-,-,0
+8896,Nino,Elche,0,-,-,0
+8895,Tete Morente,Elche,0,-,-,0
+8894,Raúl Guti,Elche,0,-,-,0
+7233,Joaquín Fernández,Real Valladolid,0,0,-,0
+7245,Javi Sánchez,Real Valladolid,-,0,-,0
+7525,Waldo Rubio,Real Valladolid,0,0,-,0
+7905,Fede San Emeterio,Real Valladolid,0,0,-,0
+8470,Kike Pérez,Real Valladolid,0,0,-,0
+8761,Shon Weissman,Real Valladolid,0,0,-,0
+7385,Javi Galán,SD Huesca,0,0,0,0
+7258,Joaquín Muñoz,SD Huesca,0,0,0,0
+6956,David Ferreiro,SD Huesca,0,0,0,0
+6950,Jorge Pulido,SD Huesca,0,0,0,0
+8762,Luis Pérez,Real Valladolid,-,0,-,0
+6656,Sergio Gómez,SD Huesca,-,0,-,0
+5131,Eugeni,SD Huesca,0,0,-,0
+754,Shinji Okazaki,SD Huesca,0,0,0,0
+2075,Andrés Fernández,SD Huesca,0,0,0,0
+2189,Pedro López,SD Huesca,-,-,0,0
+2320,Pedro Mosquera,SD Huesca,0,0,0,0
+8893,Josan,Elche,0,-,-,0
+8892,Josema,Elche,0,-,-,0
+8891,Gonzalo Verdú,Elche,0,-,-,0
+7870,Luis Rioja,Alaves,0,0,0,0
+4070,Borja,SD Huesca,-,0,0,0
+1700,Lucas Pérez,Alaves,0,-,0,0
+2088,Edgar Méndez,Alaves,0,0,0,0
+2110,Rubén Duarte,Alaves,0,0,0,0
+2185,Deyverson,Alaves,0,0,0,0
+2287,John Guidetti,Alaves,-,0,-,0
+2482,Tomás Pina,Alaves,0,-,-,0
+4052,Ximo Navarro,Alaves,-,0,0,0
+5042,Fernando Pacheco,Alaves,0,0,0,0
+5044,Víctor Laguardia,Alaves,0,0,0,0
+5045,Manu García,Alaves,-,-,0,0
+5073,Florian Lejeune,Alaves,-,0,0,0
+5198,Martín Aguirregabiria,Alaves,0,-,-,0
+6117,Pere Pons,Alaves,0,0,0,0
+7871,Borja Sainz,Alaves,-,0,0,0
+8890,Edgar Badía,Elche,0,-,-,0
+8413,Javier López,Alaves,0,-,0,0
+8769,Dani Escriche,SD Huesca,-,0,0,0
+8306,Sofian Chakla,Villarreal,-,0,-,0
+8414,Mahmoud Abdallahi,Alaves,-,0,-,0
+8750,Rodrigo Battaglia,Alaves,0,0,0,0
+8751,Sergi García,Alaves,0,-,-,0
+1189,Lucas Boyé,Elche,0,-,-,0
+2350,Cifuentes,Elche,0,-,-,0
+2471,Víctor Rodríguez,Elche,0,-,-,0
+2567,Luismi,Elche,0,-,-,0
+2597,Dani Calvo,Elche,0,-,-,0
+3248,Omenuke Mfulu,Elche,0,-,-,0
+4146,Fidel,Elche,0,-,-,0
+4175,Pere Milla,Elche,0,-,-,0
+4037,Pablo Insúa,SD Huesca,0,-,-,0
+2065,Vicente Iborra,Villarreal,0,0,-,0
+8271,Fernando Niño,Villarreal,0,-,-,0
+4076,Jason,Valencia,-,0,0,0
+8149,Vicente Esquerdo,Valencia,0,0,0,0
+8058,Thierry Correia,Valencia,-,0,-,0
+7330,Uros Racic,Valencia,0,-,0,0
+7313,Lee Kang-In,Valencia,0,0,0,0
+5682,Gonçalo Guedes,Valencia,0,0,0,0
+5666,Mouctar Diakhaby,Valencia,0,0,0,0
+5047,Rubén Sobrino,Valencia,0,0,-,0
+2505,José Gayá,Valencia,0,0,0,0
+2511,Vitolo,Atletico Madrid,0,-,-,0
+2494,Denis Cheryshev,Valencia,0,-,-,0
+2475,Jaume,Valencia,0,0,0,0
+2442,Kevin Gameiro,Valencia,-,-,0,0
+1516,Geoffrey Kondogbia,Valencia,0,0,0,0
+626,Eliaquim Mangala,Valencia,0,-,-,0
+7921,Felipe,Atletico Madrid,0,-,-,0
+7891,Renan Lodi,Atletico Madrid,0,-,-,0
+8334,Hugo Guillamón,Valencia,-,-,0,0
+8771,Yunus Musah,Valencia,0,0,0,0
+2125,Ander Capa,Athletic Club,0,0,-,0
+2130,Dani García,Athletic Club,0,0,-,0
+8329,Unai Vencedor,Athletic Club,0,-,-,0
+7779,Oihan Sancet,Athletic Club,0,0,-,0
+6150,Iñigo Córdoba,Athletic Club,-,0,-,0
+6149,Unai Núñez,Athletic Club,-,0,-,0
+5185,Unai Simón,Athletic Club,0,0,-,0
+5173,Asier Villalibre,Athletic Club,0,0,-,0
+5077,Mikel Vesga,Athletic Club,0,0,-,0
+5062,Yeray Álvarez,Athletic Club,0,-,-,0
+2484,Iñigo Martínez,Athletic Club,0,0,-,0
+2452,De Marcos,Athletic Club,0,-,-,0
+2401,Muniain,Athletic Club,0,0,-,0
+2400,Raúl García,Athletic Club,0,0,-,0
+2399,Iñaki Williams,Athletic Club,0,0,-,0
+2396,Balenziaga,Athletic Club,0,-,-,0
+2229,Yuri,Athletic Club,-,0,-,0
+3425,Thomas Lemar,Atletico Madrid,0,-,-,0
+2328,Thomas Partey,Atletico Madrid,0,-,-,0
+8001,Takefusa Kubo,Villarreal,0,0,-,0
+5304,Mikel Merino,Real Sociedad,0,0,0,0
+8861,Urko Gonzalez,Real Sociedad,-,0,-,0
+7526,Martín Zubimendi,Real Sociedad,-,-,0,0
+7308,Ander Barrenetxea,Real Sociedad,0,0,0,0
+7306,Aihen Muñoz,Real Sociedad,0,0,0,0
+7276,Robin Le Normand,Real Sociedad,-,0,0,0
+6325,Andoni Gorosabel,Real Sociedad,0,0,0,0
+6126,Ander Guevara,Real Sociedad,-,0,0,0
+5232,Alexander Isak,Real Sociedad,0,0,0,0
+2272,Yannick Carrasco,Atletico Madrid,0,-,-,0
+2555,Remiro,Real Sociedad,0,0,0,0
+2417,Igor Zubeldia,Real Sociedad,0,-,-,0
+2238,Jon Bautista,Real Sociedad,0,0,0,0
+2234,Mikel Oyarzabal,Real Sociedad,0,0,0,0
+2228,Aritz Elustondo,Real Sociedad,0,0,0,0
+2163,Diego Llorente,Real Sociedad,0,-,-,0
+617,David Silva,Real Sociedad,-,0,0,0
+565,Nyom,Getafe,0,0,-,0
+2194,Damián Suárez,Getafe,0,0,-,0
+2394,Etxeita,Getafe,0,0,-,0
+2415,David Soria,Getafe,0,0,-,0
+2269,Koke,Atletico Madrid,0,-,-,0
+2266,Saúl Ñíguez,Atletico Madrid,0,-,-,0
+2263,Stefan Savic,Atletico Madrid,0,-,-,0
+2261,Jan Oblak,Atletico Madrid,0,-,-,0
+652,Kieran Trippier,Atletico Madrid,0,-,-,0
+7134,Marc Cucurella,Getafe,0,0,-,0
+6954,Juan Camilo Hernández,Getafe,0,0,-,0
+6368,Mathías Olivera,Getafe,0,0,-,0
+6219,Enes Ünal,Getafe,0,0,-,0
+6151,Djené Dakonam,Getafe,0,0,-,0
+6076,Nemanja Maksimovic,Getafe,0,0,-,0
+5642,Erick Cabaco,Getafe,0,-,-,0
+5066,David Timor,Getafe,0,0,-,0
+4136,Ángel,Getafe,0,0,-,0
+3264,Mauro Arambarri,Getafe,0,0,-,0
+8727,Jon Morcillo,Athletic Club,0,0,-,0
+680,Thibaut Courtois,Real Madrid,0,0,-,0
+2245,Raphael Varane,Real Madrid,0,0,-,0
+897,Juanmi,Real Betis,-,0,-,0
+2571,Sergio Canales,Real Betis,0,0,0,0
+2543,Borja Iglesias,Real Betis,0,0,-,0
+2453,Marc Bartra,Real Betis,0,0,0,0
+2217,Antonio Sanabria,Real Betis,-,0,0,0
+2148,Joaquín,Real Betis,0,0,0,0
+1950,Martín Montoya,Real Betis,-,-,0,0
+1731,Claudio Bravo,Real Betis,0,0,-,0
+584,Joel Robles,Real Betis,-,-,0,0
+2248,Casemiro,Real Madrid,0,0,-,0
+8713,Gabriel Veiga,Celta Vigo,-,0,-,0
+8711,Miguel Baeza,Celta Vigo,0,0,-,0
+8710,Renato Tapia,Celta Vigo,0,0,-,0
+7826,Joseph Aidoo,Celta Vigo,0,0,-,0
+7514,Lucas Olaza,Celta Vigo,0,0,-,0
+6932,Okay Yokuslu,Celta Vigo,0,0,-,0
+6931,Fran Beltrán,Celta Vigo,-,0,-,0
+4120,Álex Moreno,Real Betis,0,0,0,0
+6427,Aitor Ruibal,Real Betis,0,-,-,0
+6528,Loren Morón,Real Betis,-,-,0,0
+7354,Diego Lainez,Real Betis,0,-,-,0
+7208,Samuel Chukwueze,Villarreal,0,0,-,0
+6221,Pau Torres,Villarreal,0,0,-,0
+5136,Estupiñán,Villarreal,-,0,-,0
+5075,Rubén Peña,Villarreal,0,-,-,0
+2521,Alfonso,Villarreal,0,0,-,0
+2460,Sergio Asenjo,Villarreal,0,0,-,0
+2378,Daniel Parejo,Villarreal,0,0,-,0
+2301,Manu Trigueros,Villarreal,-,0,-,0
+2296,Mario,Villarreal,0,0,-,0
+2198,Moi Gómez,Villarreal,0,0,-,0
+1588,Raúl Albiol,Villarreal,0,0,-,0
+497,Francis Coquelin,Villarreal,0,0,-,0
+8267,Guido Rodríguez,Real Betis,0,0,0,0
+7430,Emerson,Real Betis,0,0,0,0
+7355,Paul Akouokou,Real Betis,-,0,-,0
+6930,Néstor Araújo,Celta Vigo,0,0,-,0
+6227,Brais Méndez,Celta Vigo,0,0,-,0
+5272,Emre Mor,Celta Vigo,0,0,-,0
+2386,Rúben Vezo,Levante,-,0,-,0
+2289,Nemanja Radoja,Levante,0,0,-,0
+2073,Coke,Levante,0,-,-,0
+8863,Marvin Park,Real Madrid,0,-,-,0
+8862,Sergio Arribas,Real Madrid,0,-,-,0
+8015,Rodrygo,Real Madrid,0,-,-,0
+7008,Vinícius Júnior,Real Madrid,0,-,-,0
+6233,Ferland Mendy,Real Madrid,0,0,-,0
+6228,Luka Jovic,Real Madrid,-,0,-,0
+2517,Martin Odegaard,Real Madrid,0,0,-,0
+2370,Karim Benzema,Real Madrid,0,0,-,0
+2369,Toni Kroos,Real Madrid,0,0,-,0
+2260,Daniel Carvajal,Real Madrid,0,0,-,0
+2255,Isco,Real Madrid,-,0,-,0
+2252,Borja Mayoral,Real Madrid,-,0,-,0
+2250,Luka Modric,Real Madrid,0,0,-,0
+2326,Rober,Levante,0,-,-,0
+2435,Óscar Duarte,Levante,0,-,-,0
+5033,Iván Villar,Celta Vigo,0,0,-,0
+4034,José Campaña,Levante,0,0,-,0
+2384,Santi Mina,Celta Vigo,0,-,-,0
+2308,Denis Suárez,Celta Vigo,-,0,-,0
+2281,Hugo Mallo,Celta Vigo,0,0,-,0
+1732,Nolito,Celta Vigo,0,0,-,0
+1508,Jeison Murillo,Celta Vigo,-,0,-,0
+8907,Mickaël Malsa,Levante,-,0,-,0
+8774,Dani Gómez,Levante,0,0,-,0
+8107,Jorge De Frutos,Levante,0,0,-,0
+7155,Nikola Vukcevic,Levante,0,0,-,0
+6949,Jorge Miramón,Levante,0,0,-,0
+6217,Enis Bardhi,Levante,0,0,-,0
+6215,Sergio Postigo,Levante,0,0,-,0
+5101,Carlos Clerc,Levante,0,0,-,0
+5095,Sergio León,Levante,0,-,-,0
+4193,Aitor Fernández,Levante,0,0,-,0
+8741,Fali,Cadiz,-,0,-,0

@@ -1,414 +1,430 @@
-id,name,team,1,2,3,4,total
-3749,Jonathan Bamba,Lille,90,90,90,90,360
-551,Morgan Schneiderlin,Nice,90,90,90,90,360
-3201,Alban Lafont,Nantes,90,90,90,90,360
-6935,Naif Aguerd,Rennes,90,90,90,90,360
-3670,Nicolas Pallois,Nantes,90,90,90,90,360
-3542,Damien Da Silva,Rennes,90,90,90,90,360
-2413,Steven N&#039;Zonzi,Rennes,90,90,90,90,360
-148,Dante,Nice,90,90,90,90,360
-3729,Hassane Kamara,Nice,90,90,90,90,360
-8314,Yvann Maçon,Saint-Etienne,90,90,90,90,360
-5619,Pierre Lees-Melou,Nice,90,90,90,90,360
-5652,Walter Benítez,Nice,90,90,90,90,360
-7206,Jonathan Gradit,Lens,90,90,90,90,360
-7240,Benoit Badiashile Mukinayi,Monaco,90,90,90,90,360
-6885,Axel Disasi,Monaco,90,90,90,90,360
-6006,Ruben Aguilar,Monaco,90,90,90,90,360
-1022,Pedro Chirivella,Nantes,90,90,90,90,360
-7169,Moses Simon,Nantes,90,90,90,90,360
-6112,Andrei Girotto,Nantes,90,90,90,90,360
-6019,Angelo Fulgini,Angers,90,90,90,90,360
-5732,Abdoulaye Bamba,Angers,90,90,90,90,360
-6905,Ludovic Ajorque,Strasbourg,90,90,90,90,360
-7551,Mohamed Simakan,Strasbourg,90,90,90,90,360
-3251,Paul Bernardoni,Angers,90,90,90,90,360
-3487,Ismael Traoré,Angers,90,90,90,90,360
-8678,Jonas Omlin,Montpellier,90,90,90,90,360
-7773,Zinedine Ferhat,Nimes,90,90,90,90,360
-3221,Pedro Mendes,Montpellier,90,90,90,90,360
-3338,Daniel Congré,Montpellier,90,90,90,90,360
-4765,Loïck Landre,Nimes,90,90,90,90,360
-7007,Duje Caleta-Car,Marseille,90,90,90,90,360
-6864,Renaud Ripart,Nimes,90,90,90,90,360
-5614,Baptiste Reynet,Nimes,90,90,90,90,360
-1670,Steve Mandanda,Marseille,90,90,90,90,360
-6452,Mahdi Camara,Saint-Etienne,90,90,90,90,360
-3318,Jean-Louis Leca,Lens,90,90,90,90,360
-93,Marcelo,Lyon,90,90,90,90,360
-834,José Fonte,Lille,90,90,90,90,360
-3737,Mike Maignan,Lille,90,90,90,90,360
-5686,Digbo Maiga,Metz,90,90,90,90,360
-3464,Vincent Le Goff,Lorient,90,90,90,90,360
-3430,Paul Nardi,Lorient,90,90,90,90,360
-3271,Jérémy Morel,Lorient,90,90,90,90,360
-5984,Alexandre Oukidja,Metz,90,90,90,90,360
-7763,Fabien Centonze,Metz,90,90,90,90,360
-8049,Jean-Kevin Duverne,Brest,90,90,90,90,360
-7767,John Boye,Metz,90,90,90,90,360
-8244,Dylan Bronn,Metz,90,90,90,90,360
-3269,Anthony Lopes,Lyon,90,90,90,90,360
-1455,Alfred Gomis,Dijon,90,90,90,90,360
-8635,Sven Botman,Lille,90,90,90,90,360
-1720,Didier Ndong,Dijon,90,90,90,90,360
-3218,Benoit Costil,Bordeaux,90,90,90,90,360
-8664,Facundo Medina,Lens,90,90,90,90,360
-2063,Timothée Kolodziejczak,Saint-Etienne,90,90,90,90,360
-7728,Gautier Larsonneur,Brest,90,90,90,90,360
-3518,Jessy Moulin,Saint-Etienne,90,90,90,90,360
-7718,Predrag Rajkovic,Reims,90,90,90,90,360
-494,Laurent Koscielny,Bordeaux,90,90,90,90,360
-5789,Boubacar Kamara,Marseille,90,90,90,90,360
-3399,Youssouf Sabaly,Bordeaux,90,90,90,90,360
-6060,Otávio,Bordeaux,90,90,90,90,360
-4883,Bruno Ecuele Manga,Dijon,90,90,90,90,360
-6882,Ghislain Konan,Reims,90,90,90,90,360
-3746,Gaetan Laborde,Montpellier,90,90,89,90,359
-6736,Ibrahima Diallo,Brest,90,89,90,90,359
-3223,Benjamin André,Lille,90,90,88,90,358
-8649,Houboulang Mendes,Lorient,90,90,85,90,355
-4904,Adrián Cubas,Nimes,85,90,90,90,355
-92,Hiroki Sakai,Marseille,90,90,82,90,352
-6883,Xavier Chavalerin,Reims,90,90,79,90,349
-3507,Vincent Pajot,Metz,90,90,87,81,348
-6560,Aurelien Tchouameni,Monaco,90,77,90,90,347
-3118,Damien Le Tallec,Montpellier,90,90,90,75,345
-5786,Yoane Wissa,Lorient,90,74,90,90,344
-1039,Jason Denayer,Lyon,90,90,71,90,341
-6904,Ibrahima Sissoko,Strasbourg,77,90,82,90,339
-7562,Eric Junior Dina Ebimbe,Dijon,90,90,90,66,336
-3210,Wissam Ben Yedder,Monaco,90,78,82,86,336
-5975,Kenny Lala,Strasbourg,65,90,90,90,335
-7328,Maxence Caqueret,Lyon,90,90,90,64,334
-942,Florian Thauvin,Marseille,90,80,90,72,332
-3305,Paul Baysse,Bordeaux,90,90,90,61,331
-5947,Mihailo Ristic,Montpellier,65,84,90,90,329
-8666,Cheick Oumar Doucoure,Lens,90,83,90,66,329
-6501,Andy Pelmard,Nice,58,90,90,90,328
-3781,Denis Bouanga,Saint-Etienne,71,88,90,79,328
-6863,Téji Savanier,Montpellier,90,68,78,90,326
-8653,Adrian Grbic,Lorient,85,58,90,85,318
-7746,Hwang Ui-Jo,Bordeaux,77,79,75,84,315
-5988,Ibrahima Niane,Metz,72,68,83,90,313
-5647,Arnaud Souquet,Montpellier,90,85,90,47,312
-552,Ander Herrera,Paris Saint Germain,90,64,90,68,312
-6420,Romain Faivre,Brest,90,83,76,61,310
-3412,Léo Dubois,Lyon,72,90,90,58,310
-5635,Faitout Maouassa,Rennes,90,90,90,40,310
-3490,Thomas Mangani,Angers,79,81,73,75,308
-2549,Gaël Kakuta,Lens,73,71,74,90,308
-8026,Raphinha,Rennes,67,90,90,61,308
-6884,Remi Oudin,Bordeaux,42,90,90,84,306
-7980,Adil Aouchiche,Saint-Etienne,90,88,49,78,305
-3509,Fabien Lemoine,Lorient,72,86,77,70,305
-3244,Nicolas de Preville,Bordeaux,66,79,75,84,304
-3243,Gaëtan Charbonnier,Brest,41,90,90,79,300
-8636,Jonathan Christian David,Lille,67,70,84,79,300
-8689,Yvan Neyou,Saint-Etienne,71,73,74,82,300
-8327,Bruno Guimarães,Lyon,90,60,58,90,298
-6401,Amine Gouiri,Nice,90,90,27,90,297
-6846,Sofiane Diop,Monaco,41,75,90,90,296
-3278,Maxwel Cornet,Lyon,80,90,78,48,296
-6902,Toma Basic,Bordeaux,90,90,90,25,295
-4882,Laurent Abergel,Lorient,79,90,41,85,295
-3275,Jordan Ferri,Montpellier,66,73,66,85,290
-7755,Domagoj Bradaric,Lille,41,90,90,66,287
-668,Idrissa Gueye,Paris Saint Germain,90,90,85,22,287
-3322,Alexander Djiku,Strasbourg,25,90,90,78,283
-6061,Quentin Boisgard,Lorient,85,90,90,15,280
-5725,Jordan Marié,Dijon,71,73,49,85,278
-3521,Dennis Appiah,Nantes,6,90,90,90,276
-6872,Mehmet Zeki Çelik,Lille,90,88,6,90,274
-3325,Yannick Cahuzac,Lens,90,19,74,90,273
-8637,Burak Yilmaz,Lille,23,80,90,79,272
-5745,Matthieu Udol,Metz,90,90,-,90,270
-2430,Álvaro González,Marseille,-,90,90,90,270
-7151,Thomas Foket,Reims,90,-,90,90,270
-3451,Benjamin Lecomte,Monaco,90,90,-,90,270
-6500,Romain Perraud,Brest,-,90,90,90,270
-7589,Wesley Fofana,Saint-Etienne,90,90,90,-,270
-4242,Stefan Mitrovic,Strasbourg,90,-,90,90,270
-8665,Loic Bade,Lens,90,90,90,-,270
-5624,Yunis Abdelhamid,Reims,90,90,-,90,270
-8025,Kasper Dolberg,Nice,90,90,90,-,270
-5692,Fouad Chafik,Dijon,-,90,90,90,270
-7745,Loris Benito,Bordeaux,-,90,90,90,270
-8650,Julien Laporte,Lorient,90,90,90,-,270
-5654,Baptiste Santamaria,Angers,90,90,90,-,270
-5766,Romain Salin,Rennes,-,90,90,90,270
-3599,Presnel Kimpembe,Paris Saint Germain,74,90,20,85,269
-3373,Pablo Martinez,Nimes,90,89,90,-,269
-555,Memphis Depay,Lyon,72,74,32,90,268
-1752,Fabio,Nantes,90,87,-,90,267
-5657,Karl Toko Ekambi,Lyon,68,84,71,42,265
-7359,Eduardo Camavinga,Rennes,23,90,67,83,263
-8656,Birger Meling,Nimes,82,90,90,-,262
-7224,Boulaye Dia,Reims,81,-,90,90,261
-3553,Ángel Di María,Paris Saint Germain,-,90,90,81,261
-7265,Kephren Thuram,Nice,73,81,46,60,260
-2199,Pablo Sarabia,Paris Saint Germain,90,90,70,9,259
-3348,Florian Sotoca,Lens,66,25,90,77,258
-3673,Valentin Rongier,Marseille,14,90,81,72,257
-7729,Julien Faussurier,Brest,90,7,70,90,257
-5611,Martin Terrier,Rennes,90,76,-,90,256
-5661,Jonathan Ikone,Lille,85,80,74,17,256
-3475,Ludovic Blas,Nantes,1,76,90,87,254
-5757,Farid Boulaya,Metz,81,-,83,90,254
-3552,Marco Verratti,Paris Saint Germain,90,74,-,90,254
-7142,Moussa Dembele,Lyon,90,60,12,90,252
-8629,Aurelien Scheidler,Dijon,80,81,-,90,251
-7358,Souleyman Doumbia,Angers,70,90,90,-,250
-5676,Opa Nguette,Metz,72,90,16,71,249
-4773,Benjamin Bourigeaud,Rennes,67,75,23,83,248
-3696,Morgan Sanson,Marseille,83,-,74,90,247
-8294,El Bilal Touré,Reims,63,77,85,22,247
-3677,Wesley Lautoa,Dijon,90,90,41,24,245
-6238,Ignatius Ganago,Lens,66,71,30,78,245
-536,Dimitri Payet,Marseille,-,80,90,73,243
-3488,Romain Thomas,Angers,90,90,63,-,243
-8651,Enzo Le Fée,Lorient,90,58,23,71,242
-3786,Mathieu Cafaro,Reims,63,61,49,68,241
-8660,Jordan Lotomba,Nice,90,90,-,60,240
-7776,Kévin Denkey,Nimes,90,90,59,-,239
-3530,Andy Delort,Montpellier,-,85,66,86,237
-3561,Romain Hamouma,Saint-Etienne,72,73,61,30,236
-5743,Randal Kolo Muani,Nantes,-,56,90,90,236
-5684,Arnaud Nordin,Saint-Etienne,82,53,41,60,236
-3549,Adrien Thomasson,Strasbourg,84,66,8,77,235
-3740,Lucas Deaux,Nimes,59,90,83,-,232
-7732,Haris Belkebla,Brest,70,89,23,49,231
-7012,Gelson Martins,Monaco,84,78,66,1,229
-6945,Youssouf Fofana,Monaco,90,49,-,90,229
-7762,Jean-Ricner Bellegarde,Strasbourg,13,86,68,58,225
-8646,Wout Faes,Reims,90,90,41,-,221
-3463,Romain Philippoteaux,Nimes,90,80,49,-,219
-8003,Dario Maresic,Reims,-,90,90,38,218
-5105,Victorien Angban,Metz,61,90,3,62,216
-3461,Majeed Waris,Strasbourg,25,41,81,68,215
-4849,Sada Thioub,Angers,90,82,16,26,214
-7908,Marshall Munetsi,Reims,90,30,41,50,211
-5774,Clement Michelin,Lens,90,90,30,-,210
-7247,Jonathan Panzo,Dijon,-,34,83,90,207
-7178,Valon Berisha,Reims,31,60,26,90,207
-152,Julian Draxler,Paris Saint Germain,-,26,90,90,206
-8657,Jeremy Le Douaron,Brest,82,14,49,61,206
-7760,Abdoul Kader Bamba,Nantes,90,14,77,23,204
-7570,Moreto Cassamã,Reims,9,77,64,52,202
-3517,Ronael Pierre Gabriel,Brest,90,90,20,-,200
-3495,Pierrick Capelle,Angers,11,23,74,90,198
-414,Juan Bernat,Paris Saint Germain,84,87,26,-,197
-8676,Aníbal Chalá,Dijon,-,17,90,90,197
-5724,Irvin Cardona,Brest,70,83,14,29,196
-8655,Mehdi Chahiri,Strasbourg,77,67,28,22,194
-3738,Sehrou Guirassy,Rennes,-,22,82,90,194
-7716,Darío Benedetto,Marseille,84,29,-,79,192
-6314,Joachim Andersen,Lyon,10,90,90,-,190
-8667,Ismael Boura,Lens,83,6,88,12,189
-6318,Lionel Carole,Strasbourg,90,67,-,31,188
-967,Mathieu Debuchy,Saint-Etienne,90,90,8,-,188
-7557,Yassin Benrahou,Nimes,59,46,83,-,188
-6310,Boubakary Soumare,Lille,5,-,90,90,185
-8004,Dereck Kutesa,Reims,59,61,41,22,183
-3370,Issiaga Sylla,Lens,7,84,2,90,183
-7764,Mamadou Fofana,Metz,-,90,90,-,180
-3297,Marquinhos,Paris Saint Germain,-,-,90,90,180
-1513,Mauro Icardi,Paris Saint Germain,-,-,90,90,180
-5803,Fode Toure,Monaco,90,-,90,-,180
-3362,Rony Lopes,Nice,-,25,80,75,180
-5678,Eiji Kawashima,Strasbourg,90,90,-,-,180
-3357,Djibril Sidibe,Monaco,-,90,-,90,180
-3800,Steve Mounie,Brest,-,-,90,90,180
-2674,Thilo Kehrer,Paris Saint Germain,90,90,-,-,180
-2243,Keylor Navas,Paris Saint Germain,-,-,90,90,180
-961,Jordan Amavi,Marseille,90,90,-,-,180
-5974,Bingourou Kamara,Strasbourg,-,-,90,90,180
-5980,Stéphane Bahoken,Angers,-,23,81,75,179
-1254,Alessandro Florenzi,Paris Saint Germain,-,87,-,90,177
-3337,Hilton,Montpellier,-,90,84,-,174
-3655,Charles Traore,Nantes,84,-,90,-,174
-7397,Arbër Zeneli,Reims,27,29,49,68,173
-6380,Anthony Caci,Strasbourg,-,23,90,59,172
-3239,Hamari Traore,Rennes,-,-,82,90,172
-8746,Aïmen Moueffek,Saint-Etienne,-,-,82,90,172
-5998,Christophe Herelle,Brest,-,-,76,90,166
-6869,Antonin Bobichon,Angers,-,9,66,90,165
-8023,Mounir Chouiar,Dijon,80,56,-,29,165
-686,Cesc Fàbregas,Monaco,-,-,90,75,165
-8310,Mitchel Bakker,Paris Saint Germain,6,-,64,90,160
-6878,Youcef Atal,Nice,-,-,89,67,156
-83,Kevin Volland,Monaco,-,-,66,90,156
-3314,Franck Honorat,Brest,49,76,-,29,154
-3346,Jonas Martin,Rennes,41,15,90,7,153
-3479,Marcus Coco,Nantes,5,76,-,67,148
-8639,Brandon Soppy,Rennes,49,90,8,-,147
-8155,Ahmad Toure Ngouyamsa Nounchili,Dijon,90,56,-,-,146
-5704,Xeka,Lille,49,90,-,-,139
-728,Lamine Koné,Strasbourg,90,49,-,-,139
-7486,Leonardo Balerdi,Marseille,90,-,49,-,139
-2291,Pape Cheikh,Dijon,90,-,49,-,139
-6251,Wilfried Kanga,Angers,71,67,-,-,138
-7850,Henry Onyekuru,Monaco,49,61,24,4,138
-5621,Frederic Sammaritano,Dijon,19,34,24,61,138
-8697,Jonathan Clauss,Lens,-,-,60,78,138
-7278,Imran Louza,Nantes,90,47,-,-,137
-5587,Josh Maja,Bordeaux,48,67,15,6,136
-5752,Alexis Claude Maurice,Nice,90,-,44,-,134
-8094,Mathis Cherki,Lyon,18,6,19,89,132
-7913,Lamine Fomba,Nimes,31,-,7,90,128
-1054,Bersant Celina,Dijon,-,-,41,86,127
-5769,Habib Diallo,Metz,29,22,74,-,125
-3477,Jimmy Briand,Bordeaux,24,23,15,63,125
-7739,Joris Chotard,Montpellier,90,17,12,5,124
-4403,Mehdi Abeid,Nantes,-,34,-,87,121
-3772,Maxime Lopez,Marseille,-,71,49,-,120
-6907,Colin Dagba,Paris Saint Germain,22,3,90,5,120
-8190,Melvin Bard,Lyon,10,-,19,90,119
-5620,Romain Amalfitano,Dijon,45,72,-,-,117
-3445,Corentin Jean,Lens,24,19,60,12,115
-6012,Luiz Araujo,Lille,5,20,16,73,114
-5731,Mateo Pavlovic,Angers,-,-,24,90,114
-5655,Flavien Tait,Rennes,23,-,82,7,112
-5762,Pierre-Yves Hamel,Lorient,5,32,-,75,112
-7316,Charles Nathan Abi,Saint-Etienne,-,37,74,-,111
-5773,Zaydou Youssef,Saint-Etienne,-,17,29,61,107
-8671,Manuel Perez,Lens,-,90,16,-,106
-8318,Moussa Koné,Nimes,31,44,31,-,106
-2897,Aleksandr Golovin,Monaco,90,15,-,-,105
-1256,Kevin Strootman,Marseille,76,19,9,-,104
-8669,Simon Banza,Lens,24,65,-,13,102
-6862,Florian Miguel,Nimes,8,-,-,90,98
-7734,Cristian Battocchio,Brest,20,-,67,11,98
-6128,Kévin Zohi,Strasbourg,13,23,62,-,98
-7329,Eddy Sylvestre,Nice,1,65,1,30,97
-6861,Anthony Briancon,Nimes,-,-,7,90,97
-5228,Renato Sanches,Lille,85,-,-,11,96
-7736,Brendan Chardonnet,Brest,80,-,14,1,95
-8652,Stéphane Diarra,Lorient,11,16,49,19,95
-3298,Layvin Kurzawa,Paris Saint Germain,90,3,-,-,93
-7160,Nemanja Radonjic,Marseille,66,10,-,17,93
-6947,Samuel Kalu,Bordeaux,13,11,63,6,93
-6762,Yacine Adli,Bordeaux,-,-,27,65,92
-8151,Hianga&#039;a M&#039;Bock,Brest,8,1,41,41,91
-6489,Steven Fortes,Lens,-,-,-,90,90
-6868,Gaetan Paquiez,Nimes,-,-,-,90,90
-7765,Thomas Delaine,Metz,-,-,90,-,90
-3227,Ludovic Baal,Brest,-,90,-,-,90
-7750,Harold Moukoudi,Saint-Etienne,-,-,-,90,90
-8641,Radoslaw Majecki,Monaco,-,-,90,-,90
-6880,Edouard Mendy,Rennes,90,-,-,-,90
-2099,Neymar,Paris Saint Germain,-,90,-,-,90
-2072,Sergio Rico,Paris Saint Germain,-,90,-,-,90
-6239,Junior Sambia,Montpellier,24,22,1,43,90
-7772,Marcin Bulka,Paris Saint Germain,90,-,-,-,90
-6881,Thomas Fontaine,Lorient,-,-,-,90,90
-7749,Rayan Philippe,Dijon,10,9,66,4,89
-1784,Jérémy Pied,Lille,-,2,84,-,86
-8696,Pape Alassane Gueye,Marseille,7,61,-,18,86
-6018,Samuel Moutoussamy,Nantes,85,-,-,-,85
-8632,Enzo Ebosse,Angers,20,-,-,64,84
-3334,Lassana Coulibaly,Angers,1,1,17,64,83
-4804,Abdou Diallo,Paris Saint Germain,16,-,66,-,82
-5677,Florent Mollet,Montpellier,42,-,24,15,81
-3423,Kylian Mbappe-Lottin,Paris Saint Germain,-,-,-,81,81
-7743,Pereira Lage,Angers,80,-,-,-,80
-5708,Fernando Marçal,Lyon,80,-,-,-,80
-3576,Maxime Poundje,Bordeaux,77,1,1,-,79
-1932,Sanjin Prcic,Strasbourg,65,-,-,12,77
-8208,Mihai-Alexandru Dobre,Dijon,10,18,49,-,77
-7064,Farid El Melali,Angers,10,67,-,-,77
-1064,Sylvain Marveaux,Lorient,5,4,67,-,76
-3795,Adrien Hunou,Rennes,-,68,8,-,76
-8037,Marley Aké,Marseille,24,-,41,11,76
-8702,Tinotenda Kadewere,Lyon,-,16,58,1,75
-8056,Arnaud Kalimuendo Muinga,Paris Saint Germain,74,-,-,-,74
-5733,Houssem Aouar,Lyon,-,30,43,-,73
-3393,Bouna Sarr,Marseille,-,-,41,29,70
-6232,Kalifa Coulibaly,Nantes,69,-,-,-,69
-6007,Nicolas Cozza,Montpellier,-,-,-,69,69
-8698,Kays Ruiz-Atil,Paris Saint Germain,68,-,-,-,68
-3674,Abdoulaye Touré,Nantes,-,-,65,3,68
-7852,Sidy Sarr,Nimes,5,1,-,61,67
-1126,M&#039;Baye Niang,Rennes,67,-,-,-,67
-7432,Reinildo,Lille,42,-,-,24,66
-5736,Myziane Maolida,Nice,-,-,63,-,63
-3721,Romain Del Castillo,Rennes,23,1,8,29,61
-1506,Yuto Nagatomo,Marseille,-,-,-,61,61
-7687,Jean Lucas,Lyon,-,-,32,26,58
-8662,Dan Ndoye,Nice,17,1,10,30,58
-5978,Dmitri Lienard,Strasbourg,-,4,22,32,58
-7774,Haris Duljevic,Nimes,-,10,-,48,58
-6332,Willem Geubbels,Monaco,6,12,24,15,57
-4501,Thierry Ambrose,Metz,18,-,7,28,53
-6734,Ambroise Oyongo,Montpellier,25,6,-,21,52
-5979,Idriss Saadi,Strasbourg,6,24,9,13,52
-8640,Adrien Truffert,Rennes,-,-,-,50,50
-3309,Valère Germain,Marseille,6,10,16,18,50
-6865,Umut Bozok,Lorient,-,32,13,5,50
-3512,Nolan Roux,Nimes,-,-,7,42,49
-8248,Maxence Rivera,Saint-Etienne,19,17,-,11,47
-8372,Lucas Gourna Douath,Saint-Etienne,-,2,16,29,47
-7998,Ngonda Muzinga,Dijon,45,-,-,-,45
-8668,Tony Mauricio,Lens,17,7,16,1,41
-8312,Kaj Sierhuis,Reims,27,13,-,1,41
-8278,Papa Ndiaga Yade,Metz,18,1,-,19,38
-6860,Sofiane Alakouch,Nimes,-,-,34,-,34
-7511,Sacha Boey,Rennes,34,-,-,-,34
-7484,Stephy Mavididi,Montpellier,-,5,24,4,33
-3513,Kévin Monnet-Paquet,Saint-Etienne,18,2,-,12,32
-8703,Sinaly Diomande,Lyon,-,-,-,32,32
-8661,Robson Bambu,Nice,32,-,-,-,32
-4811,Jean Eudes Aholou,Monaco,1,29,-,-,30
-6011,Thiago Mendes,Lyon,-,30,-,-,30
-8249,Renaud Emond,Nantes,-,14,13,3,30
-3962,Anastasios Donis,Reims,-,29,-,-,29
-5744,Matteo Ahlinvi,Nimes,-,-,-,29,29
-6601,Timothy Weah,Lille,-,10,6,11,27
-8658,Heriberto Tavares,Brest,20,7,-,-,27
-3265,Pablo,Bordeaux,-,-,-,27,27
-6674,Rayan Ait Nouri,Angers,-,-,-,26,26
-8283,Batista Mendy,Nantes,-,-,25,-,25
-5623,Lois Diony,Angers,-,-,9,15,24
-1144,Seko Fofana,Lens,-,-,-,24,24
-8663,Flavius Daniliuc,Nice,-,-,-,23,23
-8685,Mohamed Ali-Cho,Angers,-,8,-,15,23
-8654,Franklin Wadja,Lorient,18,-,-,5,23
-8218,Bridge Ndilu,Nantes,21,-,1,-,22
-1056,Jeff Reine-Adelaide,Lyon,22,-,-,-,22
-5963,Thomas Monconduit,Lorient,-,-,-,20,20
-8166,Mehdi Zerkane,Bordeaux,19,-,-,-,19
-3344,Casimir Ninga,Angers,19,-,-,-,19
-732,Yann M&#039;Vila,Saint-Etienne,19,-,-,-,19
-8648,Fraser Hornby,Reims,-,13,5,-,18
-5973,Kenny Tete,Lyon,18,-,-,-,18
-2242,Rubén Pardo,Bordeaux,-,11,-,6,17
-2256,Jesé,Paris Saint Germain,16,-,-,-,16
-1248,Leandro Paredes,Paris Saint Germain,-,16,-,-,16
-8186,Nelson Sissoko,Saint-Etienne,-,-,16,-,16
-8006,Evann Guessand,Nice,1,-,-,15,16
-1524,Stevan Jovetic,Monaco,-,12,1,1,14
-6073,Guillermo Maripán,Monaco,-,13,-,1,14
-8699,Bandiougou Fadiga,Paris Saint Germain,-,-,5,9,14
-3652,Enock Kwateng,Bordeaux,13,-,-,-,13
-7756,Yusuf Yazici,Lille,1,10,2,-,13
-8755,Wilitty Younoussa,Dijon,-,-,7,5,12
-6000,Tristan Dingome,Reims,-,-,11,-,11
-8688,Warren Tchimbembé,Metz,-,1,-,9,10
-8686,Cheick Tidiane Sabaly,Metz,9,-,-,-,9
-8316,Roger Assalé,Dijon,-,-,9,-,9
-8371,Alexis Trouillet,Nice,-,9,-,-,9
-4932,Pietro Pellegri,Monaco,-,-,8,-,8
-8851,Abdoulaye Sidibé,Saint-Etienne,-,-,-,8,8
-8690,Jean-Phillipe Krasso,Saint-Etienne,8,-,-,-,8
-6745,Christopher Rocchia,Marseille,-,-,8,-,8
-5761,Youssef Maziz,Metz,-,-,7,-,7
-5663,Keagan Dolly,Montpellier,1,5,-,-,6
-6615,Trevoh Chalobah,Lorient,-,-,5,-,5
-6874,Yann Gboho,Rennes,-,1,1,-,2
-8749,Lamine Gueye,Metz,-,1,-,-,1
-2713,Petar Skuletic,Montpellier,1,-,-,-,1
-5742,Hugo Magnetti,Brest,-,1,-,-,1
-5650,Patrick Burner,Nice,1,-,-,-,1
-8679,Samy Benchama,Montpellier,1,-,-,-,1
-1326,Assane Diousse,Saint-Etienne,1,-,-,-,1
-7157,Lucas Buades,Nimes,-,-,-,1,1
-7730,Jean-Charles Castelletto,Nantes,-,1,-,-,1
+id,name,team,1,2,3,4,5,total
+3749,Jonathan Bamba,Lille,90,90,90,90,90,450
+3338,Daniel Congré,Montpellier,90,90,90,90,90,450
+5732,Abdoulaye Bamba,Angers,90,90,90,90,90,450
+3251,Paul Bernardoni,Angers,90,90,90,90,90,450
+6019,Angelo Fulgini,Angers,90,90,90,90,90,450
+3487,Ismael Traoré,Angers,90,90,90,90,90,450
+8678,Jonas Omlin,Montpellier,90,90,90,90,90,450
+93,Marcelo,Lyon,90,90,90,90,90,450
+3269,Anthony Lopes,Lyon,90,90,90,90,90,450
+3221,Pedro Mendes,Montpellier,90,90,90,90,90,450
+3271,Jérémy Morel,Lorient,90,90,90,90,90,450
+7551,Mohamed Simakan,Strasbourg,90,90,90,90,90,450
+3430,Paul Nardi,Lorient,90,90,90,90,90,450
+1670,Steve Mandanda,Marseille,90,90,90,90,90,450
+3464,Vincent Le Goff,Lorient,90,90,90,90,90,450
+7773,Zinedine Ferhat,Nimes,90,90,90,90,90,450
+7728,Gautier Larsonneur,Brest,90,90,90,90,90,450
+5686,Digbo Maiga,Metz,90,90,90,90,90,450
+3542,Damien Da Silva,Rennes,90,90,90,90,90,450
+2413,Steven N'Zonzi,Rennes,90,90,90,90,90,450
+6060,Otávio,Bordeaux,90,90,90,90,90,450
+3218,Benoit Costil,Bordeaux,90,90,90,90,90,450
+4765,Loïck Landre,Nimes,90,90,90,90,90,450
+494,Laurent Koscielny,Bordeaux,90,90,90,90,90,450
+6006,Ruben Aguilar,Monaco,90,90,90,90,90,450
+5652,Walter Benítez,Nice,90,90,90,90,90,450
+5619,Pierre Lees-Melou,Nice,90,90,90,90,90,450
+3729,Hassane Kamara,Nice,90,90,90,90,90,450
+6864,Renaud Ripart,Nimes,90,90,90,90,90,450
+551,Morgan Schneiderlin,Nice,90,90,90,90,90,450
+148,Dante,Nice,90,90,90,90,90,450
+6452,Mahdi Camara,Saint-Etienne,90,90,90,90,90,450
+8314,Yvann Maçon,Saint-Etienne,90,90,90,90,90,450
+2063,Timothée Kolodziejczak,Saint-Etienne,90,90,90,90,90,450
+3518,Jessy Moulin,Saint-Etienne,90,90,90,90,90,450
+3670,Nicolas Pallois,Nantes,90,90,90,90,90,450
+3201,Alban Lafont,Nantes,90,90,90,90,90,450
+1022,Pedro Chirivella,Nantes,90,90,90,90,90,450
+5614,Baptiste Reynet,Nimes,90,90,90,90,90,450
+7169,Moses Simon,Nantes,90,90,90,90,90,450
+6112,Andrei Girotto,Nantes,90,90,90,90,90,450
+6935,Naif Aguerd,Rennes,90,90,90,90,90,450
+7240,Benoit Badiashile Mukinayi,Monaco,90,90,90,90,90,450
+834,José Fonte,Lille,90,90,90,90,90,450
+8635,Sven Botman,Lille,90,90,90,90,90,450
+4883,Bruno Ecuele Manga,Dijon,90,90,90,90,90,450
+1455,Alfred Gomis,Dijon,90,90,90,90,90,450
+8244,Dylan Bronn,Metz,90,90,90,90,90,450
+1720,Didier Ndong,Dijon,90,90,90,90,90,450
+3318,Jean-Louis Leca,Lens,90,90,90,90,90,450
+7767,John Boye,Metz,90,90,90,90,90,450
+8664,Facundo Medina,Lens,90,90,90,90,90,450
+8049,Jean-Kevin Duverne,Brest,90,90,90,90,90,450
+6905,Ludovic Ajorque,Strasbourg,90,90,90,90,90,450
+3737,Mike Maignan,Lille,90,90,90,90,90,450
+7763,Fabien Centonze,Metz,90,90,90,90,90,450
+5984,Alexandre Oukidja,Metz,90,90,90,90,90,450
+3746,Gaetan Laborde,Montpellier,90,90,89,90,90,449
+3223,Benjamin André,Lille,90,90,88,90,90,448
+6736,Ibrahima Diallo,Brest,90,89,90,90,88,447
+7007,Duje Caleta-Car,Marseille,90,90,90,90,85,445
+4904,Adrián Cubas,Nimes,85,90,90,90,90,445
+5789,Boubacar Kamara,Marseille,90,90,90,90,85,445
+8649,Houboulang Mendes,Lorient,90,90,85,90,90,445
+3399,Youssouf Sabaly,Bordeaux,90,90,90,90,83,443
+92,Hiroki Sakai,Marseille,90,90,82,90,90,442
+3118,Damien Le Tallec,Montpellier,90,90,90,75,90,435
+5786,Yoane Wissa,Lorient,90,74,90,90,90,434
+1039,Jason Denayer,Lyon,90,90,71,90,90,431
+6885,Axel Disasi,Monaco,90,90,90,90,69,429
+5975,Kenny Lala,Strasbourg,65,90,90,90,90,425
+7562,Eric Junior Dina Ebimbe,Dijon,90,90,90,66,84,420
+8666,Cheick Oumar Doucoure,Lens,90,83,90,66,90,419
+6904,Ibrahima Sissoko,Strasbourg,77,90,82,90,79,418
+6501,Andy Pelmard,Nice,58,90,90,90,90,418
+6863,Téji Savanier,Montpellier,90,68,78,90,90,416
+942,Florian Thauvin,Marseille,90,80,90,72,84,416
+5947,Mihailo Ristic,Montpellier,65,84,90,90,84,413
+3781,Denis Bouanga,Saint-Etienne,71,88,90,79,83,411
+3210,Wissam Ben Yedder,Monaco,90,78,82,86,74,410
+7206,Jonathan Gradit,Lens,90,90,90,90,49,409
+6560,Aurelien Tchouameni,Monaco,90,77,90,90,57,404
+3412,Léo Dubois,Lyon,72,90,90,58,90,400
+2549,Gaël Kakuta,Lens,73,71,74,90,84,392
+5988,Ibrahima Niane,Metz,72,68,83,90,76,389
+8327,Bruno Guimarães,Lyon,90,60,58,90,90,388
+6401,Amine Gouiri,Nice,90,90,27,90,90,387
+3244,Nicolas de Preville,Bordeaux,66,79,75,84,83,387
+4882,Laurent Abergel,Lorient,79,90,41,85,90,385
+6902,Toma Basic,Bordeaux,90,90,90,25,90,385
+3509,Fabien Lemoine,Lorient,72,86,77,70,79,384
+6420,Romain Faivre,Brest,90,83,76,61,73,383
+3278,Maxwel Cornet,Lyon,80,90,78,48,85,381
+7755,Domagoj Bradaric,Lille,41,90,90,66,90,377
+3243,Gaëtan Charbonnier,Brest,41,90,90,79,72,372
+7980,Adil Aouchiche,Saint-Etienne,90,88,49,78,63,368
+3521,Dennis Appiah,Nantes,6,90,90,90,90,366
+6872,Mehmet Zeki Çelik,Lille,90,88,6,90,90,364
+8636,Jonathan Christian David,Lille,67,70,84,79,64,364
+3325,Yannick Cahuzac,Lens,90,19,74,90,90,363
+8637,Burak Yilmaz,Lille,23,80,90,79,90,362
+7745,Loris Benito,Bordeaux,-,90,90,90,90,360
+8650,Julien Laporte,Lorient,90,90,90,-,90,360
+8665,Loic Bade,Lens,90,90,90,-,90,360
+5692,Fouad Chafik,Dijon,-,90,90,90,90,360
+6500,Romain Perraud,Brest,-,90,90,90,90,360
+5766,Romain Salin,Rennes,-,90,90,90,90,360
+2430,Álvaro González,Marseille,-,90,90,90,90,360
+7718,Predrag Rajkovic,Reims,90,90,90,90,-,360
+5745,Matthieu Udol,Metz,90,90,-,90,90,360
+6882,Ghislain Konan,Reims,90,90,90,90,-,360
+4242,Stefan Mitrovic,Strasbourg,90,-,90,90,90,360
+3451,Benjamin Lecomte,Monaco,90,90,-,90,90,360
+1752,Fabio,Nantes,90,87,-,90,90,357
+3275,Jordan Ferri,Montpellier,66,73,66,85,66,356
+3490,Thomas Mangani,Angers,79,81,73,75,47,355
+7359,Eduardo Camavinga,Rennes,23,90,67,83,90,353
+8025,Kasper Dolberg,Nice,90,90,90,-,83,353
+8656,Birger Meling,Nimes,82,90,90,-,90,352
+6883,Xavier Chavalerin,Reims,90,90,79,90,-,349
+3507,Vincent Pajot,Metz,90,90,87,81,-,348
+3322,Alexander Djiku,Strasbourg,25,90,90,78,63,346
+7142,Moussa Dembele,Lyon,90,60,12,90,90,342
+8689,Yvan Neyou,Saint-Etienne,71,73,74,82,42,342
+5757,Farid Boulaya,Metz,81,-,83,90,87,341
+3475,Ludovic Blas,Nantes,1,76,90,87,87,341
+3696,Morgan Sanson,Marseille,83,-,74,90,90,337
+5676,Opa Nguette,Metz,72,90,16,71,86,335
+7746,Hwang Ui-Jo,Bordeaux,77,79,75,84,20,335
+4773,Benjamin Bourigeaud,Rennes,67,75,23,83,86,334
+7328,Maxence Caqueret,Lyon,90,90,90,64,-,334
+3673,Valentin Rongier,Marseille,14,90,81,72,77,334
+536,Dimitri Payet,Marseille,-,80,90,73,90,333
+8653,Adrian Grbic,Lorient,85,58,90,85,14,332
+3348,Florian Sotoca,Lens,66,25,90,77,74,332
+3305,Paul Baysse,Bordeaux,90,90,90,61,-,331
+6846,Sofiane Diop,Monaco,41,75,90,90,34,330
+5611,Martin Terrier,Rennes,90,76,-,90,72,328
+3530,Andy Delort,Montpellier,-,85,66,86,90,327
+3561,Romain Hamouma,Saint-Etienne,72,73,61,30,90,326
+8026,Raphinha,Rennes,67,90,90,61,18,326
+5743,Randal Kolo Muani,Nantes,-,56,90,90,90,326
+6884,Remi Oudin,Bordeaux,42,90,90,84,19,325
+8660,Jordan Lotomba,Nice,90,90,-,60,83,323
+7732,Haris Belkebla,Brest,70,89,23,49,89,320
+5647,Arnaud Souquet,Montpellier,90,85,90,47,-,312
+7589,Wesley Fofana,Saint-Etienne,90,90,90,-,42,312
+552,Ander Herrera,Paris Saint Germain,90,64,90,68,-,312
+5684,Arnaud Nordin,Saint-Etienne,82,53,41,60,75,311
+5635,Faitout Maouassa,Rennes,90,90,90,40,-,310
+555,Memphis Depay,Lyon,72,74,32,90,41,309
+3549,Adrien Thomasson,Strasbourg,84,66,8,77,73,308
+5105,Victorien Angban,Metz,61,90,3,62,90,306
+6238,Ignatius Ganago,Lens,66,71,30,78,57,302
+7247,Jonathan Panzo,Dijon,-,34,83,90,90,297
+5725,Jordan Marié,Dijon,71,73,49,85,16,294
+8651,Enzo Le Fée,Lorient,90,58,23,71,49,291
+3517,Ronael Pierre Gabriel,Brest,90,90,20,-,90,290
+3495,Pierrick Capelle,Angers,11,23,74,90,90,288
+668,Idrissa Gueye,Paris Saint Germain,90,90,85,22,-,287
+4849,Sada Thioub,Angers,90,82,16,26,72,286
+6945,Youssouf Fofana,Monaco,90,49,-,90,56,285
+7716,Darío Benedetto,Marseille,84,29,-,79,90,282
+5661,Jonathan Ikone,Lille,85,80,74,17,26,282
+6061,Quentin Boisgard,Lorient,85,90,90,15,-,280
+3738,Sehrou Guirassy,Rennes,-,22,82,90,86,280
+6318,Lionel Carole,Strasbourg,90,67,-,31,90,278
+3370,Issiaga Sylla,Lens,7,84,2,90,90,273
+7762,Jean-Ricner Bellegarde,Strasbourg,13,86,68,58,48,273
+5803,Fode Toure,Monaco,90,-,90,-,90,270
+5624,Yunis Abdelhamid,Reims,90,90,-,90,-,270
+7764,Mamadou Fofana,Metz,-,90,90,-,90,270
+7151,Thomas Foket,Reims,90,-,90,90,-,270
+5974,Bingourou Kamara,Strasbourg,-,-,90,90,90,270
+3362,Rony Lopes,Nice,-,25,80,75,90,270
+5654,Baptiste Santamaria,Angers,90,90,90,-,-,270
+3800,Steve Mounie,Brest,-,-,90,90,90,270
+8657,Jeremy Le Douaron,Brest,82,14,49,61,63,269
+3599,Presnel Kimpembe,Paris Saint Germain,74,90,20,85,-,269
+3373,Pablo Martinez,Nimes,90,89,90,-,-,269
+5657,Karl Toko Ekambi,Lyon,68,84,71,42,-,265
+3337,Hilton,Montpellier,-,90,84,-,90,264
+3461,Majeed Waris,Strasbourg,25,41,81,68,48,263
+3239,Hamari Traore,Rennes,-,-,82,90,90,262
+7224,Boulaye Dia,Reims,81,-,90,90,-,261
+3553,Ángel Di María,Paris Saint Germain,-,90,90,81,-,261
+7265,Kephren Thuram,Nice,73,81,46,60,-,260
+7776,Kévin Denkey,Nimes,90,90,59,-,21,260
+8676,Aníbal Chalá,Dijon,-,17,90,90,62,259
+2199,Pablo Sarabia,Paris Saint Germain,90,90,70,9,-,259
+7557,Yassin Benrahou,Nimes,59,46,83,-,70,258
+7729,Julien Faussurier,Brest,90,7,70,90,-,257
+5998,Christophe Herelle,Brest,-,-,76,90,90,256
+3552,Marco Verratti,Paris Saint Germain,90,74,-,90,-,254
+3677,Wesley Lautoa,Dijon,90,90,41,24,7,252
+5980,Stéphane Bahoken,Angers,-,23,81,75,72,251
+8629,Aurelien Scheidler,Dijon,80,81,-,90,-,251
+7358,Souleyman Doumbia,Angers,70,90,90,-,-,250
+8294,El Bilal Touré,Reims,63,77,85,22,-,247
+83,Kevin Volland,Monaco,-,-,66,90,90,246
+3488,Romain Thomas,Angers,90,90,63,-,-,243
+3786,Mathieu Cafaro,Reims,63,61,49,68,-,241
+686,Cesc Fàbregas,Monaco,-,-,90,75,74,239
+8639,Brandon Soppy,Rennes,49,90,8,-,90,237
+8655,Mehdi Chahiri,Strasbourg,77,67,28,22,42,236
+3740,Lucas Deaux,Nimes,59,90,83,-,-,232
+7012,Gelson Martins,Monaco,84,78,66,1,-,229
+7278,Imran Louza,Nantes,90,47,-,-,87,224
+2291,Pape Cheikh,Dijon,90,-,49,-,83,222
+8697,Jonathan Clauss,Lens,-,-,60,78,84,222
+8646,Wout Faes,Reims,90,90,41,-,-,221
+3479,Marcus Coco,Nantes,5,76,-,67,73,221
+7760,Abdoul Kader Bamba,Nantes,90,14,77,23,17,221
+8746,Aïmen Moueffek,Saint-Etienne,-,-,82,90,48,220
+3463,Romain Philippoteaux,Nimes,90,80,49,-,-,219
+8003,Dario Maresic,Reims,-,90,90,38,-,218
+7913,Lamine Fomba,Nimes,31,-,7,90,90,218
+5724,Irvin Cardona,Brest,70,83,14,29,18,214
+6869,Antonin Bobichon,Angers,-,9,66,90,47,212
+7908,Marshall Munetsi,Reims,90,30,41,50,-,211
+8094,Mathis Cherki,Lyon,18,6,19,89,78,210
+5774,Clement Michelin,Lens,90,90,30,-,-,210
+5587,Josh Maja,Bordeaux,48,67,15,6,71,207
+7178,Valon Berisha,Reims,31,60,26,90,-,207
+152,Julian Draxler,Paris Saint Germain,-,26,90,90,-,206
+5731,Mateo Pavlovic,Angers,-,-,24,90,90,204
+7570,Moreto Cassamã,Reims,9,77,64,52,-,202
+6310,Boubakary Soumare,Lille,5,-,90,90,12,197
+414,Juan Bernat,Paris Saint Germain,84,87,26,-,-,197
+8667,Ismael Boura,Lens,83,6,88,12,6,195
+8023,Mounir Chouiar,Dijon,80,56,-,29,28,193
+6012,Luiz Araujo,Lille,5,20,16,73,78,192
+6314,Joachim Andersen,Lyon,10,90,90,-,-,190
+1054,Bersant Celina,Dijon,-,-,41,86,62,189
+5762,Pierre-Yves Hamel,Lorient,5,32,-,75,76,188
+967,Mathieu Debuchy,Saint-Etienne,90,90,8,-,-,188
+6861,Anthony Briancon,Nimes,-,-,7,90,90,187
+8004,Dereck Kutesa,Reims,59,61,41,22,-,183
+3297,Marquinhos,Paris Saint Germain,-,-,90,90,-,180
+2674,Thilo Kehrer,Paris Saint Germain,90,90,-,-,-,180
+2243,Keylor Navas,Paris Saint Germain,-,-,90,90,-,180
+961,Jordan Amavi,Marseille,90,90,-,-,-,180
+7750,Harold Moukoudi,Saint-Etienne,-,-,-,90,90,180
+5678,Eiji Kawashima,Strasbourg,90,90,-,-,-,180
+3357,Djibril Sidibe,Monaco,-,90,-,90,-,180
+6881,Thomas Fontaine,Lorient,-,-,-,90,90,180
+1513,Mauro Icardi,Paris Saint Germain,-,-,90,90,-,180
+6762,Yacine Adli,Bordeaux,-,-,27,65,86,178
+1254,Alessandro Florenzi,Paris Saint Germain,-,87,-,90,-,177
+5228,Renato Sanches,Lille,85,-,-,11,78,174
+3655,Charles Traore,Nantes,84,-,90,-,-,174
+7397,Arbër Zeneli,Reims,27,29,49,68,-,173
+6380,Anthony Caci,Strasbourg,-,23,90,59,-,172
+3314,Franck Honorat,Brest,49,76,-,29,17,171
+5752,Alexis Claude Maurice,Nice,90,-,44,-,31,165
+6947,Samuel Kalu,Bordeaux,13,11,63,6,70,163
+5733,Houssem Aouar,Lyon,-,30,43,-,90,163
+6868,Gaetan Paquiez,Nimes,-,-,-,90,70,160
+8310,Mitchel Bakker,Paris Saint Germain,6,-,64,90,-,160
+3346,Jonas Martin,Rennes,41,15,90,7,4,157
+6878,Youcef Atal,Nice,-,-,89,67,-,156
+6239,Junior Sambia,Montpellier,24,22,1,43,66,156
+5773,Zaydou Youssef,Saint-Etienne,-,17,29,61,48,155
+8155,Ahmad Toure Ngouyamsa Nounchili,Dijon,90,56,-,-,-,146
+5621,Frederic Sammaritano,Dijon,19,34,24,61,6,144
+5704,Xeka,Lille,49,90,-,-,1,140
+7486,Leonardo Balerdi,Marseille,90,-,49,-,-,139
+5769,Habib Diallo,Metz,29,22,74,-,14,139
+728,Lamine Koné,Strasbourg,90,49,-,-,-,139
+7850,Henry Onyekuru,Monaco,49,61,24,4,-,138
+1506,Yuto Nagatomo,Marseille,-,-,-,61,77,138
+6251,Wilfried Kanga,Angers,71,67,-,-,-,138
+7687,Jean Lucas,Lyon,-,-,32,26,78,136
+8669,Simon Banza,Lens,24,65,-,13,33,135
+3721,Romain Del Castillo,Rennes,23,1,8,29,72,133
+3477,Jimmy Briand,Bordeaux,24,23,15,63,7,132
+6489,Steven Fortes,Lens,-,-,-,90,41,131
+3445,Corentin Jean,Lens,24,19,60,12,16,131
+5655,Flavien Tait,Rennes,23,-,82,7,18,130
+3334,Lassana Coulibaly,Angers,1,1,17,64,43,126
+3772,Maxime Lopez,Marseille,-,71,49,-,5,125
+8190,Melvin Bard,Lyon,10,-,19,90,5,124
+7739,Joris Chotard,Montpellier,90,17,12,5,-,124
+4403,Mehdi Abeid,Nantes,-,34,-,87,3,124
+6907,Colin Dagba,Paris Saint Germain,22,3,90,5,-,120
+3512,Nolan Roux,Nimes,-,-,7,42,69,118
+3463,Romain Philippoteaux,Brest,90,-,-,-,27,117
+8662,Dan Ndoye,Nice,17,1,10,30,59,117
+3265,Pablo,Bordeaux,-,-,-,27,90,117
+5620,Romain Amalfitano,Dijon,45,72,-,-,-,117
+8671,Manuel Perez,Lens,-,90,16,-,6,112
+7316,Charles Nathan Abi,Saint-Etienne,-,37,74,-,-,111
+6128,Kévin Zohi,Strasbourg,13,23,62,-,11,109
+6674,Rayan Ait Nouri,Angers,-,-,-,26,80,106
+8318,Moussa Koné,Nimes,31,44,31,-,-,106
+5677,Florent Mollet,Montpellier,42,-,24,15,24,105
+2897,Aleksandr Golovin,Monaco,90,15,-,-,-,105
+1932,Sanjin Prcic,Strasbourg,65,-,-,12,27,104
+1256,Kevin Strootman,Marseille,76,19,9,-,-,104
+7734,Cristian Battocchio,Brest,20,-,67,11,2,100
+5978,Dmitri Lienard,Strasbourg,-,4,22,32,42,100
+8316,Roger Assalé,Dijon,-,-,9,-,90,99
+7160,Nemanja Radonjic,Marseille,66,10,-,17,6,99
+6862,Florian Miguel,Nimes,8,-,-,90,1,99
+7329,Eddy Sylvestre,Nice,1,65,1,30,-,97
+8652,Stéphane Diarra,Lorient,11,16,49,19,-,95
+7736,Brendan Chardonnet,Brest,80,-,14,1,-,95
+8632,Enzo Ebosse,Angers,20,-,-,64,10,94
+3298,Layvin Kurzawa,Paris Saint Germain,90,3,-,-,-,93
+8696,Pape Alassane Gueye,Marseille,7,61,-,18,5,91
+8151,Hianga'a M'Bock,Brest,8,1,41,41,-,91
+7772,Marcin Bulka,Paris Saint Germain,90,-,-,-,-,90
+8641,Radoslaw Majecki,Monaco,-,-,90,-,-,90
+7765,Thomas Delaine,Metz,-,-,90,-,-,90
+6880,Edouard Mendy,Rennes,90,-,-,-,-,90
+3227,Ludovic Baal,Brest,-,90,-,-,-,90
+2072,Sergio Rico,Paris Saint Germain,-,90,-,-,-,90
+2099,Neymar,Paris Saint Germain,-,90,-,-,-,90
+7749,Rayan Philippe,Dijon,10,9,66,4,-,89
+8702,Tinotenda Kadewere,Lyon,-,16,58,1,12,87
+1784,Jérémy Pied,Lille,-,2,84,-,-,86
+6018,Samuel Moutoussamy,Nantes,85,-,-,-,-,85
+4804,Abdou Diallo,Paris Saint Germain,16,-,66,-,-,82
+3423,Kylian Mbappe-Lottin,Paris Saint Germain,-,-,-,81,-,81
+8703,Sinaly Diomande,Lyon,-,-,-,32,49,81
+7743,Pereira Lage,Angers,80,-,-,-,-,80
+3795,Adrien Hunou,Rennes,-,68,8,-,4,80
+5708,Fernando Marçal,Lyon,80,-,-,-,-,80
+3576,Maxime Poundje,Bordeaux,77,1,1,-,-,79
+8208,Mihai-Alexandru Dobre,Dijon,10,18,49,-,-,77
+7064,Farid El Melali,Angers,10,67,-,-,-,77
+1524,Stevan Jovetic,Monaco,-,12,1,1,63,77
+8037,Marley Aké,Marseille,24,-,41,11,-,76
+1064,Sylvain Marveaux,Lorient,5,4,67,-,-,76
+8056,Arnaud Kalimuendo Muinga,Paris Saint Germain,74,-,-,-,-,74
+7747,Mama Baldé,Dijon,-,-,-,-,74,74
+7998,Ngonda Muzinga,Dijon,45,-,-,-,28,73
+3393,Bouna Sarr,Marseille,-,-,41,29,-,70
+6007,Nicolas Cozza,Montpellier,-,-,-,69,-,69
+5979,Idriss Saadi,Strasbourg,6,24,9,13,17,69
+6232,Kalifa Coulibaly,Nantes,69,-,-,-,-,69
+3674,Abdoulaye Touré,Nantes,-,-,65,3,-,68
+8698,Kays Ruiz-Atil,Paris Saint Germain,68,-,-,-,-,68
+1126,M'Baye Niang,Rennes,67,-,-,-,-,67
+7852,Sidy Sarr,Nimes,5,1,-,61,-,67
+7432,Reinildo,Lille,42,-,-,24,-,66
+8685,Mohamed Ali-Cho,Angers,-,8,-,15,43,66
+5736,Myziane Maolida,Nice,-,-,63,-,1,64
+3309,Valère Germain,Marseille,6,10,16,18,13,63
+8248,Maxence Rivera,Saint-Etienne,19,17,-,11,15,62
+5963,Thomas Monconduit,Lorient,-,-,-,20,41,61
+7774,Haris Duljevic,Nimes,-,10,-,48,-,58
+6734,Ambroise Oyongo,Montpellier,25,6,-,21,6,58
+6332,Willem Geubbels,Monaco,6,12,24,15,-,57
+7484,Stephy Mavididi,Montpellier,-,5,24,4,24,57
+4501,Thierry Ambrose,Metz,18,-,7,28,-,53
+8640,Adrien Truffert,Rennes,-,-,-,50,-,50
+6865,Umut Bozok,Lorient,-,32,13,5,-,50
+8372,Lucas Gourna Douath,Saint-Etienne,-,2,16,29,-,47
+8278,Papa Ndiaga Yade,Metz,18,1,-,19,4,42
+5623,Lois Diony,Angers,-,-,9,15,18,42
+6011,Thiago Mendes,Lyon,-,30,-,-,12,42
+8312,Kaj Sierhuis,Reims,27,13,-,1,-,41
+8668,Tony Mauricio,Lens,17,7,16,1,-,41
+8690,Jean-Phillipe Krasso,Saint-Etienne,8,-,-,-,27,35
+6860,Sofiane Alakouch,Nimes,-,-,34,-,-,34
+7511,Sacha Boey,Rennes,34,-,-,-,-,34
+8249,Renaud Emond,Nantes,-,14,13,3,3,33
+3513,Kévin Monnet-Paquet,Saint-Etienne,18,2,-,12,-,32
+8661,Robson Bambu,Nice,32,-,-,-,-,32
+4811,Jean Eudes Aholou,Monaco,1,29,-,-,-,30
+8663,Flavius Daniliuc,Nice,-,-,-,23,7,30
+3962,Anastasios Donis,Reims,-,29,-,-,-,29
+5744,Matteo Ahlinvi,Nimes,-,-,-,29,-,29
+8658,Heriberto Tavares,Brest,20,7,-,-,-,27
+8644,Eliot Matazo,Monaco,-,-,-,-,27,27
+6601,Timothy Weah,Lille,-,10,6,11,-,27
+8283,Batista Mendy,Nantes,-,-,25,-,-,25
+8654,Franklin Wadja,Lorient,18,-,-,5,1,24
+1144,Seko Fofana,Lens,-,-,-,24,-,24
+8006,Evann Guessand,Nice,1,-,-,15,7,23
+1056,Jeff Reine-Adelaide,Lyon,22,-,-,-,-,22
+8218,Bridge Ndilu,Nantes,21,-,1,-,-,22
+5650,Patrick Burner,Nimes,-,-,-,-,20,20
+3652,Enock Kwateng,Bordeaux,13,-,-,-,7,20
+8783,Marco Ludivin Majouga,Nimes,-,-,-,-,20,20
+732,Yann M'Vila,Saint-Etienne,19,-,-,-,-,19
+8166,Mehdi Zerkane,Bordeaux,19,-,-,-,-,19
+3344,Casimir Ninga,Angers,19,-,-,-,-,19
+8648,Fraser Hornby,Reims,-,13,5,-,-,18
+3456,Jimmy Cabot,Angers,-,-,-,-,18,18
+5973,Kenny Tete,Lyon,18,-,-,-,-,18
+2242,Rubén Pardo,Bordeaux,-,11,-,6,-,17
+1248,Leandro Paredes,Paris Saint Germain,-,16,-,-,-,16
+7282,Giulian Biancone,Monaco,-,-,-,-,16,16
+2256,Jesé,Paris Saint Germain,16,-,-,-,-,16
+8643,Chrislain Matsima,Monaco,-,-,-,-,16,16
+8186,Nelson Sissoko,Saint-Etienne,-,-,16,-,-,16
+6073,Guillermo Maripán,Monaco,-,13,-,1,-,14
+7756,Yusuf Yazici,Lille,1,10,2,-,1,14
+8699,Bandiougou Fadiga,Paris Saint Germain,-,-,5,9,-,14
+8688,Warren Tchimbembé,Metz,-,1,-,9,3,13
+5737,Saif-Eddine Khaoui,Marseille,-,-,-,-,13,13
+7717,Isaac Lihadji,Lille,-,-,-,-,12,12
+8755,Wilitty Younoussa,Dijon,-,-,7,5,-,12
+6000,Tristan Dingome,Reims,-,-,11,-,-,11
+3668,Jonathan Delaplace,Lorient,-,-,-,-,11,11
+8371,Alexis Trouillet,Nice,-,9,-,-,-,9
+8686,Cheick Tidiane Sabaly,Metz,9,-,-,-,-,9
+4932,Pietro Pellegri,Monaco,-,-,8,-,-,8
+8851,Abdoulaye Sidibé,Saint-Etienne,-,-,-,8,-,8
+6745,Christopher Rocchia,Marseille,-,-,8,-,-,8
+8879,Tyrone Tormin,Saint-Etienne,-,-,-,-,7,7
+5761,Youssef Maziz,Metz,-,-,7,-,-,7
+5663,Keagan Dolly,Montpellier,1,5,-,-,-,6
+6615,Trevoh Chalobah,Lorient,-,-,5,-,-,5
+8920,Dilane Bakwa,Bordeaux,-,-,-,-,4,4
+6874,Yann Gboho,Rennes,-,1,1,-,-,2
+8749,Lamine Gueye,Metz,-,1,-,-,-,1
+8687,Kiki Kouyate,Metz,-,-,-,-,1,1
+1326,Assane Diousse,Saint-Etienne,1,-,-,-,-,1
+6937,Georginio Rutter,Rennes,-,-,-,-,1,1
+5742,Hugo Magnetti,Brest,-,1,-,-,-,1
+3741,Paul Lasne,Brest,-,-,-,-,1,1
+2713,Petar Skuletic,Montpellier,1,-,-,-,-,1
+7730,Jean-Charles Castelletto,Nantes,-,1,-,-,-,1
+5650,Patrick Burner,Nice,1,-,-,-,-,1
+7157,Lucas Buades,Nimes,-,-,-,1,-,1
+8679,Samy Benchama,Montpellier,1,-,-,-,-,1

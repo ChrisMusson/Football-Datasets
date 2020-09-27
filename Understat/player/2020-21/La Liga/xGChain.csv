@@ -1,278 +1,335 @@
-id,name,team,1,2,total
-4226,Darwin Machís,Granada,0.0367,2.1544,2.1911
-2120,Gerard Moreno,Villarreal,0.5098,1.5117,2.0215
-2378,Daniel Parejo,Villarreal,0.6799,1.0555,1.7354
-1732,Nolito,Celta Vigo,0.0599,1.3883,1.4482
-1588,Raúl Albiol,Villarreal,0.1879,1.2174,1.4053
-2290,Iago Aspas,Celta Vigo,0.0599,1.2579,1.3178
-2380,Paco Alcácer,Villarreal,0.4051,0.9027,1.3078
-8736,Jorge Pombo,Cadiz,0.2974,0.9071,1.2045
-7864,Carlos Neva,Granada,0.4045,0.7976,1.2021
-6217,Enis Bardhi,Levante,1.1085,-,1.1085
-2198,Moi Gómez,Villarreal,0.1482,0.9028,1.051
-2296,Mario,Villarreal,0.0,1.0486,1.0486
-8710,Renato Tapia,Celta Vigo,0.0,1.0372,1.0372
-2186,Morales,Levante,1.0272,-,1.0272
-7834,Manu Vallejo,Valencia,0.9936,0.0,0.9936
-5074,Kike García,Eibar,0.179,0.6984,0.8774
-2368,Montoro,Granada,0.4045,0.4709,0.8754
-7208,Samuel Chukwueze,Villarreal,0.2798,0.549,0.8288
-6953,Gonzalo Melero,Levante,0.8043,-,0.8043
-452,Takashi Inui,Eibar,0.0,0.7814,0.7814
-2281,Hugo Mallo,Celta Vigo,0.0639,0.7133,0.7772
-7514,Lucas Olaza,Celta Vigo,0.3376,0.4393,0.7769
-2285,Fabián Orellana,Real Valladolid,0.5928,0.1607,0.7535
-5081,Edu Expósito,Eibar,0.0737,0.6752,0.7489
-5212,Sergi Guardiola,Real Valladolid,0.6737,0.0667,0.7404
-2161,Nacho,Real Valladolid,0.7058,0.0264,0.7322
-6949,Jorge Miramón,Levante,0.7233,-,0.7233
-2435,Óscar Duarte,Levante,0.7211,-,0.7211
-2521,Alfonso,Villarreal,0.2415,0.4697,0.7112
-6124,Maxi Gómez,Valencia,0.6009,0.0963,0.6972
-4208,Míchel,Real Valladolid,0.6374,0.0151,0.6525
-7871,Borja Sainz,Alaves,-,0.6317,0.6317
-3667,Nabil Fekir,Real Betis,0.2242,0.4067,0.6309
-1715,Álvaro Negredo,Cadiz,0.0958,0.5155,0.6113
-497,Francis Coquelin,Villarreal,0.0257,0.575,0.6007
-7308,Ander Barrenetxea,Real Sociedad,0.1162,0.482,0.5982
-2444,Bruno,Real Valladolid,0.5797,0.0113,0.591
-7826,Joseph Aidoo,Celta Vigo,0.2777,0.3081,0.5858
-2571,Sergio Canales,Real Betis,0.1065,0.4769,0.5834
-3274,Maxime Gonalons,Granada,0.0,0.576,0.576
-2509,Dimitri Foulquier,Granada,0.0,0.576,0.576
-7863,Antonio Puertas,Granada,0.0,0.576,0.576
-2110,Rubén Duarte,Alaves,0.0,0.5713,0.5713
-5044,Víctor Laguardia,Alaves,0.0,0.5713,0.5713
-2088,Edgar Méndez,Alaves,0.0,0.5713,0.5713
-6227,Brais Méndez,Celta Vigo,0.2777,0.2885,0.5662
-8001,Takefusa Kubo,Villarreal,0.3263,0.2378,0.5641
-2065,Vicente Iborra,Villarreal,0.0,0.5634,0.5634
-7009,Jaime Mata,Getafe,0.5622,-,0.5622
-6932,Okay Yokuslu,Celta Vigo,0.3376,0.2225,0.5601
-2234,Mikel Oyarzabal,Real Sociedad,0.0,0.5587,0.5587
-4177,Álex Fernández,Cadiz,0.029,0.5179,0.5469
-6221,Pau Torres,Villarreal,0.0397,0.5028,0.5425
-7430,Emerson,Real Betis,0.2242,0.307,0.5312
-689,Kenedy,Granada,0.0,0.5161,0.5161
-2212,Sergio Álvarez,Eibar,0.0,0.4987,0.4987
-6931,Fran Beltrán,Celta Vigo,-,0.4961,0.4961
-6118,Portu,Real Sociedad,0.156,0.3356,0.4916
-2494,Denis Cheryshev,Valencia,0.4871,-,0.4871
-4034,José Campaña,Levante,0.4827,-,0.4827
-2308,Denis Suárez,Celta Vigo,-,0.4798,0.4798
-2284,Daniel Wass,Valencia,0.3102,0.1675,0.4777
-4219,Juan Carlos,SD Huesca,0.3911,0.086,0.4771
-7860,Domingos Duarte,Granada,0.0,0.4709,0.4709
-5234,Jesús Vallejo,Granada,-,0.4709,0.4709
-2305,Adrián,Osasuna,0.3993,0.0539,0.4532
-7350,Yangel Herrera,Granada,0.4413,0.0,0.4413
-2289,Nemanja Radoja,Levante,0.4404,-,0.4404
-1516,Geoffrey Kondogbia,Valencia,0.3635,0.0693,0.4328
-6325,Andoni Gorosabel,Real Sociedad,0.0555,0.3572,0.4127
-7050,Lucas Torró,Osasuna,0.1103,0.2968,0.4071
-2183,Rubén García,Osasuna,0.1103,0.2891,0.3994
-6956,David Ferreiro,SD Huesca,0.3086,0.086,0.3946
-5128,Oier,Osasuna,0.3491,0.0348,0.3839
-493,Gabriel,Valencia,0.3783,0.0,0.3783
-7856,Aridane Hernández,Osasuna,0.3491,0.0157,0.3648
-2311,Roberto Soldado,Granada,0.0367,0.3268,0.3635
-5682,Gonçalo Guedes,Valencia,0.3582,0.0,0.3582
-8267,Guido Rodríguez,Real Betis,0.0151,0.3415,0.3566
-2543,Borja Iglesias,Real Betis,0.0693,0.2869,0.3562
-6926,William Carvalho,Real Betis,0.0631,0.2899,0.353
-5232,Alexander Isak,Real Sociedad,0.1117,0.2346,0.3463
-2370,Karim Benzema,Real Madrid,0.3343,-,0.3343
-8771,Yunus Musah,Valencia,0.3299,0.0,0.3299
-1003,Pablo Maffeo,SD Huesca,0.3057,0.0114,0.3171
-4120,Álex Moreno,Real Betis,0.0844,0.227,0.3114
-7385,Javi Galán,SD Huesca,0.3034,0.0,0.3034
-8735,Salvi Sánchez,Cadiz,0.2278,0.0718,0.2996
-7330,Uros Racic,Valencia,0.294,-,0.294
-6233,Ferland Mendy,Real Madrid,0.2845,-,0.2845
-2075,Andrés Fernández,SD Huesca,0.2842,0.0,0.2842
-4037,Pablo Insúa,SD Huesca,0.2842,-,0.2842
-754,Shinji Okazaki,SD Huesca,0.2797,0.0,0.2797
-2401,Muniain,Athletic Club,0.2797,-,0.2797
-2517,Martin Odegaard,Real Madrid,0.2777,-,0.2777
-6930,Néstor Araújo,Celta Vigo,0.2777,0.0,0.2777
-8727,Jon Morcillo,Athletic Club,0.2759,-,0.2759
-5090,David García,Osasuna,0.0,0.2735,0.2735
-7859,Sergio Herrera,Osasuna,0.0,0.2735,0.2735
-1731,Claudio Bravo,Real Betis,0.158,0.1118,0.2698
-6224,Marko Dmitrovic,Eibar,0.0,0.2657,0.2657
-5159,Marc Cardona,Osasuna,0.0,0.2578,0.2578
-5136,Estupiñán,Villarreal,-,0.2578,0.2578
-2197,Pedro León,Eibar,0.179,0.0777,0.2567
-3237,Aissa Mandi,Real Betis,0.0964,0.1392,0.2356
-2148,Joaquín,Real Betis,0.1116,0.1228,0.2344
-5666,Mouctar Diakhaby,Valencia,0.1095,0.1171,0.2266
-1508,Jeison Murillo,Celta Vigo,-,0.2247,0.2247
-7313,Lee Kang-In,Valencia,0.1976,0.0189,0.2165
-2505,José Gayá,Valencia,0.1465,0.0648,0.2113
-8731,Isaac Carcelén,Cadiz,0.2108,0.0,0.2108
-6076,Nemanja Maksimovic,Getafe,0.207,-,0.207
-2452,De Marcos,Athletic Club,0.2057,-,0.2057
-5162,Nacho Vidal,Osasuna,0.1605,0.039,0.1995
-2396,Balenziaga,Athletic Club,0.1986,-,0.1986
-5304,Mikel Merino,Real Sociedad,0.0853,0.1098,0.1951
-7008,Vinícius Júnior,Real Madrid,0.1936,-,0.1936
-5101,Carlos Clerc,Levante,0.1934,-,0.1934
-7134,Marc Cucurella,Getafe,0.1787,-,0.1787
-2460,Sergio Asenjo,Villarreal,0.1202,0.0498,0.17
-2484,Iñigo Martínez,Athletic Club,0.1673,-,0.1673
-8733,Alfonso Espino,Cadiz,0.1398,0.0249,0.1647
-2589,Rafa Mir,SD Huesca,0.074,0.086,0.16
-2228,Aritz Elustondo,Real Sociedad,0.0255,0.1317,0.1572
-2130,Dani García,Athletic Club,0.1513,-,0.1513
-7306,Aihen Muñoz,Real Sociedad,0.0734,0.0767,0.1501
-5272,Emre Mor,Celta Vigo,0.041,0.1073,0.1483
-2399,Iñaki Williams,Athletic Club,0.1468,-,0.1468
-565,Nyom,Getafe,0.1463,-,0.1463
-3206,Yann Bodiger,Cadiz,0.0958,0.0493,0.1451
-7233,Joaquín Fernández,Real Valladolid,0.1024,0.0393,0.1417
-8271,Fernando Niño,Villarreal,0.14,-,0.14
-2320,Pedro Mosquera,SD Huesca,0.0525,0.086,0.1385
-2400,Raúl García,Athletic Club,0.1357,-,0.1357
-8711,Miguel Baeza,Celta Vigo,0.0,0.1351,0.1351
-4076,Jason,Valencia,-,0.1348,0.1348
-2555,Remiro,Real Sociedad,0.0555,0.0767,0.1322
-2326,Rober,Levante,0.1312,-,0.1312
-2135,Sergi Enrich,Eibar,0.0941,0.0325,0.1266
-6921,Óscar Plano,Real Valladolid,0.0447,0.0818,0.1265
-5075,Rubén Peña,Villarreal,0.1202,-,0.1202
-8470,Kike Pérez,Real Valladolid,0.0,0.1137,0.1137
-2391,José Mari,Cadiz,0.0859,0.0249,0.1108
-2369,Toni Kroos,Real Madrid,0.1088,-,0.1088
-2125,Ander Capa,Athletic Club,0.1074,-,0.1074
-2337,Recio,Eibar,0.0,0.1064,0.1064
-4091,Unai López,Athletic Club,0.1049,-,0.1049
-2250,Luka Modric,Real Madrid,0.1031,-,0.1031
-7857,Jon Moncayola,Osasuna,0.0502,0.0505,0.1007
-2260,Daniel Carvajal,Real Madrid,0.1001,-,0.1001
-6368,Mathías Olivera,Getafe,0.0989,-,0.0989
-866,Joselu,Alaves,0.0,0.0957,0.0957
-5093,Roberto Torres,Osasuna,0.0,0.0921,0.0921
-6126,Ander Guevara,Real Sociedad,-,0.0881,0.0881
-5131,Eugeni,SD Huesca,0.0,0.086,0.086
-2112,Papakouly Diop,Eibar,0.0849,-,0.0849
-5062,Yeray Álvarez,Athletic Club,0.0773,-,0.0773
-2217,Antonio Sanabria,Real Betis,-,0.0772,0.0772
-8149,Vicente Esquerdo,Valencia,0.0759,0.0,0.0759
-4193,Aitor Fernández,Levante,0.0754,-,0.0754
-2406,Mikel Rico,SD Huesca,0.074,-,0.074
-5095,Sergio León,Levante,0.0733,-,0.0733
-2246,Sergio Ramos,Real Madrid,0.0727,-,0.0727
-6241,Federico Valverde,Real Madrid,0.0723,-,0.0723
-8725,Luis Milla,Granada,0.0715,0.0,0.0715
-8390,Rafa Soares,Eibar,0.0,0.0713,0.0713
-8058,Thierry Correia,Valencia,-,0.0712,0.0712
-8707,Damian Kadzior,Eibar,0.0,0.0709,0.0709
-8744,Juan Cruz,Osasuna,0.0502,0.0157,0.0659
-3264,Mauro Arambarri,Getafe,0.0635,-,0.0635
-6427,Aitor Ruibal,Real Betis,0.0616,-,0.0616
-6914,Javi Moyano,Real Valladolid,0.0578,0.0,0.0578
-2119,Rober Correa,Eibar,0.0,0.0575,0.0575
-8713,Gabriel Veiga,Celta Vigo,-,0.0562,0.0562
-2163,Diego Llorente,Real Sociedad,0.0555,-,0.0555
-323,Adnan Januzaj,Real Sociedad,0.0,0.055,0.055
-617,David Silva,Real Sociedad,-,0.055,0.055
-1421,Cristian Tello,Real Betis,0.0,0.054,0.054
-2245,Raphael Varane,Real Madrid,0.0524,-,0.0524
-8863,Marvin Park,Real Madrid,0.051,-,0.051
-2248,Casemiro,Real Madrid,0.051,-,0.051
-8762,Luis Pérez,Real Valladolid,-,0.0506,0.0506
-7525,Waldo Rubio,Real Valladolid,0.0447,0.0,0.0447
-2193,Cala,Cadiz,0.0442,0.0,0.0442
-6226,Iván Alejo,Cadiz,0.0442,0.0,0.0442
-8209,Miguel Ángel Atienza,Eibar,-,0.0434,0.0434
-2417,Igor Zubeldia,Real Sociedad,0.042,-,0.042
-8732,Marcos Mauro,Cadiz,0.0419,0.0,0.0419
-2394,Etxeita,Getafe,0.0416,-,0.0416
-7195,Roberto López,Real Sociedad,0.0407,-,0.0407
-7905,Fede San Emeterio,Real Valladolid,0.0,0.0393,0.0393
-5140,Kike Barja,Osasuna,0.0,0.039,0.039
-2185,Deyverson,Alaves,0.0,0.0352,0.0352
-7870,Luis Rioja,Alaves,0.0,0.0352,0.0352
-8131,Iñigo Pérez,Osasuna,0.0,0.0348,0.0348
-5066,David Timor,Getafe,0.03,-,0.03
-4054,Pablo Hervías,Real Valladolid,0.0,0.0298,0.0298
-8738,Filip Malbasic,Cadiz,0.029,0.0,0.029
-8737,Jens Jonsson,Cadiz,0.029,0.0,0.029
-8734,Sergio González,Cadiz,0.0289,-,0.0289
-2238,Jon Bautista,Real Sociedad,0.0282,0.0,0.0282
-8015,Rodrygo,Real Madrid,0.0279,-,0.0279
-5033,Iván Villar,Celta Vigo,0.0,0.0265,0.0265
-680,Thibaut Courtois,Real Madrid,0.0246,-,0.0246
-6950,Jorge Pulido,SD Huesca,0.0,0.0233,0.0233
-6225,Paulo Oliveira,Eibar,0.0,0.0223,0.0223
-6954,Juan Camilo Hernández,Getafe,0.0218,-,0.0218
-1884,Facundo Roncaglia,Osasuna,-,0.0208,0.0208
-8761,Shon Weissman,Real Valladolid,0.0,0.0196,0.0196
-8107,Jorge De Frutos,Levante,0.0174,-,0.0174
-7155,Nikola Vukcevic,Levante,0.0174,-,0.0174
-2475,Jaume,Valencia,0.0161,0.0,0.0161
-7258,Joaquín Muñoz,SD Huesca,0.0,0.0114,0.0114
-6656,Sergio Gómez,SD Huesca,-,0.0114,0.0114
-5087,Roberto Jiménez,Real Valladolid,-,0.0113,0.0113
-4052,Ximo Navarro,Alaves,-,0.01,0.01
-2353,Pedro Bigas,Eibar,0.0092,0.0,0.0092
-7493,Jaime Seoane,SD Huesca,0.0,-,0.0
-5109,Rui Silva,Granada,0.0,0.0,0.0
-8769,Dani Escriche,SD Huesca,-,0.0,0.0
-8767,Kelechi Nwakali,SD Huesca,0.0,-,0.0
-8306,Sofian Chakla,Villarreal,-,0.0,0.0
-626,Eliaquim Mangala,Valencia,0.0,-,0.0
-6151,Djené Dakonam,Getafe,0.0,-,0.0
-4069,Fede Vico,Granada,0.0,-,0.0
-5047,Rubén Sobrino,Valencia,0.0,0.0,0.0
-5064,Dimitrios Siovas,SD Huesca,-,0.0,0.0
-5077,Mikel Vesga,Athletic Club,0.0,-,0.0
-6219,Enes Ünal,Getafe,0.0,-,0.0
-5642,Erick Cabaco,Getafe,0.0,-,0.0
-2267,Augusto Fernández,Cadiz,-,0.0,0.0
-5173,Asier Villalibre,Athletic Club,0.0,-,0.0
-5117,Víctor Díaz,Granada,0.0,0.0,0.0
-4136,Ángel,Getafe,0.0,-,0.0
-2415,David Soria,Getafe,0.0,-,0.0
-6533,Anthony Lozano,Cadiz,0.0,-,0.0
-8730,David Gil,Cadiz,0.0,-,0.0
-2194,Damián Suárez,Getafe,0.0,-,0.0
-8861,Urko Gonzalez,Real Sociedad,-,0.0,0.0
-7276,Robin Le Normand,Real Sociedad,-,0.0,0.0
-7861,Germán Sánchez,Granada,0.0,0.0,0.0
-4188,Quique González,Eibar,-,0.0,0.0
-5153,Kévin Rodrigues,Eibar,-,0.0,0.0
-8739,Alberto Cifuentes,Cadiz,-,0.0,0.0
-4070,Borja,SD Huesca,-,0.0,0.0
-5185,Unai Simón,Athletic Club,0.0,-,0.0
-5073,Florian Lejeune,Alaves,-,0.0,0.0
-2482,Tomás Pina,Alaves,0.0,-,0.0
-5198,Martín Aguirregabiria,Alaves,0.0,-,0.0
-6117,Pere Pons,Alaves,0.0,0.0,0.0
-5042,Fernando Pacheco,Alaves,0.0,0.0,0.0
-2301,Manu Trigueros,Villarreal,-,0.0,0.0
-8413,Javier López,Alaves,0.0,-,0.0
-8414,Mahmoud Abdallahi,Alaves,-,0.0,0.0
-8750,Rodrigo Battaglia,Alaves,0.0,0.0,0.0
-8751,Sergi García,Alaves,0.0,-,0.0
-7355,Paul Akouokou,Real Betis,-,0.0,0.0
-2105,Jordi Masip,Real Valladolid,0.0,-,0.0
-7354,Diego Lainez,Real Betis,0.0,-,0.0
-2453,Marc Bartra,Real Betis,0.0,0.0,0.0
-897,Juanmi,Real Betis,-,0.0,0.0
-2384,Santi Mina,Celta Vigo,0.0,-,0.0
-2500,Luisinho,SD Huesca,0.0,-,0.0
-8774,Dani Gómez,Levante,0.0,-,0.0
-2287,John Guidetti,Alaves,-,0.0,0.0
-7245,Javi Sánchez,Real Valladolid,-,0.0,0.0
-1672,Jonathan Calleri,Osasuna,-,0.0,0.0
-2155,Jorge Molina,Granada,-,0.0,0.0
-6215,Sergio Postigo,Levante,0.0,-,0.0
-4051,Ramón Azeez,Granada,0.0,-,0.0
-2073,Coke,Levante,0.0,-,0.0
-8862,Sergio Arribas,Real Madrid,0.0,-,0.0
-1700,Lucas Pérez,Alaves,0.0,-,0.0
-1131,Rodrigo Ely,Alaves,0.0,0.0,0.0
-8329,Unai Vencedor,Athletic Club,0.0,-,0.0
-7779,Oihan Sancet,Athletic Club,0.0,-,0.0
-8741,Fali,Cadiz,-,0.0,0.0
+id,name,team,1,2,3,total
+2370,Karim Benzema,Real Madrid,0.3343,2.3136,-,2.6479
+2186,Morales,Levante,1.0272,1.5959,-,2.6231
+6241,Federico Valverde,Real Madrid,0.0723,2.3136,-,2.3859
+2246,Sergio Ramos,Real Madrid,0.0727,2.2044,-,2.2771
+4226,Darwin Machís,Granada,0.0367,2.1544,0.0203,2.2114
+2260,Daniel Carvajal,Real Madrid,0.1001,2.0768,-,2.1769
+6217,Enis Bardhi,Levante,1.1085,0.974,-,2.0825
+2120,Gerard Moreno,Villarreal,0.5098,1.5117,-,2.0215
+4034,José Campaña,Levante,0.4827,1.3583,-,1.841
+2255,Isco,Real Madrid,-,1.7828,-,1.7828
+2234,Mikel Oyarzabal,Real Sociedad,0.0,0.5587,1.1812,1.7399
+2378,Daniel Parejo,Villarreal,0.6799,1.0555,-,1.7354
+5101,Carlos Clerc,Levante,0.1934,1.4591,-,1.6525
+6953,Gonzalo Melero,Levante,0.8043,0.7418,-,1.5461
+617,David Silva,Real Sociedad,-,0.055,1.449,1.504
+5304,Mikel Merino,Real Sociedad,0.0853,0.1098,1.2616,1.4567
+1732,Nolito,Celta Vigo,0.0599,1.3883,-,1.4482
+2386,Rúben Vezo,Levante,-,1.4426,-,1.4426
+1588,Raúl Albiol,Villarreal,0.1879,1.2174,-,1.4053
+2290,Iago Aspas,Celta Vigo,0.0599,1.2579,-,1.3178
+2380,Paco Alcácer,Villarreal,0.4051,0.9027,-,1.3078
+7009,Jaime Mata,Getafe,0.5622,0.7133,-,1.2755
+6325,Andoni Gorosabel,Real Sociedad,0.0555,0.3572,0.8513,1.264
+2275,Ángel Correa,Atletico Madrid,1.2614,-,-,1.2614
+2098,Luis Suárez,Atletico Madrid,1.2328,-,-,1.2328
+2110,Rubén Duarte,Alaves,0.0,0.5713,0.6514,1.2227
+2571,Sergio Canales,Real Betis,0.1065,0.4769,0.6329,1.2163
+8736,Jorge Pombo,Cadiz,0.2974,0.9071,-,1.2045
+7864,Carlos Neva,Granada,0.4045,0.7976,-,1.2021
+6118,Portu,Real Sociedad,0.156,0.3356,0.6701,1.1617
+6233,Ferland Mendy,Real Madrid,0.2845,0.8305,-,1.115
+2088,Edgar Méndez,Alaves,0.0,0.5713,0.5067,1.078
+2566,Roger,Levante,-,1.0763,-,1.0763
+2198,Moi Gómez,Villarreal,0.1482,0.9028,-,1.051
+2296,Mario,Villarreal,0.0,1.0486,-,1.0486
+7155,Nikola Vukcevic,Levante,0.0174,1.0213,-,1.0387
+8710,Renato Tapia,Celta Vigo,0.0,1.0372,-,1.0372
+7892,João Félix,Atletico Madrid,1.0317,-,-,1.0317
+5074,Kike García,Eibar,0.179,0.6984,0.1476,1.025
+2305,Adrián,Osasuna,0.3993,0.0539,0.5681,1.0213
+7834,Manu Vallejo,Valencia,0.9936,0.0,0.0,0.9936
+2248,Casemiro,Real Madrid,0.051,0.941,-,0.992
+7134,Marc Cucurella,Getafe,0.1787,0.7886,-,0.9673
+802,Diego Costa,Atletico Madrid,0.9333,-,-,0.9333
+2266,Saúl Ñíguez,Atletico Madrid,0.9309,-,-,0.9309
+6954,Juan Camilo Hernández,Getafe,0.0218,0.9078,-,0.9296
+7921,Felipe,Atletico Madrid,0.9248,-,-,0.9248
+6949,Jorge Miramón,Levante,0.7233,0.1736,-,0.8969
+452,Takashi Inui,Eibar,0.0,0.7814,0.1126,0.894
+4175,Pere Milla,Elche,0.8845,-,-,0.8845
+2368,Montoro,Granada,0.4045,0.4709,-,0.8754
+8892,Josema,Elche,0.8704,-,-,0.8704
+8896,Nino,Elche,0.8704,-,-,0.8704
+4120,Álex Moreno,Real Betis,0.0844,0.227,0.5486,0.86
+3667,Nabil Fekir,Real Betis,0.2242,0.4067,0.2052,0.8361
+7208,Samuel Chukwueze,Villarreal,0.2798,0.549,-,0.8288
+5081,Edu Expósito,Eibar,0.0737,0.6752,0.0666,0.8155
+2185,Deyverson,Alaves,0.0,0.0352,0.7741,0.8093
+7308,Ander Barrenetxea,Real Sociedad,0.1162,0.482,0.1986,0.7968
+5232,Alexander Isak,Real Sociedad,0.1117,0.2346,0.4344,0.7807
+2281,Hugo Mallo,Celta Vigo,0.0639,0.7133,-,0.7772
+7514,Lucas Olaza,Celta Vigo,0.3376,0.4393,-,0.7769
+2285,Fabián Orellana,Real Valladolid,0.5928,0.1607,-,0.7535
+5212,Sergi Guardiola,Real Valladolid,0.6737,0.0667,-,0.7404
+2161,Nacho,Real Valladolid,0.7058,0.0264,-,0.7322
+2435,Óscar Duarte,Levante,0.7211,-,-,0.7211
+5162,Nacho Vidal,Osasuna,0.1605,0.039,0.519,0.7185
+2521,Alfonso,Villarreal,0.2415,0.4697,-,0.7112
+6124,Maxi Gómez,Valencia,0.6009,0.0963,0.0,0.6972
+565,Nyom,Getafe,0.1463,0.5483,-,0.6946
+2272,Yannick Carrasco,Atletico Madrid,0.6781,-,-,0.6781
+7870,Luis Rioja,Alaves,0.0,0.0352,0.6428,0.678
+7430,Emerson,Real Betis,0.2242,0.307,0.1442,0.6754
+2155,Jorge Molina,Granada,-,0.0,0.6706,0.6706
+4208,Míchel,Real Valladolid,0.6374,0.0151,-,0.6525
+2509,Dimitri Foulquier,Granada,0.0,0.576,0.0669,0.6429
+5093,Roberto Torres,Osasuna,0.0,0.0921,0.541,0.6331
+7871,Borja Sainz,Alaves,-,0.6317,0.0,0.6317
+7863,Antonio Puertas,Granada,0.0,0.576,0.047,0.623
+6956,David Ferreiro,SD Huesca,0.3086,0.086,0.2258,0.6204
+2228,Aritz Elustondo,Real Sociedad,0.0255,0.1317,0.4613,0.6185
+1715,Álvaro Negredo,Cadiz,0.0958,0.5155,-,0.6113
+8107,Jorge De Frutos,Levante,0.0174,0.5911,-,0.6085
+2245,Raphael Varane,Real Madrid,0.0524,0.5497,-,0.6021
+497,Francis Coquelin,Villarreal,0.0257,0.575,-,0.6007
+2444,Bruno,Real Valladolid,0.5797,0.0113,-,0.591
+8907,Mickaël Malsa,Levante,-,0.5888,-,0.5888
+7826,Joseph Aidoo,Celta Vigo,0.2777,0.3081,-,0.5858
+2217,Antonio Sanabria,Real Betis,-,0.0772,0.5068,0.584
+680,Thibaut Courtois,Real Madrid,0.0246,0.5525,-,0.5771
+3274,Maxime Gonalons,Granada,0.0,0.576,-,0.576
+5044,Víctor Laguardia,Alaves,0.0,0.5713,0.0,0.5713
+4219,Juan Carlos,SD Huesca,0.3911,0.086,0.0933,0.5704
+6227,Brais Méndez,Celta Vigo,0.2777,0.2885,-,0.5662
+8001,Takefusa Kubo,Villarreal,0.3263,0.2378,-,0.5641
+2065,Vicente Iborra,Villarreal,0.0,0.5634,-,0.5634
+6932,Okay Yokuslu,Celta Vigo,0.3376,0.2225,-,0.5601
+7385,Javi Galán,SD Huesca,0.3034,0.0,0.256,0.5594
+2284,Daniel Wass,Valencia,0.3102,0.1675,0.0731,0.5508
+4177,Álex Fernández,Cadiz,0.029,0.5179,-,0.5469
+6221,Pau Torres,Villarreal,0.0397,0.5028,-,0.5425
+2518,Marcos Llorente,Atletico Madrid,0.5413,-,-,0.5413
+1672,Jonathan Calleri,Osasuna,-,0.0,0.541,0.541
+2263,Stefan Savic,Atletico Madrid,0.5277,-,-,0.5277
+689,Kenedy,Granada,0.0,0.5161,0.0,0.5161
+6926,William Carvalho,Real Betis,0.0631,0.2899,0.1613,0.5143
+7350,Yangel Herrera,Granada,0.4413,0.0,0.0725,0.5138
+8267,Guido Rodríguez,Real Betis,0.0151,0.3415,0.1465,0.5031
+754,Shinji Okazaki,SD Huesca,0.2797,0.0,0.2217,0.5014
+2212,Sergio Álvarez,Eibar,0.0,0.4987,-,0.4987
+6931,Fran Beltrán,Celta Vigo,-,0.4961,-,0.4961
+2494,Denis Cheryshev,Valencia,0.4871,-,-,0.4871
+7860,Domingos Duarte,Granada,0.0,0.4709,0.0157,0.4866
+2308,Denis Suárez,Celta Vigo,-,0.4798,-,0.4798
+2252,Borja Mayoral,Real Madrid,-,0.4738,-,0.4738
+7050,Lucas Torró,Osasuna,0.1103,0.2968,0.0647,0.4718
+5234,Jesús Vallejo,Granada,-,0.4709,0.0,0.4709
+2320,Pedro Mosquera,SD Huesca,0.0525,0.086,0.3298,0.4683
+866,Joselu,Alaves,0.0,0.0957,0.3703,0.466
+2183,Rubén García,Osasuna,0.1103,0.2891,0.0492,0.4486
+1516,Geoffrey Kondogbia,Valencia,0.3635,0.0693,0.0153,0.4481
+2269,Koke,Atletico Madrid,0.4413,-,-,0.4413
+2289,Nemanja Radoja,Levante,0.4404,0.0,-,0.4404
+2148,Joaquín,Real Betis,0.1116,0.1228,0.2052,0.4396
+2250,Luka Modric,Real Madrid,0.1031,0.3203,-,0.4234
+652,Kieran Trippier,Atletico Madrid,0.4195,-,-,0.4195
+5682,Gonçalo Guedes,Valencia,0.3582,0.0,0.0577,0.4159
+5128,Oier,Osasuna,0.3491,0.0348,0.0271,0.411
+6076,Nemanja Maksimovic,Getafe,0.207,0.2019,-,0.4089
+8750,Rodrigo Battaglia,Alaves,0.0,0.0,0.384,0.384
+493,Gabriel,Valencia,0.3783,0.0,-,0.3783
+2075,Andrés Fernández,SD Huesca,0.2842,0.0,0.0864,0.3706
+7856,Aridane Hernández,Osasuna,0.3491,0.0157,-,0.3648
+2311,Roberto Soldado,Granada,0.0367,0.3268,-,0.3635
+2543,Borja Iglesias,Real Betis,0.0693,0.2869,-,0.3562
+7330,Uros Racic,Valencia,0.294,-,0.0577,0.3517
+2401,Muniain,Athletic Club,0.2797,0.0707,-,0.3504
+8727,Jon Morcillo,Athletic Club,0.2759,0.0721,-,0.348
+4146,Fidel,Elche,0.3415,-,-,0.3415
+2505,José Gayá,Valencia,0.1465,0.0648,0.1285,0.3398
+7306,Aihen Muñoz,Real Sociedad,0.0734,0.0767,0.1817,0.3318
+8771,Yunus Musah,Valencia,0.3299,0.0,0.0,0.3299
+8893,Josan,Elche,0.3275,-,-,0.3275
+1003,Pablo Maffeo,SD Huesca,0.3057,0.0114,-,0.3171
+4091,Unai López,Athletic Club,0.1049,0.2096,-,0.3145
+7859,Sergio Herrera,Osasuna,0.0,0.2735,0.0368,0.3103
+2589,Rafa Mir,SD Huesca,0.074,0.086,0.1484,0.3084
+2197,Pedro León,Eibar,0.179,0.0777,0.0459,0.3026
+2125,Ander Capa,Athletic Club,0.1074,0.1938,-,0.3012
+6368,Mathías Olivera,Getafe,0.0989,0.2019,-,0.3008
+8735,Salvi Sánchez,Cadiz,0.2278,0.0718,-,0.2996
+5090,David García,Osasuna,0.0,0.2735,0.022,0.2955
+2130,Dani García,Athletic Club,0.1513,0.1375,-,0.2888
+6117,Pere Pons,Alaves,0.0,0.0,0.288,0.288
+7313,Lee Kang-In,Valencia,0.1976,0.0189,0.0708,0.2873
+5666,Mouctar Diakhaby,Valencia,0.1095,0.1171,0.0577,0.2843
+4037,Pablo Insúa,SD Huesca,0.2842,-,-,0.2842
+6930,Néstor Araújo,Celta Vigo,0.2777,0.0,-,0.2777
+2517,Martin Odegaard,Real Madrid,0.2777,0.0,-,0.2777
+1731,Claudio Bravo,Real Betis,0.158,0.1118,-,0.2698
+5073,Florian Lejeune,Alaves,-,0.0,0.2683,0.2683
+6224,Marko Dmitrovic,Eibar,0.0,0.2657,0.0,0.2657
+2369,Toni Kroos,Real Madrid,0.1088,0.1545,-,0.2633
+2399,Iñaki Williams,Athletic Club,0.1468,0.1149,-,0.2617
+5042,Fernando Pacheco,Alaves,0.0,0.0,0.2588,0.2588
+5159,Marc Cardona,Osasuna,0.0,0.2578,0.0,0.2578
+5136,Estupiñán,Villarreal,-,0.2578,-,0.2578
+4070,Borja,SD Huesca,-,0.0,0.2537,0.2537
+3237,Aissa Mandi,Real Betis,0.0964,0.1392,0.0163,0.2519
+7493,Jaime Seoane,SD Huesca,0.0,-,0.2474,0.2474
+7891,Renan Lodi,Atletico Madrid,0.2467,-,-,0.2467
+4136,Ángel,Getafe,0.0,0.2434,-,0.2434
+323,Adnan Januzaj,Real Sociedad,0.0,0.055,0.1813,0.2363
+6151,Djené Dakonam,Getafe,0.0,0.2335,-,0.2335
+3264,Mauro Arambarri,Getafe,0.0635,0.1654,-,0.2289
+1508,Jeison Murillo,Celta Vigo,-,0.2247,-,0.2247
+2229,Yuri,Athletic Club,-,0.2241,-,0.2241
+8731,Isaac Carcelén,Cadiz,0.2108,0.0,-,0.2108
+5173,Asier Villalibre,Athletic Club,0.0,0.2081,-,0.2081
+2400,Raúl García,Athletic Club,0.1357,0.0707,-,0.2064
+2452,De Marcos,Athletic Club,0.2057,-,-,0.2057
+6219,Enes Ünal,Getafe,0.0,0.202,-,0.202
+2396,Balenziaga,Athletic Club,0.1986,-,-,0.1986
+7008,Vinícius Júnior,Real Madrid,0.1936,-,-,0.1936
+2238,Jon Bautista,Real Sociedad,0.0282,0.0,0.1621,0.1903
+7195,Roberto López,Real Sociedad,0.0407,-,0.1454,0.1861
+2394,Etxeita,Getafe,0.0416,0.1395,-,0.1811
+2460,Sergio Asenjo,Villarreal,0.1202,0.0498,-,0.17
+2484,Iñigo Martínez,Athletic Club,0.1673,0.0,-,0.1673
+8733,Alfonso Espino,Cadiz,0.1398,0.0249,-,0.1647
+5272,Emre Mor,Celta Vigo,0.041,0.1073,-,0.1483
+3206,Yann Bodiger,Cadiz,0.0958,0.0493,-,0.1451
+6950,Jorge Pulido,SD Huesca,0.0,0.0233,0.1185,0.1418
+7233,Joaquín Fernández,Real Valladolid,0.1024,0.0393,-,0.1417
+2189,Pedro López,SD Huesca,-,-,0.1416,0.1416
+8271,Fernando Niño,Villarreal,0.14,-,-,0.14
+2511,Vitolo,Atletico Madrid,0.1381,-,-,0.1381
+2328,Thomas Partey,Atletico Madrid,0.1381,-,-,0.1381
+7779,Oihan Sancet,Athletic Club,0.0,0.1375,-,0.1375
+8711,Miguel Baeza,Celta Vigo,0.0,0.1351,-,0.1351
+4076,Jason,Valencia,-,0.1348,0.0,0.1348
+2555,Remiro,Real Sociedad,0.0555,0.0767,0.0,0.1322
+2326,Rober,Levante,0.1312,-,-,0.1312
+2442,Kevin Gameiro,Valencia,-,-,0.1285,0.1285
+7857,Jon Moncayola,Osasuna,0.0502,0.0505,0.0271,0.1278
+2135,Sergi Enrich,Eibar,0.0941,0.0325,-,0.1266
+6921,Óscar Plano,Real Valladolid,0.0447,0.0818,-,0.1265
+5153,Kévin Rodrigues,Eibar,-,0.0,0.1224,0.1224
+2112,Papakouly Diop,Eibar,0.0849,-,0.0357,0.1206
+5075,Rubén Peña,Villarreal,0.1202,-,-,0.1202
+2578,Javi Ontiveros,SD Huesca,-,-,0.1156,0.1156
+2500,Luisinho,SD Huesca,0.0,-,0.1156,0.1156
+6126,Ander Guevara,Real Sociedad,-,0.0881,0.0275,0.1156
+2119,Rober Correa,Eibar,0.0,0.0575,0.0567,0.1142
+8470,Kike Pérez,Real Valladolid,0.0,0.1137,-,0.1137
+2391,José Mari,Cadiz,0.0859,0.0249,-,0.1108
+5117,Víctor Díaz,Granada,0.0,0.0,0.1081,0.1081
+2337,Recio,Eibar,0.0,0.1064,0.0,0.1064
+1421,Cristian Tello,Real Betis,0.0,0.054,0.0477,0.1017
+6215,Sergio Postigo,Levante,0.0,0.1008,-,0.1008
+3425,Thomas Lemar,Atletico Madrid,0.0966,-,-,0.0966
+8744,Juan Cruz,Osasuna,0.0502,0.0157,0.022,0.0879
+8725,Luis Milla,Granada,0.0715,0.0,0.0157,0.0872
+5131,Eugeni,SD Huesca,0.0,0.086,-,0.086
+8707,Damian Kadzior,Eibar,0.0,0.0709,0.0108,0.0817
+4051,Ramón Azeez,Granada,0.0,-,0.0809,0.0809
+5062,Yeray Álvarez,Athletic Club,0.0773,-,-,0.0773
+8149,Vicente Esquerdo,Valencia,0.0759,0.0,0.0,0.0759
+6228,Luka Jovic,Real Madrid,-,0.0758,-,0.0758
+4193,Aitor Fernández,Levante,0.0754,0.0,-,0.0754
+2406,Mikel Rico,SD Huesca,0.074,-,-,0.074
+2475,Jaume,Valencia,0.0161,0.0,0.0577,0.0738
+5095,Sergio León,Levante,0.0733,-,-,0.0733
+8390,Rafa Soares,Eibar,0.0,0.0713,-,0.0713
+8058,Thierry Correia,Valencia,-,0.0712,-,0.0712
+6427,Aitor Ruibal,Real Betis,0.0616,-,-,0.0616
+7349,Enric Gallego,Osasuna,-,-,0.0614,0.0614
+6914,Javi Moyano,Real Valladolid,0.0578,0.0,-,0.0578
+8334,Hugo Guillamón,Valencia,-,-,0.0577,0.0577
+5064,Dimitrios Siovas,SD Huesca,-,0.0,0.0572,0.0572
+8713,Gabriel Veiga,Celta Vigo,-,0.0562,-,0.0562
+2163,Diego Llorente,Real Sociedad,0.0555,-,-,0.0555
+8863,Marvin Park,Real Madrid,0.051,-,-,0.051
+8762,Luis Pérez,Real Valladolid,-,0.0506,-,0.0506
+2216,Jony,Osasuna,-,-,0.05,0.05
+2453,Marc Bartra,Real Betis,0.0,0.0,0.0472,0.0472
+7525,Waldo Rubio,Real Valladolid,0.0447,0.0,-,0.0447
+6226,Iván Alejo,Cadiz,0.0442,0.0,-,0.0442
+2193,Cala,Cadiz,0.0442,0.0,-,0.0442
+8209,Miguel Ángel Atienza,Eibar,-,0.0434,-,0.0434
+5185,Unai Simón,Athletic Club,0.0,0.0428,-,0.0428
+6149,Unai Núñez,Athletic Club,-,0.0428,-,0.0428
+2417,Igor Zubeldia,Real Sociedad,0.042,-,-,0.042
+8732,Marcos Mauro,Cadiz,0.0419,0.0,-,0.0419
+7905,Fede San Emeterio,Real Valladolid,0.0,0.0393,-,0.0393
+5140,Kike Barja,Osasuna,0.0,0.039,-,0.039
+8131,Iñigo Pérez,Osasuna,0.0,0.0348,0.0,0.0348
+1950,Martín Montoya,Real Betis,-,-,0.0314,0.0314
+5066,David Timor,Getafe,0.03,0.0,-,0.03
+4054,Pablo Hervías,Real Valladolid,0.0,0.0298,-,0.0298
+8738,Filip Malbasic,Cadiz,0.029,0.0,-,0.029
+8737,Jens Jonsson,Cadiz,0.029,0.0,-,0.029
+8734,Sergio González,Cadiz,0.0289,-,-,0.0289
+8015,Rodrygo,Real Madrid,0.0279,-,-,0.0279
+6150,Iñigo Córdoba,Athletic Club,-,0.0266,-,0.0266
+5033,Iván Villar,Celta Vigo,0.0,0.0265,-,0.0265
+6225,Paulo Oliveira,Eibar,0.0,0.0223,0.0,0.0223
+584,Joel Robles,Real Betis,-,-,0.0218,0.0218
+1884,Facundo Roncaglia,Osasuna,-,0.0208,-,0.0208
+7862,Yan Eteki,Granada,-,-,0.0203,0.0203
+8761,Shon Weissman,Real Valladolid,0.0,0.0196,-,0.0196
+4130,Raúl Navas,Osasuna,-,-,0.0147,0.0147
+8895,Tete Morente,Elche,0.0141,-,-,0.0141
+6656,Sergio Gómez,SD Huesca,-,0.0114,-,0.0114
+7258,Joaquín Muñoz,SD Huesca,0.0,0.0114,0.0,0.0114
+8894,Raúl Guti,Elche,0.0113,-,-,0.0113
+5087,Roberto Jiménez,Real Valladolid,-,0.0113,-,0.0113
+4052,Ximo Navarro,Alaves,-,0.01,0.0,0.01
+2353,Pedro Bigas,Eibar,0.0092,0.0,0.0,0.0092
+8767,Kelechi Nwakali,SD Huesca,0.0,-,-,0.0
+2267,Augusto Fernández,Cadiz,-,0.0,-,0.0
+7276,Robin Le Normand,Real Sociedad,-,0.0,0.0,0.0
+8739,Alberto Cifuentes,Cadiz,-,0.0,-,0.0
+8769,Dani Escriche,SD Huesca,-,0.0,0.0,0.0
+2261,Jan Oblak,Atletico Madrid,0.0,-,-,0.0
+7526,Martín Zubimendi,Real Sociedad,-,-,0.0,0.0
+8730,David Gil,Cadiz,0.0,-,-,0.0
+6533,Anthony Lozano,Cadiz,0.0,-,-,0.0
+2194,Damián Suárez,Getafe,0.0,0.0,-,0.0
+2415,David Soria,Getafe,0.0,0.0,-,0.0
+5642,Erick Cabaco,Getafe,0.0,-,-,0.0
+8861,Urko Gonzalez,Real Sociedad,-,0.0,-,0.0
+8751,Sergi García,Alaves,0.0,-,-,0.0
+7245,Javi Sánchez,Real Valladolid,-,0.0,-,0.0
+8862,Sergio Arribas,Real Madrid,0.0,-,-,0.0
+1131,Rodrigo Ely,Alaves,0.0,0.0,-,0.0
+2073,Coke,Levante,0.0,-,-,0.0
+8774,Dani Gómez,Levante,0.0,0.0,-,0.0
+2384,Santi Mina,Celta Vigo,0.0,-,-,0.0
+897,Juanmi,Real Betis,-,0.0,-,0.0
+4188,Quique González,Eibar,-,0.0,0.0,0.0
+2586,Anaitz Arbilla,Eibar,-,-,0.0,0.0
+2519,Tejero,Eibar,-,-,0.0,0.0
+47,Yoshinori Muto,Eibar,-,-,0.0,0.0
+6528,Loren Morón,Real Betis,-,-,0.0,0.0
+8726,Alberto Soro,Granada,-,-,0.0,0.0
+7354,Diego Lainez,Real Betis,0.0,-,-,0.0
+7355,Paul Akouokou,Real Betis,-,0.0,-,0.0
+7861,Germán Sánchez,Granada,0.0,0.0,0.0,0.0
+2301,Manu Trigueros,Villarreal,-,0.0,-,0.0
+5109,Rui Silva,Granada,0.0,0.0,0.0,0.0
+4069,Fede Vico,Granada,0.0,-,0.0,0.0
+1700,Lucas Pérez,Alaves,0.0,-,0.0,0.0
+2287,John Guidetti,Alaves,-,0.0,-,0.0
+626,Eliaquim Mangala,Valencia,0.0,-,-,0.0
+2482,Tomás Pina,Alaves,0.0,-,-,0.0
+2105,Jordi Masip,Real Valladolid,0.0,-,-,0.0
+5047,Rubén Sobrino,Valencia,0.0,0.0,-,0.0
+8891,Gonzalo Verdú,Elche,0.0,-,-,0.0
+8890,Edgar Badía,Elche,0.0,-,-,0.0
+3248,Omenuke Mfulu,Elche,0.0,-,-,0.0
+2597,Dani Calvo,Elche,0.0,-,-,0.0
+2567,Luismi,Elche,0.0,-,-,0.0
+2471,Víctor Rodríguez,Elche,0.0,-,-,0.0
+2350,Cifuentes,Elche,0.0,-,-,0.0
+1189,Lucas Boyé,Elche,0.0,-,-,0.0
+8306,Sofian Chakla,Villarreal,-,0.0,-,0.0
+5077,Mikel Vesga,Athletic Club,0.0,0.0,-,0.0
+8414,Mahmoud Abdallahi,Alaves,-,0.0,-,0.0
+8413,Javier López,Alaves,0.0,-,0.0,0.0
+5198,Martín Aguirregabiria,Alaves,0.0,-,-,0.0
+5045,Manu García,Alaves,-,-,0.0,0.0
+8329,Unai Vencedor,Athletic Club,0.0,-,-,0.0
+8741,Fali,Cadiz,-,0.0,-,0.0
