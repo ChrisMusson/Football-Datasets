@@ -1,5 +1,5 @@
 # player
-The following weekly statistics are stored here for every player to have played in that season. A `-` indicates that a player played no part in a match.
+The following weekly statistics are stored here for every player to have played in the selected season. A `-` indicates either that a player played no part in a match, or that their team is yet to play that many fixtures.
 * `assists` - Passes led to goal
 * `goals` - Goals
 * `key_passes` - Passes led to shot
