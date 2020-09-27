@@ -1,21 +1,21 @@
-team,1,2,total
-Everton,0.4025,0.7214,1.1239
-Liverpool,0.7578,0.2022,0.96
-Arsenal,0.8795,0.0615,0.941
-Leicester,0.6917,0.178,0.8697
-Brighton,0.1397,0.523,0.6627
-Sheffield United,0.1289,0.435,0.5639
-Crystal Palace,0.2105,0.2963,0.5068
-Manchester City,0.4574,-,0.4574
-Newcastle United,0.3981,0.058,0.4561
-Burnley,0.3562,-,0.3562
-Wolverhampton Wanderers,0.2661,0.0533,0.3194
-West Ham,0.0856,0.1798,0.2654
-Tottenham,0.2188,0.0295,0.2483
-Aston Villa,0.2182,-,0.2182
-Southampton,0.1642,0.0394,0.2036
-Chelsea,0.1706,0.0087,0.1793
-Fulham,0.018,0.1152,0.1332
-Leeds,0.0093,0.1013,0.1106
-Manchester United,0.0681,-,0.0681
-West Bromwich Albion,0.0085,0.0,0.0085
+team,1,2,3,total
+Everton,0.4025,0.7214,0.6212,1.7451
+Leicester,0.6917,0.178,0.1867,1.0564
+Liverpool,0.7578,0.2022,-,0.96
+Arsenal,0.8795,0.0615,-,0.941
+Southampton,0.1642,0.0394,0.7006,0.9042
+Burnley,0.3562,0.4288,-,0.785
+Sheffield United,0.1289,0.435,0.1846,0.7485
+Brighton,0.1397,0.523,0.0809,0.7436
+Crystal Palace,0.2105,0.2963,0.0367,0.5435
+Chelsea,0.1706,0.0087,0.3221,0.5014
+Newcastle United,0.3981,0.058,0.0142,0.4703
+Manchester City,0.4574,0.0066,-,0.464
+Tottenham,0.2188,0.0295,0.1984,0.4467
+Wolverhampton Wanderers,0.2661,0.0533,-,0.3194
+West Ham,0.0856,0.1798,-,0.2654
+Leeds,0.0093,0.1013,0.1538,0.2644
+Aston Villa,0.2182,-,-,0.2182
+Fulham,0.018,0.1152,-,0.1332
+Manchester United,0.0681,0.0149,-,0.083
+West Bromwich Albion,0.0085,0.0,0.0403,0.0488
