@@ -12,26 +12,27 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 7770,Jordan Larsson,Spartak Moscow,0.4944,0.2032,0.0264,0.8023,0.0335,0.0578,0.0378,0.206,0.1528,2.0142
 6025,Ivan Ignatyev,Rubin Kazan,1.1287,0.0601,0.1248,0.0929,0.0,0.3492,-,0.0354,0.1445,1.9356
 3262,Malcom,Zenit St. Petersburg,0.201,0.2173,0.1996,0.6415,0.1951,0.0639,0.2894,0.064,0.0462,1.918
+2907,Sly,Dinamo Moscow,0.439,0.0595,0.0,0.5443,0.0,0.0415,0.0142,0.1626,0.524,1.7851
 5483,Eric Bicfalvi,Ural,0.184,0.3511,0.0444,0.3159,0.0,0.3133,0.43,0.123,-,1.7617
 5459,Konstantin Kuchaev,CSKA Moscow,0.3702,0.1859,0.1171,0.0,0.0781,0.6413,0.0,0.3467,0.0,1.7393
 2057,Ezequiel Ponce,Spartak Moscow,0.0695,0.6456,0.4736,0.0143,-,-,0.4086,0.0135,0.1131,1.7382
+6331,Alexander Lomovitskiy,Khimki,-,0.0,0.0624,0.0,0.0,0.5679,0.0635,0.0,1.0406,1.7344
 5899,Anton Zabolotny,PFC Sochi,0.0,0.2659,0.0,0.1094,0.9687,0.102,-,0.0746,0.2029,1.7235
 2772,Aleksandr Erokhin,Zenit St. Petersburg,-,0.068,0.0,0.5897,0.0519,0.0,0.6419,0.0,0.3633,1.7148
 3026,Artem Timofeev,FK Akhmat,0.0205,-,0.1685,0.1516,0.4595,0.0397,0.5229,0.231,0.0997,1.6934
 2771,Christian Noboa,PFC Sochi,0.0781,0.1842,0.1322,0.1163,0.8593,0.035,0.057,0.1716,0.0,1.6337
+7631,Sebastian Szymanski,Dinamo Moscow,0.7436,0.2667,0.0848,0.0,0.0585,0.1607,0.068,0.0671,0.1837,1.6331
 6138,Andrei Panyukov,Ural,0.3852,0.0468,0.0,0.1704,-,-,0.489,0.4343,0.1071,1.6328
 6275,Evans Kangwa,Arsenal Tula,0.0,0.0,-,0.0333,0.8009,0.0,0.0607,0.4144,0.298,1.6073
 2986,Nikita Burmistrov,PFC Sochi,0.1187,0.3139,0.1002,0.6819,0.1175,0.0682,0.0914,0.0893,0.0142,1.5953
 7453,Khvicha Kvaratskhelia,Rubin Kazan,0.0451,0.08,0.0906,0.2165,0.6482,0.1183,0.0,0.1668,0.1968,1.5623
 8610,Kento Hashimoto,FC Rostov,0.0,0.0391,0.0,0.353,0.1506,0.0,-,1.0083,-,1.551
 6773,Samuel Gigot,Spartak Moscow,0.0,0.0,0.0303,0.0791,0.8233,0.4296,0.099,-,0.0,1.4613
-7631,Sebastian Szymanski,Dinamo Moscow,0.7436,0.2667,0.0848,0.0,0.0585,0.1607,0.068,0.0671,-,1.4494
 6276,Nikola Vlasic,CSKA Moscow,-,-,0.4555,0.1034,0.1896,0.1431,0.2214,0.1078,0.2078,1.4286
 2924,Pavel Mamaev,FC Rostov,0.4353,0.2709,0.0814,0.5855,-,-,0.0251,-,-,1.3982
 3035,Evgeni Lutsenko,Arsenal Tula,0.4946,0.2885,0.3471,0.1608,0.0545,-,-,0.0,-,1.3455
 7680,Andrey Mostovoy,Zenit St. Petersburg,0.0,0.0,-,0.0641,0.0798,0.0,0.8405,0.2677,0.0836,1.3357
 7283,Daniil Utkin,FC Krasnodar,0.1649,0.0977,0.0232,0.0,0.1124,0.1001,0.4177,0.39,-,1.306
-2907,Sly,Dinamo Moscow,0.439,0.0595,0.0,0.5443,0.0,0.0415,0.0142,0.1626,-,1.2611
 2946,Bernard Berisha,FK Akhmat,0.14,0.0786,0.2415,0.0328,0.2934,0.2469,0.1091,0.0192,0.0827,1.2442
 5385,Mikhail Kostyukov,FC Tambov,0.0667,0.0903,0.0562,0.0,0.3418,0.1197,0.4137,0.0517,0.0,1.1401
 6797,Filip Uremovic,Rubin Kazan,0.0,0.0862,0.382,0.0,0.2583,0.0,-,0.0,0.4095,1.136
@@ -51,10 +52,11 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 2414,Grzegorz Krychowiak,Lokomotiv Moscow,0.1433,0.0501,0.1181,0.0464,0.4797,-,0.0089,0.0905,-,0.937
 7477,Maksim Glushenkov,Spartak Moscow,0.4888,0.0975,0.0671,0.0,0.2593,-,-,-,-,0.9127
 3390,Rémy Cabella,FC Krasnodar,0.166,0.0291,0.2559,-,-,0.121,0.1283,0.1952,-,0.8955
-3025,Alexander Troshechkin,Khimki,0.0442,0.4913,0.1139,0.0272,0.0,0.1778,-,0.0292,-,0.8836
+3025,Alexander Troshechkin,Khimki,0.0442,0.4913,0.1139,0.0272,0.0,0.1778,-,0.0292,0.0,0.8836
+3015,Nikolay Komlichenko,Dinamo Moscow,0.2658,0.0561,0.1164,0.1075,0.0,0.0,0.0,-,0.3164,0.8622
 7679,Kaio,FC Krasnodar,0.0441,0.4977,0.0,0.2073,-,0.0857,0.0,0.0,-,0.8348
 2920,Sergei Petrov,FC Krasnodar,0.0171,0.0425,0.3978,0.0,0.0,0.0809,0.1074,0.1806,-,0.8263
-960,Clinton N'Jie,Dinamo Moscow,0.1246,0.1562,0.1119,0.039,-,0.1103,0.0766,0.2062,-,0.8248
+960,Clinton N'Jie,Dinamo Moscow,0.1246,0.1562,0.1119,0.039,-,0.1103,0.0766,0.2062,0.0,0.8248
 8694,Chidera Ejuke,CSKA Moscow,-,-,-,-,-,0.018,0.3428,0.291,0.1109,0.7627
 2712,Rifat Zhemaletdinov,Lokomotiv Moscow,0.0,0.0377,0.7,0.0,0.0,0.0,-,0.0,-,0.7377
 2711,Aleksey Miranchuk,Lokomotiv Moscow,0.1165,0.4339,0.1794,0.0,-,-,-,-,-,0.7298
@@ -64,46 +66,47 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 5452,Miha Mevlja,PFC Sochi,0.0718,0.0,0.5093,0.0,0.0,0.0,0.0,0.1352,0.0,0.7163
 7652,Zuriko Davitashvili,FC Rotor Volgograd,-,-,-,0.0,0.652,0.0611,-,-,-,0.7131
 7136,Arnór Sigurdsson,CSKA Moscow,0.1454,0.1157,0.0,0.2296,0.0243,-,-,0.0809,0.1046,0.7005
-6331,Alexander Lomovitskiy,Khimki,-,0.0,0.0624,0.0,0.0,0.5679,0.0635,0.0,-,0.6938
 8342,Ilia Shkurin,CSKA Moscow,-,0.6883,0.0,0.0,-,-,-,-,-,0.6883
 2881,Alan Dzagoev,CSKA Moscow,0.6596,0.0278,-,-,-,-,-,-,-,0.6874
 2822,George Melkadze,FK Akhmat,-,-,-,0.0532,0.0,0.1407,0.0,0.0516,0.4401,0.6856
 2834,Giorgi Jikia,Spartak Moscow,0.0,0.0,0.5552,0.0,0.0546,0.0,0.0209,0.0,0.0493,0.68
 6793,Daniil Lesovoy,Arsenal Tula,0.0201,0.0313,0.012,0.5284,0.0853,0.0,-,-,-,0.6771
 7678,Soltmurad Bakaev,Rubin Kazan,0.0287,0.0556,0.0976,0.4116,0.0293,-,0.0519,0.0,0.0,0.6747
+6793,Daniil Lesovoy,Dinamo Moscow,-,-,-,0.5284,-,-,-,0.0903,0.0506,0.6693
 8607,Adolfo Gaich,CSKA Moscow,0.4423,0.0,0.0,0.213,0.0,-,-,-,0.0,0.6553
 3021,Aleksei Kozlov,FC Rostov,0.0,0.0187,0.0128,0.0495,0.0,0.017,0.5537,0.0,-,0.6517
 7183,Daniil Khlusevich,Arsenal Tula,0.0,0.0221,0.0898,0.0,0.0624,0.3306,0.0425,0.0,0.0912,0.6386
 7656,Ivan Miladinovic,PFC Sochi,0.039,0.0,0.5351,0.0166,0.0,0.0428,-,-,0.0,0.6335
 7470,Mathias Normann,FC Rostov,0.0546,0.0812,0.0316,0.0478,0.0807,0.0756,0.1498,0.1018,-,0.6231
-6793,Daniil Lesovoy,Dinamo Moscow,-,-,-,0.5284,-,-,-,0.0903,-,0.6187
 7659,Vladimir Obukhov,FC Tambov,0.0,0.0932,0.0,0.0576,0.0598,0.0,0.0,0.1191,0.269,0.5987
 2805,Sergey Serchenkov,FC Rotor Volgograd,0.0104,-,0.3579,0.0805,0.148,0.0,-,-,-,0.5968
 6586,Andrey Egorychev,Ural,0.0,0.0,0.4162,0.0986,0.04,0.0,0.0,-,0.0419,0.5967
+6611,Vyacheslav Grulev,Dinamo Moscow,0.0,-,-,0.0,-,0.0676,0.0,0.3483,0.1767,0.5926
 5442,Ivan Oblyakov,CSKA Moscow,0.103,0.0601,0.0123,0.1006,0.0142,0.0148,0.1155,0.0986,0.0592,0.5783
 5477,Cristian Ramírez,FC Krasnodar,0.0724,0.2938,0.0183,0.0529,0.0671,0.0,0.0496,0.0167,-,0.5708
 7475,Ayrton Lucas,Spartak Moscow,0.0765,0.219,0.0539,0.0158,0.034,0.0379,0.0344,0.0117,0.0856,0.5688
 2894,Vladislav Ignatjev,Lokomotiv Moscow,0.0999,-,-,0.0,0.0,0.0,0.0,-,0.4687,0.5686
 8601,Artem Polyarus,Khimki,0.1813,0.0466,0.1205,0.1206,0.0,0.0445,0.0478,0.0,-,0.5613
+2974,Vladimir Dyadyun,Khimki,0.1425,0.0485,0.0559,-,-,-,0.0,0.0,0.3128,0.5597
 4695,Arshak Koryan,Khimki,0.0443,0.0816,0.1067,0.079,0.0,0.0,0.2172,0.0255,-,0.5543
 8612,David Karaev,Ural,0.0732,-,0.0,0.4792,-,0.0,-,0.0,0.0,0.5524
 2928,Joãozinho,PFC Sochi,-,0.0,0.2956,0.0,0.0557,0.0907,0.0,0.0878,0.0169,0.5467
-3015,Nikolay Komlichenko,Dinamo Moscow,0.2658,0.0561,0.1164,0.1075,0.0,0.0,0.0,-,-,0.5458
 8622,Vitali Lisakovich,Lokomotiv Moscow,-,0.3697,0.0638,0.0,0.107,0.0,0.0,0.0,-,0.5405
-5417,Mohamed Konate,Khimki,0.0816,0.0,0.1015,0.2406,0.0,0.1134,-,-,-,0.5371
+5417,Mohamed Konate,Khimki,0.0816,0.0,0.1015,0.2406,0.0,0.1134,-,-,0.0,0.5371
 7620,Aleksandr Rudenko,PFC Sochi,-,0.0,0.0811,0.326,0.0525,0.0,0.0763,-,-,0.5359
 6024,Ismael,FK Akhmat,0.0476,0.0397,0.0392,0.0497,0.0464,0.0699,0.0472,0.1025,0.0924,0.5346
 5469,Evgeniy Chernov,FC Rostov,0.0,0.0,0.0,0.0,0.0434,0.0147,0.0279,0.4478,-,0.5338
 8017,Alex Kral,Spartak Moscow,0.0524,0.3836,0.0,0.016,0.0178,0.0,0.0,0.0632,0.0,0.533
 2896,Mario Fernandes,CSKA Moscow,0.0,0.0544,0.0,0.0859,0.0,0.0,0.0711,0.2963,0.0244,0.5321
 8364,Maksim Kutovoi,FC Krasnodar,0.067,-,0.0,0.0,-,-,0.4525,0.0,-,0.5195
+8597,Dmitri Tikhiy,Khimki,0.0,0.0196,0.0927,0.0428,0.0433,0.3126,0.0,0.0,0.0075,0.5185
 7655,Carl Starfelt,Rubin Kazan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1044,0.4121,0.5165
-8597,Dmitri Tikhiy,Khimki,0.0,0.0196,0.0927,0.0428,0.0433,0.3126,0.0,0.0,-,0.511
 602,Dejan Lovren,Zenit St. Petersburg,0.0,0.0899,0.0685,0.1348,0.0483,0.1263,0.0394,0.0,0.0,0.5072
+5536,Daniil Fomin,Dinamo Moscow,0.0403,0.1221,0.0,0.1089,0.0,0.0372,0.0189,0.0,0.1699,0.4973
 4605,Anton Miranchuk,Lokomotiv Moscow,-,0.0,0.0,0.0204,0.1275,0.0392,0.0639,0.2445,0.0,0.4955
 8705,Mikalay Signevich,Khimki,-,-,-,-,-,-,0.3856,0.109,-,0.4946
 7479,Kristoffer Olsson,FC Krasnodar,0.0158,0.0826,0.0128,0.0,0.0467,0.1007,0.1882,0.0327,-,0.4795
-2832,Brian Idowu,Khimki,0.0,0.0982,0.0,0.0,-,0.0099,0.3195,0.0466,-,0.4742
+2832,Brian Idowu,Khimki,0.0,0.0982,0.0,0.0,-,0.0099,0.3195,0.0466,0.0,0.4742
 2900,Alexey Nikitin,FC Ufa,0.0601,0.0,0.0375,0.3707,0.0,0.0,-,-,0.0,0.4683
 8928,Flamarion Junior,FC Rotor Volgograd,-,-,-,-,-,-,0.4673,-,-,0.4673
 7471,Baktiyor Zainutdinov,FC Rostov,0.2471,0.0,0.1532,0.0669,-,-,-,-,-,0.4672
@@ -112,17 +115,15 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 8368,Kirill Zaika,PFC Sochi,0.1483,0.0304,-,0.2309,0.0394,0.0,-,0.0,0.0,0.449
 2880,Sergey Tkachev,Arsenal Tula,-,0.0445,0.0573,-,0.0372,0.0457,0.0124,0.129,0.1007,0.4268
 5394,Valeriu Ciuperca,FC Tambov,0.0,0.0,0.4133,0.0,0.0,0.0,0.0,0.0127,0.0,0.426
-6611,Vyacheslav Grulev,Dinamo Moscow,0.0,-,-,0.0,-,0.0676,0.0,0.3483,-,0.4159
+5526,Dmitrii Skopintcev,Dinamo Moscow,0.0546,0.0,0.0166,0.0,0.0107,0.1643,0.0136,0.0857,0.0426,0.3881
 7650,Murilo Cerqueira,Lokomotiv Moscow,0.0,0.0186,0.1428,0.0792,0.1087,0.0,0.0,0.0236,0.0,0.3729
 2884,Roman Eremenko,FC Rostov,0.0,0.0,0.0346,-,0.2569,0.0797,0.0,0.0,-,0.3712
 2968,Magomed Ozdoev,Zenit St. Petersburg,0.0,0.0839,0.1122,0.0,0.096,0.0343,0.0223,0.0202,0.0,0.3689
 3333,Francois Kamano,Lokomotiv Moscow,-,-,-,0.0,0.1365,0.0805,0.0521,0.0,0.08,0.3491
 8624,Marat Bystrov,FK Akhmat,-,-,0.0,0.1892,0.1081,-,0.0482,0.0,0.0,0.3455
-5526,Dmitrii Skopintcev,Dinamo Moscow,0.0546,0.0,0.0166,0.0,0.0107,0.1643,0.0136,0.0857,-,0.3455
 8618,Oleg Aleinik,FC Rotor Volgograd,0.0076,0.0297,0.1185,0.0476,0.0174,0.033,0.0862,-,-,0.34
 6585,Kristijan Bistrovic,CSKA Moscow,0.0,-,-,0.0601,-,0.0413,0.0,0.2144,0.0241,0.3399
 5890,Pavel Karasev,FC Tambov,0.0,0.0,0.0,0.0,0.0,0.3389,0.0,0.0,0.0,0.3389
-5536,Daniil Fomin,Dinamo Moscow,0.0403,0.1221,0.0,0.1089,0.0,0.0372,0.0189,0.0,-,0.3274
 7123,Evgeny Kharin,FK Akhmat,0.0518,0.0,0.0066,0.0203,0.0,0.0,0.1188,0.0,0.1283,0.3258
 7011,Lovro Bizjak,FC Ufa,-,0.1856,-,0.0,0.0,-,0.0,0.0348,0.0994,0.3198
 2593,Bojan Jokic,FC Ufa,0.0,0.0,0.0,-,-,-,0.0,0.0,0.3187,0.3187
@@ -134,20 +135,19 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 5286,Douglas Santos,Zenit St. Petersburg,0.0,0.0,0.0,0.2215,0.0564,0.0,0.0,0.0095,0.0,0.2874
 5940,Sergey Terekhov,PFC Sochi,0.0,0.1427,0.0332,0.0249,0.0,0.0116,0.0,0.061,0.0,0.2734
 3062,Oleg Shatov,Rubin Kazan,-,-,-,0.0,0.0517,0.0,0.0326,0.052,0.1245,0.2608
+3189,Egor Danilkin,Khimki,0.0,0.0,0.0143,0.2004,0.0,0.0,0.0,0.0,0.0435,0.2582
 4631,Maksim Belyaev,Arsenal Tula,0.1723,0.06,0.0125,-,-,-,0.0,0.0133,0.0,0.2581
 8369,Yuri Kovalev,Arsenal Tula,-,0.0457,0.0795,0.0,-,-,0.1323,0.0,0.0,0.2575
 8374,Valeri Gromyko,Arsenal Tula,0.0,0.0169,-,0.0929,0.0,0.0,0.0255,0.11,0.0105,0.2558
 6282,Emiliano Rigoni,Zenit St. Petersburg,0.0,0.0803,-,0.0,0.0,0.0473,0.0,0.1266,-,0.2542
-2974,Vladimir Dyadyun,Khimki,0.1425,0.0485,0.0559,-,-,-,0.0,0.0,-,0.2469
 2993,Taras Burlak,Arsenal Tula,-,-,0.0,0.0,0.1682,0.0,0.0414,0.033,0.0,0.2426
 7471,Baktiyor Zainutdinov,CSKA Moscow,-,-,-,-,0.1404,0.0219,0.0,0.0,0.0795,0.2418
-7632,Ivan Ordets,Dinamo Moscow,0.0,0.0785,0.0,0.0,0.0,0.0,0.0409,0.1212,-,0.2406
+7632,Ivan Ordets,Dinamo Moscow,0.0,0.0785,0.0,0.0,0.0,0.0,0.0409,0.1212,0.0,0.2406
 2750,Roman Zobnin,Spartak Moscow,0.0,0.0623,0.0357,0.0,0.1083,0.0,0.0184,0.0,0.0156,0.2403
 2785,Timofey Margasov,PFC Sochi,0.0807,0.0325,0.0,0.0,0.075,0.0452,0.0,0.0,-,0.2334
 4199,Anton Shvets,FK Akhmat,0.0616,0.0404,0.0,-,0.0,-,0.0353,0.0,0.0955,0.2328
 2789,Denys Kulakov,Ural,0.0418,0.0173,0.0107,0.0,0.0,0.1089,0.0143,0.0,0.0337,0.2267
 6580,Danil Glebov,FC Rostov,0.0,-,0.0,0.0232,0.036,0.0,0.1235,0.0382,-,0.2209
-3189,Egor Danilkin,Khimki,0.0,0.0,0.0143,0.2004,0.0,0.0,0.0,0.0,-,0.2147
 6774,Aleksey Sutormin,Zenit St. Petersburg,-,-,-,0.0,0.0,0.0,0.084,0.0,0.1296,0.2136
 2751,Aleksey Ionov,FC Rostov,0.0253,0.0,0.0,0.0412,0.0,0.1045,0.0,0.0357,-,0.2067
 7447,Yaroslav Rakitskiy,Zenit St. Petersburg,0.0525,0.0,-,0.0306,0.0796,0.0433,-,-,0.0,0.206
@@ -159,8 +159,10 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 6617,Idris Imaev,FK Akhmat,0.1256,-,0.0,-,-,-,0.0,-,0.0618,0.1874
 2824,Aleksandr Putsko,FK Akhmat,-,0.0,0.0228,0.0441,-,-,0.12,-,-,0.1869
 2775,Dmitriy Poloz,PFC Sochi,0.0843,0.1006,0.0,-,-,-,-,-,-,0.1849
+7196,Roman Evgeniev,Dinamo Moscow,0.011,0.0798,0.0,0.0,0.0,0.0,0.0102,0.0,0.0837,0.1847
 3066,Aleksandr Kokorin,Spartak Moscow,-,-,-,-,-,-,0.0582,-,0.1239,0.1821
 5927,Aleksey Gritsaenko,FC Tambov,-,0.0,0.0,-,0.0,0.0,0.1801,0.0,0.0,0.1801
+8626,Nikola Moro,Dinamo Moscow,-,-,0.0,0.0,0.0,0.0,0.0,0.0205,0.155,0.1755
 7466,Andrés Vombergar,FC Ufa,0.066,-,-,-,0.1014,0.0,-,-,-,0.1674
 7652,Zuriko Davitashvili,Rubin Kazan,0.0,-,0.1667,-,-,-,-,-,-,0.1667
 2775,Dmitriy Poloz,FC Rostov,-,-,-,0.0445,0.1001,0.0195,0.0,0.0,-,0.1641
@@ -184,21 +186,22 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 7592,Stanislav Magkeev,Lokomotiv Moscow,0.0,0.0,-,0.0,0.0105,0.0305,0.0,0.0137,0.0733,0.128
 2705,Vedran Corluka,Lokomotiv Moscow,0.0,0.0722,0.0,0.0,0.0,0.0,0.0,0.0,0.0556,0.1278
 2910,Vyacheslav Krotov,FC Ufa,0.0708,0.057,0.0,0.0,-,0.0,-,-,-,0.1278
+8598,Kirill Bozhenov,Khimki,0.0208,0.0,0.0,0.013,-,0.0125,0.0078,0.0,0.0733,0.1274
 2790,Aleksandr Martynovich,FC Krasnodar,0.0,0.0574,0.0205,0.0,0.0163,0.0,0.0314,0.0,-,0.1256
 8608,Vitaliy Balashov,FC Tambov,0.0257,0.0967,-,0.0,-,-,0.0,-,0.0,0.1224
-2828,Sergey Parshivlyuk,Dinamo Moscow,0.0,0.0122,0.0,0.0,0.0,0.0,0.1069,-,-,0.1191
-8617,Mukhammad Sultanov,FC Rotor Volgograd,0.0763,0.0187,0.0,0.022,0.0,-,-,-,-,0.117
+2828,Sergey Parshivlyuk,Dinamo Moscow,0.0,0.0122,0.0,0.0,0.0,0.0,0.1069,-,0.0,0.1191
 7448,Wilmar Barrios,Zenit St. Petersburg,0.0,0.0196,0.0,0.0,0.0,-,0.057,0.0,0.0404,0.117
+8617,Mukhammad Sultanov,FC Rotor Volgograd,0.0763,0.0187,0.0,0.022,0.0,-,-,-,-,0.117
 7476,Nail Umiarov,Spartak Moscow,0.0,0.0193,0.0194,0.0574,0.0,0.0,0.02,0.0,0.0,0.1161
 6890,Danijel Miskic,Ural,-,0.0473,0.0,0.0,0.0,0.055,0.0,0.0133,0.0,0.1156
 6800,Daniil Krugovoy,Zenit St. Petersburg,0.0,0.0,0.041,0.0379,-,0.0,0.0092,0.0226,-,0.1107
 2721,Dimitri Barinov,Lokomotiv Moscow,0.0841,0.024,0.0,0.0,-,-,-,-,-,0.1081
 5893,Oleg Danchenko,FC Ufa,-,-,0.0627,0.0,0.0151,0.0,0.0268,0.0,0.0,0.1046
 8362,Ilya Samoshnikov,Rubin Kazan,0.0,0.0684,0.0341,0.0,0.0,-,-,-,0.0,0.1025
-7196,Roman Evgeniev,Dinamo Moscow,0.011,0.0798,0.0,0.0,0.0,0.0,0.0102,0.0,-,0.101
 5443,Guram Tetrashvili,FC Tambov,0.0383,-,0.0,0.0,0.0128,0.0122,0.0,0.0,0.031,0.0943
 2792,Mikhail Merkulov,Rubin Kazan,0.0,0.0346,-,0.0,0.0154,0.0124,0.0,0.0309,-,0.0933
 6605,Kirill Kolesnichenko,FC Rotor Volgograd,-,-,-,-,-,-,0.0927,-,-,0.0927
+8599,Ilya Kukharchuk,Khimki,0.0127,-,-,-,0.0,-,-,-,0.0774,0.0901
 7023,Dennis Hadzikadunic,FC Rostov,0.0,0.0,0.0,0.0,0.0714,0.0,0.0186,0.0,-,0.09
 2902,Pavel Alikin,FC Ufa,-,0.0,0.0614,0.0266,0.0,0.0,0.0,-,-,0.088
 5092,Goran Causic,Arsenal Tula,-,0.035,0.0,0.0,0.0523,0.0,-,-,-,0.0873
@@ -212,8 +215,8 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 8348,Miroslav Bogosavac,FK Akhmat,0.0,0.0,0.0,0.0204,0.0,0.0,0.0,0.0558,-,0.0762
 2899,Aleksandr Sukhov,FC Ufa,-,0.0,0.0,0.0,0.0515,0.0,0.0,0.0235,0.0,0.075
 3055,Igor Smolnikov,FC Krasnodar,0.0,0.0,-,0.0,0.0,-,0.0,0.0729,-,0.0729
-7135,Olivier Thill,FC Ufa,-,-,0.0,0.0,0.0228,0.0407,0.0082,0.0,-,0.0717
 7521,Konstantin Maradishvili,CSKA Moscow,0.0,0.0131,0.0294,0.0,0.0292,0.0,0.0,0.0,-,0.0717
+7135,Olivier Thill,FC Ufa,-,-,0.0,0.0,0.0228,0.0407,0.0082,0.0,-,0.0717
 3082,Branko Jovicic,Ural,-,-,-,-,-,-,0.0575,0.0139,0.0,0.0714
 3924,Hördur Bjorgvin Magnusson,CSKA Moscow,-,0.0103,0.0318,0.0099,0.0,0.0,0.0186,0.0,0.0,0.0706
 2817,Ivelin Popov,FC Rostov,0.0,0.0705,-,-,-,-,-,-,-,0.0705
@@ -230,17 +233,17 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 2921,Charles Kaboré,Dinamo Moscow,0.0,0.0149,0.0,0.0,0.0254,0.0,0.0159,0.0,-,0.0562
 6792,Georgi Kostadinov,Arsenal Tula,0.0,-,0.0094,0.0,-,0.0,0.0,0.0,0.0466,0.056
 8356,Evgeni Shlyakov,FC Tambov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0544,0.0544
-8598,Kirill Bozhenov,Khimki,0.0208,0.0,0.0,0.013,-,0.0125,0.0078,0.0,-,0.0541
 8143,German Onugkha,FC Tambov,-,-,-,-,0.0538,-,0.0,-,0.0,0.0538
 6587,Othman El Kabir,Ural,-,0.0254,-,-,-,-,0.0,0.0136,0.0118,0.0508
 7304,Danil Stepanov,FC Rotor Volgograd,0.0,0.0,0.0,0.0,0.05,0.0,-,-,-,0.05
-7010,Danil Lipovoy,Khimki,-,0.0498,0.0,0.0,-,-,0.0,-,-,0.0498
+7010,Danil Lipovoy,Khimki,-,0.0498,0.0,0.0,-,-,0.0,-,0.0,0.0498
 8354,Oleksandr Kaplienko,FC Tambov,0.0376,0.0,0.0,0.0,0.0,-,0.0105,0.0,0.0,0.0481
 3014,Stefan Strandberg,Ural,-,-,-,-,-,-,0.0462,0.0,0.0,0.0462
 6608,Ionut Nedelcearu,FC Ufa,0.0,0.0,0.0,0.0117,0.0,0.0,0.0,0.0336,0.0,0.0453
+6804,Mikhail Tikhonov,Khimki,-,-,-,-,0.0,-,-,-,0.0438,0.0438
 5907,Varazdat Haroyan,Ural,0.0434,-,-,-,-,-,-,-,-,0.0434
 6707,Alex Matsukatov,FC Krasnodar,0.0,0.0,0.0,0.0403,0.0,-,-,-,-,0.0403
-8340,Islambek Kuat,Khimki,-,-,-,-,-,-,0.0322,0.0,-,0.0322
+8340,Islambek Kuat,Khimki,-,-,-,-,-,-,0.0322,0.0,0.0,0.0322
 3090,Igor Konovalov,Rubin Kazan,0.0,0.0273,0.0,-,-,-,-,-,0.0,0.0273
 8619,Oleg Nikolaev,FC Rotor Volgograd,0.0,-,0.026,-,-,-,0.0,-,-,0.026
 8614,Anton Piskunov,FC Rotor Volgograd,0.013,0.0,0.0,0.0128,-,-,-,-,-,0.0258
@@ -248,117 +251,115 @@ id,name,team,1,2,3,4,5,6,7,8,9,total
 6802,Nikita Chicherin,FC Tambov,0.0,0.0,0.0161,0.0,0.0,0.0088,-,-,0.0,0.0249
 2852,Andrey Semenov,FK Akhmat,0.0,0.0,0.0,0.0,0.0116,0.0,-,-,0.0131,0.0247
 8873,Vladislav Kamilov,FC Ufa,-,-,-,-,-,-,-,-,0.0236,0.0236
-7663,Maksim Osipenko,FC Rostov,0.0111,0.0118,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0229
 2888,Kirill Nababkin,CSKA Moscow,0.0229,0.0,0.0,-,-,-,-,-,-,0.0229
+7663,Maksim Osipenko,FC Rostov,0.0111,0.0118,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0229
 8616,Oleg Kozhemyakin,FC Rotor Volgograd,0.0,0.0,0.0,0.0,0.0,0.0224,0.0,-,-,0.0224
 2929,Yuri Gazinskiy,FC Krasnodar,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0223,-,0.0223
-8626,Nikola Moro,Dinamo Moscow,-,-,0.0,0.0,0.0,0.0,0.0,0.0205,-,0.0205
-5421,Mikhail Lysov,Lokomotiv Moscow,-,-,-,-,0.0193,-,-,-,-,0.0193
 8504,Vladislav Karapuzov,Dinamo Moscow,0.0,0.0193,0.0,0.0,-,-,-,-,-,0.0193
+5421,Mikhail Lysov,Lokomotiv Moscow,-,-,-,-,0.0193,-,-,-,-,0.0193
 3178,Dmitri Efremov,Ural,-,0.0,0.0,0.0191,-,-,-,-,-,0.0191
 8600,Maksim Martusevich,Khimki,0.0182,0.0,0.0,0.0,0.0,0.0,-,-,-,0.0182
 8385,Nikita Karmaev,FK Akhmat,-,-,-,-,-,-,-,-,0.0155,0.0155
 2853,Zaurbek Pliev,Dinamo Moscow,-,-,-,-,0.0,-,-,0.0148,-,0.0148
-6417,Daniil Kulikov,Lokomotiv Moscow,0.0,-,-,-,0.0,0.0,0.0146,0.0,0.0,0.0146
 7636,Nikolay Giorgobiani,FC Ufa,0.0,0.0,-,-,-,-,0.0,0.0146,-,0.0146
+6417,Daniil Kulikov,Lokomotiv Moscow,0.0,-,-,-,0.0,0.0,0.0146,0.0,0.0,0.0146
 7191,Ilya Gaponov,Spartak Moscow,0.0,-,-,-,-,-,-,0.0134,0.0,0.0134
-8599,Ilya Kukharchuk,Khimki,0.0127,-,-,-,0.0,-,-,-,-,0.0127
 5723,Emanuel Mammana,PFC Sochi,-,0.0,0.0,0.0,0.0,0.0,0.0106,0.0,0.0,0.0106
 7681,Danila Prokhin,Zenit St. Petersburg,-,0.0,0.0,-,-,-,-,-,0.0102,0.0102
-5952,Arsen Adamov,FK Akhmat,-,0.0,-,-,-,0.0,-,-,-,0.0
+4614,Soslan Takasov,FC Tambov,-,-,-,-,-,-,-,0.0,0.0,0.0
+7685,Akmal Bakhtiyarov,PFC Sochi,-,-,0.0,-,-,-,-,-,-,0.0
+8681,Josip Condric,FC Rotor Volgograd,-,-,-,-,-,-,0.0,-,-,0.0
+8603,Andrei Murnin,Khimki,-,0.0,-,-,0.0,0.0,0.0,-,-,0.0
+8605,Gela Zaseev,Khimki,-,-,-,-,0.0,-,-,-,-,0.0
+8391,Andrey Bokovoy,PFC Sochi,-,0.0,-,-,-,-,-,-,-,0.0
+8673,Danil Kazantsev,Khimki,-,-,-,-,0.0,-,0.0,0.0,-,0.0
+8546,Anatoliy Nemchenko,PFC Sochi,0.0,-,-,-,-,-,-,-,-,0.0
+8714,Danil Prutsev,PFC Sochi,-,-,-,-,-,-,0.0,0.0,0.0,0.0
+8625,Patricio Matricardi,FC Rotor Volgograd,-,-,-,-,-,-,0.0,-,-,0.0
+8906,Egor Prutsev,PFC Sochi,-,-,-,-,-,-,-,-,0.0,0.0
+3192,Ilya Lantratov,Khimki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3044,Evgeniy Gapon,Khimki,-,-,-,-,-,-,-,0.0,0.0,0.0
+5911,Aleksandr Dovbnya,FC Rotor Volgograd,0.0,0.0,0.0,0.0,0.0,0.0,-,-,-,0.0
+7653,Beka Mikeltadze,FC Rotor Volgograd,0.0,-,-,0.0,-,-,0.0,-,-,0.0
+7657,Evgeni Pesegov,FC Rotor Volgograd,0.0,0.0,0.0,0.0,0.0,-,0.0,-,-,0.0
+2811,Ilya Kutepov,Spartak Moscow,-,-,-,-,-,-,-,0.0,0.0,0.0
+8609,Aleksandr Golovnya,FC Tambov,-,-,-,0.0,-,-,-,-,-,0.0
+8615,Azat Bayryev,FC Rotor Volgograd,0.0,0.0,0.0,0.0,0.0,0.0,-,-,-,0.0
+8471,Vladimir Kabakhidze,FC Tambov,0.0,-,-,0.0,-,-,-,-,-,0.0
+8355,Nikita Chagrov,FC Tambov,-,-,-,-,-,-,-,-,0.0,0.0
+2962,Sergei Ryzhikov,FC Tambov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
+2876,Igor Akinfeev,CSKA Moscow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7771,Guus Til,Spartak Moscow,-,-,-,0.0,0.0,0.0,-,-,-,0.0
+2869,Reziuan Mirzov,Spartak Moscow,-,-,-,-,-,0.0,-,-,-,0.0
+2763,Anton Terekhov,Dinamo Moscow,-,-,0.0,0.0,-,-,-,-,-,0.0
+6772,Gamid Agalarov,FC Ufa,0.0,-,-,0.0,0.0,-,-,-,0.0,0.0
 2868,Khalid Kadyrov,FK Akhmat,-,-,0.0,-,-,-,-,-,-,0.0
 2898,Giorgi Shelia,FK Akhmat,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,-,0.0
 3011,Vitaly Gudiev,FK Akhmat,-,-,-,-,-,-,-,0.0,0.0,0.0
 5460,Wilker Ángel,FK Akhmat,-,-,-,-,-,-,-,0.0,0.0,0.0
 5932,Abubakar Kadyrov,FK Akhmat,-,-,-,0.0,-,-,-,-,-,0.0
-6804,Mikhail Tikhonov,Khimki,-,-,-,-,0.0,-,-,-,-,0.0
-2784,Denis Terentjev,Zenit St. Petersburg,-,-,-,-,-,-,0.0,-,-,0.0
-2908,Dmitri Sysuev,FC Ufa,-,-,-,-,-,-,-,0.0,0.0,0.0
-3044,Evgeniy Gapon,Khimki,-,-,-,-,-,-,-,0.0,-,0.0
+5952,Arsen Adamov,FK Akhmat,-,0.0,-,-,-,0.0,-,-,-,0.0
 7307,Lechii Sadulaev,FK Akhmat,0.0,0.0,-,-,-,0.0,-,0.0,0.0,0.0
-8471,Vladimir Kabakhidze,FC Tambov,0.0,-,-,0.0,-,-,-,-,-,0.0
-8609,Aleksandr Golovnya,FC Tambov,-,-,-,0.0,-,-,-,-,-,0.0
-7449,Leon Musaev,Zenit St. Petersburg,0.0,-,-,-,-,-,-,-,0.0,0.0
-3071,Mikhail Kerzhakov,Zenit St. Petersburg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 5495,Jimmy Tabidze,FC Ufa,0.0,-,-,-,-,-,0.0,0.0,0.0,0.0
-3192,Ilya Lantratov,Khimki,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
-8603,Andrei Murnin,Khimki,-,0.0,-,-,0.0,0.0,0.0,-,-,0.0
-6772,Gamid Agalarov,FC Ufa,0.0,-,-,0.0,0.0,-,-,-,0.0,0.0
-7653,Beka Mikeltadze,FC Rotor Volgograd,0.0,-,-,0.0,-,-,0.0,-,-,0.0
-8681,Josip Condric,FC Rotor Volgograd,-,-,-,-,-,-,0.0,-,-,0.0
-8625,Patricio Matricardi,FC Rotor Volgograd,-,-,-,-,-,-,0.0,-,-,0.0
+2908,Dmitri Sysuev,FC Ufa,-,-,-,-,-,-,-,0.0,0.0,0.0
+2784,Denis Terentjev,Zenit St. Petersburg,-,-,-,-,-,-,0.0,-,-,0.0
+3071,Mikhail Kerzhakov,Zenit St. Petersburg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7449,Leon Musaev,Zenit St. Petersburg,0.0,-,-,-,-,-,-,-,0.0,0.0
+13,Konstantin Rausch,Dinamo Moscow,-,-,-,-,-,-,-,-,0.0,0.0
+2755,Gregory Morozov,Dinamo Moscow,0.0,-,-,-,0.0,0.0,-,-,-,0.0
+8627,Aleksandr Smirnov,FC Rostov,-,-,-,-,0.0,-,-,-,-,0.0
+8623,David Tosevski,FC Rostov,-,0.0,0.0,0.0,-,0.0,0.0,-,-,0.0
+8611,Konstantin Kovalev,FC Rostov,-,-,0.0,-,-,-,-,-,-,0.0
+2786,Nikita Medvedev,Rubin Kazan,-,-,-,-,-,-,0.0,0.0,-,0.0
+2889,Viktor Vasin,CSKA Moscow,-,-,0.0,0.0,-,-,-,-,-,0.0
+6807,Jaka Bijol,CSKA Moscow,0.0,0.0,0.0,-,-,0.0,0.0,-,-,0.0
 7769,Vadim Karpov,CSKA Moscow,0.0,0.0,-,-,-,-,0.0,0.0,0.0,0.0
 8675,Bruno Fuchs,CSKA Moscow,-,-,-,-,-,0.0,-,-,-,0.0
 2718,Dmitriy Tarasov,Rubin Kazan,0.0,0.0,0.0,-,0.0,-,-,-,-,0.0
 2773,Pavel Mogilevets,Rubin Kazan,-,0.0,-,-,-,-,-,-,-,0.0
-2786,Nikita Medvedev,Rubin Kazan,-,-,-,-,-,-,0.0,0.0,-,0.0
-8615,Azat Bayryev,FC Rotor Volgograd,0.0,0.0,0.0,0.0,0.0,0.0,-,-,-,0.0
 6769,Yuri Dyupin,Rubin Kazan,0.0,0.0,0.0,0.0,0.0,0.0,-,-,0.0,0.0
+7639,Aleksandr Dolgov,FC Rostov,0.0,-,-,-,-,0.0,0.0,0.0,-,0.0
 8559,Nikita Belousov,FC Ufa,0.0,-,-,-,0.0,-,-,-,-,0.0
-7657,Evgeni Pesegov,FC Rotor Volgograd,0.0,0.0,0.0,0.0,0.0,-,0.0,-,-,0.0
-7635,Danila Emelyanov,FC Ufa,-,0.0,-,-,-,0.0,-,0.0,-,0.0
-8355,Nikita Chagrov,FC Tambov,-,-,-,-,-,-,-,-,0.0,0.0
 2808,Sergey Pesjakov,FC Rostov,0.0,0.0,0.0,-,0.0,0.0,0.0,-,-,0.0
-5911,Aleksandr Dovbnya,FC Rotor Volgograd,0.0,0.0,0.0,0.0,0.0,0.0,-,-,-,0.0
 2895,Arseni Logashov,FC Rostov,-,-,-,-,0.0,0.0,-,0.0,-,0.0
 4628,Egor Baburin,FC Rostov,-,-,-,0.0,-,-,-,0.0,-,0.0
+7635,Danila Emelyanov,FC Ufa,-,0.0,-,-,-,0.0,-,0.0,-,0.0
 7638,Dmitriy Chistyakov,FC Rostov,-,-,-,-,-,-,-,0.0,-,0.0
-7639,Aleksandr Dolgov,FC Rostov,0.0,-,-,-,-,0.0,0.0,0.0,-,0.0
-8611,Konstantin Kovalev,FC Rostov,-,-,0.0,-,-,-,-,-,-,0.0
-8623,David Tosevski,FC Rostov,-,0.0,0.0,0.0,-,0.0,0.0,-,-,0.0
-8627,Aleksandr Smirnov,FC Rostov,-,-,-,-,0.0,-,-,-,-,0.0
-8673,Danil Kazantsev,Khimki,-,-,-,-,0.0,-,0.0,0.0,-,0.0
-8605,Gela Zaseev,Khimki,-,-,-,-,0.0,-,-,-,-,0.0
+2758,Anton Shunin,Dinamo Moscow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6680,Vladimir Moskvichev,Dinamo Moscow,-,-,0.0,-,-,-,-,-,-,0.0
+3067,Artur Yusupov,PFC Sochi,-,-,-,-,-,-,0.0,0.0,0.0,0.0
 2724,Aleksandr Belenov,FC Ufa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8344,Nikolai Zolotov,Ural,-,-,-,-,0.0,0.0,0.0,0.0,-,0.0
 3081,Aleksandr Maksimenko,Spartak Moscow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2755,Gregory Morozov,Dinamo Moscow,0.0,-,-,-,0.0,0.0,-,-,-,0.0
-6795,Egor Shamov,Arsenal Tula,0.0,0.0,-,0.0,-,-,-,-,-,0.0
-2766,Soslan Dzhanaev,PFC Sochi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5480,Matvey Safonov,FC Krasnodar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
-2889,Viktor Vasin,CSKA Moscow,-,-,0.0,0.0,-,-,-,-,-,0.0
-8782,Eduard Spertsyan,FC Krasnodar,-,-,-,-,-,-,0.0,-,-,0.0
-2869,Reziuan Mirzov,Spartak Moscow,-,-,-,-,-,0.0,-,-,-,0.0
-3023,Andrey Eshchenko,Spartak Moscow,-,0.0,-,0.0,0.0,0.0,-,0.0,0.0,0.0
-7192,Pavel Maslov,Spartak Moscow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
-8370,Roman Minaev,Arsenal Tula,-,-,-,-,0.0,-,0.0,-,-,0.0
-7669,Aleksandr Dovbnya,Arsenal Tula,0.0,-,0.0,-,-,0.0,-,-,-,0.0
-7628,Lameck Banda,Arsenal Tula,-,-,0.0,-,-,0.0,-,-,-,0.0
-2871,Yaroslav Godzyur,Ural,0.0,0.0,-,-,-,-,-,-,-,0.0
-3105,Egor Sorokin,FC Krasnodar,-,-,-,0.0,0.0,-,-,-,-,0.0
-3085,Yuri Bavin,Ural,0.0,-,0.0,-,0.0,-,-,0.0,0.0,0.0
-5933,Artur Nigmatullin,Arsenal Tula,-,-,0.0,0.0,0.0,0.0,0.0,-,-,0.0
-5379,Aleksandr Denisov,Arsenal Tula,0.0,-,0.0,-,-,-,-,-,-,0.0
-5376,Guram Adzhoev,Arsenal Tula,-,-,-,0.0,-,-,0.0,-,0.0,0.0
-5375,Mihail Levashov,Arsenal Tula,-,-,-,-,-,-,-,0.0,0.0,0.0
 5368,Gia Grigalava,Arsenal Tula,0.0,0.0,-,-,-,-,-,-,-,0.0
-3181,Ilya Pomazun,Ural,-,-,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5528,Chingiz Magomadov,Ural,-,-,-,-,-,-,-,-,0.0,0.0
-6598,Igor Kalinin,Ural,0.0,0.0,0.0,0.0,0.0,-,-,-,0.0,0.0
-7634,Artem Shabolin,Ural,0.0,-,-,-,0.0,0.0,0.0,-,-,0.0
+5375,Mihail Levashov,Arsenal Tula,-,-,-,-,-,-,-,0.0,0.0,0.0
+5376,Guram Adzhoev,Arsenal Tula,-,-,-,0.0,-,-,0.0,-,0.0,0.0
+5379,Aleksandr Denisov,Arsenal Tula,0.0,-,0.0,-,-,-,-,-,-,0.0
+5933,Artur Nigmatullin,Arsenal Tula,-,-,0.0,0.0,0.0,0.0,0.0,-,-,0.0
+6795,Egor Shamov,Arsenal Tula,0.0,0.0,-,0.0,-,-,-,-,-,0.0
+7628,Lameck Banda,Arsenal Tula,-,-,0.0,-,-,0.0,-,-,-,0.0
+7669,Aleksandr Dovbnya,Arsenal Tula,0.0,-,0.0,-,-,0.0,-,-,-,0.0
+8370,Roman Minaev,Arsenal Tula,-,-,-,-,0.0,-,0.0,-,-,0.0
+3023,Andrey Eshchenko,Spartak Moscow,-,0.0,-,0.0,0.0,0.0,-,0.0,0.0,0.0
+2766,Soslan Dzhanaev,PFC Sochi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2768,Ivan Novoseltsev,PFC Sochi,0.0,-,0.0,-,0.0,-,-,-,0.0,0.0
 2817,Ivelin Popov,PFC Sochi,-,-,-,-,0.0,-,-,-,-,0.0
-2758,Anton Shunin,Dinamo Moscow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
-8906,Egor Prutsev,PFC Sochi,-,-,-,-,-,-,-,-,0.0,0.0
-2763,Anton Terekhov,Dinamo Moscow,-,-,0.0,0.0,-,-,-,-,-,0.0
-8344,Nikolai Zolotov,Ural,-,-,-,-,0.0,0.0,0.0,0.0,-,0.0
-6680,Vladimir Moskvichev,Dinamo Moscow,-,-,0.0,-,-,-,-,-,-,0.0
-8376,Igor Shkolnik,Dinamo Moscow,-,-,-,-,-,-,0.0,-,-,0.0
-4614,Soslan Takasov,FC Tambov,-,-,-,-,-,-,-,0.0,0.0,0.0
-2962,Sergei Ryzhikov,FC Tambov,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
+7634,Artem Shabolin,Ural,0.0,-,-,-,0.0,0.0,0.0,-,-,0.0
+6598,Igor Kalinin,Ural,0.0,0.0,0.0,0.0,0.0,-,-,-,0.0,0.0
+5528,Chingiz Magomadov,Ural,-,-,-,-,-,-,-,-,0.0,0.0
+8365,Oston Urunov,Spartak Moscow,-,-,-,-,-,0.0,0.0,0.0,0.0,0.0
+8376,Igor Shkolnik,Dinamo Moscow,-,-,-,-,-,-,0.0,-,0.0,0.0
 18,Slobodan Rajkovic,Lokomotiv Moscow,-,-,-,-,-,0.0,-,-,-,0.0
 2703,Guilherme,Lokomotiv Moscow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2745,Dmitry Zhivoglyadov,Lokomotiv Moscow,0.0,0.0,0.0,-,-,-,0.0,0.0,0.0,0.0
-2811,Ilya Kutepov,Spartak Moscow,-,-,-,-,-,-,-,0.0,0.0,0.0
-8714,Danil Prutsev,PFC Sochi,-,-,-,-,-,-,0.0,0.0,0.0,0.0
-2975,Ruslan Kambolov,FC Krasnodar,-,-,0.0,-,-,-,-,-,-,0.0
-8546,Anatoliy Nemchenko,PFC Sochi,0.0,-,-,-,-,-,-,-,-,0.0
-8391,Andrey Bokovoy,PFC Sochi,-,0.0,-,-,-,-,-,-,-,0.0
 8503,Mikhail Ageev,Lokomotiv Moscow,0.0,-,-,-,-,-,-,-,-,0.0
-7685,Akmal Bakhtiyarov,PFC Sochi,-,-,0.0,-,-,-,-,-,-,0.0
 8586,Nikita Iosifov,Lokomotiv Moscow,0.0,-,-,-,-,-,-,-,-,0.0
-8365,Oston Urunov,Spartak Moscow,-,-,-,-,-,0.0,0.0,0.0,0.0,0.0
-7771,Guus Til,Spartak Moscow,-,-,-,0.0,0.0,0.0,-,-,-,0.0
-3067,Artur Yusupov,PFC Sochi,-,-,-,-,-,-,0.0,0.0,0.0,0.0
-2876,Igor Akinfeev,CSKA Moscow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-6807,Jaka Bijol,CSKA Moscow,0.0,0.0,0.0,-,-,0.0,0.0,-,-,0.0
+2975,Ruslan Kambolov,FC Krasnodar,-,-,0.0,-,-,-,-,-,-,0.0
+3181,Ilya Pomazun,Ural,-,-,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3105,Egor Sorokin,FC Krasnodar,-,-,-,0.0,0.0,-,-,-,-,0.0
+5480,Matvey Safonov,FC Krasnodar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
+8782,Eduard Spertsyan,FC Krasnodar,-,-,-,-,-,-,0.0,-,-,0.0
+7192,Pavel Maslov,Spartak Moscow,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
+2871,Yaroslav Godzyur,Ural,0.0,0.0,-,-,-,-,-,-,-,0.0
+3085,Yuri Bavin,Ural,0.0,-,0.0,-,0.0,-,-,0.0,0.0,0.0
 8929,Kirill Dontsov,FC Rotor Volgograd,-,-,-,-,-,-,0.0,-,-,0.0
