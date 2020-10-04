@@ -1,19 +1,19 @@
-team,1,2,total
-Wolfsburg,0.6294,0.3797,1.0091
-Bayern Munich,0.8586,0.0341,0.8927
-FC Cologne,0.0091,0.8473,0.8564
-Freiburg,0.077,0.6476,0.7246
-Hertha Berlin,0.6019,0.0917,0.6936
-Borussia Dortmund,0.5617,0.1222,0.6839
-Eintracht Frankfurt,0.5227,0.1412,0.6639
-RasenBallsport Leipzig,0.2648,0.3329,0.5977
-Borussia M.Gladbach,0.0788,0.4485,0.5273
-Augsburg,0.2964,0.1842,0.4806
-Bayer Leverkusen,0.1948,0.216,0.4108
-Union Berlin,0.1612,0.1587,0.3199
-VfB Stuttgart,0.0495,0.2628,0.3123
-Hoffenheim,0.0082,0.2704,0.2786
-Werder Bremen,0.0882,0.1083,0.1965
-Arminia Bielefeld,0.0278,0.1332,0.161
-Mainz 05,0.0146,0.0127,0.0273
-Schalke 04,0.0019,0.0101,0.012
+team,1,2,3,total
+RasenBallsport Leipzig,0.2648,0.3329,0.797,1.3947
+Borussia M.Gladbach,0.0788,0.4485,0.7787,1.306
+Borussia Dortmund,0.5617,0.1222,0.5949,1.2788
+Union Berlin,0.1612,0.1587,0.8238,1.1437
+Eintracht Frankfurt,0.5227,0.1412,0.4446,1.1085
+Bayern Munich,0.8586,0.0341,0.2114,1.1041
+Wolfsburg,0.6294,0.3797,0.0676,1.0767
+FC Cologne,0.0091,0.8473,0.0567,0.9131
+Arminia Bielefeld,0.0278,0.1332,0.6983,0.8593
+Bayer Leverkusen,0.1948,0.216,0.4112,0.822
+Freiburg,0.077,0.6476,0.0117,0.7363
+Augsburg,0.2964,0.1842,0.2219,0.7025
+Hertha Berlin,0.6019,0.0917,0.0019,0.6955
+Werder Bremen,0.0882,0.1083,0.2925,0.489
+VfB Stuttgart,0.0495,0.2628,0.1336,0.4459
+Hoffenheim,0.0082,0.2704,0.0011,0.2797
+Mainz 05,0.0146,0.0127,0.0809,0.1082
+Schalke 04,0.0019,0.0101,0.0113,0.0233
