@@ -1,6 +1,7 @@
 id,name,team,1,2,3,4,5,6,total
 3746,Gaetan Laborde,Montpellier,0,0,0,3,1,0,4
 3423,Kylian Mbappe-Lottin,Paris Saint Germain,-,-,-,0,2,1,3
+942,Florian Thauvin,Marseille,2,0,0,0,0,1,3
 5684,Arnaud Nordin,Saint-Etienne,2,0,1,0,0,0,3
 6500,Romain Perraud,Brest,-,0,1,1,0,0,2
 6401,Amine Gouiri,Nice,0,0,1,0,0,1,2
@@ -14,9 +15,8 @@ id,name,team,1,2,3,4,5,6,total
 3530,Andy Delort,Montpellier,-,2,0,0,0,0,2
 8026,Raphinha,Rennes,0,0,1,0,1,0,2
 6905,Ludovic Ajorque,Strasbourg,1,0,0,0,1,0,2
+3696,Morgan Sanson,Marseille,1,-,0,1,0,0,2
 3721,Romain Del Castillo,Rennes,0,0,1,0,1,0,2
-3696,Morgan Sanson,Marseille,1,-,0,1,0,-,2
-942,Florian Thauvin,Marseille,2,0,0,0,0,-,2
 8656,Birger Meling,Nimes,1,0,1,-,0,0,2
 7773,Zinedine Ferhat,Nimes,1,0,0,0,0,1,2
 5762,Pierre-Yves Hamel,Lorient,0,0,-,1,1,0,2
@@ -34,10 +34,10 @@ id,name,team,1,2,3,4,5,6,total
 7397,Arbër Zeneli,Reims,0,0,0,0,0,1,1
 8314,Yvann Maçon,Saint-Etienne,0,0,1,0,0,0,1
 3244,Nicolas de Preville,Bordeaux,0,0,0,0,0,1,1
-7160,Nemanja Radonjic,Marseille,0,0,-,0,1,-,1
+7160,Nemanja Radonjic,Marseille,0,0,-,0,1,0,1
 5978,Dmitri Lienard,Strasbourg,-,0,0,1,0,0,1
-536,Dimitri Payet,Marseille,-,1,0,0,0,-,1
 8294,El Bilal Touré,Reims,1,0,0,0,0,0,1
+536,Dimitri Payet,Marseille,-,1,0,0,0,0,1
 6762,Yacine Adli,Bordeaux,-,-,0,1,0,0,1
 6019,Angelo Fulgini,Angers,0,0,0,1,0,0,1
 2549,Gaël Kakuta,Lens,0,0,0,0,1,0,1
@@ -55,7 +55,7 @@ id,name,team,1,2,3,4,5,6,total
 8278,Papa Ndiaga Yade,Metz,0,0,-,1,0,0,1
 7850,Henry Onyekuru,Monaco,0,0,1,0,-,-,1
 3479,Marcus Coco,Nantes,0,1,-,0,0,0,1
-8327,Bruno Guimarães,Lyon,0,0,0,0,1,-,1
+8327,Bruno Guimarães,Lyon,0,0,0,0,1,0,1
 6869,Antonin Bobichon,Angers,-,0,1,0,0,-,1
 6674,Rayan Ait Nouri,Angers,-,-,-,0,1,0,1
 5623,Lois Diony,Angers,-,-,0,0,1,0,1
@@ -71,8 +71,8 @@ id,name,team,1,2,3,4,5,6,total
 3738,Sehrou Guirassy,Rennes,-,0,0,0,0,1,1
 8310,Mitchel Bakker,Paris Saint Germain,0,-,0,0,0,1,1
 5704,Xeka,Lille,1,0,-,-,0,0,1
-5611,Martin Terrier,Rennes,0,0,-,1,0,-,1
 5655,Flavien Tait,Rennes,0,-,1,0,0,0,1
+5611,Martin Terrier,Rennes,0,0,-,1,0,-,1
 5635,Faitout Maouassa,Rennes,0,1,0,0,-,-,1
 2199,Pablo Sarabia,Paris Saint Germain,0,0,0,0,0,1,1
 8637,Burak Yilmaz,Lille,0,1,0,0,0,0,1
@@ -89,11 +89,11 @@ id,name,team,1,2,3,4,5,6,total
 3517,Ronael Pierre Gabriel,Brest,0,0,0,-,0,0,0
 3741,Paul Lasne,Brest,-,-,-,-,0,0,0
 3464,Vincent Le Goff,Lorient,0,0,0,0,0,0,0
-8702,Tinotenda Kadewere,Lyon,-,0,0,0,0,-,0
+8702,Tinotenda Kadewere,Lyon,-,0,0,0,0,0,0
 5742,Hugo Magnetti,Brest,-,0,-,-,-,0,0
-8190,Melvin Bard,Lyon,0,-,0,0,0,-,0
-8094,Mathis Cherki,Lyon,0,0,0,0,0,-,0
-8703,Sinaly Diomande,Lyon,-,-,-,0,0,-,0
+8190,Melvin Bard,Lyon,0,-,0,0,0,0,0
+8094,Mathis Cherki,Lyon,0,0,0,0,0,0,0
+8703,Sinaly Diomande,Lyon,-,-,-,0,0,0,0
 4882,Laurent Abergel,Lorient,0,0,0,0,0,0,0
 3509,Fabien Lemoine,Lorient,0,0,0,0,0,0,0
 8652,Stéphane Diarra,Lorient,0,0,0,0,-,0,0
@@ -112,10 +112,10 @@ id,name,team,1,2,3,4,5,6,total
 6865,Umut Bozok,Lorient,-,0,0,0,-,0,0
 6615,Trevoh Chalobah,Lorient,-,-,0,-,-,-,0
 3314,Franck Honorat,Brest,0,0,-,0,0,0,0
-7328,Maxence Caqueret,Lyon,0,0,0,0,-,-,0
+7328,Maxence Caqueret,Lyon,0,0,0,0,-,0,0
 7687,Jean Lucas,Lyon,-,-,0,0,0,-,0
 5998,Christophe Herelle,Brest,-,-,0,0,0,-,0
-7142,Moussa Dembele,Lyon,0,0,0,0,0,-,0
+7142,Moussa Dembele,Lyon,0,0,0,0,0,0,0
 6882,Ghislain Konan,Reims,0,0,0,0,0,0,0
 7719,Nathanael Mbuku,Reims,-,-,-,-,0,0,0
 7718,Predrag Rajkovic,Reims,0,0,0,0,0,0,0
@@ -139,21 +139,21 @@ id,name,team,1,2,3,4,5,6,total
 8003,Dario Maresic,Reims,-,0,0,0,0,-,0
 7732,Haris Belkebla,Brest,0,0,0,0,0,0,0
 8312,Kaj Sierhuis,Reims,0,0,-,0,-,0,0
-6011,Thiago Mendes,Lyon,-,0,-,-,0,-,0
+6011,Thiago Mendes,Lyon,-,0,-,-,0,0,0
 7913,Lamine Fomba,Nimes,0,-,0,0,0,0,0
 6736,Ibrahima Diallo,Brest,0,0,0,0,0,-,0
 5973,Kenny Tete,Lyon,0,-,-,-,-,-,0
-5733,Houssem Aouar,Lyon,-,0,0,-,0,-,0
 5708,Fernando Marçal,Lyon,0,-,-,-,-,-,0
-5657,Karl Toko Ekambi,Lyon,0,0,0,0,-,-,0
-3278,Maxwel Cornet,Lyon,0,0,0,0,0,-,0
-3269,Anthony Lopes,Lyon,0,0,0,0,0,-,0
+5657,Karl Toko Ekambi,Lyon,0,0,0,0,-,0,0
+3278,Maxwel Cornet,Lyon,0,0,0,0,0,0,0
+3269,Anthony Lopes,Lyon,0,0,0,0,0,0,0
 1056,Jeff Reine-Adelaide,Lyon,0,-,-,-,-,-,0
+1039,Jason Denayer,Lyon,0,0,0,0,0,0,0
 7728,Gautier Larsonneur,Brest,0,0,0,0,0,0,0
-1039,Jason Denayer,Lyon,0,0,0,0,0,-,0
-93,Marcelo,Lyon,0,0,0,0,0,-,0
-3412,Léo Dubois,Lyon,0,0,0,0,0,-,0
-555,Memphis Depay,Lyon,0,0,0,0,0,-,0
+93,Marcelo,Lyon,0,0,0,0,0,0,0
+5733,Houssem Aouar,Lyon,-,0,0,-,0,0,0
+3412,Léo Dubois,Lyon,0,0,0,0,0,0,0
+555,Memphis Depay,Lyon,0,0,0,0,0,0,0
 8648,Fraser Hornby,Reims,-,0,0,-,0,-,0
 8646,Wout Faes,Reims,0,0,0,-,-,0,0
 8783,Marco Ludivin Majouga,Nimes,-,-,-,-,0,-,0
@@ -187,8 +187,8 @@ id,name,team,1,2,3,4,5,6,total
 6904,Ibrahima Sissoko,Strasbourg,0,0,0,0,0,0,0
 6380,Anthony Caci,Strasbourg,-,0,0,0,-,0,0
 6318,Lionel Carole,Strasbourg,0,0,-,0,0,0,0
-6128,Kévin Zohi,Strasbourg,0,0,0,-,0,0,0
 6864,Renaud Ripart,Nimes,0,0,0,0,0,0,0
+6128,Kévin Zohi,Strasbourg,0,0,0,-,0,0,0
 5979,Idriss Saadi,Strasbourg,0,0,0,0,0,0,0
 5974,Bingourou Kamara,Strasbourg,-,-,0,0,0,0,0
 4242,Stefan Mitrovic,Strasbourg,0,-,0,0,0,0,0
@@ -251,22 +251,22 @@ id,name,team,1,2,3,4,5,6,total
 5677,Florent Mollet,Montpellier,0,-,0,0,0,0,0
 5647,Arnaud Souquet,Montpellier,0,0,0,0,-,0,0
 3338,Daniel Congré,Montpellier,0,0,0,0,0,0,0
-8696,Pape Alassane Gueye,Marseille,0,0,-,0,0,-,0
+8696,Pape Alassane Gueye,Marseille,0,0,-,0,0,0,0
 8037,Marley Aké,Marseille,0,-,0,0,-,-,0
-7716,Darío Benedetto,Marseille,0,0,-,0,0,-,0
+7716,Darío Benedetto,Marseille,0,0,-,0,0,0,0
 7486,Leonardo Balerdi,Marseille,0,-,0,-,-,-,0
 6745,Christopher Rocchia,Marseille,-,-,0,-,-,-,0
-5789,Boubacar Kamara,Marseille,0,0,0,0,0,-,0
+5789,Boubacar Kamara,Marseille,0,0,0,0,0,0,0
 5737,Saif-Eddine Khaoui,Marseille,-,-,-,-,0,-,0
-3772,Maxime Lopez,Marseille,-,0,0,-,0,-,0
-3673,Valentin Rongier,Marseille,0,0,0,0,0,-,0
+3772,Maxime Lopez,Marseille,-,0,0,-,0,0,0
+3673,Valentin Rongier,Marseille,0,0,0,0,0,0,0
 3393,Bouna Sarr,Marseille,-,-,0,0,-,-,0
-2430,Álvaro González,Marseille,-,0,0,0,0,-,0
-1670,Steve Mandanda,Marseille,0,0,0,0,0,-,0
+2430,Álvaro González,Marseille,-,0,0,0,0,0,0
+1670,Steve Mandanda,Marseille,0,0,0,0,0,0,0
 1506,Yuto Nagatomo,Marseille,-,-,-,0,0,-,0
 1256,Kevin Strootman,Marseille,0,0,0,-,-,-,0
-961,Jordan Amavi,Marseille,0,0,-,-,-,-,0
-92,Hiroki Sakai,Marseille,0,0,0,0,0,-,0
+961,Jordan Amavi,Marseille,0,0,-,-,-,0,0
+92,Hiroki Sakai,Marseille,0,0,0,0,0,0,0
 3309,Valère Germain,Marseille,0,0,0,0,0,-,0
 3118,Damien Le Tallec,Montpellier,0,0,0,0,0,0,0
 3221,Pedro Mendes,Montpellier,0,0,0,0,0,0,0
@@ -292,7 +292,7 @@ id,name,team,1,2,3,4,5,6,total
 7484,Stephy Mavididi,Montpellier,-,0,0,0,0,0,0
 6007,Nicolas Cozza,Montpellier,-,-,-,0,-,-,0
 5663,Keagan Dolly,Montpellier,0,0,-,-,-,-,0
-7007,Duje Caleta-Car,Marseille,0,0,0,0,0,-,0
+7007,Duje Caleta-Car,Marseille,0,0,0,0,0,0,0
 7511,Sacha Boey,Rennes,0,-,-,-,-,0,0
 6060,Otávio,Bordeaux,0,0,0,0,0,-,0
 6937,Georginio Rutter,Rennes,-,-,-,-,0,-,0
