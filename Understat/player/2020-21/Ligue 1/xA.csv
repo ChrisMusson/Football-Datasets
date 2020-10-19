@@ -1,441 +1,475 @@
-id,name,team,1,2,3,4,5,6,total
-3553,Ángel Di María,Paris Saint Germain,-,0.0113,0.9824,1.5566,0.4822,-,3.0325
-2549,Gaël Kakuta,Lens,0.172,0.6454,0.1169,0.9797,0.7404,0.0884,2.7428
-942,Florian Thauvin,Marseille,1.2325,0.0,0.6644,0.1178,0.0875,0.3315,2.4337
-3412,Léo Dubois,Lyon,0.239,0.342,0.4645,0.4977,0.2938,0.1277,1.9647
-3423,Kylian Mbappe-Lottin,Paris Saint Germain,-,-,-,0.0,1.158,0.6687,1.8267
-3696,Morgan Sanson,Marseille,0.0447,-,0.8607,0.5629,0.1284,0.0,1.5967
-555,Memphis Depay,Lyon,0.2919,0.0,0.1206,0.4488,0.0764,0.6131,1.5508
-6884,Remi Oudin,Bordeaux,0.0,0.7841,0.0,0.1396,0.021,0.5576,1.5023
-8651,Enzo Le Fée,Lorient,1.0803,0.0712,0.0,0.2439,0.0,0.0624,1.4578
-2199,Pablo Sarabia,Paris Saint Germain,0.0,0.6778,0.0,0.0,0.3304,0.4392,1.4474
-3746,Gaetan Laborde,Montpellier,0.0,0.0,0.0598,0.8315,0.488,0.0,1.3793
-3721,Romain Del Castillo,Rennes,0.6031,0.0,0.3309,0.0242,0.4001,0.0,1.3583
-8026,Raphinha,Rennes,0.0,0.3735,0.0778,0.0,0.2954,0.5814,1.3281
-3348,Florian Sotoca,Lens,0.8885,0.0,0.4007,0.0,0.0287,0.0,1.3179
-5745,Matthieu Udol,Metz,0.2705,0.0924,-,0.6151,0.2819,0.0491,1.309
-5743,Randal Kolo Muani,Nantes,-,0.4566,0.6248,0.0642,0.112,0.0226,1.2802
-3278,Maxwel Cornet,Lyon,0.3821,0.1347,0.6024,0.0,0.0,0.155,1.2742
-6401,Amine Gouiri,Nice,0.0,0.0,0.0582,0.4921,0.1978,0.5182,1.2663
-3495,Pierrick Capelle,Angers,0.0718,0.0193,0.0,0.1403,0.6188,0.3981,1.2483
-1254,Alessandro Florenzi,Paris Saint Germain,-,1.2391,-,0.0,0.0,0.0,1.2391
-83,Kevin Volland,Monaco,-,-,0.0,0.0,1.2141,0.0,1.2141
-6019,Angelo Fulgini,Angers,0.0999,0.0545,0.3771,0.1286,0.0808,0.3694,1.1103
-8637,Burak Yilmaz,Lille,0.0,0.0229,0.2352,0.0166,0.0,0.8347,1.1094
-6560,Aurelien Tchouameni,Monaco,0.8261,0.0,0.2265,0.0,0.0409,-,1.0935
-7729,Julien Faussurier,Brest,0.0732,0.7549,0.2212,0.0442,-,-,1.0935
-6239,Junior Sambia,Montpellier,0.0,0.1763,0.0,0.4285,0.4597,0.0,1.0645
-6420,Romain Faivre,Brest,0.2271,0.0,0.1157,0.0322,0.5681,0.1135,1.0566
-536,Dimitri Payet,Marseille,-,0.4134,0.3797,0.0769,0.1702,0.0,1.0402
-1513,Mauro Icardi,Paris Saint Germain,-,-,0.1129,0.0771,0.7255,0.0946,1.0101
-8689,Yvan Neyou,Saint-Etienne,0.0,0.0,0.0565,0.9215,0.0,0.0,0.978
-6863,Téji Savanier,Montpellier,0.0,0.1566,0.1048,0.2125,0.3606,0.1223,0.9568
-3243,Gaëtan Charbonnier,Brest,0.0,0.4493,0.4537,0.027,0.0,0.0,0.93
-5975,Kenny Lala,Strasbourg,0.0,0.0102,0.475,0.1282,0.076,0.2287,0.9181
-7773,Zinedine Ferhat,Nimes,0.1376,0.3113,0.0,0.05,0.0245,0.3739,0.8973
-8636,Jonathan Christian David,Lille,0.0,0.0379,0.0814,0.5921,0.1611,0.0,0.8725
-3314,Franck Honorat,Brest,0.0486,0.2399,-,0.5262,0.0524,0.0,0.8671
-5757,Farid Boulaya,Metz,0.1182,-,0.4313,0.3068,0.0,-,0.8563
-4849,Sada Thioub,Angers,0.5034,0.1093,0.0,0.1506,0.077,0.0,0.8403
-3244,Nicolas de Preville,Bordeaux,0.5752,0.0,0.0,0.0,0.0949,0.1701,0.8402
-3729,Hassane Kamara,Nice,0.0679,0.0,0.0987,0.1381,0.0695,0.4521,0.8263
-2099,Neymar,Paris Saint Germain,-,0.0,-,-,0.418,0.3998,0.8178
-3530,Andy Delort,Montpellier,-,0.6485,0.0,0.0,0.0,0.1687,0.8172
-4773,Benjamin Bourigeaud,Rennes,0.0251,0.0232,0.4385,0.0,0.3013,0.0119,0.8
-8278,Papa Ndiaga Yade,Metz,0.038,0.0,-,0.635,0.1256,0.0,0.7986
-3370,Issiaga Sylla,Lens,0.2524,0.5265,0.0,0.0127,0.0,-,0.7916
-3463,Romain Philippoteaux,Nimes,0.7451,0.0145,0.0176,-,-,-,0.7772
-6872,Mehmet Zeki Çelik,Lille,0.0152,0.0,0.0,0.0,0.6596,0.0817,0.7565
-3738,Sehrou Guirassy,Rennes,-,0.0,0.0,0.0628,0.1502,0.5337,0.7467
-3463,Romain Philippoteaux,Brest,0.7451,-,-,-,0.0,-,0.7451
-6006,Ruben Aguilar,Monaco,0.4149,0.0,0.1197,0.0796,0.0832,0.0438,0.7412
-3552,Marco Verratti,Paris Saint Germain,0.118,0.0,-,0.0545,0.5105,0.0536,0.7366
-5978,Dmitri Lienard,Strasbourg,-,0.0,0.1265,0.423,0.0508,0.132,0.7323
-7763,Fabien Centonze,Metz,0.0,0.5899,0.0405,0.0,0.0582,0.0344,0.723
-8697,Jonathan Clauss,Lens,-,-,0.3599,0.0,0.1207,0.2254,0.706
-5657,Karl Toko Ekambi,Lyon,0.118,0.1131,0.0,0.0,-,0.4623,0.6934
-6500,Romain Perraud,Brest,-,0.075,0.5065,0.0587,0.0507,0.0,0.6909
-7551,Mohamed Simakan,Strasbourg,0.0,0.0,0.0,0.6537,0.0,0.0361,0.6898
-3521,Dennis Appiah,Nantes,0.0,0.0,0.3039,0.3181,0.0,0.0646,0.6866
-2897,Aleksandr Golovin,Monaco,0.6706,0.0,-,-,-,-,0.6706
-7397,Arbër Zeneli,Reims,0.0,0.0,0.0,0.0576,0.0313,0.5806,0.6695
-494,Laurent Koscielny,Bordeaux,0.0,0.5668,0.1014,0.0,0.0,0.0,0.6682
-6905,Ludovic Ajorque,Strasbourg,0.1045,0.0,0.0578,0.097,0.32,0.0871,0.6664
-5774,Clement Michelin,Lens,0.5517,0.1059,0.0,-,-,-,0.6576
-7746,Hwang Ui-Jo,Bordeaux,0.0,0.5088,0.0,0.0,0.139,0.0,0.6478
-5704,Xeka,Lille,0.3186,0.3236,-,-,0.0,0.0,0.6422
-1054,Bersant Celina,Dijon,-,-,0.0,0.0,0.5813,0.0583,0.6396
-6883,Xavier Chavalerin,Reims,0.3062,0.0,0.0917,0.0659,0.0675,0.0928,0.6241
-152,Julian Draxler,Paris Saint Germain,-,0.0,0.4819,0.1151,0.0,0.0197,0.6167
-8629,Aurelien Scheidler,Dijon,0.4267,0.0691,-,0.0868,-,0.0,0.5826
-7142,Moussa Dembele,Lyon,0.0,0.3565,0.0293,0.0,0.1962,0.0,0.582
-5655,Flavien Tait,Rennes,0.0,-,0.5069,0.0521,0.0216,0.0,0.5806
-8656,Birger Meling,Nimes,0.3969,0.0581,0.0927,-,0.0,0.0303,0.578
-5686,Digbo Maiga,Metz,0.0,0.0,0.0699,0.0,0.4254,0.0824,0.5777
-3509,Fabien Lemoine,Lorient,0.0,0.0,0.0,0.5772,0.0,0.0,0.5772
-3210,Wissam Ben Yedder,Monaco,0.0329,0.0,0.4924,0.0488,0.0,0.0,0.5741
-8327,Bruno Guimarães,Lyon,0.3611,0.0146,0.0,0.0387,0.0592,0.0916,0.5652
-3749,Jonathan Bamba,Lille,0.0228,0.0,0.0766,0.1614,0.0,0.2997,0.5605
-5947,Mihailo Ristic,Montpellier,0.0,0.3043,0.1416,0.0,0.0213,0.0887,0.5559
-7278,Imran Louza,Nantes,0.0311,0.5232,-,-,0.0,0.0,0.5543
-8632,Enzo Ebosse,Angers,0.5377,-,-,0.0,0.0,0.0,0.5377
-7762,Jean-Ricner Bellegarde,Strasbourg,0.0,0.0,0.0,0.4064,0.0,0.1282,0.5346
-8294,El Bilal Touré,Reims,0.4075,0.0,0.1028,0.0,0.0,0.0216,0.5319
-686,Cesc Fàbregas,Monaco,-,-,0.2895,0.2307,0.0,0.0,0.5202
-3795,Adrien Hunou,Rennes,-,0.0,0.519,-,0.0,-,0.519
-5684,Arnaud Nordin,Saint-Etienne,0.3355,0.0,0.1762,0.0,0.0,0.0,0.5117
-4932,Pietro Pellegri,Monaco,-,-,0.0,-,-,0.5083,0.5083
-6061,Quentin Boisgard,Lorient,0.4962,0.0,0.0,0.0,-,-,0.4962
-7224,Boulaye Dia,Reims,0.361,-,0.0218,0.0463,0.057,0.0,0.4861
-7776,Kévin Denkey,Nimes,0.4123,0.0,0.0,-,0.0,0.0638,0.4761
-5732,Abdoulaye Bamba,Angers,0.348,0.0,0.0944,0.0,0.0,0.0319,0.4743
-5762,Pierre-Yves Hamel,Lorient,0.0,0.0607,-,0.3171,0.0933,0.0,0.4711
-6238,Ignatius Ganago,Lens,0.0,0.0,0.0,0.233,0.2362,0.0,0.4692
-6869,Antonin Bobichon,Angers,-,0.0,0.3707,0.0936,0.0,-,0.4643
-5647,Arnaud Souquet,Montpellier,0.0,0.0928,0.2304,0.0,-,0.1328,0.456
-8310,Mitchel Bakker,Paris Saint Germain,0.0,-,0.0,0.0868,0.0,0.3596,0.4464
-5635,Faitout Maouassa,Rennes,0.0521,0.2551,0.1391,0.0,-,-,0.4463
-7850,Henry Onyekuru,Monaco,0.0276,0.0743,0.3417,0.0,-,-,0.4436
-6736,Ibrahima Diallo,Brest,0.0,0.0228,0.407,0.0,0.0,-,0.4298
-7432,Reinildo,Lille,0.0,-,-,0.4217,-,-,0.4217
-5769,Habib Diallo,Metz,0.0,0.0,0.4115,-,0.0,-,0.4115
-3517,Ronael Pierre Gabriel,Brest,0.0,0.1078,0.0,-,0.2952,0.0,0.403
-8190,Melvin Bard,Lyon,0.0,-,0.0,0.1339,0.0,0.2505,0.3844
-8755,Wilitty Younoussa,Dijon,-,-,0.0,0.3705,-,-,0.3705
-7007,Duje Caleta-Car,Marseille,0.0,0.0,0.3683,0.0,0.0,0.0,0.3683
-2413,Steven N'Zonzi,Rennes,0.0,0.3519,0.0,0.0,0.0,0.0163,0.3682
-6864,Renaud Ripart,Nimes,0.2908,0.0,0.0251,0.0465,0.0,0.0,0.3624
-4904,Adrián Cubas,Nimes,0.0,0.0513,0.2989,0.0,0.0094,0.0,0.3596
-3479,Marcus Coco,Nantes,0.0,0.2917,-,0.024,0.019,0.0179,0.3526
-6882,Ghislain Konan,Reims,0.0,0.1597,0.0,0.0275,0.0,0.165,0.3522
-8664,Facundo Medina,Lens,0.0,0.0,0.0,0.0,0.0,0.347,0.347
-5773,Zaydou Youssef,Saint-Etienne,-,0.0,0.3402,0.0,0.0,0.0,0.3402
-7169,Moses Simon,Nantes,0.021,0.0562,0.0,0.1067,0.1343,0.0192,0.3374
-4882,Laurent Abergel,Lorient,0.0,0.0,0.0,0.311,0.0,0.0146,0.3256
-3490,Thomas Mangani,Angers,0.0545,0.1043,0.0166,0.1502,0.0,0.0,0.3256
-3357,Djibril Sidibe,Monaco,-,0.0351,-,0.283,-,-,0.3181
-3561,Romain Hamouma,Saint-Etienne,0.234,0.0,0.0,0.0,0.0825,0.0,0.3165
-5611,Martin Terrier,Rennes,0.0,0.2505,-,0.0658,0.0,-,0.3163
-6846,Sofiane Diop,Monaco,0.0923,0.0,0.0639,0.0139,0.0,0.14,0.3101
-7980,Adil Aouchiche,Saint-Etienne,0.0403,0.0907,0.0637,0.0583,0.0176,0.035,0.3056
-8643,Chrislain Matsima,Monaco,-,-,-,-,0.0,0.3005,0.3005
-7562,Eric Junior Dina Ebimbe,Dijon,0.1319,0.0,0.082,0.0,0.0,0.0836,0.2975
-7328,Maxence Caqueret,Lyon,0.164,0.1322,0.0,0.0,-,0.0,0.2962
-3362,Rony Lopes,Nice,-,0.0,0.1151,0.0192,0.1207,0.0397,0.2947
-5724,Irvin Cardona,Brest,0.0427,0.0,0.0,0.2512,0.0,-,0.2939
-3239,Hamari Traore,Rennes,-,-,0.0,0.2465,0.0,0.043,0.2895
-8640,Adrien Truffert,Rennes,-,-,-,0.2867,-,-,0.2867
-552,Ander Herrera,Paris Saint Germain,0.0449,0.0,0.1948,0.0,0.0,0.0402,0.2799
-7557,Yassin Benrahou,Nimes,0.0703,0.0,0.1133,-,0.0955,-,0.2791
-5736,Myziane Maolida,Nice,-,-,0.0,-,0.0,0.2759,0.2759
-6332,Willem Geubbels,Monaco,0.0,0.0,0.2643,0.0,-,0.0,0.2643
-7359,Eduardo Camavinga,Rennes,0.1502,0.0138,0.0,0.0473,0.0342,0.0,0.2455
-92,Hiroki Sakai,Marseille,0.0,0.0,0.1929,0.0104,0.0421,0.0,0.2454
-7012,Gelson Martins,Monaco,0.1309,0.0,0.0,0.0,-,0.1095,0.2404
-8004,Dereck Kutesa,Reims,0.0817,0.0,0.0,0.0,0.0,0.1511,0.2328
-5661,Jonathan Ikone,Lille,0.0,0.0,0.1262,0.0,0.0992,0.0,0.2254
-6674,Rayan Ait Nouri,Angers,-,-,-,0.0,0.1061,0.1037,0.2098
-5619,Pierre Lees-Melou,Nice,0.0524,0.0,0.0409,0.0358,0.0,0.0753,0.2044
-967,Mathieu Debuchy,Saint-Etienne,0.2018,0.0,0.0,-,-,-,0.2018
-1932,Sanjin Prcic,Strasbourg,0.0,-,-,0.0501,0.1506,-,0.2007
-5692,Fouad Chafik,Dijon,-,0.018,0.0121,0.0,0.1701,0.0,0.2002
-5963,Thomas Monconduit,Lorient,-,-,-,0.0,0.0831,0.1159,0.199
-7760,Abdoul Kader Bamba,Nantes,0.0296,0.0,0.0,0.0817,0.0867,0.0,0.198
-6734,Ambroise Oyongo,Montpellier,0.1975,0.0,-,0.0,0.0,0.0,0.1975
-7178,Valon Berisha,Reims,0.0,0.02,0.0,0.1371,0.0368,0.0,0.1939
-7734,Cristian Battocchio,Brest,0.0,-,0.1931,0.0,0.0,-,0.1931
-3325,Yannick Cahuzac,Lens,0.0392,0.0,0.0,0.117,0.0,0.0365,0.1927
-8657,Jeremy Le Douaron,Brest,0.0165,0.0,0.0573,0.0,0.0796,0.0329,0.1863
-6380,Anthony Caci,Strasbourg,-,0.0,0.1122,0.0125,-,0.059,0.1837
-6902,Toma Basic,Bordeaux,0.0,0.0985,0.0,0.0,0.0849,0.0,0.1834
-7745,Loris Benito,Bordeaux,-,0.0,0.0,0.0669,0.1134,0.0,0.1803
-5654,Baptiste Santamaria,Angers,0.0,0.0244,0.1536,-,-,-,0.178
-3512,Nolan Roux,Nimes,-,-,0.0916,0.0,0.0858,0.0,0.1774
-3275,Jordan Ferri,Montpellier,0.0359,0.054,0.0,0.0119,0.0729,0.0,0.1747
-7160,Nemanja Radonjic,Marseille,0.0,0.0,-,0.0203,0.1143,0.0352,0.1698
-8023,Mounir Chouiar,Dijon,0.0969,0.0,-,0.0,0.0719,0.0,0.1688
-3223,Benjamin André,Lille,0.0443,0.0,0.016,0.0731,0.0,0.0345,0.1679
-8676,Aníbal Chalá,Dijon,-,0.0,0.1057,0.0,0.0601,0.0,0.1658
-5105,Victorien Angban,Metz,0.0,0.0,0.0,0.0156,0.022,0.1261,0.1637
-8166,Mehdi Zerkane,Bordeaux,0.0,-,-,-,-,0.1587,0.1587
-5676,Opa Nguette,Metz,0.0464,0.0,0.0,0.0,0.0406,0.0699,0.1569
-551,Morgan Schneiderlin,Nice,0.0,0.0,0.0,0.0618,0.0917,-,0.1535
-4403,Mehdi Abeid,Nantes,-,0.0,-,0.0522,0.0,0.1011,0.1533
-6907,Colin Dagba,Paris Saint Germain,0.0,0.0,0.0118,0.0,-,0.1411,0.1529
-8316,Roger Assalé,Dijon,-,-,0.0,-,0.1511,0.0,0.1511
-6762,Yacine Adli,Bordeaux,-,-,0.0,0.0683,0.0665,0.0162,0.151
-7755,Domagoj Bradaric,Lille,0.0,0.0,0.1399,0.0,0.0,0.0,0.1399
-6885,Axel Disasi,Monaco,0.0163,0.0,0.1236,0.0,0.0,-,0.1399
-6011,Thiago Mendes,Lyon,-,0.0457,-,-,0.021,0.0721,0.1388
-3464,Vincent Le Goff,Lorient,0.0,0.0,0.0138,0.0,0.1234,0.0,0.1372
-943,Massadio Haidara,Lens,-,-,-,-,-,0.1363,0.1363
-5803,Fode Toure,Monaco,0.0385,-,0.0,-,0.0976,-,0.1361
-7774,Haris Duljevic,Nimes,-,0.0781,-,0.0579,-,-,0.136
-5623,Lois Diony,Angers,-,-,0.0,0.0397,0.0958,0.0,0.1355
-7511,Sacha Boey,Rennes,0.0,-,-,-,-,0.1333,0.1333
-7739,Joris Chotard,Montpellier,0.0168,0.0,0.0,0.1138,-,0.0,0.1306
-3740,Lucas Deaux,Nimes,0.0,0.0799,0.0,-,-,0.0494,0.1293
-3549,Adrien Thomasson,Strasbourg,0.0,0.0316,0.0,0.0947,0.0,0.0,0.1263
-3542,Damien Da Silva,Rennes,0.0,0.0,0.0,0.0,0.0,0.1213,0.1213
-834,José Fonte,Lille,0.0,0.0,0.0,0.0482,0.0481,0.0245,0.1208
-1720,Didier Ndong,Dijon,0.1206,0.0,0.0,0.0,0.0,0.0,0.1206
-7716,Darío Benedetto,Marseille,0.0,0.0,-,0.0,0.1204,0.0,0.1204
-8666,Cheick Oumar Doucoure,Lens,0.0,0.0,0.1203,0.0,0.0,0.0,0.1203
-6012,Luiz Araujo,Lille,0.0,0.0,0.0405,0.0244,0.0546,0.0,0.1195
-1752,Fabio,Nantes,0.0136,0.0,-,0.0389,0.066,0.0,0.1185
-4501,Thierry Ambrose,Metz,0.0,-,0.0,0.0,-,0.1176,0.1176
-5786,Yoane Wissa,Lorient,0.0,0.0,0.0772,0.0114,0.0,0.0272,0.1158
-7732,Haris Belkebla,Brest,0.0,0.0,0.0,0.0,0.0,0.1088,0.1088
-8667,Ismael Boura,Lens,0.0419,0.0,0.0,0.0658,0.0,-,0.1077
-3475,Ludovic Blas,Nantes,0.0,0.0,0.0,0.0,0.0281,0.0767,0.1048
-8025,Kasper Dolberg,Nice,0.0,0.0,0.0136,-,0.0,0.0892,0.1028
-3322,Alexander Djiku,Strasbourg,0.0,0.0,0.0,0.0,0.0,0.1023,0.1023
-5677,Florent Mollet,Montpellier,0.1008,-,0.0,0.0,0.0,0.0,0.1008
-5988,Ibrahima Niane,Metz,0.0,0.0,0.0,0.0,0.0,0.1007,0.1007
-3346,Jonas Martin,Rennes,0.0182,0.0,0.0819,0.0,0.0,0.0,0.1001
-3399,Youssouf Sabaly,Bordeaux,0.0,0.0,0.0,0.0255,0.038,0.0353,0.0988
-8635,Sven Botman,Lille,0.0,0.0,0.0,0.0,0.0968,0.0,0.0968
-3507,Vincent Pajot,Metz,0.0173,0.0544,0.0,0.023,-,0.0,0.0947
-8151,Hianga'a M'Bock,Brest,0.0,0.0,0.0,0.0941,-,-,0.0941
-3786,Mathieu Cafaro,Reims,0.0913,0.0,0.0,0.0,-,0.0,0.0913
-93,Marcelo,Lyon,0.0414,0.0,0.0296,0.0,0.0199,0.0,0.0909
-3800,Steve Mounie,Brest,-,-,0.0,0.0898,0.0,0.0,0.0898
-414,Juan Bernat,Paris Saint Germain,0.0,0.0887,0.0,-,-,-,0.0887
-8094,Mathis Cherki,Lyon,0.0,0.0,0.0,0.087,0.0,0.0,0.087
-6947,Samuel Kalu,Bordeaux,0.0,0.0,0.0609,0.0,0.0248,0.0,0.0857
-3221,Pedro Mendes,Montpellier,0.0,0.0853,0.0,0.0,0.0,0.0,0.0853
-8314,Yvann Maçon,Saint-Etienne,0.0,0.0,0.0843,0.0,0.0,0.0,0.0843
-8049,Jean-Kevin Duverne,Brest,0.0,0.0,0.0,0.0,0.0828,0.0,0.0828
-3741,Paul Lasne,Brest,-,-,-,-,0.0,0.0821,0.0821
-8655,Mehdi Chahiri,Strasbourg,0.0432,0.0383,0.0,0.0,0.0,0.0,0.0815
-8639,Brandon Soppy,Rennes,0.0,0.0,0.0,-,0.0812,-,0.0812
-6945,Youssouf Fofana,Monaco,0.0804,0.0,-,0.0,0.0,0.0,0.0804
-8249,Renaud Emond,Nantes,-,0.0,0.075,0.0,0.0,0.0,0.075
-1144,Seko Fofana,Lens,-,-,-,0.0748,-,-,0.0748
-3772,Maxime Lopez,Marseille,-,0.0,0.0738,-,0.0,0.0,0.0738
-6310,Boubakary Soumare,Lille,0.0,-,0.0,0.0714,0.0,-,0.0714
-3461,Majeed Waris,Strasbourg,0.0,0.0705,0.0,0.0,0.0,-,0.0705
-7282,Giulian Biancone,Monaco,-,-,-,-,0.0,0.07,0.07
-7998,Ngonda Muzinga,Dijon,0.0,-,-,-,0.0699,-,0.0699
-2291,Pape Cheikh,Dijon,0.009,-,0.0155,-,0.0,0.0421,0.0666
-8668,Tony Mauricio,Lens,0.0341,0.0,0.0,0.0,-,0.0303,0.0644
-5733,Houssem Aouar,Lyon,-,0.0,0.0,-,0.0635,0.0,0.0635
-8318,Moussa Koné,Nimes,0.0,0.062,0.0,-,-,-,0.062
-8969,Florentino Luís,Monaco,-,-,-,-,-,0.062,0.062
-8056,Arnaud Kalimuendo Muinga,Paris Saint Germain,0.0609,-,-,-,-,-,0.0609
-7730,Jean-Charles Castelletto,Nantes,-,0.0,-,-,-,0.0608,0.0608
-7570,Moreto Cassamã,Reims,0.0,0.0181,0.0213,0.0203,0.0,-,0.0597
-8652,Stéphane Diarra,Lorient,0.0,0.0101,0.0282,0.0,-,0.0203,0.0586
-8186,Nelson Sissoko,Saint-Etienne,-,-,0.0,-,-,0.0583,0.0583
-6128,Kévin Zohi,Strasbourg,0.057,0.0,0.0,-,0.0,0.0,0.057
-7852,Sidy Sarr,Nimes,0.0,0.0569,-,0.0,-,-,0.0569
-5979,Idriss Saadi,Strasbourg,0.0548,0.0,0.0,0.0,0.0,0.0,0.0548
-5731,Mateo Pavlovic,Angers,-,-,0.0,0.0534,0.0,0.0,0.0534
-5587,Josh Maja,Bordeaux,0.0,0.0,0.0165,0.0,0.0361,0.0,0.0526
-5614,Baptiste Reynet,Nimes,0.0,0.0,0.0,0.0524,0.0,0.0,0.0524
-3673,Valentin Rongier,Marseille,0.0,0.0,0.0165,0.0168,0.0186,0.0,0.0519
-6874,Yann Gboho,Rennes,-,0.0511,0.0,-,-,-,0.0511
-3318,Jean-Louis Leca,Lens,0.0,0.0498,0.0,0.0,0.0,0.0,0.0498
-1256,Kevin Strootman,Marseille,0.0467,0.0,0.0,-,-,-,0.0467
-6868,Gaetan Paquiez,Nimes,-,-,-,0.0467,0.0,-,0.0467
-3781,Denis Bouanga,Saint-Etienne,0.0,0.0457,0.0,0.0,0.0,0.0,0.0457
-5725,Jordan Marié,Dijon,0.0,0.0299,0.0,0.0113,0.0,-,0.0412
-6060,Otávio,Bordeaux,0.0168,0.0,0.024,0.0,0.0,-,0.0408
-7151,Thomas Foket,Reims,0.0,-,0.0397,0.0,0.0,0.0,0.0397
-6904,Ibrahima Sissoko,Strasbourg,0.0377,0.0,0.0,0.0,0.0,0.0,0.0377
-6935,Naif Aguerd,Rennes,0.035,0.0,0.0,0.0,0.0,0.0,0.035
-1056,Jeff Reine-Adelaide,Lyon,0.0346,-,-,-,-,-,0.0346
-6880,Edouard Mendy,Rennes,0.0328,-,-,-,-,-,0.0328
-3670,Nicolas Pallois,Nantes,0.0,0.0,0.0,0.0326,0.0,0.0,0.0326
-3445,Corentin Jean,Lens,0.0311,0.0,0.0,0.0,0.0,0.0,0.0311
-5621,Frederic Sammaritano,Dijon,0.0,0.0117,0.0,0.0192,0.0,0.0,0.0309
-8658,Heriberto Tavares,Brest,0.0,0.0308,-,-,-,-,0.0308
-6501,Andy Pelmard,Nice,0.0,0.0,0.0,0.0,0.0298,0.0,0.0298
-3487,Ismael Traoré,Angers,0.0,0.0134,0.0164,0.0,0.0,0.0,0.0298
-6318,Lionel Carole,Strasbourg,0.0,0.0,-,0.0289,0.0,0.0,0.0289
-8669,Simon Banza,Lens,0.0,0.0,-,0.0,0.0287,0.0,0.0287
-148,Dante,Nice,0.0,0.0,0.0,0.0,0.0,0.0279,0.0279
-8645,Enzo Millot,Monaco,-,-,-,-,-,0.0264,0.0264
-7687,Jean Lucas,Lyon,-,-,0.0263,0.0,0.0,-,0.0263
-8660,Jordan Lotomba,Nice,0.0,0.026,-,0.0,0.0,0.0,0.026
-8920,Dilane Bakwa,Bordeaux,-,-,-,-,0.025,0.0,0.025
-3373,Pablo Martinez,Nimes,0.0,0.0245,0.0,-,-,-,0.0245
-7756,Yusuf Yazici,Lille,0.0,0.024,0.0,-,0.0,0.0,0.024
-961,Jordan Amavi,Marseille,0.0,0.0134,-,-,-,0.0102,0.0236
-5620,Romain Amalfitano,Dijon,0.0,0.0211,-,-,-,-,0.0211
-8746,Aïmen Moueffek,Saint-Etienne,-,-,0.0,0.0211,0.0,-,0.0211
-5752,Alexis Claude Maurice,Nice,0.0208,-,0.0,-,0.0,-,0.0208
-3338,Daniel Congré,Montpellier,0.0,0.0,0.0,0.0,0.0,0.0205,0.0205
-5737,Saif-Eddine Khaoui,Marseille,-,-,-,-,0.0189,-,0.0189
-5744,Matteo Ahlinvi,Nimes,-,-,-,0.0183,-,-,0.0183
-6489,Steven Fortes,Lens,-,-,-,0.0182,0.0,-,0.0182
-7589,Wesley Fofana,Saint-Etienne,0.0,0.0,0.0,-,0.0177,-,0.0177
-5789,Boubacar Kamara,Marseille,0.0,0.0,0.0,0.0,0.0175,0.0,0.0175
-4242,Stefan Mitrovic,Strasbourg,0.0,-,0.0,0.0,0.0171,0.0,0.0171
-668,Idrissa Gueye,Paris Saint Germain,0.0162,0.0,0.0,0.0,-,0.0,0.0162
-5984,Alexandre Oukidja,Metz,0.0,0.0,0.016,0.0,0.0,0.0,0.016
-1524,Stevan Jovetic,Monaco,-,0.0,0.0,0.0159,0.0,0.0,0.0159
-6452,Mahdi Camara,Saint-Etienne,0.0,0.0,0.0138,0.0,0.0,0.0,0.0138
-6112,Andrei Girotto,Nantes,0.0,0.0,0.0135,0.0,0.0,0.0,0.0135
-5650,Patrick Burner,Nimes,-,-,-,-,0.0,0.0134,0.0134
-1022,Pedro Chirivella,Nantes,0.0,0.0,0.0134,0.0,0.0,0.0,0.0134
-7767,John Boye,Metz,0.0124,0.0,0.0,0.0,0.0,0.0,0.0124
-7358,Souleyman Doumbia,Angers,0.0,0.0114,0.0,-,-,-,0.0114
-6861,Anthony Briancon,Nimes,-,-,0.0,0.0,0.0096,0.0,0.0096
-8649,Houboulang Mendes,Lorient,0.0,0.0,0.0,0.0,0.0,0.0086,0.0086
-7913,Lamine Fomba,Nimes,0.0,-,0.0,0.0083,0.0,0.0,0.0083
-8699,Bandiougou Fadiga,Paris Saint Germain,-,-,0.0,0.0,-,-,0.0
-5742,Hugo Magnetti,Brest,-,0.0,-,-,-,0.0,0.0
-7728,Gautier Larsonneur,Brest,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8671,Manuel Perez,Lens,-,0.0,0.0,-,0.0,0.0,0.0
-5980,Stéphane Bahoken,Angers,-,0.0,0.0,0.0,0.0,0.0,0.0
-8759,David Pereira Da Costa,Lens,-,-,-,-,-,0.0,0.0
-5998,Christophe Herelle,Brest,-,-,0.0,0.0,0.0,-,0.0
-728,Lamine Koné,Strasbourg,0.0,0.0,-,-,-,-,0.0
-8679,Samy Benchama,Montpellier,0.0,-,-,-,-,-,0.0
-6601,Timothy Weah,Lille,-,0.0,0.0,0.0,-,0.0,0.0
-8678,Jonas Omlin,Montpellier,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-7484,Stephy Mavididi,Montpellier,-,0.0,0.0,0.0,0.0,0.0,0.0
-6007,Nicolas Cozza,Montpellier,-,-,-,0.0,-,-,0.0
-5663,Keagan Dolly,Montpellier,0.0,0.0,-,-,-,-,0.0
-7717,Isaac Lihadji,Lille,-,-,-,-,0.0,0.0,0.0
-3334,Lassana Coulibaly,Angers,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3251,Paul Bernardoni,Angers,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3486,Vincent Manceau,Angers,-,-,-,-,-,0.0,0.0
-5228,Renato Sanches,Lille,0.0,-,-,0.0,0.0,0.0,0.0
-8685,Mohamed Ali-Cho,Angers,-,0.0,-,0.0,0.0,0.0,0.0
-7743,Pereira Lage,Angers,0.0,-,-,-,-,-,0.0
-7064,Farid El Melali,Angers,0.0,0.0,-,-,-,-,0.0
-6251,Wilfried Kanga,Angers,0.0,0.0,-,-,-,-,0.0
-3488,Romain Thomas,Angers,0.0,0.0,0.0,-,-,-,0.0
-3456,Jimmy Cabot,Angers,-,-,-,-,0.0,0.0,0.0
-4811,Jean Eudes Aholou,Strasbourg,-,-,-,-,-,0.0,0.0
-1784,Jérémy Pied,Lille,-,0.0,0.0,-,-,-,0.0
-7206,Jonathan Gradit,Lens,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3737,Mike Maignan,Lille,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8665,Loic Bade,Lens,0.0,0.0,0.0,-,0.0,0.0,0.0
-7736,Brendan Chardonnet,Brest,0.0,-,0.0,0.0,-,0.0,0.0
-3344,Casimir Ninga,Angers,0.0,-,-,-,-,-,0.0
-3297,Marquinhos,Paris Saint Germain,-,-,0.0,0.0,0.0,0.0,0.0
-1248,Leandro Paredes,Paris Saint Germain,-,0.0,-,-,0.0,0.0,0.0
-5678,Eiji Kawashima,Strasbourg,0.0,0.0,-,-,-,-,0.0
-4765,Loïck Landre,Nimes,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3298,Layvin Kurzawa,Paris Saint Germain,0.0,0.0,-,-,-,-,0.0
-1506,Yuto Nagatomo,Marseille,-,-,-,0.0,0.0,-,0.0
-3599,Presnel Kimpembe,Paris Saint Germain,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-4804,Abdou Diallo,Paris Saint Germain,0.0,-,0.0,-,0.0,0.0,0.0
-3309,Valère Germain,Marseille,0.0,0.0,0.0,0.0,0.0,-,0.0
-6937,Georginio Rutter,Rennes,-,-,-,-,0.0,-,0.0
-5766,Romain Salin,Rennes,-,0.0,0.0,0.0,0.0,0.0,0.0
-7157,Lucas Buades,Nimes,-,-,-,0.0,-,-,0.0
-8783,Marco Ludivin Majouga,Nimes,-,-,-,-,0.0,-,0.0
-6860,Sofiane Alakouch,Nimes,-,-,0.0,-,-,-,0.0
-6862,Florian Miguel,Nimes,0.0,-,-,0.0,0.0,-,0.0
-1126,M'Baye Niang,Rennes,0.0,-,-,-,-,-,0.0
-7772,Marcin Bulka,Paris Saint Germain,0.0,-,-,-,-,-,0.0
-8698,Kays Ruiz-Atil,Paris Saint Germain,0.0,-,-,-,0.0,-,0.0
-1670,Steve Mandanda,Marseille,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2674,Thilo Kehrer,Paris Saint Germain,0.0,0.0,-,-,-,-,0.0
-2430,Álvaro González,Marseille,-,0.0,0.0,0.0,0.0,0.0,0.0
-3393,Bouna Sarr,Marseille,-,-,0.0,0.0,-,-,0.0
-3201,Alban Lafont,Nantes,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2256,Jesé,Paris Saint Germain,0.0,-,-,-,-,-,0.0
-6745,Christopher Rocchia,Marseille,-,-,0.0,-,-,-,0.0
-7486,Leonardo Balerdi,Marseille,0.0,-,0.0,-,-,-,0.0
-8037,Marley Aké,Marseille,0.0,-,0.0,0.0,-,-,0.0
-8696,Pape Alassane Gueye,Marseille,0.0,0.0,-,0.0,0.0,0.0,0.0
-2243,Keylor Navas,Paris Saint Germain,-,-,0.0,0.0,0.0,0.0,0.0
-3227,Ludovic Baal,Brest,-,0.0,-,-,-,-,0.0
-2072,Sergio Rico,Paris Saint Germain,-,0.0,-,-,-,-,0.0
-2713,Petar Skuletic,Montpellier,0.0,-,-,-,-,-,0.0
-3118,Damien Le Tallec,Montpellier,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3337,Hilton,Montpellier,-,0.0,0.0,-,0.0,0.0,0.0
-5974,Bingourou Kamara,Strasbourg,-,-,0.0,0.0,0.0,0.0,0.0
-3962,Anastasios Donis,Reims,-,0.0,-,-,0.0,-,0.0
-8218,Bridge Ndilu,Nantes,0.0,-,0.0,-,-,-,0.0
-8971,Saturnin Allagbe,Dijon,-,-,-,-,-,0.0,0.0
-8702,Tinotenda Kadewere,Lyon,-,0.0,0.0,0.0,0.0,0.0,0.0
-5708,Fernando Marçal,Lyon,0.0,-,-,-,-,-,0.0
-5973,Kenny Tete,Lyon,0.0,-,-,-,-,-,0.0
-8248,Maxence Rivera,Saint-Etienne,0.0,0.0,-,0.0,0.0,0.0,0.0
-6314,Joachim Andersen,Lyon,0.0,0.0,0.0,-,-,-,0.0
-7750,Harold Moukoudi,Saint-Etienne,-,-,-,0.0,0.0,0.0,0.0
-7316,Charles Nathan Abi,Saint-Etienne,-,0.0,0.0,-,-,-,0.0
-3518,Jessy Moulin,Saint-Etienne,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3513,Kévin Monnet-Paquet,Saint-Etienne,0.0,0.0,-,0.0,-,-,0.0
-8703,Sinaly Diomande,Lyon,-,-,-,0.0,0.0,0.0,0.0
-8691,Saidou Sow,Saint-Etienne,-,-,-,-,-,0.0,0.0
-2063,Timothée Kolodziejczak,Saint-Etienne,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1326,Assane Diousse,Saint-Etienne,0.0,-,-,-,-,-,0.0
-8653,Adrian Grbic,Lorient,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-734,Wahbi Khazri,Saint-Etienne,-,-,-,-,-,0.0,0.0
-1064,Sylvain Marveaux,Lorient,0.0,0.0,0.0,-,-,0.0,0.0
-3271,Jérémy Morel,Lorient,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3430,Paul Nardi,Lorient,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-732,Yann M'Vila,Saint-Etienne,0.0,-,-,-,-,-,0.0
-8690,Jean-Phillipe Krasso,Saint-Etienne,0.0,-,-,-,0.0,-,0.0
-3269,Anthony Lopes,Lyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3655,Charles Traore,Nantes,0.0,-,0.0,-,-,-,0.0
-7908,Marshall Munetsi,Reims,0.0,0.0,0.0,0.0,-,0.0,0.0
-6709,Yehvann Diouf,Reims,-,-,-,-,-,0.0,0.0
-5624,Yunis Abdelhamid,Reims,0.0,0.0,-,0.0,0.0,0.0,0.0
-3652,Enock Kwateng,Bordeaux,0.0,-,-,-,0.0,-,0.0
-3576,Maxime Poundje,Bordeaux,0.0,0.0,0.0,-,-,-,0.0
-3477,Jimmy Briand,Bordeaux,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3305,Paul Baysse,Bordeaux,0.0,0.0,0.0,0.0,-,0.0,0.0
-7718,Predrag Rajkovic,Reims,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-7719,Nathanael Mbuku,Reims,-,-,-,-,0.0,0.0,0.0
-8003,Dario Maresic,Reims,-,0.0,0.0,0.0,0.0,-,0.0
-1039,Jason Denayer,Lyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3265,Pablo,Bordeaux,-,-,-,0.0,0.0,0.0,0.0
-8312,Kaj Sierhuis,Reims,0.0,0.0,-,0.0,-,0.0,0.0
-8646,Wout Faes,Reims,0.0,0.0,0.0,-,-,0.0,0.0
-8648,Fraser Hornby,Reims,-,0.0,0.0,-,0.0,-,0.0
-3218,Benoit Costil,Bordeaux,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2242,Rubén Pardo,Bordeaux,-,0.0,-,0.0,-,-,0.0
-8879,Tyrone Tormin,Saint-Etienne,-,-,-,-,0.0,-,0.0
-8851,Abdoulaye Sidibé,Saint-Etienne,-,-,-,0.0,-,-,0.0
-3668,Jonathan Delaplace,Lorient,-,-,-,-,0.0,-,0.0
-8644,Eliot Matazo,Monaco,-,-,-,-,0.0,-,0.0
-6615,Trevoh Chalobah,Lorient,-,-,0.0,-,-,-,0.0
-8283,Batista Mendy,Nantes,-,-,0.0,-,-,-,0.0
-8749,Lamine Gueye,Metz,-,0.0,-,-,-,-,0.0
-4883,Bruno Ecuele Manga,Dijon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-6878,Youcef Atal,Nice,-,-,0.0,0.0,-,-,0.0
-1455,Alfred Gomis,Dijon,0.0,0.0,0.0,0.0,0.0,-,0.0
-5652,Walter Benítez,Nice,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5650,Patrick Burner,Nice,0.0,-,-,-,-,-,0.0
-3677,Wesley Lautoa,Dijon,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-7265,Kephren Thuram,Nice,0.0,0.0,0.0,0.0,-,0.0,0.0
-7247,Jonathan Panzo,Dijon,-,0.0,0.0,0.0,0.0,0.0,0.0
-6865,Umut Bozok,Lorient,-,0.0,0.0,0.0,-,0.0,0.0
-7747,Mama Baldé,Dijon,-,-,-,-,0.0,0.0,0.0
-7749,Rayan Philippe,Dijon,0.0,0.0,0.0,0.0,-,-,0.0
-6000,Tristan Dingome,Reims,-,-,0.0,-,-,-,0.0
-6232,Kalifa Coulibaly,Nantes,0.0,-,-,-,-,-,0.0
-8155,Ahmad Toure Ngouyamsa Nounchili,Dijon,0.0,0.0,-,-,-,-,0.0
-8208,Mihai-Alexandru Dobre,Dijon,0.0,0.0,0.0,-,-,-,0.0
-6018,Samuel Moutoussamy,Nantes,0.0,-,-,-,-,-,0.0
-3674,Abdoulaye Touré,Nantes,-,-,0.0,0.0,-,0.0,0.0
-8688,Warren Tchimbembé,Metz,-,0.0,-,0.0,0.0,0.0,0.0
-8687,Kiki Kouyate,Metz,-,-,-,-,0.0,-,0.0
-8686,Cheick Tidiane Sabaly,Metz,0.0,-,-,-,-,-,0.0
-7329,Eddy Sylvestre,Nice,0.0,0.0,0.0,0.0,-,-,0.0
-6881,Thomas Fontaine,Lorient,-,-,-,0.0,0.0,0.0,0.0
-8650,Julien Laporte,Lorient,0.0,0.0,0.0,-,0.0,0.0,0.0
-8641,Radoslaw Majecki,Monaco,-,-,0.0,-,-,-,0.0
-6073,Guillermo Maripán,Monaco,-,0.0,-,0.0,-,-,0.0
-8654,Franklin Wadja,Lorient,0.0,-,-,0.0,0.0,-,0.0
-4811,Jean Eudes Aholou,Monaco,0.0,0.0,-,-,-,-,0.0
-3451,Benjamin Lecomte,Monaco,0.0,0.0,-,0.0,0.0,0.0,0.0
-7240,Benoit Badiashile Mukinayi,Monaco,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8663,Flavius Daniliuc,Nice,-,-,-,0.0,0.0,0.0,0.0
-8662,Dan Ndoye,Nice,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8661,Robson Bambu,Nice,0.0,-,-,-,-,-,0.0
-5761,Youssef Maziz,Metz,-,-,0.0,-,-,0.0,0.0
-8371,Alexis Trouillet,Nice,-,0.0,-,-,-,0.0,0.0
-8006,Evann Guessand,Nice,0.0,-,-,0.0,0.0,-,0.0
-7764,Mamadou Fofana,Metz,-,0.0,0.0,-,0.0,-,0.0
-7765,Thomas Delaine,Metz,-,-,0.0,-,-,-,0.0
-8244,Dylan Bronn,Metz,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8372,Lucas Gourna Douath,Saint-Etienne,-,0.0,0.0,0.0,-,0.0,0.0
+id,name,team,1,2,3,4,5,6,7,total
+555,Memphis Depay,Lyon,0.2919,0.0,0.1206,0.4488,0.0764,0.6131,3.0785,4.6293
+2199,Pablo Sarabia,Paris Saint Germain,0.0,0.6778,0.0,0.0,0.3304,0.4392,1.5993,3.0467
+3553,Ángel Di María,Paris Saint Germain,-,0.0113,0.9824,1.5566,0.4822,-,-,3.0325
+2549,Gaël Kakuta,Lens,0.172,0.6454,0.1169,0.9797,0.7404,0.0884,0.1082,2.851
+942,Florian Thauvin,Marseille,1.2325,0.0,0.6644,0.1178,0.0875,0.3315,0.0179,2.4516
+3412,Léo Dubois,Lyon,0.239,0.342,0.4645,0.4977,0.2938,0.1277,0.0692,2.0339
+3423,Kylian Mbappe-Lottin,Paris Saint Germain,-,-,-,0.0,1.158,0.6687,0.1036,1.9303
+3696,Morgan Sanson,Marseille,0.0447,-,0.8607,0.5629,0.1284,0.0,0.0,1.5967
+6884,Remi Oudin,Bordeaux,0.0,0.7841,0.0,0.1396,0.021,0.5576,0.0859,1.5882
+8651,Enzo Le Fée,Lorient,1.0803,0.0712,0.0,0.2439,0.0,0.0624,-,1.4578
+1254,Alessandro Florenzi,Paris Saint Germain,-,1.2391,-,0.0,0.0,0.0,0.2127,1.4518
+83,Kevin Volland,Monaco,-,-,0.0,0.0,1.2141,0.0,0.1821,1.3962
+3746,Gaetan Laborde,Montpellier,0.0,0.0,0.0598,0.8315,0.488,0.0,0.0,1.3793
+3721,Romain Del Castillo,Rennes,0.6031,0.0,0.3309,0.0242,0.4001,0.0,0.0,1.3583
+5743,Randal Kolo Muani,Nantes,-,0.4566,0.6248,0.0642,0.112,0.0226,0.0722,1.3524
+8026,Raphinha,Rennes,0.0,0.3735,0.0778,0.0,0.2954,0.5814,-,1.3281
+3348,Florian Sotoca,Lens,0.8885,0.0,0.4007,0.0,0.0287,0.0,0.0,1.3179
+5745,Matthieu Udol,Metz,0.2705,0.0924,-,0.6151,0.2819,0.0491,0.0,1.309
+3495,Pierrick Capelle,Angers,0.0718,0.0193,0.0,0.1403,0.6188,0.3981,0.0556,1.3039
+3278,Maxwel Cornet,Lyon,0.3821,0.1347,0.6024,0.0,0.0,0.155,0.0,1.2742
+6401,Amine Gouiri,Nice,0.0,0.0,0.0582,0.4921,0.1978,0.5182,0.0,1.2663
+6420,Romain Faivre,Brest,0.2271,0.0,0.1157,0.0322,0.5681,0.1135,0.1978,1.2544
+7729,Julien Faussurier,Brest,0.0732,0.7549,0.2212,0.0442,-,-,0.0917,1.1852
+6019,Angelo Fulgini,Angers,0.0999,0.0545,0.3771,0.1286,0.0808,0.3694,0.0,1.1103
+8637,Burak Yilmaz,Lille,0.0,0.0229,0.2352,0.0166,0.0,0.8347,0.0,1.1094
+6560,Aurelien Tchouameni,Monaco,0.8261,0.0,0.2265,0.0,0.0409,-,0.0,1.0935
+3749,Jonathan Bamba,Lille,0.0228,0.0,0.0766,0.1614,0.0,0.2997,0.5163,1.0768
+6239,Junior Sambia,Montpellier,0.0,0.1763,0.0,0.4285,0.4597,0.0,0.0,1.0645
+8749,Lamine Gueye,Metz,-,0.0,-,-,-,-,1.0498,1.0498
+536,Dimitri Payet,Marseille,-,0.4134,0.3797,0.0769,0.1702,0.0,-,1.0402
+8310,Mitchel Bakker,Paris Saint Germain,0.0,-,0.0,0.0868,0.0,0.3596,0.5826,1.029
+1513,Mauro Icardi,Paris Saint Germain,-,-,0.1129,0.0771,0.7255,0.0946,-,1.0101
+6872,Mehmet Zeki Çelik,Lille,0.0152,0.0,0.0,0.0,0.6596,0.0817,0.2431,0.9996
+8689,Yvan Neyou,Saint-Etienne,0.0,0.0,0.0565,0.9215,0.0,0.0,-,0.978
+6863,Téji Savanier,Montpellier,0.0,0.1566,0.1048,0.2125,0.3606,0.1223,0.0,0.9568
+5978,Dmitri Lienard,Strasbourg,-,0.0,0.1265,0.423,0.0508,0.132,0.2151,0.9474
+3243,Gaëtan Charbonnier,Brest,0.0,0.4493,0.4537,0.027,0.0,0.0,0.0,0.93
+3314,Franck Honorat,Brest,0.0486,0.2399,-,0.5262,0.0524,0.0,0.0583,0.9254
+5975,Kenny Lala,Strasbourg,0.0,0.0102,0.475,0.1282,0.076,0.2287,0.0,0.9181
+7773,Zinedine Ferhat,Nimes,0.1376,0.3113,0.0,0.05,0.0245,0.3739,-,0.8973
+5655,Flavien Tait,Rennes,0.0,-,0.5069,0.0521,0.0216,0.0,0.3013,0.8819
+8636,Jonathan Christian David,Lille,0.0,0.0379,0.0814,0.5921,0.1611,0.0,0.0,0.8725
+6697,Armand Lauriente,Lorient,-,-,-,-,-,-,0.8686,0.8686
+5757,Farid Boulaya,Metz,0.1182,-,0.4313,0.3068,0.0,-,0.0,0.8563
+3530,Andy Delort,Montpellier,-,0.6485,0.0,0.0,0.0,0.1687,0.0367,0.8539
+4849,Sada Thioub,Angers,0.5034,0.1093,0.0,0.1506,0.077,0.0,0.0,0.8403
+3244,Nicolas de Preville,Bordeaux,0.5752,0.0,0.0,0.0,0.0949,0.1701,0.0,0.8402
+3729,Hassane Kamara,Nice,0.0679,0.0,0.0987,0.1381,0.0695,0.4521,0.0,0.8263
+2099,Neymar,Paris Saint Germain,-,0.0,-,-,0.418,0.3998,-,0.8178
+4773,Benjamin Bourigeaud,Rennes,0.0251,0.0232,0.4385,0.0,0.3013,0.0119,0.0,0.8
+8278,Papa Ndiaga Yade,Metz,0.038,0.0,-,0.635,0.1256,0.0,0.0,0.7986
+3370,Issiaga Sylla,Lens,0.2524,0.5265,0.0,0.0127,0.0,-,-,0.7916
+3210,Wissam Ben Yedder,Monaco,0.0329,0.0,0.4924,0.0488,0.0,0.0,0.2039,0.778
+3463,Romain Philippoteaux,Nimes,0.7451,0.0145,0.0176,-,-,-,-,0.7772
+7551,Mohamed Simakan,Strasbourg,0.0,0.0,0.0,0.6537,0.0,0.0361,0.0808,0.7706
+3463,Romain Philippoteaux,Brest,0.7451,-,-,-,0.0,-,0.0122,0.7573
+7278,Imran Louza,Nantes,0.0311,0.5232,-,-,0.0,0.0,0.2028,0.7571
+6006,Ruben Aguilar,Monaco,0.4149,0.0,0.1197,0.0796,0.0832,0.0438,0.0134,0.7546
+2100,Rafinha,Paris Saint Germain,-,-,-,-,-,-,0.7496,0.7496
+3738,Sehrou Guirassy,Rennes,-,0.0,0.0,0.0628,0.1502,0.5337,0.0,0.7467
+3552,Marco Verratti,Paris Saint Germain,0.118,0.0,-,0.0545,0.5105,0.0536,-,0.7366
+7763,Fabien Centonze,Metz,0.0,0.5899,0.0405,0.0,0.0582,0.0344,0.0,0.723
+7762,Jean-Ricner Bellegarde,Strasbourg,0.0,0.0,0.0,0.4064,0.0,0.1282,0.1843,0.7189
+8697,Jonathan Clauss,Lens,-,-,0.3599,0.0,0.1207,0.2254,0.0,0.706
+6905,Ludovic Ajorque,Strasbourg,0.1045,0.0,0.0578,0.097,0.32,0.0871,0.0371,0.7035
+6500,Romain Perraud,Brest,-,0.075,0.5065,0.0587,0.0507,0.0,0.0084,0.6993
+5657,Karl Toko Ekambi,Lyon,0.118,0.1131,0.0,0.0,-,0.4623,0.0,0.6934
+3521,Dennis Appiah,Nantes,0.0,0.0,0.3039,0.3181,0.0,0.0646,-,0.6866
+3561,Romain Hamouma,Saint-Etienne,0.234,0.0,0.0,0.0,0.0825,0.0,0.3665,0.683
+2897,Aleksandr Golovin,Monaco,0.6706,0.0,-,-,-,-,-,0.6706
+7397,Arbër Zeneli,Reims,0.0,0.0,0.0,0.0576,0.0313,0.5806,-,0.6695
+494,Laurent Koscielny,Bordeaux,0.0,0.5668,0.1014,0.0,0.0,0.0,-,0.6682
+5774,Clement Michelin,Lens,0.5517,0.1059,0.0,-,-,-,0.0,0.6576
+7746,Hwang Ui-Jo,Bordeaux,0.0,0.5088,0.0,0.0,0.139,0.0,0.0,0.6478
+5704,Xeka,Lille,0.3186,0.3236,-,-,0.0,0.0,0.0,0.6422
+1054,Bersant Celina,Dijon,-,-,0.0,0.0,0.5813,0.0583,-,0.6396
+6883,Xavier Chavalerin,Reims,0.3062,0.0,0.0917,0.0659,0.0675,0.0928,0.0,0.6241
+152,Julian Draxler,Paris Saint Germain,-,0.0,0.4819,0.1151,0.0,0.0197,-,0.6167
+5228,Renato Sanches,Lille,0.0,-,-,0.0,0.0,0.0,0.6106,0.6106
+8629,Aurelien Scheidler,Dijon,0.4267,0.0691,-,0.0868,-,0.0,0.0,0.5826
+7142,Moussa Dembele,Lyon,0.0,0.3565,0.0293,0.0,0.1962,0.0,0.0,0.582
+8656,Birger Meling,Nimes,0.3969,0.0581,0.0927,-,0.0,0.0303,-,0.578
+5686,Digbo Maiga,Metz,0.0,0.0,0.0699,0.0,0.4254,0.0824,-,0.5777
+3509,Fabien Lemoine,Lorient,0.0,0.0,0.0,0.5772,0.0,0.0,0.0,0.5772
+1120,Mattia De Sciglio,Lyon,-,-,-,-,-,-,0.569,0.569
+8327,Bruno Guimarães,Lyon,0.3611,0.0146,0.0,0.0387,0.0592,0.0916,-,0.5652
+5947,Mihailo Ristic,Montpellier,0.0,0.3043,0.1416,0.0,0.0213,0.0887,-,0.5559
+8023,Mounir Chouiar,Dijon,0.0969,0.0,-,0.0,0.0719,0.0,0.3815,0.5503
+6061,Quentin Boisgard,Lorient,0.4962,0.0,0.0,0.0,-,-,0.0447,0.5409
+8632,Enzo Ebosse,Angers,0.5377,-,-,0.0,0.0,0.0,0.0,0.5377
+8294,El Bilal Touré,Reims,0.4075,0.0,0.1028,0.0,0.0,0.0216,-,0.5319
+686,Cesc Fàbregas,Monaco,-,-,0.2895,0.2307,0.0,0.0,0.0,0.5202
+3795,Adrien Hunou,Rennes,-,0.0,0.519,-,0.0,-,0.0,0.519
+5684,Arnaud Nordin,Saint-Etienne,0.3355,0.0,0.1762,0.0,0.0,0.0,-,0.5117
+4932,Pietro Pellegri,Monaco,-,-,0.0,-,-,0.5083,0.0,0.5083
+7224,Boulaye Dia,Reims,0.361,-,0.0218,0.0463,0.057,0.0,-,0.4861
+5725,Jordan Marié,Dijon,0.0,0.0299,0.0,0.0113,0.0,-,0.4371,0.4783
+7776,Kévin Denkey,Nimes,0.4123,0.0,0.0,-,0.0,0.0638,-,0.4761
+5732,Abdoulaye Bamba,Angers,0.348,0.0,0.0944,0.0,0.0,0.0319,0.0,0.4743
+5762,Pierre-Yves Hamel,Lorient,0.0,0.0607,-,0.3171,0.0933,0.0,0.0,0.4711
+6238,Ignatius Ganago,Lens,0.0,0.0,0.0,0.233,0.2362,0.0,-,0.4692
+8662,Dan Ndoye,Nice,0.0,0.0,0.0,0.0,0.0,0.0,0.4691,0.4691
+6869,Antonin Bobichon,Angers,-,0.0,0.3707,0.0936,0.0,-,-,0.4643
+8660,Jordan Lotomba,Nice,0.0,0.026,-,0.0,0.0,0.0,0.43,0.456
+5647,Arnaud Souquet,Montpellier,0.0,0.0928,0.2304,0.0,-,0.1328,0.0,0.456
+5635,Faitout Maouassa,Rennes,0.0521,0.2551,0.1391,0.0,-,-,-,0.4463
+7850,Henry Onyekuru,Monaco,0.0276,0.0743,0.3417,0.0,-,-,-,0.4436
+7169,Moses Simon,Nantes,0.021,0.0562,0.0,0.1067,0.1343,0.0192,0.104,0.4414
+6736,Ibrahima Diallo,Brest,0.0,0.0228,0.407,0.0,0.0,-,-,0.4298
+7432,Reinildo,Lille,0.0,-,-,0.4217,-,-,-,0.4217
+3362,Rony Lopes,Nice,-,0.0,0.1151,0.0192,0.1207,0.0397,0.118,0.4127
+5769,Habib Diallo,Metz,0.0,0.0,0.4115,-,0.0,-,-,0.4115
+3239,Hamari Traore,Rennes,-,-,0.0,0.2465,0.0,0.043,0.1208,0.4103
+7562,Eric Junior Dina Ebimbe,Dijon,0.1319,0.0,0.082,0.0,0.0,0.0836,0.1076,0.4051
+3517,Ronael Pierre Gabriel,Brest,0.0,0.1078,0.0,-,0.2952,0.0,-,0.403
+8190,Melvin Bard,Lyon,0.0,-,0.0,0.1339,0.0,0.2505,-,0.3844
+8755,Wilitty Younoussa,Dijon,-,-,0.0,0.3705,-,-,-,0.3705
+7980,Adil Aouchiche,Saint-Etienne,0.0403,0.0907,0.0637,0.0583,0.0176,0.035,0.0644,0.37
+7007,Duje Caleta-Car,Marseille,0.0,0.0,0.3683,0.0,0.0,0.0,0.0,0.3683
+2413,Steven N'Zonzi,Rennes,0.0,0.3519,0.0,0.0,0.0,0.0163,-,0.3682
+6864,Renaud Ripart,Nimes,0.2908,0.0,0.0251,0.0465,0.0,0.0,0.0,0.3624
+552,Ander Herrera,Paris Saint Germain,0.0449,0.0,0.1948,0.0,0.0,0.0402,0.0808,0.3607
+4904,Adrián Cubas,Nimes,0.0,0.0513,0.2989,0.0,0.0094,0.0,0.0,0.3596
+6907,Colin Dagba,Paris Saint Germain,0.0,0.0,0.0118,0.0,-,0.1411,0.2044,0.3573
+3479,Marcus Coco,Nantes,0.0,0.2917,-,0.024,0.019,0.0179,0.0,0.3526
+6882,Ghislain Konan,Reims,0.0,0.1597,0.0,0.0275,0.0,0.165,-,0.3522
+8664,Facundo Medina,Lens,0.0,0.0,0.0,0.0,0.0,0.347,-,0.347
+3549,Adrien Thomasson,Strasbourg,0.0,0.0316,0.0,0.0947,0.0,0.0,0.2182,0.3445
+5773,Zaydou Youssef,Saint-Etienne,-,0.0,0.3402,0.0,0.0,0.0,0.0,0.3402
+5611,Martin Terrier,Rennes,0.0,0.2505,-,0.0658,0.0,-,0.02,0.3363
+4403,Mehdi Abeid,Nantes,-,0.0,-,0.0522,0.0,0.1011,0.1807,0.334
+3357,Djibril Sidibe,Monaco,-,0.0351,-,0.283,-,-,0.014,0.3321
+6846,Sofiane Diop,Monaco,0.0923,0.0,0.0639,0.0139,0.0,0.14,0.0174,0.3275
+4882,Laurent Abergel,Lorient,0.0,0.0,0.0,0.311,0.0,0.0146,0.0,0.3256
+3490,Thomas Mangani,Angers,0.0545,0.1043,0.0166,0.1502,0.0,0.0,0.0,0.3256
+92,Hiroki Sakai,Marseille,0.0,0.0,0.1929,0.0104,0.0421,0.0,0.0766,0.322
+8643,Chrislain Matsima,Monaco,-,-,-,-,0.0,0.3005,0.0131,0.3136
+7012,Gelson Martins,Monaco,0.1309,0.0,0.0,0.0,-,0.1095,0.065,0.3054
+3227,Ludovic Baal,Brest,-,0.0,-,-,-,-,0.2996,0.2996
+7328,Maxence Caqueret,Lyon,0.164,0.1322,0.0,0.0,-,0.0,-,0.2962
+5724,Irvin Cardona,Brest,0.0427,0.0,0.0,0.2512,0.0,-,0.0,0.2939
+8640,Adrien Truffert,Rennes,-,-,-,0.2867,-,-,-,0.2867
+7557,Yassin Benrahou,Nimes,0.0703,0.0,0.1133,-,0.0955,-,-,0.2791
+5736,Myziane Maolida,Nice,-,-,0.0,-,0.0,0.2759,0.0,0.2759
+6332,Willem Geubbels,Monaco,0.0,0.0,0.2643,0.0,-,0.0,0.0,0.2643
+8004,Dereck Kutesa,Reims,0.0817,0.0,0.0,0.0,0.0,0.1511,0.022,0.2548
+7359,Eduardo Camavinga,Rennes,0.1502,0.0138,0.0,0.0473,0.0342,0.0,0.0,0.2455
+5661,Jonathan Ikone,Lille,0.0,0.0,0.1262,0.0,0.0992,0.0,0.0,0.2254
+3740,Lucas Deaux,Nimes,0.0,0.0799,0.0,-,-,0.0494,0.094,0.2233
+6674,Rayan Ait Nouri,Angers,-,-,-,0.0,0.1061,0.1037,-,0.2098
+7756,Yusuf Yazici,Lille,0.0,0.024,0.0,-,0.0,0.0,0.184,0.208
+6012,Luiz Araujo,Lille,0.0,0.0,0.0405,0.0244,0.0546,0.0,0.087,0.2065
+5619,Pierre Lees-Melou,Nice,0.0524,0.0,0.0409,0.0358,0.0,0.0753,0.0,0.2044
+967,Mathieu Debuchy,Saint-Etienne,0.2018,0.0,0.0,-,-,-,-,0.2018
+1932,Sanjin Prcic,Strasbourg,0.0,-,-,0.0501,0.1506,-,-,0.2007
+5692,Fouad Chafik,Dijon,-,0.018,0.0121,0.0,0.1701,0.0,0.0,0.2002
+5963,Thomas Monconduit,Lorient,-,-,-,0.0,0.0831,0.1159,0.0,0.199
+7760,Abdoul Kader Bamba,Nantes,0.0296,0.0,0.0,0.0817,0.0867,0.0,0.0,0.198
+6734,Ambroise Oyongo,Montpellier,0.1975,0.0,-,0.0,0.0,0.0,0.0,0.1975
+7178,Valon Berisha,Reims,0.0,0.02,0.0,0.1371,0.0368,0.0,-,0.1939
+7734,Cristian Battocchio,Brest,0.0,-,0.1931,0.0,0.0,-,-,0.1931
+3325,Yannick Cahuzac,Lens,0.0392,0.0,0.0,0.117,0.0,0.0365,0.0,0.1927
+8657,Jeremy Le Douaron,Brest,0.0165,0.0,0.0573,0.0,0.0796,0.0329,0.0,0.1863
+6762,Yacine Adli,Bordeaux,-,-,0.0,0.0683,0.0665,0.0162,0.0336,0.1846
+5786,Yoane Wissa,Lorient,0.0,0.0,0.0772,0.0114,0.0,0.0272,0.0682,0.184
+6380,Anthony Caci,Strasbourg,-,0.0,0.1122,0.0125,-,0.059,-,0.1837
+1720,Didier Ndong,Dijon,0.1206,0.0,0.0,0.0,0.0,0.0,0.0629,0.1835
+6902,Toma Basic,Bordeaux,0.0,0.0985,0.0,0.0,0.0849,0.0,0.0,0.1834
+7745,Loris Benito,Bordeaux,-,0.0,0.0,0.0669,0.1134,0.0,0.0,0.1803
+5654,Baptiste Santamaria,Angers,0.0,0.0244,0.1536,-,-,-,-,0.178
+3512,Nolan Roux,Nimes,-,-,0.0916,0.0,0.0858,0.0,0.0,0.1774
+3275,Jordan Ferri,Montpellier,0.0359,0.054,0.0,0.0119,0.0729,0.0,0.0,0.1747
+8667,Ismael Boura,Lens,0.0419,0.0,0.0,0.0658,0.0,-,0.0654,0.1731
+5676,Opa Nguette,Metz,0.0464,0.0,0.0,0.0,0.0406,0.0699,0.0159,0.1728
+3475,Ludovic Blas,Nantes,0.0,0.0,0.0,0.0,0.0281,0.0767,0.0651,0.1699
+7160,Nemanja Radonjic,Marseille,0.0,0.0,-,0.0203,0.1143,0.0352,-,0.1698
+3223,Benjamin André,Lille,0.0443,0.0,0.016,0.0731,0.0,0.0345,0.0,0.1679
+8676,Aníbal Chalá,Dijon,-,0.0,0.1057,0.0,0.0601,0.0,0.0,0.1658
+5105,Victorien Angban,Metz,0.0,0.0,0.0,0.0156,0.022,0.1261,0.0,0.1637
+8166,Mehdi Zerkane,Bordeaux,0.0,-,-,-,-,0.1587,0.0,0.1587
+1022,Pedro Chirivella,Nantes,0.0,0.0,0.0134,0.0,0.0,0.0,0.1422,0.1556
+8666,Cheick Oumar Doucoure,Lens,0.0,0.0,0.1203,0.0,0.0,0.0,0.0348,0.1551
+551,Morgan Schneiderlin,Nice,0.0,0.0,0.0,0.0618,0.0917,-,0.0,0.1535
+8316,Roger Assalé,Dijon,-,-,0.0,-,0.1511,0.0,-,0.1511
+8969,Florentino Luís,Monaco,-,-,-,-,-,0.062,0.0786,0.1406
+6885,Axel Disasi,Monaco,0.0163,0.0,0.1236,0.0,0.0,-,-,0.1399
+7755,Domagoj Bradaric,Lille,0.0,0.0,0.1399,0.0,0.0,0.0,0.0,0.1399
+6011,Thiago Mendes,Lyon,-,0.0457,-,-,0.021,0.0721,0.0,0.1388
+8649,Houboulang Mendes,Lorient,0.0,0.0,0.0,0.0,0.0,0.0086,0.129,0.1376
+3464,Vincent Le Goff,Lorient,0.0,0.0,0.0138,0.0,0.1234,0.0,-,0.1372
+943,Massadio Haidara,Lens,-,-,-,-,-,0.1363,0.0,0.1363
+5803,Fode Toure,Monaco,0.0385,-,0.0,-,0.0976,-,-,0.1361
+7774,Haris Duljevic,Nimes,-,0.0781,-,0.0579,-,-,-,0.136
+5623,Lois Diony,Angers,-,-,0.0,0.0397,0.0958,0.0,0.0,0.1355
+7511,Sacha Boey,Rennes,0.0,-,-,-,-,0.1333,-,0.1333
+7732,Haris Belkebla,Brest,0.0,0.0,0.0,0.0,0.0,0.1088,0.022,0.1308
+7739,Joris Chotard,Montpellier,0.0168,0.0,0.0,0.1138,-,0.0,0.0,0.1306
+3265,Pablo,Bordeaux,-,-,-,0.0,0.0,0.0,0.1275,0.1275
+3800,Steve Mounie,Brest,-,-,0.0,0.0898,0.0,0.0,0.0332,0.123
+5621,Frederic Sammaritano,Dijon,0.0,0.0117,0.0,0.0192,0.0,0.0,0.091,0.1219
+3542,Damien Da Silva,Rennes,0.0,0.0,0.0,0.0,0.0,0.1213,-,0.1213
+834,José Fonte,Lille,0.0,0.0,0.0,0.0482,0.0481,0.0245,0.0,0.1208
+7716,Darío Benedetto,Marseille,0.0,0.0,-,0.0,0.1204,0.0,0.0,0.1204
+5587,Josh Maja,Bordeaux,0.0,0.0,0.0165,0.0,0.0361,0.0,0.0668,0.1194
+1752,Fabio,Nantes,0.0136,0.0,-,0.0389,0.066,0.0,0.0,0.1185
+4501,Thierry Ambrose,Metz,0.0,-,0.0,0.0,-,0.1176,-,0.1176
+3399,Youssouf Sabaly,Bordeaux,0.0,0.0,0.0,0.0255,0.038,0.0353,0.0139,0.1127
+5769,Habib Diallo,Strasbourg,-,-,-,-,-,-,0.1092,0.1092
+1524,Stevan Jovetic,Monaco,-,0.0,0.0,0.0159,0.0,0.0,0.091,0.1069
+3477,Jimmy Briand,Bordeaux,0.0,0.0,0.0,0.0,0.0,0.0,0.1063,0.1063
+8025,Kasper Dolberg,Nice,0.0,0.0,0.0136,-,0.0,0.0892,-,0.1028
+3322,Alexander Djiku,Strasbourg,0.0,0.0,0.0,0.0,0.0,0.1023,-,0.1023
+5677,Florent Mollet,Montpellier,0.1008,-,0.0,0.0,0.0,0.0,0.0,0.1008
+5988,Ibrahima Niane,Metz,0.0,0.0,0.0,0.0,0.0,0.1007,-,0.1007
+8049,Jean-Kevin Duverne,Brest,0.0,0.0,0.0,0.0,0.0828,0.0,0.0178,0.1006
+3346,Jonas Martin,Rennes,0.0182,0.0,0.0819,0.0,0.0,0.0,0.0,0.1001
+2387,Danilo,Nice,-,-,-,-,-,-,0.0992,0.0992
+8635,Sven Botman,Lille,0.0,0.0,0.0,0.0,0.0968,0.0,0.0,0.0968
+3507,Vincent Pajot,Metz,0.0173,0.0544,0.0,0.023,-,0.0,0.0,0.0947
+8312,Kaj Sierhuis,Reims,0.0,0.0,-,0.0,-,0.0,0.0943,0.0943
+8151,Hianga'a M'Bock,Brest,0.0,0.0,0.0,0.0941,-,-,-,0.0941
+3786,Mathieu Cafaro,Reims,0.0913,0.0,0.0,0.0,-,0.0,0.0,0.0913
+93,Marcelo,Lyon,0.0414,0.0,0.0296,0.0,0.0199,0.0,0.0,0.0909
+414,Juan Bernat,Paris Saint Germain,0.0,0.0887,0.0,-,-,-,-,0.0887
+8094,Mathis Cherki,Lyon,0.0,0.0,0.0,0.087,0.0,0.0,-,0.087
+6947,Samuel Kalu,Bordeaux,0.0,0.0,0.0609,0.0,0.0248,0.0,-,0.0857
+3221,Pedro Mendes,Montpellier,0.0,0.0853,0.0,0.0,0.0,0.0,-,0.0853
+8314,Yvann Maçon,Saint-Etienne,0.0,0.0,0.0843,0.0,0.0,0.0,-,0.0843
+6148,Michaël Cuisance,Marseille,-,-,-,-,-,-,0.0833,0.0833
+3741,Paul Lasne,Brest,-,-,-,-,0.0,0.0821,-,0.0821
+8655,Mehdi Chahiri,Strasbourg,0.0432,0.0383,0.0,0.0,0.0,0.0,-,0.0815
+8639,Brandon Soppy,Rennes,0.0,0.0,0.0,-,0.0812,-,-,0.0812
+6945,Youssouf Fofana,Monaco,0.0804,0.0,-,0.0,0.0,0.0,-,0.0804
+7151,Thomas Foket,Reims,0.0,-,0.0397,0.0,0.0,0.0,0.0396,0.0793
+8056,Arnaud Kalimuendo Muinga,Lens,-,0.0609,-,-,-,-,0.0177,0.0786
+6316,Panagiotis Retsos,Saint-Etienne,-,-,-,-,-,-,0.0776,0.0776
+8249,Renaud Emond,Nantes,-,0.0,0.075,0.0,0.0,0.0,-,0.075
+1144,Seko Fofana,Lens,-,-,-,0.0748,-,-,-,0.0748
+3772,Maxime Lopez,Marseille,-,0.0,0.0738,-,0.0,0.0,-,0.0738
+7240,Benoit Badiashile Mukinayi,Monaco,0.0,0.0,0.0,0.0,0.0,0.0,0.0735,0.0735
+6310,Boubakary Soumare,Lille,0.0,-,0.0,0.0714,0.0,-,0.0,0.0714
+3461,Majeed Waris,Strasbourg,0.0,0.0705,0.0,0.0,0.0,-,0.0,0.0705
+7282,Giulian Biancone,Monaco,-,-,-,-,0.0,0.07,-,0.07
+7998,Ngonda Muzinga,Dijon,0.0,-,-,-,0.0699,-,0.0,0.0699
+2291,Pape Cheikh,Dijon,0.009,-,0.0155,-,0.0,0.0421,0.0,0.0666
+668,Idrissa Gueye,Paris Saint Germain,0.0162,0.0,0.0,0.0,-,0.0,0.0498,0.066
+8995,Hugo Ekitike,Reims,-,-,-,-,-,-,0.0658,0.0658
+8668,Tony Mauricio,Lens,0.0341,0.0,0.0,0.0,-,0.0303,0.0,0.0644
+5733,Houssem Aouar,Lyon,-,0.0,0.0,-,0.0635,0.0,0.0,0.0635
+8318,Moussa Koné,Nimes,0.0,0.062,0.0,-,-,-,0.0,0.062
+8056,Arnaud Kalimuendo Muinga,Paris Saint Germain,0.0609,-,-,-,-,-,-,0.0609
+7730,Jean-Charles Castelletto,Nantes,-,0.0,-,-,-,0.0608,0.0,0.0608
+3354,Sébastien Corchia,Nantes,-,-,-,-,-,-,0.0603,0.0603
+7570,Moreto Cassamã,Reims,0.0,0.0181,0.0213,0.0203,0.0,-,0.0,0.0597
+8652,Stéphane Diarra,Lorient,0.0,0.0101,0.0282,0.0,-,0.0203,-,0.0586
+8186,Nelson Sissoko,Saint-Etienne,-,-,0.0,-,-,0.0583,0.0,0.0583
+6128,Kévin Zohi,Strasbourg,0.057,0.0,0.0,-,0.0,0.0,-,0.057
+7852,Sidy Sarr,Nimes,0.0,0.0569,-,0.0,-,-,-,0.0569
+5979,Idriss Saadi,Strasbourg,0.0548,0.0,0.0,0.0,0.0,0.0,-,0.0548
+4896,Andrew Gravillon,Lorient,-,-,-,-,-,-,0.0546,0.0546
+5731,Mateo Pavlovic,Angers,-,-,0.0,0.0534,0.0,0.0,-,0.0534
+5614,Baptiste Reynet,Nimes,0.0,0.0,0.0,0.0524,0.0,0.0,0.0,0.0524
+3673,Valentin Rongier,Marseille,0.0,0.0,0.0165,0.0168,0.0186,0.0,0.0,0.0519
+8647,Thibault De Smet,Reims,-,-,-,-,-,-,0.0516,0.0516
+6874,Yann Gboho,Rennes,-,0.0511,0.0,-,-,-,0.0,0.0511
+3318,Jean-Louis Leca,Lens,0.0,0.0498,0.0,0.0,0.0,0.0,0.0,0.0498
+8690,Jean-Phillipe Krasso,Saint-Etienne,0.0,-,-,-,0.0,-,0.0495,0.0495
+1256,Kevin Strootman,Marseille,0.0467,0.0,0.0,-,-,-,0.0,0.0467
+6868,Gaetan Paquiez,Nimes,-,-,-,0.0467,0.0,-,0.0,0.0467
+3781,Denis Bouanga,Saint-Etienne,0.0,0.0457,0.0,0.0,0.0,0.0,0.0,0.0457
+6060,Otávio,Bordeaux,0.0168,0.0,0.024,0.0,0.0,-,0.0,0.0408
+4242,Stefan Mitrovic,Strasbourg,0.0,-,0.0,0.0,0.0171,0.0,0.0208,0.0379
+3456,Jimmy Cabot,Angers,-,-,-,-,0.0,0.0,0.0379,0.0379
+6904,Ibrahima Sissoko,Strasbourg,0.0377,0.0,0.0,0.0,0.0,0.0,0.0,0.0377
+6935,Naif Aguerd,Rennes,0.035,0.0,0.0,0.0,0.0,0.0,0.0,0.035
+7751,Miguel Trauco,Saint-Etienne,-,-,-,-,-,-,0.0346,0.0346
+1056,Jeff Reine-Adelaide,Lyon,0.0346,-,-,-,-,-,-,0.0346
+6880,Edouard Mendy,Rennes,0.0328,-,-,-,-,-,-,0.0328
+3670,Nicolas Pallois,Nantes,0.0,0.0,0.0,0.0326,0.0,0.0,0.0,0.0326
+3445,Corentin Jean,Lens,0.0311,0.0,0.0,0.0,0.0,0.0,0.0,0.0311
+8658,Heriberto Tavares,Brest,0.0,0.0308,-,-,-,-,0.0,0.0308
+3487,Ismael Traoré,Angers,0.0,0.0134,0.0164,0.0,0.0,0.0,0.0,0.0298
+6501,Andy Pelmard,Nice,0.0,0.0,0.0,0.0,0.0298,0.0,-,0.0298
+6318,Lionel Carole,Strasbourg,0.0,0.0,-,0.0289,0.0,0.0,0.0,0.0289
+8669,Simon Banza,Lens,0.0,0.0,-,0.0,0.0287,0.0,0.0,0.0287
+148,Dante,Nice,0.0,0.0,0.0,0.0,0.0,0.0279,0.0,0.0279
+5663,Keagan Dolly,Montpellier,0.0,0.0,-,-,-,-,0.0273,0.0273
+7913,Lamine Fomba,Nimes,0.0,-,0.0,0.0083,0.0,0.0,0.0185,0.0268
+8645,Enzo Millot,Monaco,-,-,-,-,-,0.0264,-,0.0264
+7687,Jean Lucas,Lyon,-,-,0.0263,0.0,0.0,-,0.0,0.0263
+5177,Caio Henrique,Monaco,-,-,-,-,-,-,0.0253,0.0253
+8920,Dilane Bakwa,Bordeaux,-,-,-,-,0.025,0.0,-,0.025
+1304,Moise Kean,Paris Saint Germain,-,-,-,-,-,-,0.0248,0.0248
+3373,Pablo Martinez,Nimes,0.0,0.0245,0.0,-,-,-,0.0,0.0245
+3568,Clément Grenier,Rennes,-,-,-,-,-,-,0.0243,0.0243
+5650,Patrick Burner,Nimes,-,-,-,-,0.0,0.0134,0.0108,0.0242
+961,Jordan Amavi,Marseille,0.0,0.0134,-,-,-,0.0102,0.0,0.0236
+5620,Romain Amalfitano,Dijon,0.0,0.0211,-,-,-,-,-,0.0211
+8746,Aïmen Moueffek,Saint-Etienne,-,-,0.0,0.0211,0.0,-,-,0.0211
+5752,Alexis Claude Maurice,Nice,0.0208,-,0.0,-,0.0,-,-,0.0208
+3338,Daniel Congré,Montpellier,0.0,0.0,0.0,0.0,0.0,0.0205,0.0,0.0205
+5737,Saif-Eddine Khaoui,Marseille,-,-,-,-,0.0189,-,-,0.0189
+5744,Matteo Ahlinvi,Nimes,-,-,-,0.0183,-,-,0.0,0.0183
+6489,Steven Fortes,Lens,-,-,-,0.0182,0.0,-,-,0.0182
+7589,Wesley Fofana,Saint-Etienne,0.0,0.0,0.0,-,0.0177,-,-,0.0177
+5789,Boubacar Kamara,Marseille,0.0,0.0,0.0,0.0,0.0175,0.0,0.0,0.0175
+5984,Alexandre Oukidja,Metz,0.0,0.0,0.016,0.0,0.0,0.0,0.0,0.016
+6452,Mahdi Camara,Saint-Etienne,0.0,0.0,0.0138,0.0,0.0,0.0,0.0,0.0138
+6112,Andrei Girotto,Nantes,0.0,0.0,0.0135,0.0,0.0,0.0,-,0.0135
+7767,John Boye,Metz,0.0124,0.0,0.0,0.0,0.0,0.0,0.0,0.0124
+7358,Souleyman Doumbia,Angers,0.0,0.0114,0.0,-,-,-,0.0,0.0114
+6861,Anthony Briancon,Nimes,-,-,0.0,0.0,0.0096,0.0,-,0.0096
+7484,Stephy Mavididi,Montpellier,-,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8037,Marley Aké,Marseille,0.0,-,0.0,0.0,-,-,0.0,0.0
+6007,Nicolas Cozza,Montpellier,-,-,-,0.0,-,-,0.0,0.0
+3962,Anastasios Donis,Reims,-,0.0,-,-,0.0,-,0.0,0.0
+3337,Hilton,Montpellier,-,0.0,0.0,-,0.0,0.0,0.0,0.0
+8691,Saidou Sow,Saint-Etienne,-,-,-,-,-,0.0,0.0,0.0
+5624,Yunis Abdelhamid,Reims,0.0,0.0,-,0.0,0.0,0.0,0.0,0.0
+1506,Yuto Nagatomo,Marseille,-,-,-,0.0,0.0,-,-,0.0
+1670,Steve Mandanda,Marseille,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5974,Bingourou Kamara,Strasbourg,-,-,0.0,0.0,0.0,0.0,0.0,0.0
+8980,Luis Henrique,Marseille,-,-,-,-,-,-,0.0,0.0
+8671,Manuel Perez,Lens,-,0.0,0.0,-,0.0,0.0,-,0.0
+3118,Damien Le Tallec,Montpellier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8248,Maxence Rivera,Saint-Etienne,0.0,0.0,-,0.0,0.0,0.0,0.0,0.0
+2713,Petar Skuletic,Montpellier,0.0,-,-,-,-,-,-,0.0
+7206,Jonathan Gradit,Lens,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5678,Eiji Kawashima,Strasbourg,0.0,0.0,-,-,-,-,-,0.0
+2430,Álvaro González,Marseille,-,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8759,David Pereira Da Costa,Lens,-,-,-,-,-,0.0,-,0.0
+9038,Aleksandar Radovanovic,Lens,-,-,-,-,-,-,0.0,0.0
+7486,Leonardo Balerdi,Marseille,0.0,-,0.0,-,-,-,-,0.0
+8696,Pape Alassane Gueye,Marseille,0.0,0.0,-,0.0,0.0,0.0,0.0,0.0
+8372,Lucas Gourna Douath,Saint-Etienne,-,0.0,0.0,0.0,-,0.0,0.0,0.0
+2782,Moussa Doumbia,Reims,-,-,-,-,-,-,0.0,0.0
+728,Lamine Koné,Strasbourg,0.0,0.0,-,-,-,-,0.0,0.0
+8665,Loic Bade,Lens,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0
+6745,Christopher Rocchia,Marseille,-,-,0.0,-,-,-,-,0.0
+4811,Jean Eudes Aholou,Strasbourg,-,-,-,-,-,0.0,0.0,0.0
+3393,Bouna Sarr,Marseille,-,-,0.0,0.0,-,-,-,0.0
+7718,Predrag Rajkovic,Reims,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3309,Valère Germain,Marseille,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0
+5998,Christophe Herelle,Brest,-,-,0.0,0.0,0.0,-,0.0,0.0
+4804,Abdou Diallo,Paris Saint Germain,0.0,-,0.0,-,0.0,0.0,0.0,0.0
+3599,Presnel Kimpembe,Paris Saint Germain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3298,Layvin Kurzawa,Paris Saint Germain,0.0,0.0,-,-,-,-,-,0.0
+2674,Thilo Kehrer,Paris Saint Germain,0.0,0.0,-,-,-,-,-,0.0
+2256,Jesé,Paris Saint Germain,0.0,-,-,-,-,-,0.0,0.0
+2243,Keylor Navas,Paris Saint Germain,-,-,0.0,0.0,0.0,0.0,0.0,0.0
+2072,Sergio Rico,Paris Saint Germain,-,0.0,-,-,-,-,-,0.0
+5742,Hugo Magnetti,Brest,-,0.0,-,-,-,0.0,0.0,0.0
+1248,Leandro Paredes,Paris Saint Germain,-,0.0,-,-,0.0,0.0,0.0,0.0
+8981,Jéremy Doku,Rennes,-,-,-,-,-,-,0.0,0.0
+7728,Gautier Larsonneur,Brest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3297,Marquinhos,Paris Saint Germain,-,-,0.0,0.0,0.0,0.0,-,0.0
+7717,Isaac Lihadji,Lille,-,-,-,-,0.0,0.0,-,0.0
+6601,Timothy Weah,Lille,-,0.0,0.0,0.0,-,0.0,-,0.0
+7736,Brendan Chardonnet,Brest,0.0,-,0.0,0.0,-,0.0,-,0.0
+3737,Mike Maignan,Lille,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3356,Adama Soumaoro,Lille,-,-,-,-,-,-,0.0,0.0
+1784,Jérémy Pied,Lille,-,0.0,0.0,-,-,-,-,0.0
+7772,Marcin Bulka,Paris Saint Germain,0.0,-,-,-,-,-,-,0.0
+8698,Kays Ruiz-Atil,Paris Saint Germain,0.0,-,-,-,0.0,-,0.0,0.0
+8983,Karim Aribi,Nimes,-,-,-,-,-,-,0.0,0.0
+8982,Niclas Eliasson,Nimes,-,-,-,-,-,-,0.0,0.0
+6937,Georginio Rutter,Rennes,-,-,-,-,0.0,-,-,0.0
+8851,Abdoulaye Sidibé,Saint-Etienne,-,-,-,0.0,-,-,-,0.0
+8879,Tyrone Tormin,Saint-Etienne,-,-,-,-,0.0,-,-,0.0
+8678,Jonas Omlin,Montpellier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5699,Dalbert,Rennes,-,-,-,-,-,-,0.0,0.0
+1301,Daniele Rugani,Rennes,-,-,-,-,-,-,0.0,0.0
+1126,M'Baye Niang,Rennes,0.0,-,-,-,-,-,-,0.0
+4765,Loïck Landre,Nimes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2242,Rubén Pardo,Bordeaux,-,0.0,-,0.0,-,-,-,0.0
+6860,Sofiane Alakouch,Nimes,-,-,0.0,-,-,-,-,0.0
+6862,Florian Miguel,Nimes,0.0,-,-,0.0,0.0,-,0.0,0.0
+3652,Enock Kwateng,Bordeaux,0.0,-,-,-,0.0,-,-,0.0
+7157,Lucas Buades,Nimes,-,-,-,0.0,-,-,-,0.0
+3638,Hatem Ben Arfa,Bordeaux,-,-,-,-,-,-,0.0,0.0
+8699,Bandiougou Fadiga,Paris Saint Germain,-,-,0.0,0.0,-,-,-,0.0
+3576,Maxime Poundje,Bordeaux,0.0,0.0,0.0,-,-,-,0.0,0.0
+8783,Marco Ludivin Majouga,Nimes,-,-,-,-,0.0,-,0.0,0.0
+5766,Romain Salin,Rennes,-,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8208,Mihai-Alexandru Dobre,Dijon,0.0,0.0,0.0,-,-,-,0.0,0.0
+8679,Samy Benchama,Montpellier,0.0,-,-,-,-,-,-,0.0
+6881,Thomas Fontaine,Lorient,-,-,-,0.0,0.0,0.0,-,0.0
+7365,Lucas Paquetá,Lyon,-,-,-,-,-,-,0.0,0.0
+4811,Jean Eudes Aholou,Monaco,0.0,0.0,-,-,-,-,-,0.0
+3451,Benjamin Lecomte,Monaco,0.0,0.0,-,0.0,0.0,0.0,0.0,0.0
+8663,Flavius Daniliuc,Nice,-,-,-,0.0,0.0,0.0,-,0.0
+8703,Sinaly Diomande,Lyon,-,-,-,0.0,0.0,0.0,0.0,0.0
+8661,Robson Bambu,Nice,0.0,-,-,-,-,-,0.0,0.0
+8371,Alexis Trouillet,Nice,-,0.0,-,-,-,0.0,-,0.0
+8653,Adrian Grbic,Lorient,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8006,Evann Guessand,Nice,0.0,-,-,0.0,0.0,-,-,0.0
+8997,Terem Igobor Moffi,Lorient,-,-,-,-,-,-,0.0,0.0
+1064,Sylvain Marveaux,Lorient,0.0,0.0,0.0,-,-,0.0,-,0.0
+3271,Jérémy Morel,Lorient,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3430,Paul Nardi,Lorient,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7329,Eddy Sylvestre,Nice,0.0,0.0,0.0,0.0,-,-,-,0.0
+6878,Youcef Atal,Nice,-,-,0.0,0.0,-,-,-,0.0
+3668,Jonathan Delaplace,Lorient,-,-,-,-,0.0,-,0.0,0.0
+7750,Harold Moukoudi,Saint-Etienne,-,-,-,0.0,0.0,0.0,0.0,0.0
+6436,Stanley N'Soki,Nice,-,-,-,-,-,-,0.0,0.0
+6615,Trevoh Chalobah,Lorient,-,-,0.0,-,-,-,0.0,0.0
+6073,Guillermo Maripán,Monaco,-,0.0,-,0.0,-,-,-,0.0
+6314,Joachim Andersen,Lyon,0.0,0.0,0.0,-,-,-,-,0.0
+8641,Radoslaw Majecki,Monaco,-,-,0.0,-,-,-,-,0.0
+8996,Mouhamadou Drammeh,Reims,-,-,-,-,-,-,0.0,0.0
+7908,Marshall Munetsi,Reims,0.0,0.0,0.0,0.0,-,0.0,-,0.0
+8003,Dario Maresic,Reims,-,0.0,0.0,0.0,0.0,-,-,0.0
+3518,Jessy Moulin,Saint-Etienne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3513,Kévin Monnet-Paquet,Saint-Etienne,0.0,0.0,-,0.0,-,-,0.0,0.0
+8646,Wout Faes,Reims,0.0,0.0,0.0,-,-,0.0,0.0,0.0
+7316,Charles Nathan Abi,Saint-Etienne,-,0.0,0.0,-,-,-,-,0.0
+8648,Fraser Hornby,Reims,-,0.0,0.0,-,0.0,-,-,0.0
+2063,Timothée Kolodziejczak,Saint-Etienne,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
+1326,Assane Diousse,Saint-Etienne,0.0,-,-,-,-,-,-,0.0
+5973,Kenny Tete,Lyon,0.0,-,-,-,-,-,-,0.0
+734,Wahbi Khazri,Saint-Etienne,-,-,-,-,-,0.0,-,0.0
+732,Yann M'Vila,Saint-Etienne,0.0,-,-,-,-,-,-,0.0
+8702,Tinotenda Kadewere,Lyon,-,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7568,Bilal Benkhedim,Saint-Etienne,-,-,-,-,-,-,0.0,0.0
+1039,Jason Denayer,Lyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3269,Anthony Lopes,Lyon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8644,Eliot Matazo,Monaco,-,-,-,-,0.0,-,-,0.0
+5708,Fernando Marçal,Lyon,0.0,-,-,-,-,-,-,0.0
+6865,Umut Bozok,Lorient,-,0.0,0.0,0.0,-,0.0,-,0.0
+5652,Walter Benítez,Nice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5980,Stéphane Bahoken,Angers,-,0.0,0.0,0.0,0.0,0.0,-,0.0
+8650,Julien Laporte,Lorient,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0
+7064,Farid El Melali,Angers,0.0,0.0,-,-,-,-,-,0.0
+6251,Wilfried Kanga,Angers,0.0,0.0,-,-,-,-,-,0.0
+1455,Alfred Gomis,Dijon,0.0,0.0,0.0,0.0,0.0,-,-,0.0
+3218,Benoit Costil,Bordeaux,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4801,Rachid Alioui,Angers,-,-,-,-,-,-,0.0,0.0
+3677,Wesley Lautoa,Dijon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3488,Romain Thomas,Angers,0.0,0.0,0.0,-,-,-,0.0,0.0
+3486,Vincent Manceau,Angers,-,-,-,-,-,0.0,0.0,0.0
+6000,Tristan Dingome,Reims,-,-,0.0,-,-,-,-,0.0
+7247,Jonathan Panzo,Dijon,-,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7749,Rayan Philippe,Dijon,0.0,0.0,0.0,0.0,-,-,-,0.0
+3358,Ibrahim Amadou,Angers,-,-,-,-,-,-,0.0,0.0
+3344,Casimir Ninga,Angers,0.0,-,-,-,-,-,-,0.0
+8155,Ahmad Toure Ngouyamsa Nounchili,Dijon,0.0,0.0,-,-,-,-,-,0.0
+7719,Nathanael Mbuku,Reims,-,-,-,-,0.0,0.0,0.0,0.0
+3334,Lassana Coulibaly,Angers,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0
+3251,Paul Bernardoni,Angers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1734,Sofiane Boufal,Angers,-,-,-,-,-,-,0.0,0.0
+8971,Saturnin Allagbe,Dijon,-,-,-,-,-,0.0,0.0,0.0
+7747,Mama Baldé,Dijon,-,-,-,-,0.0,0.0,0.0,0.0
+4883,Bruno Ecuele Manga,Dijon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7743,Pereira Lage,Angers,0.0,-,-,-,-,-,-,0.0
+6709,Yehvann Diouf,Reims,-,-,-,-,-,0.0,-,0.0
+5650,Patrick Burner,Nice,0.0,-,-,-,-,-,-,0.0
+7265,Kephren Thuram,Nice,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0
+8654,Franklin Wadja,Lorient,0.0,-,-,0.0,0.0,-,-,0.0
+8283,Batista Mendy,Nantes,-,-,0.0,-,-,-,-,0.0
+8218,Bridge Ndilu,Nantes,0.0,-,0.0,-,-,-,-,0.0
+6232,Kalifa Coulibaly,Nantes,0.0,-,-,-,-,-,-,0.0
+6018,Samuel Moutoussamy,Nantes,0.0,-,-,-,-,-,-,0.0
+3674,Abdoulaye Touré,Nantes,-,-,0.0,0.0,-,0.0,0.0,0.0
+3655,Charles Traore,Nantes,0.0,-,0.0,-,-,-,-,0.0
+8688,Warren Tchimbembé,Metz,-,0.0,-,0.0,0.0,0.0,0.0,0.0
+5761,Youssef Maziz,Metz,-,-,0.0,-,-,0.0,0.0,0.0
+3201,Alban Lafont,Nantes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7764,Mamadou Fofana,Metz,-,0.0,0.0,-,0.0,-,-,0.0
+7765,Thomas Delaine,Metz,-,-,0.0,-,-,-,-,0.0
+8244,Dylan Bronn,Metz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8685,Mohamed Ali-Cho,Angers,-,0.0,-,0.0,0.0,0.0,-,0.0
+8686,Cheick Tidiane Sabaly,Metz,0.0,-,-,-,-,-,-,0.0
+8687,Kiki Kouyate,Metz,-,-,-,-,0.0,-,0.0,0.0
+3305,Paul Baysse,Bordeaux,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0
