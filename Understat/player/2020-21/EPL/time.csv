@@ -1,391 +1,401 @@
-id,name,team,1,2,3,4,5,total
-8716,Luke Ayling,Leeds,90,90,90,90,90,450
-635,Alex McCarthy,Southampton,90,90,90,90,90,450
-745,Kasper Schmeichel,Leicester,90,90,90,90,90,450
-318,Pierre-Emerick Aubameyang,Arsenal,90,90,90,90,90,450
-7753,James Justin,Leicester,90,90,90,90,90,450
-6681,Harvey Barnes,Leicester,90,90,90,90,90,450
-6157,Timothy Castagne,Leicester,90,90,90,90,90,450
-5956,Youri Tielemans,Leicester,90,90,90,90,90,450
-181,Bernd Leno,Arsenal,90,90,90,90,90,450
-2385,Mat Ryan,Brighton,90,90,90,90,90,450
-492,Héctor Bellerín,Arsenal,90,90,90,90,90,450
-8715,Illan Meslier,Leeds,90,90,90,90,90,450
-532,Cheikhou Kouyaté,Crystal Palace,90,90,90,90,90,450
-885,Kyle Walker-Peters,Southampton,90,90,90,90,90,450
-843,James Ward-Prowse,Southampton,90,90,90,90,90,450
-6048,Lewis Dunk,Brighton,90,90,90,90,90,450
-835,Ryan Bertrand,Southampton,90,90,90,90,90,450
-6273,Robin Koch,Leeds,90,90,90,90,90,450
-6851,Conor Coady,Wolverhampton Wanderers,90,90,90,90,90,450
-6850,Willy Boly,Wolverhampton Wanderers,90,90,90,90,90,450
-510,Joel Ward,Crystal Palace,90,90,90,90,90,450
-3621,Neal Maupay,Brighton,90,90,90,90,90,450
-528,Angelo Ogbonna,West Ham,90,90,90,90,90,450
-775,Andros Townsend,Crystal Palace,90,90,90,90,90,450
-534,Aaron Cresswell,West Ham,90,90,90,90,90,450
-706,Lukasz Fabianski,West Ham,90,90,90,90,90,450
-5553,Declan Rice,West Ham,90,90,90,90,90,450
-1689,Jake Livermore,West Bromwich Albion,90,90,90,90,90,450
-6849,Rui Patrício,Wolverhampton Wanderers,90,90,90,90,90,450
-978,Sam Johnstone,West Bromwich Albion,90,90,90,90,90,450
-4105,Raúl Jiménez,Wolverhampton Wanderers,90,90,90,90,90,450
-3491,Romain Saiss,Wolverhampton Wanderers,90,90,90,90,90,450
-8288,Tomas Soucek,West Ham,90,90,90,90,90,450
-343,Pierre-Emile Højbjerg,Tottenham,90,90,90,90,90,450
-637,Hugo Lloris,Tottenham,90,90,90,90,90,450
-2190,Vicente Guaita,Crystal Palace,90,90,90,90,90,450
-522,Wilfried Zaha,Crystal Palace,90,90,90,90,90,450
-7707,Enda Stevens,Sheffield United,90,90,90,90,90,450
-780,Karl Darlow,Newcastle United,90,90,90,90,90,450
-1653,Michael Keane,Everton,90,90,90,90,90,450
-6521,Yerry Mina,Everton,90,90,90,90,90,450
-7706,George Baldock,Sheffield United,90,90,90,90,90,450
-8214,Tyrick Mitchell,Crystal Palace,90,90,90,90,90,450
-8718,Stuart Dallas,Leeds,90,90,90,90,90,450
-1250,Mohamed Salah,Liverpool,90,90,90,90,90,450
-1688,Andrew Robertson,Liverpool,90,90,90,90,90,450
-741,Jordan Pickford,Everton,90,90,90,90,90,450
-7699,Adam Webster,Brighton,90,90,90,90,90,450
-5603,Aaron Ramsdale,Sheffield United,90,90,90,90,90,450
-8719,Kalvin Phillips,Leeds,90,90,90,90,90,450
-1791,Trent Alexander-Arnold,Liverpool,90,90,90,90,90,450
-986,Danny Ings,Southampton,90,90,90,90,90,450
-1823,Lucas Digne,Everton,90,90,90,90,90,450
-708,Federico Fernández,Newcastle United,90,90,90,90,90,450
-65,Timo Werner,Chelsea,90,90,90,90,90,450
-647,Harry Kane,Tottenham,90,87,90,90,90,447
-468,Callum Wilson,Newcastle United,86,90,90,90,90,446
-751,N'Golo Kanté,Chelsea,90,90,90,84,90,444
-6049,Solly March,Brighton,90,83,90,90,90,443
-7298,Ben White,Brighton,83,90,90,90,90,443
-1776,Jarrod Bowen,West Ham,90,84,89,89,90,442
-1785,Nampalys Mendy,Leicester,90,90,90,90,80,440
-7698,Leandro Trossard,Brighton,90,90,90,90,79,439
-769,Jonjo Shelvey,Newcastle United,90,77,90,90,90,437
-531,Michail Antonio,West Ham,90,90,89,89,79,437
-1746,Jeff Hendrick,Newcastle United,90,90,77,90,90,437
-7153,Matheus Pereira,West Bromwich Albion,90,74,90,90,90,434
-633,James McArthur,Crystal Palace,90,90,90,73,90,433
-5555,Dominic Calvert-Lewin,Everton,89,74,90,90,90,433
-2249,James Rodríguez,Everton,90,81,90,80,90,431
-4381,Mateusz Klich,Leeds,83,90,90,78,90,431
-3683,Ivan Cavaleiro,Fulham,90,90,90,67,90,427
-7708,John Lundstram,Sheffield United,90,90,65,90,90,425
-7700,Che Adams,Southampton,87,83,78,85,88,421
-6651,Grady Diangana,West Bromwich Albion,90,74,76,90,90,420
-482,Roberto Firmino,Liverpool,90,87,90,71,81,419
-1726,Abdoulaye Doucouré,Everton,90,68,90,90,81,419
-842,Oriol Romeu,Southampton,90,58,90,90,89,417
-2335,Pablo Fornals,West Ham,68,89,90,90,79,416
-6382,Pedro Neto,Wolverhampton Wanderers,70,80,90,82,90,412
-6062,Isaac Hayden,Newcastle United,90,90,90,90,52,412
-3428,Hélder Costa,Leeds,90,90,67,90,73,410
-6042,Jan Bednarek,Southampton,48,90,90,90,90,408
-822,Patrick Bamford,Leeds,64,72,90,90,90,406
-5220,Kai Havertz,Chelsea,84,47,90,90,90,401
-7704,Chris Basham,Sheffield United,72,72,90,77,84,395
-3420,Fabinho,Liverpool,30,90,90,90,90,390
-453,Son Heung-Min,Tottenham,90,90,49,76,82,387
-6434,Franck Zambo,Fulham,26,90,90,90,90,386
-773,Aleksandar Mitrovic,Fulham,26,90,90,90,90,386
-6026,Richarlison,Everton,90,90,90,24,90,384
-8226,Tariq Lamptey,Brighton,90,63,90,48,90,381
-7691,Jamal Lewis,Newcastle United,90,90,18,90,90,378
-8285,Sander Berge,Sheffield United,13,90,90,90,90,373
-700,Willian,Arsenal,77,65,69,90,70,371
-833,Virgil van Dijk,Liverpool,90,90,90,90,10,370
-771,Georginio Wijnaldum,Liverpool,90,90,90,90,1,361
-5609,Yves Bissouma,Brighton,90,90,-,90,90,360
-675,Jack Grealish,Aston Villa,90,90,90,90,-,360
-5613,Gabriel,Arsenal,90,90,-,90,90,360
-8323,Josh Brownhill,Burnley,90,90,90,90,-,360
-8865,Ollie Watkins,Aston Villa,90,90,90,90,-,360
-6054,Ederson,Manchester City,90,90,90,90,-,360
-556,Marcus Rashford,Manchester United,90,90,90,90,-,360
-1687,Harry Maguire,Manchester United,90,90,90,90,-,360
-546,David de Gea,Manchester United,90,90,90,90,-,360
-1006,Luke Shaw,Manchester United,90,90,90,90,-,360
-766,Jamaal Lascelles,Newcastle United,90,90,90,-,90,360
-8089,Kieran Tierney,Arsenal,90,-,90,90,90,360
-669,Ashley Westwood,Burnley,90,90,90,90,-,360
-1760,Arthur Masuaku,West Ham,-,90,90,90,90,360
-4456,Chris Wood,Burnley,90,90,90,90,-,360
-6249,Davinson Sánchez,Tottenham,-,90,90,90,90,360
-1747,Kevin Long,Burnley,90,90,90,90,-,360
-5552,Nick Pope,Burnley,90,90,90,90,-,360
-643,Eric Dier,Tottenham,90,90,90,90,-,360
-6044,Charlie Taylor,Burnley,90,90,90,90,-,360
-6756,Dwight McNeil,Burnley,90,90,90,90,-,360
-638,Kyle Walker,Manchester City,90,90,90,90,-,360
-2496,Rodri,Manchester City,90,90,90,90,-,360
-8756,Dara O'Shea,West Bromwich Albion,90,90,90,90,-,360
-5264,Caglar Söyüncü,Leicester,90,90,90,90,-,360
-935,Kurt Zouma,Chelsea,90,90,-,90,90,360
-964,Kyle Bartley,West Bromwich Albion,90,90,90,90,-,360
-7184,Tim Ream,Fulham,90,-,90,90,90,360
-1379,Allan,Everton,90,90,90,-,90,360
-6835,Tom Cairney,Fulham,90,-,90,90,90,360
-4490,Semi Ajayi,West Bromwich Albion,90,90,90,90,-,360
-4401,Emiliano Martinez,Aston Villa,90,90,90,90,-,360
-2310,Alphonse Areola,Fulham,-,90,90,90,90,360
-1024,Tyrone Mings,Aston Villa,90,90,90,90,-,360
-585,Seamus Coleman,Everton,90,90,90,60,30,360
-7723,John McGinn,Aston Villa,90,90,90,90,-,360
-7726,Ezri Konsa Ngoyo,Aston Villa,90,90,90,90,-,360
-884,Matt Targett,Aston Villa,90,90,90,90,-,360
-755,Jamie Vardy,Leicester,90,90,85,90,-,355
-618,Raheem Sterling,Manchester City,84,90,90,90,-,354
-8720,Jack Harrison,Leeds,90,90,90,-,84,354
-6122,Douglas Luiz,Aston Villa,90,90,83,90,-,353
-8864,Matthew Cash,Aston Villa,90,90,83,90,-,353
-838,Sadio Mané,Liverpool,90,90,81,-,90,351
-7722,Trézéguet,Aston Villa,90,88,90,83,-,351
-672,Jordan Ayew,Crystal Palace,90,85,86,90,-,351
-1389,Jorginho,Chelsea,89,80,-,90,90,349
-8020,Steven Alzate,Brighton,83,90,90,84,-,347
-3422,João Moutinho,Wolverhampton Wanderers,87,80,75,19,84,345
-7768,Mason Mount,Chelsea,90,90,90,-,74,344
-4391,Darnell Furlong,West Bromwich Albion,70,90,90,-,90,340
-6834,Joe Bryan,Fulham,90,90,90,67,-,337
-6055,Phil Foden,Manchester City,90,64,90,90,-,334
-589,James McCarthy,Crystal Palace,76,90,90,68,-,324
-987,Joseph Gomez,Liverpool,90,-,90,64,80,324
-204,Granit Xhaka,Arsenal,80,90,61,8,84,323
-1228,Bruno Fernandes,Manchester United,90,90,49,90,-,319
-200,Andreas Christensen,Chelsea,90,45,90,-,90,315
-2383,André Gomes,Everton,68,90,80,-,75,313
-8757,Romaine Sawyers,West Bromwich Albion,70,78,90,65,9,312
-111,Jannik Vestergaard,Southampton,42,-,90,90,90,312
-8291,Daniel Podence,Wolverhampton Wanderers,77,90,-,71,67,305
-1719,Javier Manquillo,Newcastle United,90,90,90,31,-,301
-2446,Dani Ceballos,Arsenal,10,90,29,82,90,301
-1234,Dennis Praet,Leicester,76,85,69,-,70,300
-4476,Callum Robinson,West Bromwich Albion,61,90,68,61,15,295
-7991,Aaron Connolly,Brighton,46,90,77,68,11,292
-6853,Rúben Neves,Wolverhampton Wanderers,13,90,90,90,6,289
-579,Nathan Aké,Manchester City,90,90,18,90,-,288
-770,Ayoze Pérez,Leicester,68,64,-,65,90,287
-3293,Lucas Moura,Tottenham,90,64,82,41,8,285
-660,Ben Davies,Tottenham,90,90,90,14,-,284
-87,Joelinton,Newcastle United,14,13,90,90,75,282
-7703,John Egan,Sheffield United,90,11,-,90,90,281
-7711,David McGoldrick,Sheffield United,18,30,75,90,67,280
-7236,Leander Dendoncker,Wolverhampton Wanderers,90,10,-,90,90,280
-101,Allan Saint-Maximin,Newcastle United,76,32,-,77,90,275
-900,Adama Traoré,Wolverhampton Wanderers,90,90,63,8,23,274
-8067,Reece James,Chelsea,90,90,90,-,1,271
-1676,David Luiz,Arsenal,-,1,90,90,90,271
-1749,Rob Holding,Arsenal,90,90,90,-,-,270
-6080,Victor Lindelöf,Manchester United,90,90,-,90,-,270
-496,Mohamed Elneny,Arsenal,90,-,90,90,-,270
-6892,Fabián Balbuena,West Ham,-,-,90,90,90,270
-8905,Conor Townsend,West Bromwich Albion,-,-,90,90,90,270
-485,Mamadou Sakho,Crystal Palace,-,90,90,90,-,270
-5061,Kepa,Chelsea,90,90,-,-,90,270
-7077,Denis Odoi,Fulham,90,90,90,-,-,270
-8816,Liam Cooper,Leeds,-,90,90,90,-,270
-1257,Alisson,Liverpool,90,90,90,-,-,270
-447,Kevin De Bruyne,Manchester City,90,90,90,-,-,270
-857,Phil Bardsley,Burnley,90,90,90,-,-,270
-5584,Aaron Wan-Bissaka,Manchester United,-,90,90,90,-,270
-7322,Bukayo Saka,Arsenal,-,90,-,88,90,268
-3277,Alexandre Lacazette,Arsenal,88,78,75,-,20,261
-807,Jonny Evans,Leicester,-,-,80,90,90,260
-750,Riyad Mahrez,Manchester City,-,90,78,90,-,258
-6852,Matt Doherty,Tottenham,76,90,90,-,-,256
-971,Harry Winks,Tottenham,60,90,90,-,15,255
-5247,Naby Keita,Liverpool,60,65,80,49,-,254
-3389,Benjamin Mendy,Manchester City,90,90,72,-,-,252
-8286,Jack Robinson,Sheffield United,-,-,90,90,72,252
-6893,Stuart Armstrong,Southampton,-,71,90,90,-,251
-757,Jeffrey Schlupp,Crystal Palace,83,79,-,-,89,251
-1740,Paul Pogba,Manchester United,71,67,90,18,-,246
-1736,Oliver McBurnie,Sheffield United,90,18,15,33,90,246
-6163,Nélson Semedo,Wolverhampton Wanderers,-,-,74,78,90,242
-5274,Michael Hector,Fulham,90,90,62,-,-,242
-2381,Rodrigo,Leeds,26,48,43,33,90,240
-7701,Moussa Djenepo,Southampton,11,90,78,56,-,235
-6891,Ryan Fredericks,West Ham,90,90,50,-,-,230
-486,Adam Lallana,Brighton,44,7,77,22,79,229
-1621,Marcos Alonso,Chelsea,90,90,48,-,-,228
-772,Moussa Sissoko,Tottenham,44,-,-,90,90,224
-681,César Azpilicueta,Chelsea,1,-,42,90,90,223
-5256,Oliver Burke,Sheffield United,-,90,75,57,-,222
-5560,Scott McTominay,Manchester United,90,-,41,90,-,221
-5962,Tanguy NDombele Alvaro,Tottenham,14,49,10,72,75,220
-553,Anthony Martial,Manchester United,90,90,27,-,-,207
-6827,Bobby Reid,Fulham,14,30,82,81,-,207
-605,Jordan Henderson,Liverpool,68,47,-,-,90,205
-790,Nathan Redmond,Southampton,90,-,-,34,79,203
-4866,Aboubakar Kamara,Fulham,64,60,52,23,-,199
-7490,Mason Greenwood,Manchester United,40,85,71,-,-,196
-7710,Oliver Norwood,Sheffield United,77,-,25,-,90,192
-702,Tammy Abraham,Chelsea,-,10,90,90,1,191
-8706,Eberechi Eze,Crystal Palace,7,11,79,90,-,187
-7709,John Fleck,Sheffield United,90,67,-,26,-,183
-1750,Ainsley Maitland-Niles,Arsenal,90,-,90,2,-,182
-8961,Rúben Dias,Manchester City,-,-,90,90,-,180
-8481,Jimmy Dunne,Burnley,90,90,-,-,-,180
-7187,Sergio Reguilón,Tottenham,-,-,-,90,90,180
-592,Ross Barkley,Aston Villa,-,-,90,90,-,180
-3600,Serge Aurier,Tottenham,-,-,-,90,90,180
-7332,Max Kilman,Wolverhampton Wanderers,-,-,-,90,90,180
-725,Ola Aina,Fulham,-,-,-,90,90,180
-527,Adrián,Liverpool,-,-,-,90,90,180
-639,Toby Alderweireld,Tottenham,90,-,-,-,90,180
-5545,Wilfred Ndidi,Leicester,90,90,-,-,-,180
-7705,Jack O'Connell,Sheffield United,90,90,-,-,-,180
-3203,Issa Diop,West Ham,90,90,-,-,-,180
-1545,Emil Krafth,Newcastle United,-,-,-,90,90,180
-1665,James Tarkowski,Burnley,-,-,90,90,-,180
-8940,Antonee Robinson,Fulham,-,-,-,90,90,180
-1735,Jack Stephens,Southampton,90,90,-,-,-,180
-8965,Vladimir Coufal,West Ham,-,-,-,90,90,180
-782,Ben Chilwell,Chelsea,-,-,-,90,90,180
-7714,Ben Osborn,Sheffield United,-,23,90,64,-,177
-5656,Nicolas Pepe,Arsenal,13,25,21,31,84,174
-6856,Rúben Vinagre,Wolverhampton Wanderers,-,83,90,-,-,173
-1014,Tyler Roberts,Leeds,26,42,47,57,-,172
-8717,Pascal Struijk,Leeds,90,-,-,-,77,167
-3288,Thiago Silva,Chelsea,-,-,75,90,-,165
-910,Harrison Reed,Fulham,90,72,-,-,-,162
-6051,Dale Stephens,Burnley,-,90,72,-,-,162
-4422,Ashley Barnes,Burnley,-,-,81,79,-,160
-714,Gylfi Sigurdsson,Everton,22,22,10,90,15,159
-614,Fernandinho,Manchester City,90,51,12,1,-,154
-537,Andy Carroll,Newcastle United,89,51,10,-,-,150
-6369,Ethan Ampadu,Sheffield United,-,60,90,-,-,150
-8300,Steven Bergwijn,Tottenham,30,3,41,-,74,148
-7721,Conor Hourihane,Aston Villa,66,81,-,-,-,147
-759,Daniel Amartey,Leicester,-,-,90,56,-,146
-887,Erik Pieters,Burnley,51,-,-,90,-,141
-697,Nemanja Matic,Manchester United,-,90,49,1,-,140
-661,Josh Onomah,Fulham,76,60,-,-,-,136
-6817,Fred,Manchester United,-,23,41,72,-,136
-545,Kieran Gibbs,West Bromwich Albion,90,45,-,-,-,135
-2254,Mateo Kovacic,Chelsea,-,80,48,6,-,134
-229,Thiago Alcántara,Liverpool,-,43,-,-,90,133
-6456,Callum Hudson-Odoi,Chelsea,6,-,42,84,-,132
-5595,Daniel James,Manchester United,50,-,-,79,-,129
-5973,Kenny Tete,Fulham,-,90,38,-,-,128
-7420,Miguel Almirón,Newcastle United,4,39,80,-,1,124
-7712,Billy Sharp,Sheffield United,90,-,15,13,6,124
-5681,Giovani Lo Celso,Tottenham,-,41,80,-,-,121
-3304,Maxime Le Marchand,Fulham,-,-,28,90,-,118
-1017,Matej Vydra,Burnley,18,90,9,-,-,117
-3635,Bernardo Silva,Manchester City,-,-,24,90,-,114
-5556,Ademola Lookman,Fulham,-,-,-,23,90,113
-8224,William Smallbone,Southampton,79,32,-,-,-,111
-6840,Neeskens Kebano,Fulham,64,30,8,9,-,111
-7382,Dan Burn,Brighton,-,27,-,-,83,110
-6027,Jairo Riedewald,Crystal Palace,-,-,1,17,90,108
-6854,Diogo Jota,Liverpool,-,-,9,90,9,108
-8966,Filip Krovinovic,West Bromwich Albion,-,-,-,25,81,106
-620,Kelechi Iheanacho,Leicester,-,-,5,25,73,103
-1678,Michy Batshuayi,Crystal Palace,-,5,11,-,84,100
-5708,Fernando Marçal,Wolverhampton Wanderers,90,7,-,-,1,98
-6441,Ferrán Torres,Manchester City,6,26,66,-,-,98
-76,Fabian Schär,Newcastle United,-,-,-,59,38,97
-2662,Christian Pulisic,Chelsea,-,-,-,6,89,95
-1739,Eric Bailly,Manchester United,-,5,90,-,-,95
-6482,Eddie Nketiah,Arsenal,2,12,15,59,6,94
-1042,Tom Davies,Everton,1,-,1,90,-,92
-500,Alex Iwobi,Everton,-,16,1,66,9,92
-332,Joel Matip,Liverpool,1,-,-,-,90,91
-5543,Gabriel Jesus,Manchester City,90,-,-,-,-,90
-699,Gary Cahill,Crystal Palace,-,-,-,-,90,90
-2498,Aymeric Laporte,Manchester City,-,-,90,-,-,90
-512,Scott Dann,Crystal Palace,90,-,-,-,-,90
-8704,Marek Rodák,Fulham,90,-,-,-,-,90
-586,John Stones,Manchester City,90,-,-,-,-,90
-9040,Conor Gallagher,West Bromwich Albion,-,-,-,-,90,90
-5590,Tosin Adarabioyo,Fulham,-,-,-,-,90,90
-682,Branislav Ivanovic,West Bromwich Albion,-,-,-,-,90,90
-2379,João Cancelo,Manchester City,-,-,-,90,-,90
-8045,Eric Garcia,Manchester City,-,90,-,-,-,90
-503,Theo Walcott,Southampton,-,-,-,-,90,90
-7589,Wesley Fofana,Leicester,-,-,-,-,90,90
-342,Sead Kolasinac,Arsenal,-,90,-,-,-,90
-624,Willy Caballero,Chelsea,-,-,90,-,-,90
-6880,Edouard Mendy,Chelsea,-,-,-,90,-,90
-554,Juan Mata,Manchester United,-,-,-,90,-,90
-3979,Ahmed Hegazy,West Bromwich Albion,-,-,-,-,90,90
-1663,Johann Berg Gudmundsson,Burnley,-,-,18,71,-,89
-1683,Ryan Fraser,Newcastle United,-,58,-,13,15,86
-549,Timothy Fosu-Mensah,Manchester United,85,-,-,-,-,85
-688,Ruben Loftus-Cheek,Fulham,-,-,-,-,84,84
-644,Erik Lamela,Tottenham,-,26,8,49,-,83
-8758,Kyle Edwards,West Bromwich Albion,20,16,-,47,-,83
-8723,Ian Poveda-Ocampo,Leeds,-,-,23,43,17,83
-844,Jay Rodriguez,Burnley,72,-,-,11,-,83
-6818,James Maddison,Leicester,14,26,21,-,20,81
-1738,Hal Robson-Kanu,West Bromwich Albion,29,-,22,29,-,80
-2164,Pablo Hernández,Leeds,64,-,-,-,13,77
-7390,Karlan Grant,West Bromwich Albion,-,-,-,-,75,75
-461,Matt Ritchie,Newcastle United,-,-,72,-,-,72
-533,Mark Noble,West Ham,68,-,1,1,-,70
-8722,Ezgjan Alioski,Leeds,-,18,1,47,-,66
-619,Sergio Agüero,Manchester City,-,-,-,66,-,66
-688,Ruben Loftus-Cheek,Chelsea,65,-,-,-,-,65
-645,Dele Alli,Tottenham,46,-,-,18,-,64
-7689,Ben Godfrey,Everton,-,-,-,-,60,60
-789,Robbie Brady,Burnley,39,-,-,19,-,58
-1013,Sam Field,West Bromwich Albion,-,12,1,43,-,56
-489,James Milner,Liverpool,-,25,10,19,-,54
-8821,Donny van de Beek,Manchester United,19,1,19,11,-,50
-6665,Curtis Jones,Liverpool,22,-,-,26,-,48
-8239,Takumi Minamino,Liverpool,-,3,1,41,-,45
-703,Fikayo Tomori,Chelsea,-,43,-,-,-,43
-5549,Luka Milivojevic,Crystal Palace,14,1,-,22,6,43
-8780,Joël Veltman,Brighton,-,-,-,42,-,42
-8456,Nathan Tella,Southampton,-,19,12,-,11,42
-6424,Ben Johnson,West Ham,-,-,40,-,-,40
-6274,Andriy Yarmolenko,West Ham,22,6,-,-,11,39
-8868,Liam Delap,Manchester City,-,39,-,-,-,39
-8778,Fabio Silva,Wolverhampton Wanderers,-,10,27,-,-,37
-592,Ross Barkley,Chelsea,25,10,-,-,-,35
-6162,Cengiz Ünder,Leicester,-,-,-,34,-,34
-239,Pascal Groß,Brighton,7,-,13,6,7,33
-1737,Matt Phillips,West Bromwich Albion,-,16,14,-,1,31
-876,Fabian Delph,Everton,-,-,-,30,-,30
-8351,Ki-Jana Hoever,Wolverhampton Wanderers,-,-,16,12,-,28
-753,Marc Albrighton,Leicester,22,5,-,-,-,27
-6144,Sébastien Haller,West Ham,22,1,1,1,-,25
-1299,Mario Lemina,Fulham,-,18,-,-,6,24
-1053,Keinan Davis,Aston Villa,24,-,-,-,-,24
-314,Ilkay Gündogan,Manchester City,-,-,-,24,-,24
-5569,Rhian Brewster,Sheffield United,-,-,-,-,23,23
-6842,Alireza Jahanbakhsh,Brighton,7,1,13,-,-,21
-5562,Rekeem Harper,West Bromwich Albion,20,-,-,-,-,20
-8227,Oskar Buur,Wolverhampton Wanderers,20,-,-,-,-,20
-8918,Max Lowe,Sheffield United,-,-,-,-,18,18
-8777,Vitinha,Wolverhampton Wanderers,3,-,15,-,-,18
-839,Shane Long,Southampton,3,7,-,5,2,17
-1682,Islam Slimani,Leicester,-,-,-,-,17,17
-2251,Gareth Bale,Tottenham,-,-,-,-,16,16
-8992,Hakim Ziyech,Chelsea,-,-,-,-,16,16
-502,Olivier Giroud,Chelsea,-,-,15,-,-,15
-6063,Jacob Murphy,Newcastle United,-,-,13,-,-,13
-8919,Leif Davis,Leeds,-,-,-,12,-,12
-6504,Michael Obafemi,Southampton,-,-,12,-,-,12
-8379,Alexis Mac Allister,Brighton,-,-,-,-,11,11
-535,Manuel Lanzini,West Ham,-,-,-,-,11,11
-6418,Hamza Choudhury,Leicester,-,-,-,1,10,11
-695,Bertrand Traoré,Aston Villa,-,2,1,7,-,10
-749,Christian Fuchs,Leicester,-,-,10,-,-,10
-503,Theo Walcott,Everton,-,-,-,10,-,10
-1304,Moise Kean,Everton,1,9,-,-,-,10
-8941,Jacob Ramsey,Aston Villa,-,9,-,-,-,9
-8040,Marvelous Nakamba,Aston Villa,-,1,7,-,-,8
-1685,Ahmed Elmohamady,Aston Villa,-,-,7,-,-,7
-8721,Jamie Shackleton,Leeds,7,-,-,-,-,7
-8026,Raphinha,Leeds,-,-,-,-,6,6
-2328,Thomas Partey,Arsenal,-,-,-,-,6,6
-573,Odion Ighalo,Manchester United,5,-,-,-,-,5
-606,Christian Benteke,Crystal Palace,-,-,4,-,1,5
-1208,Felipe Anderson,West Ham,1,1,-,-,-,2
-7078,Sean Longstaff,Newcastle United,1,-,-,1,-,2
-6736,Ibrahima Diallo,Southampton,-,-,-,-,1,1
-748,Wes Morgan,Leicester,-,1,-,-,-,1
-1691,Robert Snodgrass,West Ham,-,-,-,-,1,1
+id,name,team,1,2,3,4,5,6,total
+708,Federico Fernández,Newcastle United,90,90,90,90,90,90,540
+745,Kasper Schmeichel,Leicester,90,90,90,90,90,90,540
+7707,Enda Stevens,Sheffield United,90,90,90,90,90,90,540
+978,Sam Johnstone,West Bromwich Albion,90,90,90,90,90,90,540
+7706,George Baldock,Sheffield United,90,90,90,90,90,90,540
+637,Hugo Lloris,Tottenham,90,90,90,90,90,90,540
+986,Danny Ings,Southampton,90,90,90,90,90,90,540
+4105,Raúl Jiménez,Wolverhampton Wanderers,90,90,90,90,90,90,540
+343,Pierre-Emile Højbjerg,Tottenham,90,90,90,90,90,90,540
+843,James Ward-Prowse,Southampton,90,90,90,90,90,90,540
+5603,Aaron Ramsdale,Sheffield United,90,90,90,90,90,90,540
+635,Alex McCarthy,Southampton,90,90,90,90,90,90,540
+835,Ryan Bertrand,Southampton,90,90,90,90,90,90,540
+885,Kyle Walker-Peters,Southampton,90,90,90,90,90,90,540
+3621,Neal Maupay,Brighton,90,90,90,90,90,90,540
+8288,Tomas Soucek,West Ham,90,90,90,90,90,90,540
+6849,Rui Patrício,Wolverhampton Wanderers,90,90,90,90,90,90,540
+5553,Declan Rice,West Ham,90,90,90,90,90,90,540
+7753,James Justin,Leicester,90,90,90,90,90,90,540
+2385,Mat Ryan,Brighton,90,90,90,90,90,90,540
+6850,Willy Boly,Wolverhampton Wanderers,90,90,90,90,90,90,540
+706,Lukasz Fabianski,West Ham,90,90,90,90,90,90,540
+6851,Conor Coady,Wolverhampton Wanderers,90,90,90,90,90,90,540
+534,Aaron Cresswell,West Ham,90,90,90,90,90,90,540
+528,Angelo Ogbonna,West Ham,90,90,90,90,90,90,540
+5956,Youri Tielemans,Leicester,90,90,90,90,90,90,540
+8214,Tyrick Mitchell,Crystal Palace,90,90,90,90,90,90,540
+6157,Timothy Castagne,Leicester,90,90,90,90,90,90,540
+741,Jordan Pickford,Everton,90,90,90,90,90,90,540
+181,Bernd Leno,Arsenal,90,90,90,90,90,90,540
+522,Wilfried Zaha,Crystal Palace,90,90,90,90,90,90,540
+6273,Robin Koch,Leeds,90,90,90,90,90,90,540
+318,Pierre-Emerick Aubameyang,Arsenal,90,90,90,90,90,90,540
+8715,Illan Meslier,Leeds,90,90,90,90,90,90,540
+2190,Vicente Guaita,Crystal Palace,90,90,90,90,90,90,540
+8716,Luke Ayling,Leeds,90,90,90,90,90,90,540
+532,Cheikhou Kouyaté,Crystal Palace,90,90,90,90,90,90,540
+8718,Stuart Dallas,Leeds,90,90,90,90,90,90,540
+1653,Michael Keane,Everton,90,90,90,90,90,90,540
+1688,Andrew Robertson,Liverpool,90,90,90,90,90,90,540
+6521,Yerry Mina,Everton,90,90,90,90,90,90,540
+7699,Adam Webster,Brighton,90,90,90,90,90,90,540
+492,Héctor Bellerín,Arsenal,90,90,90,90,90,90,540
+775,Andros Townsend,Crystal Palace,90,90,90,90,90,90,540
+780,Karl Darlow,Newcastle United,90,90,90,90,90,90,540
+1791,Trent Alexander-Arnold,Liverpool,90,90,90,90,90,90,540
+1250,Mohamed Salah,Liverpool,90,90,90,90,90,90,540
+647,Harry Kane,Tottenham,90,87,90,90,90,90,537
+468,Callum Wilson,Newcastle United,86,90,90,90,90,90,536
+751,N'Golo Kanté,Chelsea,90,90,90,84,90,90,534
+7298,Ben White,Brighton,83,90,90,90,90,90,533
+1785,Nampalys Mendy,Leicester,90,90,90,90,80,90,530
+6681,Harvey Barnes,Leicester,90,90,90,90,90,77,527
+1746,Jeff Hendrick,Newcastle United,90,90,77,90,90,90,527
+7153,Matheus Pereira,West Bromwich Albion,90,74,90,90,90,90,524
+5555,Dominic Calvert-Lewin,Everton,89,74,90,90,90,90,523
+1823,Lucas Digne,Everton,90,90,90,90,90,73,523
+65,Timo Werner,Chelsea,90,90,90,90,90,72,522
+2249,James Rodríguez,Everton,90,81,90,80,90,90,521
+4381,Mateusz Klich,Leeds,83,90,90,78,90,90,521
+3491,Romain Saiss,Wolverhampton Wanderers,90,90,90,90,90,69,519
+7698,Leandro Trossard,Brighton,90,90,90,90,79,80,519
+1689,Jake Livermore,West Bromwich Albion,90,90,90,90,90,64,514
+6049,Solly March,Brighton,90,83,90,90,90,71,514
+1776,Jarrod Bowen,West Ham,90,84,89,89,90,70,512
+7700,Che Adams,Southampton,87,83,78,85,88,90,511
+842,Oriol Romeu,Southampton,90,58,90,90,89,90,507
+2335,Pablo Fornals,West Ham,68,89,90,90,79,90,506
+482,Roberto Firmino,Liverpool,90,87,90,71,81,86,505
+7708,John Lundstram,Sheffield United,90,90,65,90,90,79,504
+6382,Pedro Neto,Wolverhampton Wanderers,70,80,90,82,90,90,502
+6042,Jan Bednarek,Southampton,48,90,90,90,90,90,498
+822,Patrick Bamford,Leeds,64,72,90,90,90,90,496
+3428,Hélder Costa,Leeds,90,90,67,90,73,84,494
+531,Michail Antonio,West Ham,90,90,89,89,79,53,490
+7704,Chris Basham,Sheffield United,72,72,90,77,84,90,485
+6651,Grady Diangana,West Bromwich Albion,90,74,76,90,90,64,484
+3420,Fabinho,Liverpool,30,90,90,90,90,90,480
+1726,Abdoulaye Doucouré,Everton,90,68,90,90,81,59,478
+453,Son Heung-Min,Tottenham,90,90,49,76,82,90,477
+773,Aleksandar Mitrovic,Fulham,26,90,90,90,90,90,476
+5220,Kai Havertz,Chelsea,84,47,90,90,90,73,474
+8226,Tariq Lamptey,Brighton,90,63,90,48,90,90,471
+7691,Jamal Lewis,Newcastle United,90,90,18,90,90,90,468
+8285,Sander Berge,Sheffield United,13,90,90,90,90,90,463
+6434,Franck Zambo,Fulham,26,90,90,90,90,67,453
+771,Georginio Wijnaldum,Liverpool,90,90,90,90,1,90,451
+5609,Yves Bissouma,Brighton,90,90,-,90,90,90,450
+643,Eric Dier,Tottenham,90,90,90,90,-,90,450
+5613,Gabriel,Arsenal,90,90,-,90,90,90,450
+8865,Ollie Watkins,Aston Villa,90,90,90,90,90,-,450
+8323,Josh Brownhill,Burnley,90,90,90,90,90,-,450
+6054,Ederson,Manchester City,90,90,90,90,90,-,450
+935,Kurt Zouma,Chelsea,90,90,-,90,90,90,450
+6756,Dwight McNeil,Burnley,90,90,90,90,90,-,450
+6044,Charlie Taylor,Burnley,90,90,90,90,90,-,450
+1760,Arthur Masuaku,West Ham,-,90,90,90,90,90,450
+5552,Nick Pope,Burnley,90,90,90,90,90,-,450
+1747,Kevin Long,Burnley,90,90,90,90,90,-,450
+4456,Chris Wood,Burnley,90,90,90,90,90,-,450
+669,Ashley Westwood,Burnley,90,90,90,90,90,-,450
+1006,Luke Shaw,Manchester United,90,90,90,90,90,-,450
+546,David de Gea,Manchester United,90,90,90,90,90,-,450
+1687,Harry Maguire,Manchester United,90,90,90,90,90,-,450
+556,Marcus Rashford,Manchester United,90,90,90,90,90,-,450
+2496,Rodri,Manchester City,90,90,90,90,90,-,450
+675,Jack Grealish,Aston Villa,90,90,90,90,90,-,450
+510,Joel Ward,Crystal Palace,90,90,90,90,90,-,450
+7726,Ezri Konsa Ngoyo,Aston Villa,90,90,90,90,90,-,450
+2310,Alphonse Areola,Fulham,-,90,90,90,90,90,450
+1379,Allan,Everton,90,90,90,-,90,90,450
+6835,Tom Cairney,Fulham,90,-,90,90,90,90,450
+4490,Semi Ajayi,West Bromwich Albion,90,90,90,90,-,90,450
+7184,Tim Ream,Fulham,90,-,90,90,90,90,450
+884,Matt Targett,Aston Villa,90,90,90,90,90,-,450
+4401,Emiliano Martinez,Aston Villa,90,90,90,90,90,-,450
+6048,Lewis Dunk,Brighton,90,90,90,90,90,-,450
+7723,John McGinn,Aston Villa,90,90,90,90,90,-,450
+8719,Kalvin Phillips,Leeds,90,90,90,90,90,-,450
+1024,Tyrone Mings,Aston Villa,90,90,90,90,90,-,450
+766,Jamaal Lascelles,Newcastle United,90,90,90,-,90,89,449
+8720,Jack Harrison,Leeds,90,90,90,-,84,90,444
+618,Raheem Sterling,Manchester City,84,90,90,90,90,-,444
+6122,Douglas Luiz,Aston Villa,90,90,83,90,90,-,443
+8864,Matthew Cash,Aston Villa,90,90,83,90,90,-,443
+8089,Kieran Tierney,Arsenal,90,-,90,90,90,83,443
+838,Sadio Mané,Liverpool,90,90,81,-,90,90,441
+638,Kyle Walker,Manchester City,90,90,90,90,79,-,439
+1389,Jorginho,Chelsea,89,80,-,90,90,90,439
+769,Jonjo Shelvey,Newcastle United,90,77,90,90,90,-,437
+633,James McArthur,Crystal Palace,90,90,90,73,90,-,433
+4391,Darnell Furlong,West Bromwich Albion,70,90,90,-,90,90,430
+3683,Ivan Cavaleiro,Fulham,90,90,90,67,90,-,427
+7722,Trézéguet,Aston Villa,90,88,90,83,67,-,418
+987,Joseph Gomez,Liverpool,90,-,90,64,80,90,414
+204,Granit Xhaka,Arsenal,80,90,61,8,84,90,413
+6062,Isaac Hayden,Newcastle United,90,90,90,90,52,-,412
+1228,Bruno Fernandes,Manchester United,90,90,49,90,90,-,409
+111,Jannik Vestergaard,Southampton,42,-,90,90,90,90,402
+2446,Dani Ceballos,Arsenal,10,90,29,82,90,90,391
+6026,Richarlison,Everton,90,90,90,24,90,-,384
+755,Jamie Vardy,Leicester,90,90,85,90,-,28,383
+6055,Phil Foden,Manchester City,90,64,90,90,43,-,377
+8291,Daniel Podence,Wolverhampton Wanderers,77,90,-,71,67,69,374
+660,Ben Davies,Tottenham,90,90,90,14,-,90,374
+6853,Rúben Neves,Wolverhampton Wanderers,13,90,90,90,6,84,373
+700,Willian,Arsenal,77,65,69,90,70,-,371
+7703,John Egan,Sheffield United,90,11,-,90,90,90,371
+833,Virgil van Dijk,Liverpool,90,90,90,90,10,-,370
+7236,Leander Dendoncker,Wolverhampton Wanderers,90,10,-,90,90,90,370
+1234,Dennis Praet,Leicester,76,85,69,-,70,62,362
+8067,Reece James,Chelsea,90,90,90,-,1,90,361
+7768,Mason Mount,Chelsea,90,90,90,-,74,17,361
+6892,Fabián Balbuena,West Ham,-,-,90,90,90,90,360
+8905,Conor Townsend,West Bromwich Albion,-,-,90,90,90,90,360
+964,Kyle Bartley,West Bromwich Albion,90,90,90,90,-,-,360
+6249,Davinson Sánchez,Tottenham,-,90,90,90,90,-,360
+1257,Alisson,Liverpool,90,90,90,-,-,90,360
+585,Seamus Coleman,Everton,90,90,90,60,30,-,360
+5264,Caglar Söyüncü,Leicester,90,90,90,90,-,-,360
+5584,Aaron Wan-Bissaka,Manchester United,-,90,90,90,90,-,360
+6080,Victor Lindelöf,Manchester United,90,90,-,90,90,-,360
+8756,Dara O'Shea,West Bromwich Albion,90,90,90,90,-,-,360
+8020,Steven Alzate,Brighton,83,90,90,84,-,10,357
+101,Allan Saint-Maximin,Newcastle United,76,32,-,77,90,80,355
+3277,Alexandre Lacazette,Arsenal,88,78,75,-,20,90,351
+672,Jordan Ayew,Crystal Palace,90,85,86,90,-,-,351
+3422,João Moutinho,Wolverhampton Wanderers,87,80,75,19,84,6,351
+807,Jonny Evans,Leicester,-,-,80,90,90,90,350
+750,Riyad Mahrez,Manchester City,-,90,78,90,90,-,348
+6852,Matt Doherty,Tottenham,76,90,90,-,-,90,346
+3293,Lucas Moura,Tottenham,90,64,82,41,8,59,344
+6893,Stuart Armstrong,Southampton,-,71,90,90,-,87,338
+6834,Joe Bryan,Fulham,90,90,90,67,-,-,337
+1736,Oliver McBurnie,Sheffield United,90,18,15,33,90,90,336
+7322,Bukayo Saka,Arsenal,-,90,-,88,90,67,335
+6163,Nélson Semedo,Wolverhampton Wanderers,-,-,74,78,90,90,332
+757,Jeffrey Schlupp,Crystal Palace,83,79,-,-,89,77,328
+589,James McCarthy,Crystal Palace,76,90,90,68,-,-,324
+1676,David Luiz,Arsenal,-,1,90,90,90,51,322
+4476,Callum Robinson,West Bromwich Albion,61,90,68,61,15,26,321
+2381,Rodrigo,Leeds,26,48,43,33,90,80,320
+200,Andreas Christensen,Chelsea,90,45,90,-,90,-,315
+772,Moussa Sissoko,Tottenham,44,-,-,90,90,90,314
+681,César Azpilicueta,Chelsea,1,-,42,90,90,90,313
+2383,André Gomes,Everton,68,90,80,-,75,-,313
+8757,Romaine Sawyers,West Bromwich Albion,70,78,90,65,9,-,312
+5560,Scott McTominay,Manchester United,90,-,41,90,84,-,305
+1719,Javier Manquillo,Newcastle United,90,90,90,31,-,-,301
+5962,Tanguy NDombele Alvaro,Tottenham,14,49,10,72,75,81,301
+605,Jordan Henderson,Liverpool,68,47,-,-,90,90,295
+900,Adama Traoré,Wolverhampton Wanderers,90,90,63,8,23,21,295
+87,Joelinton,Newcastle United,14,13,90,90,75,11,293
+790,Nathan Redmond,Southampton,90,-,-,34,79,90,293
+7991,Aaron Connolly,Brighton,46,90,77,68,11,-,292
+7711,David McGoldrick,Sheffield United,18,30,75,90,67,11,291
+447,Kevin De Bruyne,Manchester City,90,90,90,-,21,-,291
+486,Adam Lallana,Brighton,44,7,77,22,79,62,291
+579,Nathan Aké,Manchester City,90,90,18,90,-,-,288
+770,Ayoze Pérez,Leicester,68,64,-,65,90,-,287
+1740,Paul Pogba,Manchester United,71,67,90,18,31,-,277
+485,Mamadou Sakho,Crystal Palace,-,90,90,90,-,4,274
+725,Ola Aina,Fulham,-,-,-,90,90,90,270
+7077,Denis Odoi,Fulham,90,90,90,-,-,-,270
+857,Phil Bardsley,Burnley,90,90,90,-,-,-,270
+8961,Rúben Dias,Manchester City,-,-,90,90,90,-,270
+1665,James Tarkowski,Burnley,-,-,90,90,90,-,270
+8816,Liam Cooper,Leeds,-,90,90,90,-,-,270
+7332,Max Kilman,Wolverhampton Wanderers,-,-,-,90,90,90,270
+8940,Antonee Robinson,Fulham,-,-,-,90,90,90,270
+1749,Rob Holding,Arsenal,90,90,90,-,-,-,270
+8965,Vladimir Coufal,West Ham,-,-,-,90,90,90,270
+639,Toby Alderweireld,Tottenham,90,-,-,-,90,90,270
+5061,Kepa,Chelsea,90,90,-,-,90,-,270
+496,Mohamed Elneny,Arsenal,90,-,90,90,-,-,270
+592,Ross Barkley,Aston Villa,-,-,90,90,90,-,270
+782,Ben Chilwell,Chelsea,-,-,-,90,90,90,270
+7714,Ben Osborn,Sheffield United,-,23,90,64,-,90,267
+5256,Oliver Burke,Sheffield United,-,90,75,57,-,33,255
+971,Harry Winks,Tottenham,60,90,90,-,15,-,255
+3288,Thiago Silva,Chelsea,-,-,75,90,-,90,255
+5247,Naby Keita,Liverpool,60,65,80,49,-,-,254
+8286,Jack Robinson,Sheffield United,-,-,90,90,72,-,252
+3389,Benjamin Mendy,Manchester City,90,90,72,-,-,-,252
+4422,Ashley Barnes,Burnley,-,-,81,79,90,-,250
+5274,Michael Hector,Fulham,90,90,62,-,-,-,242
+6369,Ethan Ampadu,Sheffield United,-,60,90,-,-,90,240
+7701,Moussa Djenepo,Southampton,11,90,78,56,-,-,235
+6891,Ryan Fredericks,West Ham,90,90,50,-,-,-,230
+1621,Marcos Alonso,Chelsea,90,90,48,-,-,-,228
+6817,Fred,Manchester United,-,23,41,72,90,-,226
+6827,Bobby Reid,Fulham,14,30,82,81,-,15,222
+4866,Aboubakar Kamara,Fulham,64,60,52,23,-,22,221
+714,Gylfi Sigurdsson,Everton,22,22,10,90,15,59,218
+7420,Miguel Almirón,Newcastle United,4,39,80,-,1,90,214
+702,Tammy Abraham,Chelsea,-,10,90,90,1,18,209
+553,Anthony Martial,Manchester United,90,90,27,-,-,-,207
+5556,Ademola Lookman,Fulham,-,-,-,23,90,90,203
+7490,Mason Greenwood,Manchester United,40,85,71,-,6,-,202
+7382,Dan Burn,Brighton,-,27,-,-,83,90,200
+8706,Eberechi Eze,Crystal Palace,7,11,79,90,-,13,200
+5656,Nicolas Pepe,Arsenal,13,25,21,31,84,23,197
+8966,Filip Krovinovic,West Bromwich Albion,-,-,-,25,81,90,196
+6027,Jairo Riedewald,Crystal Palace,-,-,1,17,90,86,194
+6854,Diogo Jota,Liverpool,-,-,9,90,9,86,194
+7710,Oliver Norwood,Sheffield United,77,-,25,-,90,-,192
+1678,Michy Batshuayi,Crystal Palace,-,5,11,-,84,90,190
+5595,Daniel James,Manchester United,50,-,-,79,59,-,188
+8717,Pascal Struijk,Leeds,90,-,-,-,77,20,187
+76,Fabian Schär,Newcastle United,-,-,-,59,38,90,187
+7709,John Fleck,Sheffield United,90,67,-,26,-,-,183
+3635,Bernardo Silva,Manchester City,-,-,24,90,69,-,183
+1750,Ainsley Maitland-Niles,Arsenal,90,-,90,2,-,-,182
+5545,Wilfred Ndidi,Leicester,90,90,-,-,-,-,180
+527,Adrián,Liverpool,-,-,-,90,90,-,180
+7187,Sergio Reguilón,Tottenham,-,-,-,90,90,-,180
+1735,Jack Stephens,Southampton,90,90,-,-,-,-,180
+8481,Jimmy Dunne,Burnley,90,90,-,-,-,-,180
+7705,Jack O'Connell,Sheffield United,90,90,-,-,-,-,180
+5590,Tosin Adarabioyo,Fulham,-,-,-,-,90,90,180
+3600,Serge Aurier,Tottenham,-,-,-,90,90,-,180
+1545,Emil Krafth,Newcastle United,-,-,-,90,90,-,180
+682,Branislav Ivanovic,West Bromwich Albion,-,-,-,-,90,90,180
+512,Scott Dann,Crystal Palace,90,-,-,-,-,90,180
+9040,Conor Gallagher,West Bromwich Albion,-,-,-,-,90,90,180
+6880,Edouard Mendy,Chelsea,-,-,-,90,-,90,180
+7589,Wesley Fofana,Leicester,-,-,-,-,90,90,180
+3203,Issa Diop,West Ham,90,90,-,-,-,-,180
+8045,Eric Garcia,Manchester City,-,90,-,-,90,-,180
+2379,João Cancelo,Manchester City,-,-,-,90,90,-,180
+2662,Christian Pulisic,Chelsea,-,-,-,6,89,82,177
+1663,Johann Berg Gudmundsson,Burnley,-,-,18,71,86,-,175
+6856,Rúben Vinagre,Wolverhampton Wanderers,-,83,90,-,-,-,173
+910,Harrison Reed,Fulham,90,72,-,-,-,10,172
+1014,Tyler Roberts,Leeds,26,42,47,57,-,-,172
+6818,James Maddison,Leicester,14,26,21,-,20,87,168
+1683,Ryan Fraser,Newcastle United,-,58,-,13,15,79,165
+6051,Dale Stephens,Burnley,-,90,72,-,-,-,162
+7390,Karlan Grant,West Bromwich Albion,-,-,-,-,75,85,160
+688,Ruben Loftus-Cheek,Fulham,-,-,-,-,84,75,159
+8722,Ezgjan Alioski,Leeds,-,18,1,47,-,90,156
+614,Fernandinho,Manchester City,90,51,12,1,-,-,154
+537,Andy Carroll,Newcastle United,89,51,10,-,-,1,151
+7689,Ben Godfrey,Everton,-,-,-,-,60,90,150
+554,Juan Mata,Manchester United,-,-,-,90,59,-,149
+8300,Steven Bergwijn,Tottenham,30,3,41,-,74,-,148
+7721,Conor Hourihane,Aston Villa,66,81,-,-,-,-,147
+759,Daniel Amartey,Leicester,-,-,90,56,-,-,146
+887,Erik Pieters,Burnley,51,-,-,90,-,-,141
+697,Nemanja Matic,Manchester United,-,90,49,1,-,-,140
+500,Alex Iwobi,Everton,-,16,1,66,9,47,139
+661,Josh Onomah,Fulham,76,60,-,-,-,-,136
+545,Kieran Gibbs,West Bromwich Albion,90,45,-,-,-,-,135
+2254,Mateo Kovacic,Chelsea,-,80,48,6,-,-,134
+5549,Luka Milivojevic,Crystal Palace,14,1,-,22,6,90,133
+229,Thiago Alcántara,Liverpool,-,43,-,-,90,-,133
+6456,Callum Hudson-Odoi,Chelsea,6,-,42,84,-,-,132
+8780,Joël Veltman,Brighton,-,-,-,42,-,90,132
+5681,Giovani Lo Celso,Tottenham,-,41,80,-,-,9,130
+5973,Kenny Tete,Fulham,-,90,38,-,-,-,128
+7712,Billy Sharp,Sheffield United,90,-,15,13,6,-,124
+5708,Fernando Marçal,Wolverhampton Wanderers,90,7,-,-,1,21,119
+3304,Maxime Le Marchand,Fulham,-,-,28,90,-,-,118
+1017,Matej Vydra,Burnley,18,90,9,-,1,-,118
+644,Erik Lamela,Tottenham,-,26,8,49,-,31,114
+314,Ilkay Gündogan,Manchester City,-,-,-,24,90,-,114
+619,Sergio Agüero,Manchester City,-,-,-,66,47,-,113
+8224,William Smallbone,Southampton,79,32,-,-,-,-,111
+6840,Neeskens Kebano,Fulham,64,30,8,9,-,-,111
+8758,Kyle Edwards,West Bromwich Albion,20,16,-,47,-,26,109
+1299,Mario Lemina,Fulham,-,18,-,-,6,80,104
+620,Kelechi Iheanacho,Leicester,-,-,5,25,73,-,103
+6063,Jacob Murphy,Newcastle United,-,-,13,-,-,90,103
+6482,Eddie Nketiah,Arsenal,2,12,15,59,6,7,101
+749,Christian Fuchs,Leicester,-,-,10,-,-,90,100
+6441,Ferrán Torres,Manchester City,6,26,66,-,-,-,98
+2328,Thomas Partey,Arsenal,-,-,-,-,6,90,96
+1739,Eric Bailly,Manchester United,-,5,90,-,-,-,95
+1042,Tom Davies,Everton,1,-,1,90,-,-,92
+332,Joel Matip,Liverpool,1,-,-,-,90,-,91
+8704,Marek Rodák,Fulham,90,-,-,-,-,-,90
+503,Theo Walcott,Southampton,-,-,-,-,90,-,90
+1652,Matthew Lowton,Burnley,-,-,-,-,90,-,90
+342,Sead Kolasinac,Arsenal,-,90,-,-,-,-,90
+5543,Gabriel Jesus,Manchester City,90,-,-,-,-,-,90
+586,John Stones,Manchester City,90,-,-,-,-,-,90
+699,Gary Cahill,Crystal Palace,-,-,-,-,90,-,90
+624,Willy Caballero,Chelsea,-,-,90,-,-,-,90
+2498,Aymeric Laporte,Manchester City,-,-,90,-,-,-,90
+3979,Ahmed Hegazy,West Bromwich Albion,-,-,-,-,90,-,90
+2164,Pablo Hernández,Leeds,64,-,-,-,13,10,87
+844,Jay Rodriguez,Burnley,72,-,-,11,4,-,87
+549,Timothy Fosu-Mensah,Manchester United,85,-,-,-,-,-,85
+8723,Ian Poveda-Ocampo,Leeds,-,-,23,43,17,-,83
+1738,Hal Robson-Kanu,West Bromwich Albion,29,-,22,29,-,-,80
+5569,Rhian Brewster,Sheffield United,-,-,-,-,23,57,80
+8721,Jamie Shackleton,Leeds,7,-,-,-,-,70,77
+6274,Andriy Yarmolenko,West Ham,22,6,-,-,11,37,76
+603,Nathaniel Clyne,Crystal Palace,-,-,-,-,-,73,73
+461,Matt Ritchie,Newcastle United,-,-,72,-,-,-,72
+533,Mark Noble,West Ham,68,-,1,1,-,-,70
+688,Ruben Loftus-Cheek,Chelsea,65,-,-,-,-,-,65
+645,Dele Alli,Tottenham,46,-,-,18,-,-,64
+876,Fabian Delph,Everton,-,-,-,30,-,31,61
+239,Pascal Groß,Brighton,7,-,13,6,7,28,61
+489,James Milner,Liverpool,-,25,10,19,-,4,58
+789,Robbie Brady,Burnley,39,-,-,19,-,-,58
+1013,Sam Field,West Bromwich Albion,-,12,1,43,-,-,56
+8821,Donny van de Beek,Manchester United,19,1,19,11,-,-,50
+8239,Takumi Minamino,Liverpool,-,3,1,41,-,4,49
+6665,Curtis Jones,Liverpool,22,-,-,26,-,-,48
+6162,Cengiz Ünder,Leicester,-,-,-,34,-,13,47
+6144,Sébastien Haller,West Ham,22,1,1,1,-,20,45
+703,Fikayo Tomori,Chelsea,-,43,-,-,-,-,43
+7063,Bernard,Everton,-,-,-,-,-,43,43
+8456,Nathan Tella,Southampton,-,19,12,-,11,-,42
+6424,Ben Johnson,West Ham,-,-,40,-,-,-,40
+8868,Liam Delap,Manchester City,-,39,-,-,-,-,39
+1699,Shkodran Mustafi,Arsenal,-,-,-,-,-,39,39
+8778,Fabio Silva,Wolverhampton Wanderers,-,10,27,-,-,-,37
+1737,Matt Phillips,West Bromwich Albion,-,16,14,-,1,5,36
+592,Ross Barkley,Chelsea,25,10,-,-,-,-,35
+695,Bertrand Traoré,Aston Villa,-,2,1,7,23,-,33
+8150,Anthony Gordon,Everton,-,-,-,-,-,31,31
+3294,Edinson Cavani,Manchester United,-,-,-,-,31,-,31
+8379,Alexis Mac Allister,Brighton,-,-,-,-,11,19,30
+753,Marc Albrighton,Leicester,22,5,-,-,-,3,30
+8351,Ki-Jana Hoever,Wolverhampton Wanderers,-,-,16,12,-,-,28
+1053,Keinan Davis,Aston Villa,24,-,-,-,-,-,24
+8992,Hakim Ziyech,Chelsea,-,-,-,-,16,8,24
+6842,Alireza Jahanbakhsh,Brighton,7,1,13,-,-,-,21
+5562,Rekeem Harper,West Bromwich Albion,20,-,-,-,-,-,20
+8227,Oskar Buur,Wolverhampton Wanderers,20,-,-,-,-,-,20
+8777,Vitinha,Wolverhampton Wanderers,3,-,15,-,-,-,18
+8918,Max Lowe,Sheffield United,-,-,-,-,18,-,18
+730,Patrick van Aanholt,Crystal Palace,-,-,-,-,-,17,17
+1682,Islam Slimani,Leicester,-,-,-,-,17,-,17
+839,Shane Long,Southampton,3,7,-,5,2,-,17
+2251,Gareth Bale,Tottenham,-,-,-,-,16,-,16
+502,Olivier Giroud,Chelsea,-,-,15,-,-,-,15
+8919,Leif Davis,Leeds,-,-,-,12,-,-,12
+6504,Michael Obafemi,Southampton,-,-,12,-,-,-,12
+7078,Sean Longstaff,Newcastle United,1,-,-,1,-,10,12
+8026,Raphinha,Leeds,-,-,-,-,6,6,12
+2958,Oleksandr Zinchenko,Manchester City,-,-,-,-,11,-,11
+535,Manuel Lanzini,West Ham,-,-,-,-,11,-,11
+6418,Hamza Choudhury,Leicester,-,-,-,1,10,-,11
+1304,Moise Kean,Everton,1,9,-,-,-,-,10
+503,Theo Walcott,Everton,-,-,-,10,-,-,10
+8941,Jacob Ramsey,Aston Villa,-,9,-,-,-,-,9
+8040,Marvelous Nakamba,Aston Villa,-,1,7,-,-,-,8
+1685,Ahmed Elmohamady,Aston Villa,-,-,7,-,-,-,7
+606,Christian Benteke,Crystal Palace,-,-,4,-,1,-,5
+573,Odion Ighalo,Manchester United,5,-,-,-,-,-,5
+6736,Ibrahima Diallo,Southampton,-,-,-,-,1,3,4
+1208,Felipe Anderson,West Ham,1,1,-,-,-,-,2
+748,Wes Morgan,Leicester,-,1,-,-,-,-,1
+1691,Robert Snodgrass,West Ham,-,-,-,-,1,-,1
+7983,Daniel N'Lundulu,Southampton,-,-,-,-,-,1,1
+6377,Joe Rodon,Tottenham,-,-,-,-,-,1,1
