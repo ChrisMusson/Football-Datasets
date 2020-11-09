@@ -1,416 +1,425 @@
-id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,total
-2703,Guilherme,Lokomotiv Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-3192,Ilya Lantratov,Khimki,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-2789,Denys Kulakov,Ural,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-2876,Igor Akinfeev,CSKA Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-8017,Alex Kral,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-2724,Aleksandr Belenov,FC Ufa,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-7632,Ivan Ordets,Dinamo Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-3081,Aleksandr Maksimenko,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-3071,Mikhail Kerzhakov,Zenit St. Petersburg,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-2750,Roman Zobnin,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-7650,Murilo Cerqueira,Lokomotiv Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-2758,Anton Shunin,Dinamo Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-7475,Ayrton Lucas,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,1170
-5538,Vyacheslav Karavayev,Zenit St. Petersburg,90,90,90,90,89,90,90,90,90,90,90,90,90,1169
-7655,Carl Starfelt,Rubin Kazan,90,90,90,90,90,90,90,78,90,90,90,90,90,1158
-5286,Douglas Santos,Zenit St. Petersburg,84,90,90,75,90,90,90,90,90,90,90,90,90,1149
-5452,Miha Mevlja,PFC Sochi,90,90,90,90,82,90,90,90,90,90,90,90,68,1140
-602,Dejan Lovren,Zenit St. Petersburg,90,90,90,90,90,90,90,90,47,90,90,90,90,1127
-7770,Jordan Larsson,Spartak Moscow,90,87,85,90,83,90,90,63,87,90,90,90,90,1125
-5526,Dmitrii Skopintcev,Dinamo Moscow,90,90,90,90,77,90,90,90,71,87,90,90,79,1124
-3189,Egor Danilkin,Khimki,90,90,90,90,90,90,90,90,90,90,90,90,28,1108
-5442,Ivan Oblyakov,CSKA Moscow,84,90,90,84,90,81,90,90,90,90,90,90,27,1086
-237,Robert Bauer,Arsenal Tula,90,90,90,90,90,90,90,90,90,-,90,90,90,1080
-8359,Oliver Abildgaard,Rubin Kazan,90,90,90,90,90,90,90,90,90,90,90,-,90,1080
-5940,Sergey Terekhov,PFC Sochi,90,90,90,90,90,90,90,90,90,-,90,90,90,1080
-2766,Soslan Dzhanaev,PFC Sochi,90,90,90,90,90,90,90,90,90,90,90,-,90,1080
-5480,Matvey Safonov,FC Krasnodar,90,90,90,90,90,90,-,90,90,90,90,90,90,1080
-2962,Sergei Ryzhikov,FC Tambov,90,90,90,90,90,90,90,90,-,90,90,90,90,1080
-2856,Maciej Rybus,Lokomotiv Moscow,90,90,90,90,-,90,90,90,90,90,90,90,90,1080
-8597,Dmitri Tikhiy,Khimki,90,90,90,90,90,90,90,90,90,90,-,90,90,1080
-7663,Maksim Osipenko,FC Rostov,90,90,90,90,90,90,90,-,90,90,90,90,90,1080
-5536,Daniil Fomin,Dinamo Moscow,90,90,71,59,90,73,87,90,90,90,68,90,90,1078
-2832,Brian Idowu,Khimki,90,90,90,77,-,90,90,90,90,90,90,90,90,1067
-7196,Roman Evgeniev,Dinamo Moscow,90,90,90,90,90,90,90,90,90,90,77,-,90,1067
-2834,Giorgi Jikia,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,-,74,90,1064
-2896,Mario Fernandes,CSKA Moscow,90,90,90,90,90,90,90,90,90,90,-,62,90,1052
-3025,Alexander Troshechkin,Khimki,90,90,90,90,90,90,-,90,90,90,88,79,71,1048
-3021,Aleksei Kozlov,FC Rostov,90,87,79,90,90,90,90,-,90,83,75,90,90,1044
-8348,Miroslav Bogosavac,FK Akhmat,90,90,90,90,62,90,90,81,-,90,90,90,90,1043
-2785,Timofey Margasov,PFC Sochi,90,90,90,90,90,90,90,50,-,90,90,90,90,1040
-8598,Kirill Bozhenov,Khimki,90,90,49,90,-,90,90,90,90,90,90,90,90,1039
-7453,Khvicha Kvaratskhelia,Rubin Kazan,73,90,90,90,90,90,41,90,90,90,28,90,86,1038
-7631,Sebastian Szymanski,Dinamo Moscow,72,73,66,47,78,73,90,88,90,90,90,86,90,1033
-7023,Dennis Hadzikadunic,FC Rostov,90,90,90,90,90,90,90,-,46,90,90,90,77,1023
-6586,Andrey Egorychev,Ural,77,74,90,90,85,90,90,-,79,90,62,90,90,1007
-6797,Filip Uremovic,Rubin Kazan,90,90,90,90,87,90,-,36,90,90,90,90,71,1004
-6805,Azer Aliev,FC Ufa,90,90,90,90,90,90,90,90,50,90,-,90,49,999
-6773,Samuel Gigot,Spartak Moscow,90,90,90,90,90,90,90,-,90,90,-,90,90,990
-3181,Ilya Pomazun,Ural,-,-,90,90,90,90,90,90,90,90,90,90,90,990
-6769,Yuri Dyupin,Rubin Kazan,90,90,90,90,90,90,-,-,90,90,90,90,90,990
-5483,Eric Bicfalvi,Ural,90,90,90,90,90,90,90,90,-,-,90,90,90,990
-2968,Magomed Ozdoev,Zenit St. Petersburg,90,90,90,15,72,88,90,90,90,90,20,70,90,985
-5459,Konstantin Kuchaev,CSKA Moscow,83,90,84,20,79,81,85,62,79,90,90,68,71,982
-5394,Valeriu Ciuperca,FC Tambov,90,90,90,53,60,90,57,90,90,90,90,90,-,980
-2771,Christian Noboa,PFC Sochi,90,90,90,90,90,90,90,90,90,90,80,-,-,980
-2986,Nikita Burmistrov,PFC Sochi,67,47,85,73,90,74,90,90,82,90,47,59,72,966
-6276,Nikola Vlasic,CSKA Moscow,-,-,84,85,90,90,90,90,90,86,80,90,89,964
-2828,Sergey Parshivlyuk,Dinamo Moscow,77,90,90,90,90,82,90,-,90,90,-,76,90,955
-3026,Artem Timofeev,FK Akhmat,90,-,90,90,90,65,89,90,75,90,-,90,90,949
-3168,Sergei Makarov,FC Rotor Volgograd,90,90,77,90,82,90,-,-,90,90,79,77,90,945
-8354,Oleksandr Kaplienko,FC Tambov,90,10,90,74,46,-,90,90,90,90,90,90,90,940
-7679,Kaio,FC Krasnodar,90,90,90,55,-,90,-,90,90,69,90,90,90,934
-2946,Bernard Berisha,FK Akhmat,82,85,83,43,62,88,90,78,75,-,90,80,78,934
-7521,Konstantin Maradishvili,CSKA Moscow,84,90,60,90,90,68,90,62,-,90,90,28,90,932
-7192,Pavel Maslov,Spartak Moscow,55,90,90,90,90,90,90,62,-,90,90,90,-,927
-8347,Maksim Nenakhov,FK Akhmat,90,80,-,34,90,89,80,90,90,90,-,90,90,913
-2928,Joãozinho,PFC Sochi,-,43,74,90,90,74,77,90,65,73,83,59,90,908
-6275,Evans Kangwa,Arsenal Tula,4,24,-,90,90,72,90,90,90,90,86,90,90,906
-8356,Evgeni Shlyakov,FC Tambov,12,6,69,90,12,82,90,90,90,90,90,90,90,901
-2745,Dmitry Zhivoglyadov,Lokomotiv Moscow,90,90,90,-,-,-,90,90,90,90,90,90,90,900
-2900,Alexey Nikitin,FC Ufa,90,90,90,90,90,90,-,-,90,-,90,90,90,900
-2808,Sergey Pesjakov,FC Rostov,90,90,90,-,90,90,90,-,-,90,90,90,90,900
-2790,Aleksandr Martynovich,FC Krasnodar,90,90,90,90,90,90,-,90,90,90,-,90,-,900
-3063,Artem Dzyuba,Zenit St. Petersburg,90,-,90,87,72,90,90,82,90,90,23,90,-,894
-2705,Vedran Corluka,Lokomotiv Moscow,90,90,90,90,49,90,90,90,90,34,-,90,-,893
-4631,Maksim Belyaev,Arsenal Tula,90,90,79,-,-,-,90,90,90,90,90,90,90,889
-7121,Djorde Despotovic,Rubin Kazan,27,23,30,28,84,90,90,90,85,90,90,90,72,889
-7448,Wilmar Barrios,Zenit St. Petersburg,84,90,90,62,85,-,90,90,65,90,70,71,-,887
-5497,Vladimir Iljin,FK Akhmat,63,67,39,87,90,90,69,56,84,90,-,74,77,886
-3924,Hördur Bjorgvin Magnusson,CSKA Moscow,-,25,90,90,90,90,90,90,90,50,-,90,90,885
-7158,Zoran Nizic,FK Akhmat,90,66,-,-,90,90,90,90,-,90,90,90,90,876
-7447,Yaroslav Rakitskiy,Zenit St. Petersburg,90,80,-,90,88,90,-,-,81,90,90,90,82,871
-5723,Emanuel Mammana,PFC Sochi,-,23,5,90,90,27,90,90,90,90,90,90,90,865
-5443,Guram Tetrashvili,FC Tambov,69,-,18,37,90,90,90,90,90,90,48,90,60,862
-3053,Vladimir Rykov,Ural,-,90,90,90,90,90,90,-,50,90,90,90,-,860
-2925,Fedor Smolov,Lokomotiv Moscow,90,90,90,89,-,68,64,90,90,-,85,24,76,856
-5890,Pavel Karasev,FC Tambov,12,90,90,53,30,90,80,47,43,44,90,90,90,849
-7668,Marcus Berg,FC Krasnodar,81,90,90,90,90,90,-,85,80,76,9,-,65,846
-4586,Aleksey Gerasimov,Ural,90,90,90,90,90,90,-,90,90,90,-,-,36,846
-7479,Kristoffer Olsson,FC Krasnodar,81,90,90,74,90,90,-,90,51,-,90,-,90,836
-8360,Darko Jevtic,Rubin Kazan,90,67,90,90,90,73,1,90,-,69,-,85,86,831
-3196,Kamil Mullin,FC Rotor Volgograd,72,90,90,90,90,90,-,-,-,76,90,77,65,830
-2414,Grzegorz Krychowiak,Lokomotiv Moscow,90,90,90,90,90,-,20,90,-,90,90,90,-,830
-2593,Bojan Jokic,FC Ufa,90,73,35,-,-,-,90,90,90,90,90,90,90,828
-7630,Kings Kangwa,Arsenal Tula,90,87,-,90,90,82,90,90,46,90,18,27,20,820
-8618,Oleg Aleinik,FC Rotor Volgograd,90,90,90,90,79,90,-,-,90,90,90,-,21,820
-3262,Malcom,Zenit St. Petersburg,73,82,90,75,90,88,85,90,53,90,-,-,-,816
-2774,Sardar Azmoun,Zenit St. Petersburg,73,87,90,90,90,75,77,67,80,18,67,-,-,814
-5477,Cristian Ramírez,FC Krasnodar,90,72,90,90,83,90,-,75,29,21,4,90,80,814
-6727,Artem Golubev,FC Ufa,83,90,90,48,59,55,-,71,47,-,90,90,88,811
-6910,Igor Diveev,CSKA Moscow,90,90,90,90,90,90,-,-,-,-,90,90,90,810
-6608,Ionut Nedelcearu,FC Ufa,90,90,90,90,90,90,90,90,90,-,-,-,-,810
-2898,Giorgi Shelia,FK Akhmat,90,90,90,90,90,90,90,-,-,-,-,90,90,810
-2915,Georgy Schennikov,CSKA Moscow,90,90,90,90,90,90,90,90,90,-,-,-,-,810
-7304,Danil Stepanov,FC Rotor Volgograd,90,90,90,90,90,90,-,-,-,90,90,90,-,810
-6890,Danijel Miskic,Ural,-,16,78,85,90,90,60,90,40,90,78,90,-,807
-2990,Ibrahim Tsallagov,PFC Sochi,90,90,85,90,90,90,90,79,-,-,10,89,-,803
-4605,Anton Miranchuk,Lokomotiv Moscow,-,1,24,90,90,90,90,90,82,90,90,24,25,786
-6024,Ismael,FK Akhmat,27,40,89,66,62,90,89,78,62,-,-,90,90,783
-7667,Aleksey Rybin,FC Tambov,90,84,21,-,90,90,90,90,-,90,48,-,90,783
-960,Clinton N'Jie,Dinamo Moscow,89,90,85,47,-,81,87,90,47,70,68,16,-,770
-2057,Ezequiel Ponce,Spartak Moscow,34,90,78,63,-,-,58,89,37,90,90,70,68,767
-7672,Cedric Gogoua,FC Rotor Volgograd,90,90,76,-,90,90,-,-,90,90,90,59,-,765
-5425,Ade,FC Tambov,90,90,90,90,90,90,90,42,-,90,-,-,1,763
-5441,Catalin Carp,FC Ufa,90,90,90,86,-,1,-,90,90,90,-,85,49,761
-5385,Mikhail Kostyukov,FC Tambov,78,80,72,90,78,26,33,43,9,79,79,90,-,757
-5899,Anton Zabolotny,PFC Sochi,3,32,51,89,46,90,-,11,83,90,80,90,90,755
-2899,Aleksandr Sukhov,FC Ufa,-,90,90,90,59,41,70,84,40,-,90,90,-,744
-2929,Yuri Gazinskiy,FC Krasnodar,90,80,86,90,46,63,-,-,39,76,-,90,80,740
-3015,Nikolay Komlichenko,Dinamo Moscow,89,90,66,76,21,49,53,-,71,20,22,90,90,737
-2751,Aleksey Ionov,FC Rostov,90,90,89,66,90,78,87,-,62,82,-,-,-,734
-6775,Silvije Begic,Rubin Kazan,19,-,85,-,-,-,90,90,90,90,90,90,90,734
-2920,Sergei Petrov,FC Krasnodar,73,90,90,29,90,90,-,90,87,-,90,-,-,729
-963,Eder,Lokomotiv Moscow,-,-,13,88,90,22,3,73,90,90,65,90,90,714
-5469,Evgeniy Chernov,FC Rostov,90,90,79,4,90,90,90,-,90,90,-,-,-,713
-7476,Nail Umiarov,Spartak Moscow,12,78,90,90,90,73,79,78,47,-,55,15,3,710
-5458,Timur Zhamaletdinov,FC Ufa,-,78,86,67,31,90,90,84,-,90,90,1,2,709
-7470,Mathias Normann,FC Rostov,90,90,79,66,49,90,90,-,90,64,-,-,-,708
-3131,Zelimkhan Bakaev,Spartak Moscow,78,3,12,83,78,61,58,77,75,53,-,75,48,701
-7283,Daniil Utkin,FC Krasnodar,90,65,78,61,68,27,-,15,90,57,15,42,90,698
-8610,Kento Hashimoto,FC Rostov,6,14,11,90,41,78,-,-,90,90,90,90,90,690
-2852,Andrey Semenov,FK Akhmat,90,90,90,90,90,90,-,-,90,-,-,60,-,690
-5495,Jimmy Tabidze,FC Ufa,90,-,-,-,-,-,55,90,90,90,90,90,90,685
-5479,Ilya Zhigulev,FC Rotor Volgograd,25,90,81,78,28,68,-,-,-,67,66,90,90,683
-7678,Soltmurad Bakaev,Rubin Kazan,63,67,75,62,46,-,49,12,18,68,61,79,80,680
-8624,Marat Bystrov,FK Akhmat,-,-,90,90,66,-,90,56,90,79,82,16,12,671
-8634,Hwang In-Beom,Rubin Kazan,-,-,-,11,44,90,90,-,90,90,71,90,90,666
-7592,Stanislav Magkeev,Lokomotiv Moscow,13,25,-,73,90,90,90,90,90,90,-,13,-,664
-7123,Evgeny Kharin,FK Akhmat,27,66,51,47,28,49,21,34,62,63,83,81,47,659
-5954,Eldor Shomurodov,FC Rostov,84,87,90,90,72,89,74,-,70,-,-,-,-,656
-6598,Igor Kalinin,Ural,90,90,90,90,23,-,-,-,90,90,90,-,-,653
-2921,Charles Kaboré,Dinamo Moscow,90,90,90,90,90,17,60,1,-,-,22,90,-,640
-8368,Kirill Zaika,PFC Sochi,90,90,-,90,82,90,-,40,60,-,43,31,18,634
-8615,Azat Bayryev,FC Rotor Volgograd,83,1,9,90,90,90,-,-,-,-,90,90,90,633
-3190,Anton Kilin,FC Tambov,78,84,50,90,44,8,-,-,90,-,42,90,55,631
-6417,Daniil Kulikov,Lokomotiv Moscow,1,-,-,-,41,90,87,1,90,56,90,77,90,623
-8362,Ilya Samoshnikov,Rubin Kazan,47,90,90,13,6,-,-,-,10,90,90,90,90,616
-6793,Daniil Lesovoy,Dinamo Moscow,-,-,-,90,-,-,-,90,90,90,80,86,90,616
-6138,Andrei Panyukov,Ural,71,74,81,74,-,-,60,74,79,90,-,10,-,613
-5893,Oleg Danchenko,FC Ufa,-,-,75,77,90,65,90,6,26,90,-,-,90,609
-7452,Dmitri Rybchinsky,Lokomotiv Moscow,71,65,66,54,12,82,87,1,1,1,25,77,65,607
-8601,Artem Polyarus,Khimki,90,78,90,90,40,90,63,64,-,-,-,-,-,605
-5397,Alexander Sobolev,Spartak Moscow,90,90,90,27,90,90,32,1,15,37,-,-,42,604
-6580,Danil Glebov,FC Rostov,6,-,21,90,90,12,90,-,66,-,90,49,90,604
-7471,Baktiyor Zainutdinov,CSKA Moscow,-,-,-,-,36,41,24,78,69,90,90,83,90,601
-2884,Roman Eremenko,FC Rostov,18,14,69,-,81,89,74,-,1,-,90,74,85,595
-7656,Ivan Miladinovic,PFC Sochi,90,67,16,1,18,63,-,-,25,90,43,90,90,593
-2974,Vladimir Dyadyun,Khimki,90,70,61,-,-,-,63,52,80,88,71,4,14,593
-8616,Oleg Kozhemyakin,FC Rotor Volgograd,90,90,90,90,8,41,-,-,3,-,-,90,90,592
-3062,Oleg Shatov,Rubin Kazan,-,-,-,79,46,23,90,90,80,1,90,90,-,589
-8361,Denis Makarov,Rubin Kazan,27,23,15,28,44,67,90,90,72,22,90,-,18,586
-5927,Aleksey Gritsaenko,FC Tambov,-,90,39,-,90,90,90,90,90,-,-,-,-,579
-7680,Andrey Mostovoy,Zenit St. Petersburg,1,3,-,28,76,90,85,67,10,72,43,9,90,574
-4695,Arshak Koryan,Khimki,46,71,90,74,29,88,86,90,-,-,-,-,-,574
-5454,Fedor Chalov,CSKA Moscow,64,-,-,-,54,68,66,28,21,54,64,90,63,572
-3162,Khoren Bayramyan,FC Rostov,17,3,11,90,72,67,90,-,90,90,-,41,-,571
-7648,Tonny Vilhena,FC Krasnodar,-,-,-,43,44,70,-,82,61,90,90,87,-,567
-6331,Alexander Lomovitskiy,Khimki,-,12,41,90,85,90,77,82,80,-,-,-,-,557
-3390,Rémy Cabella,FC Krasnodar,68,90,49,-,-,20,-,75,90,90,75,-,-,557
-7633,Rafal Augustyniak,Ural,90,90,90,90,64,11,19,-,-,-,-,10,90,554
-7657,Evgeni Pesegov,FC Rotor Volgograd,65,89,81,32,11,-,-,-,90,90,11,13,69,551
-2993,Taras Burlak,Arsenal Tula,-,-,11,90,90,90,90,90,90,-,-,-,-,551
-3082,Branko Jovicic,Ural,-,-,-,-,-,-,71,82,48,90,90,80,90,551
-2924,Pavel Mamaev,FC Rostov,84,76,90,24,-,-,16,-,-,8,90,86,72,546
-2822,George Melkadze,FK Akhmat,-,-,-,24,46,41,21,12,90,90,90,64,67,545
-2985,Elmir Nabiullin,PFC Sochi,16,-,74,-,8,16,90,90,90,90,47,-,22,543
-6802,Nikita Chicherin,FC Tambov,90,90,90,90,90,90,-,-,3,-,-,-,-,543
-5368,Gia Grigalava,Arsenal Tula,90,90,-,-,-,-,-,-,-,90,90,90,90,540
-2988,Vyacheslav Podberezkin,Ural,-,-,66,56,90,83,-,87,33,-,28,74,23,540
-2964,Saba Kverkvelia,FC Rotor Volgograd,-,-,-,-,90,90,-,-,90,90,-,90,90,540
-5911,Aleksandr Dovbnya,FC Rotor Volgograd,90,90,90,90,90,90,-,-,-,-,-,-,-,540
-7183,Daniil Khlusevich,Arsenal Tula,90,66,26,38,43,88,59,8,19,84,1,8,5,535
-7769,Vadim Karpov,CSKA Moscow,90,65,-,-,-,-,90,90,90,90,19,-,-,534
-2792,Mikhail Merkulov,Rubin Kazan,90,30,-,90,90,90,90,54,-,-,-,-,-,534
-8626,Nikola Moro,Dinamo Moscow,-,-,19,31,12,90,30,90,78,90,90,-,-,530
-2450,Wanderson,FC Krasnodar,90,90,86,-,83,90,-,90,-,-,-,-,-,529
-5092,Goran Causic,Arsenal Tula,-,90,90,87,71,8,-,-,-,-,-,90,90,526
-2887,Kirill Panchenko,FC Tambov,20,58,18,28,44,64,80,76,81,56,-,-,-,525
-3067,Artur Yusupov,PFC Sochi,-,-,-,-,-,-,13,88,90,90,90,63,90,524
-2826,Aleksandr Zuev,Rubin Kazan,-,-,-,77,84,90,90,68,80,-,1,11,19,520
-8344,Nikolai Zolotov,Ural,-,-,-,-,67,90,90,90,-,-,-,90,90,517
-5478,Viktor Claesson,FC Krasnodar,-,-,12,43,90,84,-,82,90,76,37,-,-,514
-7658,Aleksandre Karapetian,FC Tambov,70,90,40,74,67,64,24,14,-,46,23,-,-,512
-7659,Vladimir Obukhov,FC Tambov,35,32,72,62,46,26,66,90,82,-,-,-,-,511
-6792,Georgi Kostadinov,Arsenal Tula,25,-,90,3,-,82,90,82,90,46,-,-,-,508
-2910,Vyacheslav Krotov,FC Ufa,54,48,4,38,-,35,-,-,-,80,90,90,65,504
-8369,Yuri Kovalev,Arsenal Tula,-,24,90,52,-,-,90,82,71,75,17,-,-,501
-7652,Zuriko Davitashvili,FC Rotor Volgograd,-,-,-,58,90,90,-,-,-,-,78,90,90,496
-4614,Soslan Takasov,FC Tambov,-,-,-,-,-,-,-,48,87,90,90,90,90,495
-6794,Artem Sokol,Arsenal Tula,-,-,-,90,90,90,31,90,46,44,-,-,9,490
-2772,Aleksandr Erokhin,Zenit St. Petersburg,-,15,1,29,1,2,5,8,90,90,66,90,90,487
-2712,Rifat Zhemaletdinov,Lokomotiv Moscow,77,90,77,1,49,8,-,25,-,9,65,-,85,486
-8599,Ilya Kukharchuk,Khimki,67,-,-,-,90,-,-,-,90,66,70,29,71,483
-5924,Sebastián Driussi,Zenit St. Petersburg,89,75,90,61,14,-,-,-,-,-,80,71,-,480
-2894,Vladislav Ignatjev,Lokomotiv Moscow,19,-,-,90,90,90,3,-,90,90,-,-,-,472
-3055,Igor Smolnikov,FC Krasnodar,17,18,-,61,7,-,-,15,90,90,81,90,-,469
-2902,Pavel Alikin,FC Ufa,-,17,90,90,90,90,90,-,-,-,-,-,-,467
-8374,Valeri Gromyko,Arsenal Tula,25,90,-,38,90,90,59,54,8,6,4,-,-,464
-6795,Egor Shamov,Arsenal Tula,90,90,-,3,-,-,-,-,-,-,90,90,90,453
-5417,Mohamed Konate,Khimki,23,20,41,77,50,11,-,-,10,25,20,86,90,453
-8681,Josip Condric,FC Rotor Volgograd,-,-,-,-,-,-,-,-,90,90,90,90,90,450
-8928,Flamarion Junior,FC Rotor Volgograd,-,-,-,-,-,-,-,-,90,90,90,90,90,450
-5933,Artur Nigmatullin,Arsenal Tula,-,-,90,87,90,90,90,-,-,-,-,-,-,447
-3035,Evgeni Lutsenko,Arsenal Tula,90,90,90,90,45,-,-,36,-,-,-,-,-,441
-3333,Francois Kamano,Lokomotiv Moscow,-,-,-,2,90,68,70,65,8,-,5,66,65,439
-2880,Sergey Tkachev,Arsenal Tula,-,66,26,-,19,8,90,88,82,59,-,-,-,438
-6793,Daniil Lesovoy,Arsenal Tula,86,48,79,90,90,44,-,-,-,-,-,-,-,437
-2791,Roman Emelyanov,Ural,28,66,-,5,26,79,30,8,42,63,90,-,-,437
-2775,Dmitriy Poloz,FC Rostov,-,-,-,23,18,23,16,-,28,77,76,88,85,434
-3044,Evgeniy Gapon,Khimki,-,-,-,-,-,-,-,8,90,90,90,90,62,430
-8602,Kamran Aliev,Khimki,44,90,49,16,90,79,27,26,-,2,-,-,-,423
-6611,Vyacheslav Grulev,Dinamo Moscow,1,-,-,14,-,9,3,90,43,87,90,74,-,411
-3014,Stefan Strandberg,Ural,-,-,-,-,-,-,90,90,37,-,90,90,-,397
-2959,Igor Bezdenezhnykh,FC Ufa,69,1,-,13,31,90,90,59,43,-,-,-,-,396
-6331,Alexander Lomovitskiy,Arsenal Tula,-,-,-,-,85,-,-,-,-,59,72,90,90,396
-5460,Wilker Ángel,FK Akhmat,-,-,-,-,-,-,-,90,90,90,8,26,90,394
-7865,Kirill Folmer,FC Ufa,21,78,55,-,31,65,55,-,47,16,1,-,25,394
-4247,Maximilian Philipp,Dinamo Moscow,18,42,85,81,78,17,73,-,-,-,-,-,-,394
-6800,Daniil Krugovoy,Zenit St. Petersburg,6,15,1,90,-,15,90,82,-,1,47,19,28,394
-4199,Anton Shvets,FK Akhmat,63,90,1,-,28,-,1,90,28,-,78,-,13,392
-8600,Maksim Martusevich,Khimki,90,90,90,90,5,25,-,-,-,-,-,-,-,390
-6587,Othman El Kabir,Ural,-,30,-,-,-,-,88,90,90,90,-,-,-,388
-1811,Andrés Ponce,FK Akhmat,38,50,51,47,38,49,69,34,-,11,-,-,-,387
-2857,Oleg Ivanov,FK Akhmat,90,90,39,43,6,25,10,12,15,-,54,-,1,385
-2824,Aleksandr Putsko,FK Akhmat,-,24,90,90,-,-,90,-,-,-,90,-,-,384
-6901,Abdul Mohammed,Arsenal Tula,-,-,-,-,-,-,-,2,44,90,90,82,70,378
-6810,Nayair Tiknizyan,CSKA Moscow,26,1,30,5,11,49,66,12,11,90,26,22,19,368
-8694,Chidera Ejuke,CSKA Moscow,-,-,-,-,-,22,24,79,79,1,64,68,27,364
-6025,Ivan Ignatyev,Rubin Kazan,81,67,85,62,6,17,-,22,5,-,19,-,-,364
-3058,Yuri Zhirkov,Zenit St. Petersburg,17,-,90,-,18,75,13,23,37,-,-,-,90,363
-3011,Vitaly Gudiev,FK Akhmat,-,-,-,-,-,-,-,90,90,90,90,-,-,360
-6600,Konstantin Pliev,FC Ufa,-,-,-,-,-,-,-,-,-,90,90,90,90,360
-5469,Evgeniy Chernov,FC Krasnodar,-,-,-,-,-,90,-,-,-,-,90,90,90,360
-7136,Arnór Sigurdsson,CSKA Moscow,36,64,6,70,79,-,-,11,11,4,-,7,71,359
-8614,Anton Piskunov,FC Rotor Volgograd,90,90,90,79,-,-,-,-,-,-,-,-,-,349
-8143,German Onugkha,FC Tambov,-,-,-,-,23,-,10,-,8,34,90,90,90,345
-2907,Sly,Dinamo Moscow,76,48,24,43,69,41,17,2,19,-,-,-,-,339
-7471,Baktiyor Zainutdinov,FC Rostov,73,90,90,86,-,-,-,-,-,-,-,-,-,339
-2751,Aleksey Ionov,FC Krasnodar,-,-,-,-,-,78,-,-,-,-,75,90,90,333
-2811,Ilya Kutepov,Spartak Moscow,-,-,-,-,-,-,-,90,54,-,90,-,82,316
-2814,Denis Glushakov,Khimki,-,-,-,-,-,-,-,-,-,43,90,90,90,313
-7260,Vladislav Panteleev,Arsenal Tula,65,1,-,-,19,73,31,-,-,31,90,-,-,310
-3151,Igor Gorbatenko,Arsenal Tula,65,42,64,-,-,17,-,8,81,31,-,-,-,308
-5926,Magomed-Shapi Suleymanov,FC Krasnodar,22,25,41,47,7,6,-,8,10,33,15,59,33,306
-2711,Aleksey Miranchuk,Lokomotiv Moscow,90,90,90,35,-,-,-,-,-,-,-,-,-,305
-3105,Egor Sorokin,FC Krasnodar,-,-,-,29,90,-,-,-,-,90,90,-,-,299
-2869,Reziuan Mirzov,Khimki,-,-,-,-,-,-,-,-,-,24,90,90,90,294
-8620,Armen Manucharyan,FC Rotor Volgograd,-,-,13,11,79,49,-,-,49,-,90,-,-,291
-2887,Kirill Panchenko,Arsenal Tula,-,-,-,-,-,-,-,-,-,56,85,63,85,289
-3085,Yuri Bavin,Ural,62,-,12,-,64,-,-,3,57,-,-,-,90,288
-2721,Dimitri Barinov,Lokomotiv Moscow,90,90,88,17,-,-,-,-,-,-,-,-,-,285
-8622,Vitali Lisakovich,Lokomotiv Moscow,-,1,2,1,41,22,26,17,-,81,1,66,25,283
-8601,Artem Polyarus,FK Akhmat,-,-,-,90,-,-,-,-,-,90,59,-,43,282
-2881,Alan Dzagoev,CSKA Moscow,54,27,-,-,-,-,-,-,-,1,71,62,63,278
-8340,Islambek Kuat,Khimki,-,-,-,-,-,-,90,90,47,47,-,-,-,274
-7011,Lovro Bizjak,FC Ufa,-,42,-,4,59,-,20,70,68,10,-,-,-,273
-8873,Vladislav Kamilov,FC Ufa,-,-,-,-,-,-,-,-,64,90,77,-,41,272
-5907,Varazdat Haroyan,FC Tambov,-,-,-,-,-,-,-,-,-,-,90,90,90,270
-5375,Mihail Levashov,Arsenal Tula,-,-,-,-,-,-,-,90,90,90,-,-,-,270
-6378,Nikolai Rasskazov,Arsenal Tula,-,-,-,-,-,-,-,-,-,-,90,90,81,261
-2775,Dmitriy Poloz,PFC Sochi,87,58,39,-,-,-,-,-,-,77,-,-,-,261
-8617,Mukhammad Sultanov,FC Rotor Volgograd,84,90,61,12,11,-,-,-,-,-,-,-,-,258
-2889,Viktor Vasin,CSKA Moscow,-,-,41,90,-,-,-,-,-,36,90,-,-,257
-3813,Luka Djordjevic,Arsenal Tula,-,-,-,-,-,-,-,-,-,-,72,90,86,248
-5461,Odise Roshi,FK Akhmat,-,24,57,56,28,41,-,-,-,-,36,-,-,242
-2888,Kirill Nababkin,CSKA Moscow,90,90,49,-,-,-,-,-,-,-,-,-,-,229
-7135,Olivier Thill,FC Ufa,-,-,15,42,90,25,35,20,-,-,-,-,-,227
-3178,Dmitri Efremov,Ural,-,16,24,34,-,-,-,-,-,-,77,-,67,218
-2805,Sergey Serchenkov,FC Rotor Volgograd,18,-,29,78,62,22,-,-,-,-,-,-,-,209
-3066,Aleksandr Kokorin,Spartak Moscow,-,-,-,-,-,-,32,-,53,-,80,20,22,207
-3128,Kirill Kombarov,Arsenal Tula,-,-,64,52,47,-,-,-,44,-,-,-,-,207
-7191,Ilya Gaponov,Spartak Moscow,35,-,-,-,-,-,-,27,36,-,90,16,-,204
-2854,Daler Kuzyaev,Zenit St. Petersburg,-,-,-,-,-,-,-,-,-,-,90,20,90,200
-1811,Andrés Ponce,FC Rotor Volgograd,-,-,51,-,-,-,-,-,-,-,24,31,90,196
-7659,Vladimir Obukhov,FC Rostov,35,-,-,-,-,-,-,-,-,43,63,49,5,195
-7620,Aleksandr Rudenko,PFC Sochi,-,59,16,17,8,16,77,-,-,-,-,-,-,193
-8607,Adolfo Gaich,CSKA Moscow,6,26,60,20,11,-,-,-,1,-,26,22,19,191
-541,Victor Moses,Spartak Moscow,-,-,-,-,-,-,-,-,-,-,35,69,83,187
-2830,Pavel Pogrebnyak,Ural,-,-,-,-,-,-,-,-,-,-,12,80,90,182
-2908,Dmitri Sysuev,FC Ufa,-,-,-,-,-,-,-,6,43,74,13,5,41,182
-9068,Komnen Andric,FC Ufa,-,-,-,-,-,-,-,-,-,-,-,90,90,180
-4628,Egor Baburin,FC Rostov,-,-,-,90,-,-,-,-,90,-,-,-,-,180
-2871,Yaroslav Godzyur,Ural,90,90,-,-,-,-,-,-,-,-,-,-,-,180
-2786,Nikita Medvedev,Rubin Kazan,-,-,-,-,-,-,90,90,-,-,-,-,-,180
-5907,Varazdat Haroyan,Ural,90,-,-,-,-,-,-,-,-,-,-,90,-,180
-57,Toni Sunjic,Dinamo Moscow,-,-,-,-,90,90,-,-,-,-,-,-,-,180
-8033,Vitali Lystsov,Lokomotiv Moscow,-,-,-,-,-,-,-,-,-,-,90,-,90,180
-8625,Patricio Matricardi,FC Rotor Volgograd,-,-,-,-,-,-,-,-,87,90,-,-,-,177
-8613,Sergey Slepov,Dinamo Moscow,1,-,-,-,-,-,-,71,-,-,90,14,-,176
-346,Roman Neustädter,Dinamo Moscow,-,-,-,-,-,-,-,-,-,-,10,90,71,171
-8603,Andrei Murnin,Khimki,-,1,-,-,61,65,44,-,-,-,-,-,-,171
-3136,Aleksey Evseev,Ural,-,-,-,-,26,15,30,-,-,27,-,16,54,168
-2768,Ivan Novoseltsev,PFC Sochi,74,-,90,-,1,-,-,-,1,-,-,-,1,167
-2895,Arseni Logashov,Khimki,-,-,-,-,-,-,-,-,-,-,90,-,76,166
-8714,Danil Prutsev,PFC Sochi,-,-,-,-,-,-,13,2,8,17,7,27,90,164
-3090,Igor Konovalov,Rubin Kazan,63,85,5,-,-,-,-,-,10,-,-,-,-,163
-7010,Danil Lipovoy,Khimki,-,19,29,13,-,-,4,-,10,65,19,-,-,159
-7307,Lechii Sadulaev,FK Akhmat,8,23,-,-,-,2,-,1,28,27,31,9,23,152
-6948,Marco Aratore,Ural,90,60,-,-,-,-,-,-,-,-,-,-,-,150
-6282,Emiliano Rigoni,Zenit St. Petersburg,17,75,-,15,18,15,1,8,-,-,-,-,-,149
-2817,Ivelin Popov,FC Rostov,72,76,-,-,-,-,-,-,-,-,-,-,-,148
-8612,David Karaev,Ural,19,-,9,16,-,75,-,16,11,-,-,-,-,146
-8072,Nikolay Poyarkov,FC Rostov,-,-,-,-,-,-,-,-,-,-,15,41,90,146
-8608,Vitaliy Balashov,FC Tambov,55,6,-,16,-,-,10,-,47,11,-,-,-,145
-2784,Denis Terentjev,FC Rostov,-,-,-,-,-,-,-,-,-,-,90,49,5,144
-8342,Ilia Shkurin,CSKA Moscow,-,62,6,70,-,-,-,-,-,-,-,-,-,138
-6585,Kristijan Bistrovic,CSKA Moscow,6,-,-,6,-,22,1,28,62,-,10,-,1,136
-6774,Aleksey Sutormin,Zenit St. Petersburg,-,-,-,3,2,2,5,23,9,1,10,19,62,136
-8365,Oston Urunov,Spartak Moscow,-,-,-,-,-,17,11,13,3,85,-,-,5,134
-7466,Andrés Vombergar,FC Ufa,36,-,-,-,73,25,-,-,-,-,-,-,-,134
-6804,Mikhail Tikhonov,Khimki,-,-,-,-,85,-,-,-,43,-,-,-,-,128
-8782,Eduard Spertsyan,FC Krasnodar,-,-,-,-,-,-,-,8,-,14,-,48,57,127
-3023,Andrey Eshchenko,Spartak Moscow,-,12,-,1,7,17,-,12,43,5,1,21,7,126
-8673,Danil Kazantsev,Khimki,-,-,-,-,78,-,46,1,-,-,-,-,-,125
-7669,Aleksandr Dovbnya,Arsenal Tula,51,-,72,-,-,2,-,-,-,-,-,-,-,125
-8504,Vladislav Karapuzov,Dinamo Moscow,14,17,24,43,-,-,-,-,-,-,-,-,23,121
-7653,Beka Mikeltadze,FC Rotor Volgograd,6,-,-,12,-,-,-,-,36,14,12,13,25,118
-8619,Oleg Nikolaev,FC Rotor Volgograd,7,-,9,-,-,-,-,-,90,1,-,-,-,107
-8364,Maksim Kutovoi,FC Krasnodar,9,-,4,47,-,-,-,5,3,14,-,-,25,107
-6772,Gamid Agalarov,FC Ufa,54,-,-,23,5,-,-,-,22,1,-,-,-,105
-8984,Wendel,Zenit St. Petersburg,-,-,-,-,-,-,-,-,-,-,24,81,-,105
-7636,Nikolay Giorgobiani,FC Ufa,36,12,-,-,-,-,35,19,-,-,-,-,-,102
-6617,Idris Imaev,FK Akhmat,52,-,33,-,-,-,1,-,15,-,-,-,-,101
-7635,Danila Emelyanov,FC Ufa,-,12,-,-,-,49,-,31,-,-,-,-,-,92
-7638,Dmitriy Chistyakov,FC Rostov,-,-,-,-,-,-,-,-,44,47,-,-,-,91
-2869,Reziuan Mirzov,Spartak Moscow,-,-,-,-,-,1,-,-,-,-,90,-,-,91
-8355,Nikita Chagrov,FC Tambov,-,-,-,-,-,-,-,-,90,-,-,-,-,90
-8954,Akhmed Alibekov,FC Ufa,-,-,-,-,-,-,-,-,-,-,90,-,-,90
-9079,Vyacheslav Litvinov,FC Krasnodar,-,-,-,-,-,-,-,-,-,-,-,-,90,90
-2788,Nikolay Zabolotny,PFC Sochi,-,-,-,-,-,-,-,-,-,-,-,90,-,90
-7639,Aleksandr Dolgov,FC Rostov,1,-,-,-,-,12,3,-,1,7,-,61,-,85
-2763,Anton Terekhov,Dinamo Moscow,-,-,5,9,-,-,-,-,-,3,-,-,67,84
-7477,Maksim Glushenkov,Spartak Moscow,56,1,5,7,12,-,-,-,-,-,-,-,-,81
-7639,Aleksandr Dolgov,Khimki,-,-,-,-,-,-,-,-,-,-,1,61,19,81
-5421,Mikhail Lysov,Lokomotiv Moscow,-,-,-,-,78,-,-,-,-,-,-,-,-,78
-7652,Zuriko Davitashvili,Rubin Kazan,17,-,60,-,-,-,-,-,-,-,-,-,-,77
-6605,Kirill Kolesnichenko,FC Rotor Volgograd,-,-,-,-,-,-,-,-,54,23,-,-,-,77
-9013,Sébastien Thill,FC Tambov,-,-,-,-,-,-,-,-,-,-,19,-,53,72
-8471,Vladimir Kabakhidze,FC Tambov,21,-,-,37,-,-,-,-,-,-,11,-,-,69
-8705,Mikalay Signevich,Khimki,-,-,-,-,-,-,27,38,-,-,-,-,-,65
-9061,Pontus Almqvist,FC Rostov,-,-,-,-,-,-,-,-,-,-,-,2,62,64
-6707,Alex Matsukatov,FC Krasnodar,9,10,1,16,22,-,-,-,-,-,-,3,-,61
-5379,Aleksandr Denisov,Arsenal Tula,39,-,18,-,-,-,-,-,-,-,-,-,-,57
-6364,Roman Tugarev,FC Rostov,-,-,-,-,-,-,-,-,-,-,14,41,-,55
-7681,Danila Prokhin,Zenit St. Petersburg,-,8,1,-,-,-,-,-,43,-,-,-,1,53
-2818,Zé Luís,Lokomotiv Moscow,-,-,-,-,-,-,-,-,-,-,25,13,14,52
-6807,Jaka Bijol,CSKA Moscow,7,1,30,-,-,9,5,-,-,-,-,-,-,52
-9025,Artur Sokhiev,FC Rostov,-,-,-,-,-,-,-,-,-,-,27,-,23,50
-2718,Dmitriy Tarasov,Rubin Kazan,9,23,5,-,3,-,-,-,-,-,-,5,4,49
-5900,Evgeni Markov,FC Krasnodar,-,-,-,-,-,-,-,-,-,-,49,-,-,49
-2895,Arseni Logashov,FC Rostov,-,-,-,-,9,1,-,-,20,13,-,-,-,43
-9054,Leon Sabua,FC Krasnodar,-,-,-,-,-,-,-,-,-,-,-,31,10,41
-8985,Marko Dugandzic,PFC Sochi,-,-,-,-,-,-,-,-,-,-,10,31,-,41
-7634,Artem Shabolin,Ural,13,-,-,-,5,7,2,-,-,1,13,-,-,41
-3079,Rabiu Mohammed,FC Tambov,-,-,-,-,-,-,-,-,-,-,-,1,36,37
-2853,Zaurbek Pliev,Dinamo Moscow,-,-,-,-,12,-,-,19,-,3,-,-,-,34
-2773,Pavel Mogilevets,Khimki,-,-,-,-,-,-,-,-,-,-,2,11,19,32
-8391,Andrey Bokovoy,PFC Sochi,-,31,-,-,-,-,-,-,-,-,-,-,-,31
-7449,Leon Musaev,Zenit St. Petersburg,6,-,-,-,-,-,-,-,25,-,-,-,-,31
-8370,Roman Minaev,Arsenal Tula,-,-,-,-,26,-,1,-,-,-,-,-,4,31
-7628,Lameck Banda,Arsenal Tula,-,-,11,-,-,18,-,-,-,-,-,-,-,29
-2975,Ruslan Kambolov,FC Krasnodar,-,-,4,-,-,-,-,-,-,14,-,-,10,28
-2978,Ilzat Akhmetov,CSKA Moscow,-,-,-,-,-,-,-,-,-,-,-,28,-,28
-2817,Ivelin Popov,PFC Sochi,-,-,-,-,26,-,-,-,-,-,-,-,-,26
-8546,Anatoliy Nemchenko,PFC Sochi,23,-,-,-,-,-,-,-,-,1,-,-,-,24
-13,Konstantin Rausch,Dinamo Moscow,-,-,-,-,-,-,-,-,19,-,-,4,-,23
-9062,Armin Gigovic,FC Rostov,-,-,-,-,-,-,-,-,-,-,-,4,18,22
-2755,Gregory Morozov,Dinamo Moscow,13,-,-,-,1,8,-,-,-,-,-,-,-,22
-8376,Igor Shkolnik,Dinamo Moscow,-,-,-,-,-,-,3,-,12,1,-,4,-,20
-9049,Konstantin Tyukavin,Dinamo Moscow,-,-,-,-,-,-,-,-,-,-,-,-,19,19
-8559,Nikita Belousov,FC Ufa,7,-,-,-,12,-,-,-,-,-,-,-,-,19
-8627,Aleksandr Smirnov,FC Rostov,-,-,-,-,18,-,-,-,-,-,-,-,-,18
-8623,David Tosevski,FC Rostov,-,3,11,1,-,1,1,-,-,-,-,-,-,17
-9027,Islam Alsultanov,FK Akhmat,-,-,-,-,-,-,-,-,-,-,7,10,-,17
-7517,Ilya Vorobjov,Khimki,-,-,-,-,-,2,13,1,-,-,-,-,-,16
-5376,Guram Adzhoev,Arsenal Tula,-,-,-,1,-,-,1,-,9,-,5,-,-,16
-8609,Aleksandr Golovnya,FC Tambov,-,-,-,16,-,-,-,-,-,-,-,-,-,16
-8956,Nikolay Zlobin,Arsenal Tula,-,-,-,-,-,-,-,-,-,15,-,-,-,15
-7771,Guus Til,Spartak Moscow,-,-,-,1,1,12,-,-,-,-,-,-,-,14
-8760,Arsen Zakharyan,Dinamo Moscow,-,-,-,-,-,-,-,-,-,-,-,-,11,11
-5528,Chingiz Magomadov,Ural,-,-,-,-,-,-,-,-,11,-,-,-,-,11
-2725,Georgi Zotov,Rubin Kazan,-,-,-,-,-,-,-,-,-,-,-,1,10,11
-8960,Stepan Oganesyan,Spartak Moscow,-,-,-,-,-,-,-,-,-,-,10,-,-,10
-8675,Bruno Fuchs,CSKA Moscow,-,-,-,-,-,9,-,-,-,-,-,-,-,9
-7638,Dmitriy Chistyakov,Zenit St. Petersburg,-,-,-,-,-,-,-,-,-,-,-,-,8,8
-2868,Khalid Kadyrov,FK Akhmat,-,-,7,-,-,-,-,-,-,-,-,-,-,7
-8906,Egor Prutsev,PFC Sochi,-,-,-,-,-,-,-,-,7,-,-,-,-,7
-5952,Arsen Adamov,FK Akhmat,-,5,-,-,-,1,-,-,-,-,-,-,-,6
-8586,Nikita Iosifov,Lokomotiv Moscow,1,-,-,-,-,-,-,-,-,-,-,-,5,6
-8385,Nikita Karmaev,FK Akhmat,-,-,-,-,-,-,-,-,6,-,-,-,-,6
-2773,Pavel Mogilevets,Rubin Kazan,-,5,-,-,-,-,-,-,-,-,-,-,-,5
-1270,Haitam Aleesami,FC Rostov,-,-,-,-,-,-,-,-,-,-,-,-,5,5
-8605,Gela Zaseev,Khimki,-,-,-,-,5,-,-,-,-,-,-,-,-,5
-6680,Vladimir Moskvichev,Dinamo Moscow,-,-,5,-,-,-,-,-,-,-,-,-,-,5
-7685,Akmal Bakhtiyarov,PFC Sochi,-,-,5,-,-,-,-,-,-,-,-,-,-,5
-8621,Kirill Kosarev,Rubin Kazan,-,-,-,-,-,-,-,-,-,-,-,-,4,4
-5932,Abubakar Kadyrov,FK Akhmat,-,-,-,3,-,-,-,-,-,-,-,-,-,3
-8345,Dmitri Markitesov,Spartak Moscow,-,-,-,-,-,-,-,-,-,1,1,1,-,3
-5896,Vitali Shakhov,FC Tambov,-,-,-,-,-,-,-,-,-,-,1,1,-,2
-8611,Konstantin Kovalev,FC Rostov,-,-,1,-,-,-,-,-,-,-,-,-,-,1
-8386,Aleksandr Gapechkin,FC Rostov,-,-,-,-,-,-,-,-,-,-,1,-,-,1
-2784,Denis Terentjev,Zenit St. Petersburg,-,-,-,-,-,-,1,-,-,-,-,-,-,1
-18,Slobodan Rajkovic,Lokomotiv Moscow,-,-,-,-,-,1,-,-,-,-,-,-,-,1
-8503,Mikhail Ageev,Lokomotiv Moscow,1,-,-,-,-,-,-,-,-,-,-,-,-,1
-8929,Kirill Dontsov,FC Rotor Volgograd,-,-,-,-,-,-,-,-,1,-,-,-,-,1
+id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,total
+3071,Mikhail Kerzhakov,Zenit St. Petersburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+7475,Ayrton Lucas,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+7650,Murilo Cerqueira,Lokomotiv Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+2750,Roman Zobnin,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+3192,Ilya Lantratov,Khimki,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+8017,Alex Kral,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+2876,Igor Akinfeev,CSKA Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+3081,Aleksandr Maksimenko,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+2724,Aleksandr Belenov,FC Ufa,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+2789,Denys Kulakov,Ural,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1260
+5538,Vyacheslav Karavayev,Zenit St. Petersburg,90,90,90,90,89,90,90,90,90,90,90,90,90,90,1259
+7655,Carl Starfelt,Rubin Kazan,90,90,90,90,90,90,90,78,90,90,90,90,90,90,1248
+5286,Douglas Santos,Zenit St. Petersburg,84,90,90,75,90,90,90,90,90,90,90,90,90,90,1239
+2703,Guilherme,Lokomotiv Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,67,1237
+5452,Miha Mevlja,PFC Sochi,90,90,90,90,82,90,90,90,90,90,90,90,68,90,1230
+602,Dejan Lovren,Zenit St. Petersburg,90,90,90,90,90,90,90,90,47,90,90,90,90,90,1217
+7770,Jordan Larsson,Spartak Moscow,90,87,85,90,83,90,90,63,87,90,90,90,90,90,1215
+5526,Dmitrii Skopintcev,Dinamo Moscow,90,90,90,90,77,90,90,90,71,87,90,90,79,90,1214
+3189,Egor Danilkin,Khimki,90,90,90,90,90,90,90,90,90,90,90,90,28,90,1198
+5442,Ivan Oblyakov,CSKA Moscow,84,90,90,84,90,81,90,90,90,90,90,90,27,90,1176
+5940,Sergey Terekhov,PFC Sochi,90,90,90,90,90,90,90,90,90,-,90,90,90,90,1170
+237,Robert Bauer,Arsenal Tula,90,90,90,90,90,90,90,90,90,-,90,90,90,90,1170
+2766,Soslan Dzhanaev,PFC Sochi,90,90,90,90,90,90,90,90,90,90,90,-,90,90,1170
+5480,Matvey Safonov,FC Krasnodar,90,90,90,90,90,90,-,90,90,90,90,90,90,90,1170
+2962,Sergei Ryzhikov,FC Tambov,90,90,90,90,90,90,90,90,-,90,90,90,90,90,1170
+2758,Anton Shunin,Dinamo Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1170
+7663,Maksim Osipenko,FC Rostov,90,90,90,90,90,90,90,-,90,90,90,90,90,90,1170
+8359,Oliver Abildgaard,Rubin Kazan,90,90,90,90,90,90,90,90,90,90,90,-,90,90,1170
+7632,Ivan Ordets,Dinamo Moscow,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1170
+5536,Daniil Fomin,Dinamo Moscow,90,90,71,59,90,73,87,90,90,90,68,90,90,90,1168
+2832,Brian Idowu,Khimki,90,90,90,77,-,90,90,90,90,90,90,90,90,90,1157
+7196,Roman Evgeniev,Dinamo Moscow,90,90,90,90,90,90,90,90,90,90,77,-,90,90,1157
+2834,Giorgi Jikia,Spartak Moscow,90,90,90,90,90,90,90,90,90,90,-,74,90,90,1154
+3025,Alexander Troshechkin,Khimki,90,90,90,90,90,90,-,90,90,90,88,79,71,89,1137
+8348,Miroslav Bogosavac,FK Akhmat,90,90,90,90,62,90,90,81,-,90,90,90,90,90,1133
+2785,Timofey Margasov,PFC Sochi,90,90,90,90,90,90,90,50,-,90,90,90,90,90,1130
+8598,Kirill Bozhenov,Khimki,90,90,49,90,-,90,90,90,90,90,90,90,90,90,1129
+7453,Khvicha Kvaratskhelia,Rubin Kazan,73,90,90,90,90,90,41,90,90,90,28,90,86,90,1128
+8597,Dmitri Tikhiy,Khimki,90,90,90,90,90,90,90,90,90,90,-,90,90,48,1128
+7631,Sebastian Szymanski,Dinamo Moscow,72,73,66,47,78,73,90,88,90,90,90,86,90,90,1123
+6586,Andrey Egorychev,Ural,77,74,90,90,85,90,90,-,79,90,62,90,90,90,1097
+6797,Filip Uremovic,Rubin Kazan,90,90,90,90,87,90,-,36,90,90,90,90,71,90,1094
+3181,Ilya Pomazun,Ural,-,-,90,90,90,90,90,90,90,90,90,90,90,90,1080
+6769,Yuri Dyupin,Rubin Kazan,90,90,90,90,90,90,-,-,90,90,90,90,90,90,1080
+5483,Eric Bicfalvi,Ural,90,90,90,90,90,90,90,90,-,-,90,90,90,90,1080
+6773,Samuel Gigot,Spartak Moscow,90,90,90,90,90,90,90,-,90,90,-,90,90,90,1080
+2856,Maciej Rybus,Lokomotiv Moscow,90,90,90,90,-,90,90,90,90,90,90,90,90,-,1080
+2968,Magomed Ozdoev,Zenit St. Petersburg,90,90,90,15,72,88,90,90,90,90,20,70,90,90,1075
+5394,Valeriu Ciuperca,FC Tambov,90,90,90,53,60,90,57,90,90,90,90,90,-,90,1070
+5459,Konstantin Kuchaev,CSKA Moscow,83,90,84,20,79,81,85,62,79,90,90,68,71,82,1064
+6276,Nikola Vlasic,CSKA Moscow,-,-,84,85,90,90,90,90,90,86,80,90,89,90,1054
+2896,Mario Fernandes,CSKA Moscow,90,90,90,90,90,90,90,90,90,90,-,62,90,-,1052
+3021,Aleksei Kozlov,FC Rostov,90,87,79,90,90,90,90,-,90,83,75,90,90,-,1044
+2986,Nikita Burmistrov,PFC Sochi,67,47,85,73,90,74,90,90,82,90,47,59,72,78,1044
+3026,Artem Timofeev,FK Akhmat,90,-,90,90,90,65,89,90,75,90,-,90,90,90,1039
+2828,Sergey Parshivlyuk,Dinamo Moscow,77,90,90,90,90,82,90,-,90,90,-,76,90,81,1036
+7679,Kaio,FC Krasnodar,90,90,90,55,-,90,-,90,90,69,90,90,90,90,1024
+7023,Dennis Hadzikadunic,FC Rostov,90,90,90,90,90,90,90,-,46,90,90,90,77,-,1023
+7521,Konstantin Maradishvili,CSKA Moscow,84,90,60,90,90,68,90,62,-,90,90,28,90,90,1022
+7192,Pavel Maslov,Spartak Moscow,55,90,90,90,90,90,90,62,-,90,90,90,-,90,1017
+3168,Sergei Makarov,FC Rotor Volgograd,90,90,77,90,82,90,-,-,90,90,79,77,90,66,1011
+2946,Bernard Berisha,FK Akhmat,82,85,83,43,62,88,90,78,75,-,90,80,78,73,1007
+8347,Maksim Nenakhov,FK Akhmat,90,80,-,34,90,89,80,90,90,90,-,90,90,90,1003
+6805,Azer Aliev,FC Ufa,90,90,90,90,90,90,90,90,50,90,-,90,49,-,999
+8356,Evgeni Shlyakov,FC Tambov,12,6,69,90,12,82,90,90,90,90,90,90,90,90,991
+2808,Sergey Pesjakov,FC Rostov,90,90,90,-,90,90,90,-,-,90,90,90,90,90,990
+2790,Aleksandr Martynovich,FC Krasnodar,90,90,90,90,90,90,-,90,90,90,-,90,-,90,990
+2900,Alexey Nikitin,FC Ufa,90,90,90,90,90,90,-,-,90,-,90,90,90,90,990
+2928,Joãozinho,PFC Sochi,-,43,74,90,90,74,77,90,65,73,83,59,90,78,986
+3063,Artem Dzyuba,Zenit St. Petersburg,90,-,90,87,72,90,90,82,90,90,23,90,-,90,984
+2771,Christian Noboa,PFC Sochi,90,90,90,90,90,90,90,90,90,90,80,-,-,-,980
+7448,Wilmar Barrios,Zenit St. Petersburg,84,90,90,62,85,-,90,90,65,90,70,71,-,90,977
+5497,Vladimir Iljin,FK Akhmat,63,67,39,87,90,90,69,56,84,90,-,74,77,90,976
+3924,Hördur Bjorgvin Magnusson,CSKA Moscow,-,25,90,90,90,90,90,90,90,50,-,90,90,90,975
+2745,Dmitry Zhivoglyadov,Lokomotiv Moscow,90,90,90,-,-,-,90,90,90,90,90,90,90,69,969
+7158,Zoran Nizic,FK Akhmat,90,66,-,-,90,90,90,90,-,90,90,90,90,90,966
+7447,Yaroslav Rakitskiy,Zenit St. Petersburg,90,80,-,90,88,90,-,-,81,90,90,90,82,90,961
+6275,Evans Kangwa,Arsenal Tula,4,24,-,90,90,72,90,90,90,90,86,90,90,51,957
+5723,Emanuel Mammana,PFC Sochi,-,23,5,90,90,27,90,90,90,90,90,90,90,90,955
+3053,Vladimir Rykov,Ural,-,90,90,90,90,90,90,-,50,90,90,90,-,90,950
+8354,Oleksandr Kaplienko,FC Tambov,90,10,90,74,46,-,90,90,90,90,90,90,90,-,940
+5890,Pavel Karasev,FC Tambov,12,90,90,53,30,90,80,47,43,44,90,90,90,90,939
+7668,Marcus Berg,FC Krasnodar,81,90,90,90,90,90,-,85,80,76,9,-,65,83,929
+7479,Kristoffer Olsson,FC Krasnodar,81,90,90,74,90,90,-,90,51,-,90,-,90,90,926
+2414,Grzegorz Krychowiak,Lokomotiv Moscow,90,90,90,90,90,-,20,90,-,90,90,90,-,90,920
+2593,Bojan Jokic,FC Ufa,90,73,35,-,-,-,90,90,90,90,90,90,90,90,918
+7630,Kings Kangwa,Arsenal Tula,90,87,-,90,90,82,90,90,46,90,18,27,20,90,910
+7304,Danil Stepanov,FC Rotor Volgograd,90,90,90,90,90,90,-,-,-,90,90,90,-,90,900
+6910,Igor Diveev,CSKA Moscow,90,90,90,90,90,90,-,-,-,-,90,90,90,90,900
+2705,Vedran Corluka,Lokomotiv Moscow,90,90,90,90,49,90,90,90,90,34,-,90,-,-,893
+4631,Maksim Belyaev,Arsenal Tula,90,90,79,-,-,-,90,90,90,90,90,90,90,-,889
+2925,Fedor Smolov,Lokomotiv Moscow,90,90,90,89,-,68,64,90,90,-,85,24,76,33,889
+7121,Djorde Despotovic,Rubin Kazan,27,23,30,28,84,90,90,90,85,90,90,90,72,-,889
+7667,Aleksey Rybin,FC Tambov,90,84,21,-,90,90,90,90,-,90,48,-,90,90,873
+5443,Guram Tetrashvili,FC Tambov,69,-,18,37,90,90,90,90,90,90,48,90,60,-,862
+7672,Cedric Gogoua,FC Rotor Volgograd,90,90,76,-,90,90,-,-,90,90,90,59,-,90,855
+5425,Ade,FC Tambov,90,90,90,90,90,90,90,42,-,90,-,-,1,90,853
+2057,Ezequiel Ponce,Spartak Moscow,34,90,78,63,-,-,58,89,37,90,90,70,68,82,849
+4586,Aleksey Gerasimov,Ural,90,90,90,90,90,90,-,90,90,90,-,-,36,-,846
+5899,Anton Zabolotny,PFC Sochi,3,32,51,89,46,90,-,11,83,90,80,90,90,90,845
+8618,Oleg Aleinik,FC Rotor Volgograd,90,90,90,90,79,90,-,-,90,90,90,-,21,24,844
+960,Clinton N'Jie,Dinamo Moscow,89,90,85,47,-,81,87,90,47,70,68,16,-,71,841
+4605,Anton Miranchuk,Lokomotiv Moscow,-,1,24,90,90,90,90,90,82,90,90,24,25,49,835
+3196,Kamil Mullin,FC Rotor Volgograd,72,90,90,90,90,90,-,-,-,76,90,77,65,1,831
+8360,Darko Jevtic,Rubin Kazan,90,67,90,90,90,73,1,90,-,69,-,85,86,-,831
+6727,Artem Golubev,FC Ufa,83,90,90,48,59,55,-,71,47,-,90,90,88,15,826
+6775,Silvije Begic,Rubin Kazan,19,-,85,-,-,-,90,90,90,90,90,90,90,90,824
+3262,Malcom,Zenit St. Petersburg,73,82,90,75,90,88,85,90,53,90,-,-,-,-,816
+2990,Ibrahim Tsallagov,PFC Sochi,90,90,85,90,90,90,90,79,-,-,10,89,-,12,815
+5477,Cristian Ramírez,FC Krasnodar,90,72,90,90,83,90,-,75,29,21,4,90,80,-,814
+2774,Sardar Azmoun,Zenit St. Petersburg,73,87,90,90,90,75,77,67,80,18,67,-,-,-,814
+6890,Danijel Miskic,Ural,-,16,78,85,90,90,60,90,40,90,78,90,-,7,814
+2898,Giorgi Shelia,FK Akhmat,90,90,90,90,90,90,90,-,-,-,-,90,90,-,810
+2915,Georgy Schennikov,CSKA Moscow,90,90,90,90,90,90,90,90,90,-,-,-,-,-,810
+6608,Ionut Nedelcearu,FC Ufa,90,90,90,90,90,90,90,90,90,-,-,-,-,-,810
+2929,Yuri Gazinskiy,FC Krasnodar,90,80,86,90,46,63,-,-,39,76,-,90,80,55,795
+5458,Timur Zhamaletdinov,FC Ufa,-,78,86,67,31,90,90,84,-,90,90,1,2,79,788
+6024,Ismael,FK Akhmat,27,40,89,66,62,90,89,78,62,-,-,90,90,-,783
+8610,Kento Hashimoto,FC Rostov,6,14,11,90,41,78,-,-,90,90,90,90,90,90,780
+5495,Jimmy Tabidze,FC Ufa,90,-,-,-,-,-,55,90,90,90,90,90,90,90,775
+5479,Ilya Zhigulev,FC Rotor Volgograd,25,90,81,78,28,68,-,-,-,67,66,90,90,90,773
+5385,Mikhail Kostyukov,FC Tambov,78,80,72,90,78,26,33,43,9,79,79,90,-,9,766
+5441,Catalin Carp,FC Ufa,90,90,90,86,-,1,-,90,90,90,-,85,49,-,761
+8634,Hwang In-Beom,Rubin Kazan,-,-,-,11,44,90,90,-,90,90,71,90,90,90,756
+7476,Nail Umiarov,Spartak Moscow,12,78,90,90,90,73,79,78,47,-,55,15,3,43,753
+2899,Aleksandr Sukhov,FC Ufa,-,90,90,90,59,41,70,84,40,-,90,90,-,-,744
+3015,Nikolay Komlichenko,Dinamo Moscow,89,90,66,76,21,49,53,-,71,20,22,90,90,-,737
+7678,Soltmurad Bakaev,Rubin Kazan,63,67,75,62,46,-,49,12,18,68,61,79,80,56,736
+2751,Aleksey Ionov,FC Rostov,90,90,89,66,90,78,87,-,62,82,-,-,-,-,734
+2920,Sergei Petrov,FC Krasnodar,73,90,90,29,90,90,-,90,87,-,90,-,-,-,729
+2921,Charles Kaboré,Dinamo Moscow,90,90,90,90,90,17,60,1,-,-,22,90,-,86,726
+7283,Daniil Utkin,FC Krasnodar,90,65,78,61,68,27,-,15,90,57,15,42,90,27,725
+963,Eder,Lokomotiv Moscow,-,-,13,88,90,22,3,73,90,90,65,90,90,-,714
+5469,Evgeniy Chernov,FC Rostov,90,90,79,4,90,90,90,-,90,90,-,-,-,-,713
+7470,Mathias Normann,FC Rostov,90,90,79,66,49,90,90,-,90,64,-,-,-,-,708
+6793,Daniil Lesovoy,Dinamo Moscow,-,-,-,90,-,-,-,90,90,90,80,86,90,90,706
+7592,Stanislav Magkeev,Lokomotiv Moscow,13,25,-,73,90,90,90,90,90,90,-,13,-,41,705
+8624,Marat Bystrov,FK Akhmat,-,-,90,90,66,-,90,56,90,79,82,16,12,34,705
+3131,Zelimkhan Bakaev,Spartak Moscow,78,3,12,83,78,61,58,77,75,53,-,75,48,1,702
+6580,Danil Glebov,FC Rostov,6,-,21,90,90,12,90,-,66,-,90,49,90,90,694
+5397,Alexander Sobolev,Spartak Moscow,90,90,90,27,90,90,32,1,15,37,-,-,42,90,694
+6417,Daniil Kulikov,Lokomotiv Moscow,1,-,-,-,41,90,87,1,90,56,90,77,90,70,693
+7123,Evgeny Kharin,FK Akhmat,27,66,51,47,28,49,21,34,62,63,83,81,47,34,693
+2852,Andrey Semenov,FK Akhmat,90,90,90,90,90,90,-,-,90,-,-,60,-,-,690
+7656,Ivan Miladinovic,PFC Sochi,90,67,16,1,18,63,-,-,25,90,43,90,90,90,683
+8616,Oleg Kozhemyakin,FC Rotor Volgograd,90,90,90,90,8,41,-,-,3,-,-,90,90,90,682
+3062,Oleg Shatov,Rubin Kazan,-,-,-,79,46,23,90,90,80,1,90,90,-,90,679
+5927,Aleksey Gritsaenko,FC Tambov,-,90,39,-,90,90,90,90,90,-,-,-,-,90,669
+8615,Azat Bayryev,FC Rotor Volgograd,83,1,9,90,90,90,-,-,-,-,90,90,90,36,669
+2884,Roman Eremenko,FC Rostov,18,14,69,-,81,89,74,-,1,-,90,74,85,71,666
+7452,Dmitri Rybchinsky,Lokomotiv Moscow,71,65,66,54,12,82,87,1,1,1,25,77,65,49,656
+5954,Eldor Shomurodov,FC Rostov,84,87,90,90,72,89,74,-,70,-,-,-,-,-,656
+6598,Igor Kalinin,Ural,90,90,90,90,23,-,-,-,90,90,90,-,-,-,653
+7680,Andrey Mostovoy,Zenit St. Petersburg,1,3,-,28,76,90,85,67,10,72,43,9,90,76,650
+7633,Rafal Augustyniak,Ural,90,90,90,90,64,11,19,-,-,-,-,10,90,90,644
+2974,Vladimir Dyadyun,Khimki,90,70,61,-,-,-,63,52,80,88,71,4,14,42,635
+8368,Kirill Zaika,PFC Sochi,90,90,-,90,82,90,-,40,60,-,43,31,18,-,634
+3082,Branko Jovicic,Ural,-,-,-,-,-,-,71,82,48,90,90,80,90,83,634
+3190,Anton Kilin,FC Tambov,78,84,50,90,44,8,-,-,90,-,42,90,55,-,631
+5368,Gia Grigalava,Arsenal Tula,90,90,-,-,-,-,-,-,-,90,90,90,90,90,630
+2964,Saba Kverkvelia,FC Rotor Volgograd,-,-,-,-,90,90,-,-,90,90,-,90,90,90,630
+5893,Oleg Danchenko,FC Ufa,-,-,75,77,90,65,90,6,26,90,-,-,90,15,624
+8361,Denis Makarov,Rubin Kazan,27,23,15,28,44,67,90,90,72,22,90,-,18,34,620
+5092,Goran Causic,Arsenal Tula,-,90,90,87,71,8,-,-,-,-,-,90,90,90,616
+8362,Ilya Samoshnikov,Rubin Kazan,47,90,90,13,6,-,-,-,10,90,90,90,90,-,616
+3067,Artur Yusupov,PFC Sochi,-,-,-,-,-,-,13,88,90,90,90,63,90,90,614
+6138,Andrei Panyukov,Ural,71,74,81,74,-,-,60,74,79,90,-,10,-,-,613
+7471,Baktiyor Zainutdinov,CSKA Moscow,-,-,-,-,36,41,24,78,69,90,90,83,90,8,609
+8344,Nikolai Zolotov,Ural,-,-,-,-,67,90,90,90,-,-,-,90,90,90,607
+8601,Artem Polyarus,Khimki,90,78,90,90,40,90,63,64,-,-,-,-,-,-,605
+7648,Tonny Vilhena,FC Krasnodar,-,-,-,43,44,70,-,82,61,90,90,87,-,35,602
+2822,George Melkadze,FK Akhmat,-,-,-,24,46,41,21,12,90,90,90,64,67,56,601
+5454,Fedor Chalov,CSKA Moscow,64,-,-,-,54,68,66,28,21,54,64,90,63,25,597
+7658,Aleksandre Karapetian,FC Tambov,70,90,40,74,67,64,24,14,-,46,23,-,-,76,588
+4695,Arshak Koryan,Khimki,46,71,90,74,29,88,86,90,-,-,-,-,-,14,588
+7183,Daniil Khlusevich,Arsenal Tula,90,66,26,38,43,88,59,8,19,84,1,8,5,52,587
+7652,Zuriko Davitashvili,FC Rotor Volgograd,-,-,-,58,90,90,-,-,-,-,78,90,90,90,586
+4614,Soslan Takasov,FC Tambov,-,-,-,-,-,-,-,48,87,90,90,90,90,90,585
+3390,Rémy Cabella,FC Krasnodar,68,90,49,-,-,20,-,75,90,90,75,-,-,27,584
+5478,Viktor Claesson,FC Krasnodar,-,-,12,43,90,84,-,82,90,76,37,-,-,63,577
+8599,Ilya Kukharchuk,Khimki,67,-,-,-,90,-,-,-,90,66,70,29,71,90,573
+3162,Khoren Bayramyan,FC Rostov,17,3,11,90,72,67,90,-,90,90,-,41,-,-,571
+2894,Vladislav Ignatjev,Lokomotiv Moscow,19,-,-,90,90,90,3,-,90,90,-,-,-,90,562
+6331,Alexander Lomovitskiy,Khimki,-,12,41,90,85,90,77,82,80,-,-,-,-,-,557
+2993,Taras Burlak,Arsenal Tula,-,-,11,90,90,90,90,90,90,-,-,-,-,-,551
+7657,Evgeni Pesegov,FC Rotor Volgograd,65,89,81,32,11,-,-,-,90,90,11,13,69,-,551
+8626,Nikola Moro,Dinamo Moscow,-,-,19,31,12,90,30,90,78,90,90,-,-,19,549
+2924,Pavel Mamaev,FC Rostov,84,76,90,24,-,-,16,-,-,8,90,86,72,-,546
+6802,Nikita Chicherin,FC Tambov,90,90,90,90,90,90,-,-,3,-,-,-,-,-,543
+2985,Elmir Nabiullin,PFC Sochi,16,-,74,-,8,16,90,90,90,90,47,-,22,-,543
+8681,Josip Condric,FC Rotor Volgograd,-,-,-,-,-,-,-,-,90,90,90,90,90,90,540
+2988,Vyacheslav Podberezkin,Ural,-,-,66,56,90,83,-,87,33,-,28,74,23,-,540
+5911,Aleksandr Dovbnya,FC Rotor Volgograd,90,90,90,90,90,90,-,-,-,-,-,-,-,-,540
+5933,Artur Nigmatullin,Arsenal Tula,-,-,90,87,90,90,90,-,-,-,-,-,-,90,537
+7769,Vadim Karpov,CSKA Moscow,90,65,-,-,-,-,90,90,90,90,19,-,-,-,534
+2792,Mikhail Merkulov,Rubin Kazan,90,30,-,90,90,90,90,54,-,-,-,-,-,-,534
+2450,Wanderson,FC Krasnodar,90,90,86,-,83,90,-,90,-,-,-,-,-,-,529
+8928,Flamarion Junior,FC Rotor Volgograd,-,-,-,-,-,-,-,-,90,90,90,90,90,79,529
+5417,Mohamed Konate,Khimki,23,20,41,77,50,11,-,-,10,25,20,86,90,76,529
+2826,Aleksandr Zuev,Rubin Kazan,-,-,-,77,84,90,90,68,80,-,1,11,19,5,525
+2887,Kirill Panchenko,FC Tambov,20,58,18,28,44,64,80,76,81,56,-,-,-,-,525
+2775,Dmitriy Poloz,FC Rostov,-,-,-,23,18,23,16,-,28,77,76,88,85,86,520
+2910,Vyacheslav Krotov,FC Ufa,54,48,4,38,-,35,-,-,-,80,90,90,65,15,519
+7659,Vladimir Obukhov,FC Tambov,35,32,72,62,46,26,66,90,82,-,-,-,-,-,511
+6792,Georgi Kostadinov,Arsenal Tula,25,-,90,3,-,82,90,82,90,46,-,-,-,-,508
+8369,Yuri Kovalev,Arsenal Tula,-,24,90,52,-,-,90,82,71,75,17,-,-,-,501
+3333,Francois Kamano,Lokomotiv Moscow,-,-,-,2,90,68,70,65,8,-,5,66,65,57,496
+6794,Artem Sokol,Arsenal Tula,-,-,-,90,90,90,31,90,46,44,-,-,9,-,490
+3014,Stefan Strandberg,Ural,-,-,-,-,-,-,90,90,37,-,90,90,-,90,487
+2772,Aleksandr Erokhin,Zenit St. Petersburg,-,15,1,29,1,2,5,8,90,90,66,90,90,-,487
+6331,Alexander Lomovitskiy,Arsenal Tula,-,-,-,-,85,-,-,-,-,59,72,90,90,90,486
+2712,Rifat Zhemaletdinov,Lokomotiv Moscow,77,90,77,1,49,8,-,25,-,9,65,-,85,-,486
+5460,Wilker Ángel,FK Akhmat,-,-,-,-,-,-,-,90,90,90,8,26,90,90,484
+4199,Anton Shvets,FK Akhmat,63,90,1,-,28,-,1,90,28,-,78,-,13,90,482
+5924,Sebastián Driussi,Zenit St. Petersburg,89,75,90,61,14,-,-,-,-,-,80,71,-,-,480
+2880,Sergey Tkachev,Arsenal Tula,-,66,26,-,19,8,90,88,82,59,-,-,-,39,477
+7865,Kirill Folmer,FC Ufa,21,78,55,-,31,65,55,-,47,16,1,-,25,75,469
+3055,Igor Smolnikov,FC Krasnodar,17,18,-,61,7,-,-,15,90,90,81,90,-,-,469
+2902,Pavel Alikin,FC Ufa,-,17,90,90,90,90,90,-,-,-,-,-,-,-,467
+6587,Othman El Kabir,Ural,-,30,-,-,-,-,88,90,90,90,-,-,-,79,467
+8374,Valeri Gromyko,Arsenal Tula,25,90,-,38,90,90,59,54,8,6,4,-,-,-,464
+6795,Egor Shamov,Arsenal Tula,90,90,-,3,-,-,-,-,-,-,90,90,90,-,453
+6600,Konstantin Pliev,FC Ufa,-,-,-,-,-,-,-,-,-,90,90,90,90,90,450
+5469,Evgeniy Chernov,FC Krasnodar,-,-,-,-,-,90,-,-,-,-,90,90,90,90,450
+3011,Vitaly Gudiev,FK Akhmat,-,-,-,-,-,-,-,90,90,90,90,-,-,90,450
+3035,Evgeni Lutsenko,Arsenal Tula,90,90,90,90,45,-,-,36,-,-,-,-,-,-,441
+6793,Daniil Lesovoy,Arsenal Tula,86,48,79,90,90,44,-,-,-,-,-,-,-,-,437
+2791,Roman Emelyanov,Ural,28,66,-,5,26,79,30,8,42,63,90,-,-,-,437
+6025,Ivan Ignatyev,Rubin Kazan,81,67,85,62,6,17,-,22,5,-,19,-,-,72,436
+3044,Evgeniy Gapon,Khimki,-,-,-,-,-,-,-,8,90,90,90,90,62,-,430
+8143,German Onugkha,FC Tambov,-,-,-,-,23,-,10,-,8,34,90,90,90,81,426
+7136,Arnór Sigurdsson,CSKA Moscow,36,64,6,70,79,-,-,11,11,4,-,7,71,66,425
+8602,Kamran Aliev,Khimki,44,90,49,16,90,79,27,26,-,2,-,-,-,1,424
+2751,Aleksey Ionov,FC Krasnodar,-,-,-,-,-,78,-,-,-,-,75,90,90,90,423
+6611,Vyacheslav Grulev,Dinamo Moscow,1,-,-,14,-,9,3,90,43,87,90,74,-,-,411
+2814,Denis Glushakov,Khimki,-,-,-,-,-,-,-,-,-,43,90,90,90,90,403
+2959,Igor Bezdenezhnykh,FC Ufa,69,1,-,13,31,90,90,59,43,-,-,-,-,-,396
+6800,Daniil Krugovoy,Zenit St. Petersburg,6,15,1,90,-,15,90,82,-,1,47,19,28,1,395
+4247,Maximilian Philipp,Dinamo Moscow,18,42,85,81,78,17,73,-,-,-,-,-,-,-,394
+8600,Maksim Martusevich,Khimki,90,90,90,90,5,25,-,-,-,-,-,-,-,-,390
+3105,Egor Sorokin,FC Krasnodar,-,-,-,29,90,-,-,-,-,90,90,-,-,90,389
+8694,Chidera Ejuke,CSKA Moscow,-,-,-,-,-,22,24,79,79,1,64,68,27,24,388
+1811,Andrés Ponce,FK Akhmat,38,50,51,47,38,49,69,34,-,11,-,-,-,-,387
+2857,Oleg Ivanov,FK Akhmat,90,90,39,43,6,25,10,12,15,-,54,-,1,-,385
+2824,Aleksandr Putsko,FK Akhmat,-,24,90,90,-,-,90,-,-,-,90,-,-,-,384
+2869,Reziuan Mirzov,Khimki,-,-,-,-,-,-,-,-,-,24,90,90,90,89,383
+2887,Kirill Panchenko,Arsenal Tula,-,-,-,-,-,-,-,-,-,56,85,63,85,90,379
+6901,Abdul Mohammed,Arsenal Tula,-,-,-,-,-,-,-,2,44,90,90,82,70,-,378
+5926,Magomed-Shapi Suleymanov,FC Krasnodar,22,25,41,47,7,6,-,8,10,33,15,59,33,63,369
+6810,Nayair Tiknizyan,CSKA Moscow,26,1,30,5,11,49,66,12,11,90,26,22,19,-,368
+3058,Yuri Zhirkov,Zenit St. Petersburg,17,-,90,-,18,75,13,23,37,-,-,-,90,1,364
+8873,Vladislav Kamilov,FC Ufa,-,-,-,-,-,-,-,-,64,90,77,-,41,90,362
+2881,Alan Dzagoev,CSKA Moscow,54,27,-,-,-,-,-,-,-,1,71,62,63,83,361
+5907,Varazdat Haroyan,FC Tambov,-,-,-,-,-,-,-,-,-,-,90,90,90,90,360
+8614,Anton Piskunov,FC Rotor Volgograd,90,90,90,79,-,-,-,-,-,-,-,-,-,-,349
+7471,Baktiyor Zainutdinov,FC Rostov,73,90,90,86,-,-,-,-,-,-,-,-,-,8,347
+2907,Sly,Dinamo Moscow,76,48,24,43,69,41,17,2,19,-,-,-,-,-,339
+2889,Viktor Vasin,CSKA Moscow,-,-,41,90,-,-,-,-,-,36,90,-,-,82,339
+3813,Luka Djordjevic,Arsenal Tula,-,-,-,-,-,-,-,-,-,-,72,90,86,90,338
+8601,Artem Polyarus,FK Akhmat,-,-,-,90,-,-,-,-,-,90,59,-,43,56,338
+8622,Vitali Lisakovich,Lokomotiv Moscow,-,1,2,1,41,22,26,17,-,81,1,66,25,41,324
+2811,Ilya Kutepov,Spartak Moscow,-,-,-,-,-,-,-,90,54,-,90,-,82,-,316
+7260,Vladislav Panteleev,Arsenal Tula,65,1,-,-,19,73,31,-,-,31,90,-,-,-,310
+3151,Igor Gorbatenko,Arsenal Tula,65,42,64,-,-,17,-,8,81,31,-,-,-,-,308
+2711,Aleksey Miranchuk,Lokomotiv Moscow,90,90,90,35,-,-,-,-,-,-,-,-,-,-,305
+6378,Nikolai Rasskazov,Arsenal Tula,-,-,-,-,-,-,-,-,-,-,90,90,81,38,299
+8620,Armen Manucharyan,FC Rotor Volgograd,-,-,13,11,79,49,-,-,49,-,90,-,-,-,291
+2854,Daler Kuzyaev,Zenit St. Petersburg,-,-,-,-,-,-,-,-,-,-,90,20,90,90,290
+3085,Yuri Bavin,Ural,62,-,12,-,64,-,-,3,57,-,-,-,90,-,288
+1811,Andrés Ponce,FC Rotor Volgograd,-,-,51,-,-,-,-,-,-,-,24,31,90,90,286
+2721,Dimitri Barinov,Lokomotiv Moscow,90,90,88,17,-,-,-,-,-,-,-,-,-,-,285
+8340,Islambek Kuat,Khimki,-,-,-,-,-,-,90,90,47,47,-,-,-,1,275
+7011,Lovro Bizjak,FC Ufa,-,42,-,4,59,-,20,70,68,10,-,-,-,-,273
+2830,Pavel Pogrebnyak,Ural,-,-,-,-,-,-,-,-,-,-,12,80,90,90,272
+9068,Komnen Andric,FC Ufa,-,-,-,-,-,-,-,-,-,-,-,90,90,90,270
+5375,Mihail Levashov,Arsenal Tula,-,-,-,-,-,-,-,90,90,90,-,-,-,-,270
+2775,Dmitriy Poloz,PFC Sochi,87,58,39,-,-,-,-,-,-,77,-,-,-,-,261
+8617,Mukhammad Sultanov,FC Rotor Volgograd,84,90,61,12,11,-,-,-,-,-,-,-,-,-,258
+8607,Adolfo Gaich,CSKA Moscow,6,26,60,20,11,-,-,-,1,-,26,22,19,65,256
+8714,Danil Prutsev,PFC Sochi,-,-,-,-,-,-,13,2,8,17,7,27,90,90,254
+5461,Odise Roshi,FK Akhmat,-,24,57,56,28,41,-,-,-,-,36,-,-,-,242
+541,Victor Moses,Spartak Moscow,-,-,-,-,-,-,-,-,-,-,35,69,83,47,234
+2784,Denis Terentjev,FC Rostov,-,-,-,-,-,-,-,-,-,-,90,49,5,90,234
+8072,Nikolay Poyarkov,FC Rostov,-,-,-,-,-,-,-,-,-,-,15,41,90,86,232
+3178,Dmitri Efremov,Ural,-,16,24,34,-,-,-,-,-,-,77,-,67,11,229
+2888,Kirill Nababkin,CSKA Moscow,90,90,49,-,-,-,-,-,-,-,-,-,-,-,229
+7135,Olivier Thill,FC Ufa,-,-,15,42,90,25,35,20,-,-,-,-,-,-,227
+3066,Aleksandr Kokorin,Spartak Moscow,-,-,-,-,-,-,32,-,53,-,80,20,22,8,215
+7669,Aleksandr Dovbnya,Arsenal Tula,51,-,72,-,-,2,-,-,-,-,-,-,-,90,215
+7659,Vladimir Obukhov,FC Rostov,35,-,-,-,-,-,-,-,-,43,63,49,5,19,214
+2805,Sergey Serchenkov,FC Rotor Volgograd,18,-,29,78,62,22,-,-,-,-,-,-,-,1,210
+3128,Kirill Kombarov,Arsenal Tula,-,-,64,52,47,-,-,-,44,-,-,-,-,-,207
+7620,Aleksandr Rudenko,PFC Sochi,-,59,16,17,8,16,77,-,-,-,-,-,-,12,205
+7191,Ilya Gaponov,Spartak Moscow,35,-,-,-,-,-,-,27,36,-,90,16,-,-,204
+8984,Wendel,Zenit St. Petersburg,-,-,-,-,-,-,-,-,-,-,24,81,-,90,195
+2908,Dmitri Sysuev,FC Ufa,-,-,-,-,-,-,-,6,43,74,13,5,41,11,193
+5907,Varazdat Haroyan,Ural,90,-,-,-,-,-,-,-,-,-,-,90,-,-,180
+4628,Egor Baburin,FC Rostov,-,-,-,90,-,-,-,-,90,-,-,-,-,-,180
+2871,Yaroslav Godzyur,Ural,90,90,-,-,-,-,-,-,-,-,-,-,-,-,180
+57,Toni Sunjic,Dinamo Moscow,-,-,-,-,90,90,-,-,-,-,-,-,-,-,180
+8033,Vitali Lystsov,Lokomotiv Moscow,-,-,-,-,-,-,-,-,-,-,90,-,90,-,180
+2786,Nikita Medvedev,Rubin Kazan,-,-,-,-,-,-,90,90,-,-,-,-,-,-,180
+8625,Patricio Matricardi,FC Rotor Volgograd,-,-,-,-,-,-,-,-,87,90,-,-,-,-,177
+8613,Sergey Slepov,Dinamo Moscow,1,-,-,-,-,-,-,71,-,-,90,14,-,-,176
+8603,Andrei Murnin,Khimki,-,1,-,-,61,65,44,-,-,-,-,-,-,-,171
+346,Roman Neustädter,Dinamo Moscow,-,-,-,-,-,-,-,-,-,-,10,90,71,-,171
+7307,Lechii Sadulaev,FK Akhmat,8,23,-,-,-,2,-,1,28,27,31,9,23,17,169
+3136,Aleksey Evseev,Ural,-,-,-,-,26,15,30,-,-,27,-,16,54,-,168
+2768,Ivan Novoseltsev,PFC Sochi,74,-,90,-,1,-,-,-,1,-,-,-,1,-,167
+2895,Arseni Logashov,Khimki,-,-,-,-,-,-,-,-,-,-,90,-,76,-,166
+8954,Akhmed Alibekov,FC Ufa,-,-,-,-,-,-,-,-,-,-,90,-,-,75,165
+3090,Igor Konovalov,Rubin Kazan,63,85,5,-,-,-,-,-,10,-,-,-,-,-,163
+7010,Danil Lipovoy,Khimki,-,19,29,13,-,-,4,-,10,65,19,-,-,-,159
+6948,Marco Aratore,Ural,90,60,-,-,-,-,-,-,-,-,-,-,-,-,150
+6774,Aleksey Sutormin,Zenit St. Petersburg,-,-,-,3,2,2,5,23,9,1,10,19,62,14,150
+6282,Emiliano Rigoni,Zenit St. Petersburg,17,75,-,15,18,15,1,8,-,-,-,-,-,-,149
+2817,Ivelin Popov,FC Rostov,72,76,-,-,-,-,-,-,-,-,-,-,-,-,148
+8342,Ilia Shkurin,CSKA Moscow,-,62,6,70,-,-,-,-,-,-,-,-,-,8,146
+8612,David Karaev,Ural,19,-,9,16,-,75,-,16,11,-,-,-,-,-,146
+8608,Vitaliy Balashov,FC Tambov,55,6,-,16,-,-,10,-,47,11,-,-,-,-,145
+6585,Kristijan Bistrovic,CSKA Moscow,6,-,-,6,-,22,1,28,62,-,10,-,1,7,143
+2818,Zé Luís,Lokomotiv Moscow,-,-,-,-,-,-,-,-,-,-,25,13,14,90,142
+9061,Pontus Almqvist,FC Rostov,-,-,-,-,-,-,-,-,-,-,-,2,62,71,135
+7466,Andrés Vombergar,FC Ufa,36,-,-,-,73,25,-,-,-,-,-,-,-,-,134
+8365,Oston Urunov,Spartak Moscow,-,-,-,-,-,17,11,13,3,85,-,-,5,-,134
+7653,Beka Mikeltadze,FC Rotor Volgograd,6,-,-,12,-,-,-,-,36,14,12,13,25,11,129
+6804,Mikhail Tikhonov,Khimki,-,-,-,-,85,-,-,-,43,-,-,-,-,-,128
+8782,Eduard Spertsyan,FC Krasnodar,-,-,-,-,-,-,-,8,-,14,-,48,57,-,127
+3023,Andrey Eshchenko,Spartak Moscow,-,12,-,1,7,17,-,12,43,5,1,21,7,-,126
+8673,Danil Kazantsev,Khimki,-,-,-,-,78,-,46,1,-,-,-,-,-,-,125
+2853,Zaurbek Pliev,Dinamo Moscow,-,-,-,-,12,-,-,19,-,3,-,-,-,90,124
+8504,Vladislav Karapuzov,Dinamo Moscow,14,17,24,43,-,-,-,-,-,-,-,-,23,-,121
+9062,Armin Gigovic,FC Rostov,-,-,-,-,-,-,-,-,-,-,-,4,18,90,112
+8619,Oleg Nikolaev,FC Rotor Volgograd,7,-,9,-,-,-,-,-,90,1,-,-,-,-,107
+8364,Maksim Kutovoi,FC Krasnodar,9,-,4,47,-,-,-,5,3,14,-,-,25,-,107
+6772,Gamid Agalarov,FC Ufa,54,-,-,23,5,-,-,-,22,1,-,-,-,-,105
+9049,Konstantin Tyukavin,Dinamo Moscow,-,-,-,-,-,-,-,-,-,-,-,-,19,86,105
+7636,Nikolay Giorgobiani,FC Ufa,36,12,-,-,-,-,35,19,-,-,-,-,-,-,102
+6617,Idris Imaev,FK Akhmat,52,-,33,-,-,-,1,-,15,-,-,-,-,-,101
+2725,Georgi Zotov,Rubin Kazan,-,-,-,-,-,-,-,-,-,-,-,1,10,85,96
+7635,Danila Emelyanov,FC Ufa,-,12,-,-,-,49,-,31,-,-,-,-,-,-,92
+7638,Dmitriy Chistyakov,FC Rostov,-,-,-,-,-,-,-,-,44,47,-,-,-,-,91
+2869,Reziuan Mirzov,Spartak Moscow,-,-,-,-,-,1,-,-,-,-,90,-,-,-,91
+8355,Nikita Chagrov,FC Tambov,-,-,-,-,-,-,-,-,90,-,-,-,-,-,90
+2960,Aleksandr Filin,Khimki,-,-,-,-,-,-,-,-,-,-,-,-,-,90,90
+9079,Vyacheslav Litvinov,FC Krasnodar,-,-,-,-,-,-,-,-,-,-,-,-,90,-,90
+9106,Aleksandr Pavlovets,FC Rostov,-,-,-,-,-,-,-,-,-,-,-,-,-,90,90
+2759,Igor Leshchuk,Dinamo Moscow,-,-,-,-,-,-,-,-,-,-,-,-,-,90,90
+2788,Nikolay Zabolotny,PFC Sochi,-,-,-,-,-,-,-,-,-,-,-,90,-,-,90
+2763,Anton Terekhov,Dinamo Moscow,-,-,5,9,-,-,-,-,-,3,-,-,67,4,88
+9013,Sébastien Thill,FC Tambov,-,-,-,-,-,-,-,-,-,-,19,-,53,14,86
+7639,Aleksandr Dolgov,FC Rostov,1,-,-,-,-,12,3,-,1,7,-,61,-,-,85
+2755,Gregory Morozov,FC Ufa,-,-,-,-,-,8,-,-,-,-,-,-,-,75,83
+7477,Maksim Glushenkov,Spartak Moscow,56,1,5,7,12,-,-,-,-,-,-,-,-,-,81
+7639,Aleksandr Dolgov,Khimki,-,-,-,-,-,-,-,-,-,-,1,61,19,-,81
+5421,Mikhail Lysov,Lokomotiv Moscow,-,-,-,-,78,-,-,-,-,-,-,-,-,-,78
+7652,Zuriko Davitashvili,Rubin Kazan,17,-,60,-,-,-,-,-,-,-,-,-,-,-,77
+6605,Kirill Kolesnichenko,FC Rotor Volgograd,-,-,-,-,-,-,-,-,54,23,-,-,-,-,77
+6364,Roman Tugarev,FC Rostov,-,-,-,-,-,-,-,-,-,-,14,41,-,19,74
+8471,Vladimir Kabakhidze,FC Tambov,21,-,-,37,-,-,-,-,-,-,11,-,-,-,69
+8705,Mikalay Signevich,Khimki,-,-,-,-,-,-,27,38,-,-,-,-,-,-,65
+6707,Alex Matsukatov,FC Krasnodar,9,10,1,16,22,-,-,-,-,-,-,3,-,-,61
+5379,Aleksandr Denisov,Arsenal Tula,39,-,18,-,-,-,-,-,-,-,-,-,-,-,57
+5900,Evgeni Markov,FC Krasnodar,-,-,-,-,-,-,-,-,-,-,49,-,-,7,56
+7681,Danila Prokhin,Zenit St. Petersburg,-,8,1,-,-,-,-,-,43,-,-,-,1,-,53
+6807,Jaka Bijol,CSKA Moscow,7,1,30,-,-,9,5,-,-,-,-,-,-,-,52
+9025,Artur Sokhiev,FC Rostov,-,-,-,-,-,-,-,-,-,-,27,-,23,-,50
+2718,Dmitriy Tarasov,Rubin Kazan,9,23,5,-,3,-,-,-,-,-,-,5,4,-,49
+2895,Arseni Logashov,FC Rostov,-,-,-,-,9,1,-,-,20,13,-,-,-,-,43
+8985,Marko Dugandzic,PFC Sochi,-,-,-,-,-,-,-,-,-,-,10,31,-,-,41
+7634,Artem Shabolin,Ural,13,-,-,-,5,7,2,-,-,1,13,-,-,-,41
+9054,Leon Sabua,FC Krasnodar,-,-,-,-,-,-,-,-,-,-,-,31,10,-,41
+18,Slobodan Rajkovic,Lokomotiv Moscow,-,-,-,-,-,1,-,-,-,-,-,-,-,37,38
+3079,Rabiu Mohammed,FC Tambov,-,-,-,-,-,-,-,-,-,-,-,1,36,-,37
+2773,Pavel Mogilevets,Khimki,-,-,-,-,-,-,-,-,-,-,2,11,19,1,33
+8370,Roman Minaev,Arsenal Tula,-,-,-,-,26,-,1,-,-,-,-,-,4,-,31
+7449,Leon Musaev,Zenit St. Petersburg,6,-,-,-,-,-,-,-,25,-,-,-,-,-,31
+8391,Andrey Bokovoy,PFC Sochi,-,31,-,-,-,-,-,-,-,-,-,-,-,-,31
+7628,Lameck Banda,Arsenal Tula,-,-,11,-,-,18,-,-,-,-,-,-,-,-,29
+2978,Ilzat Akhmetov,CSKA Moscow,-,-,-,-,-,-,-,-,-,-,-,28,-,-,28
+2975,Ruslan Kambolov,FC Krasnodar,-,-,4,-,-,-,-,-,-,14,-,-,10,-,28
+2817,Ivelin Popov,PFC Sochi,-,-,-,-,26,-,-,-,-,-,-,-,-,-,26
+13,Konstantin Rausch,Dinamo Moscow,-,-,-,-,-,-,-,-,19,-,-,4,-,1,24
+8546,Anatoliy Nemchenko,PFC Sochi,23,-,-,-,-,-,-,-,-,1,-,-,-,-,24
+8621,Kirill Kosarev,Rubin Kazan,-,-,-,-,-,-,-,-,-,-,-,-,4,18,22
+2755,Gregory Morozov,Dinamo Moscow,13,-,-,-,1,8,-,-,-,-,-,-,-,-,22
+8623,David Tosevski,FC Rostov,-,3,11,1,-,1,1,-,-,-,-,-,-,4,21
+2720,Anton Kochenkov,Lokomotiv Moscow,-,-,-,-,-,-,-,-,-,-,-,-,-,21,21
+8069,Maksim Mukhin,Lokomotiv Moscow,-,-,-,-,-,-,-,-,-,-,-,-,-,20,20
+8376,Igor Shkolnik,Dinamo Moscow,-,-,-,-,-,-,3,-,12,1,-,4,-,-,20
+8559,Nikita Belousov,FC Ufa,7,-,-,-,12,-,-,-,-,-,-,-,-,-,19
+8627,Aleksandr Smirnov,FC Rostov,-,-,-,-,18,-,-,-,-,-,-,-,-,-,18
+9027,Islam Alsultanov,FK Akhmat,-,-,-,-,-,-,-,-,-,-,7,10,-,1,18
+8609,Aleksandr Golovnya,FC Tambov,-,-,-,16,-,-,-,-,-,-,-,-,-,-,16
+5376,Guram Adzhoev,Arsenal Tula,-,-,-,1,-,-,1,-,9,-,5,-,-,-,16
+7517,Ilya Vorobjov,Khimki,-,-,-,-,-,2,13,1,-,-,-,-,-,-,16
+8956,Nikolay Zlobin,Arsenal Tula,-,-,-,-,-,-,-,-,-,15,-,-,-,-,15
+7771,Guus Til,Spartak Moscow,-,-,-,1,1,12,-,-,-,-,-,-,-,-,14
+8760,Arsen Zakharyan,Dinamo Moscow,-,-,-,-,-,-,-,-,-,-,-,-,11,-,11
+5528,Chingiz Magomadov,Ural,-,-,-,-,-,-,-,-,11,-,-,-,-,-,11
+8960,Stepan Oganesyan,Spartak Moscow,-,-,-,-,-,-,-,-,-,-,10,-,-,-,10
+1270,Haitam Aleesami,FC Rostov,-,-,-,-,-,-,-,-,-,-,-,-,5,4,9
+7638,Dmitriy Chistyakov,Zenit St. Petersburg,-,-,-,-,-,-,-,-,-,-,-,-,8,1,9
+8675,Bruno Fuchs,CSKA Moscow,-,-,-,-,-,9,-,-,-,-,-,-,-,-,9
+8906,Egor Prutsev,PFC Sochi,-,-,-,-,-,-,-,-,7,-,-,-,-,-,7
+2868,Khalid Kadyrov,FK Akhmat,-,-,7,-,-,-,-,-,-,-,-,-,-,-,7
+6680,Vladimir Moskvichev,Dinamo Moscow,-,-,5,-,-,-,-,-,-,-,-,-,-,1,6
+8586,Nikita Iosifov,Lokomotiv Moscow,1,-,-,-,-,-,-,-,-,-,-,-,5,-,6
+2773,Pavel Mogilevets,Rubin Kazan,-,5,-,-,-,-,-,-,-,-,-,-,-,1,6
+8385,Nikita Karmaev,FK Akhmat,-,-,-,-,-,-,-,-,6,-,-,-,-,-,6
+5952,Arsen Adamov,FK Akhmat,-,5,-,-,-,1,-,-,-,-,-,-,-,-,6
+7685,Akmal Bakhtiyarov,PFC Sochi,-,-,5,-,-,-,-,-,-,-,-,-,-,-,5
+8605,Gela Zaseev,Khimki,-,-,-,-,5,-,-,-,-,-,-,-,-,-,5
+547,Guillermo Varela,Dinamo Moscow,-,-,-,-,-,-,-,-,-,-,-,-,-,4,4
+5932,Abubakar Kadyrov,FK Akhmat,-,-,-,3,-,-,-,-,-,-,-,-,-,-,3
+5896,Vitali Shakhov,FC Tambov,-,-,-,-,-,-,-,-,-,-,1,1,-,1,3
+8345,Dmitri Markitesov,Spartak Moscow,-,-,-,-,-,-,-,-,-,1,1,1,-,-,3
+4596,Anri Khagush,Arsenal Tula,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+8611,Konstantin Kovalev,FC Rostov,-,-,1,-,-,-,-,-,-,-,-,-,-,-,1
+8503,Mikhail Ageev,Lokomotiv Moscow,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+8386,Aleksandr Gapechkin,FC Rostov,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1
+8779,Danila Sukhomlinov,FC Rostov,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+2784,Denis Terentjev,Zenit St. Petersburg,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1
+8929,Kirill Dontsov,FC Rotor Volgograd,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1
