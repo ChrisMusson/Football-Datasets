@@ -1,403 +1,414 @@
-id,name,team,1,2,3,4,5,6,7,total
-227,Robert Lewandowski,Bayern Munich,4,1,13,6,5,-,2,31
-6170,André Silva,Eintracht Frankfurt,3,3,8,4,1,8,4,31
-7080,Matheus Cunha,Hertha Berlin,3,3,4,4,2,3,4,23
-8260,Erling Haaland,Borussia Dortmund,5,2,4,2,4,-,4,21
-7880,Sebastian Andersson,FC Cologne,4,4,2,3,2,1,3,19
-6338,Lucas Alario,Bayer Leverkusen,3,-,1,2,6,3,3,18
-262,Leonardo Bittencourt,Werder Bremen,3,0,3,3,3,1,5,18
-7052,Wout Weghorst,Wolfsburg,1,1,2,4,3,2,5,18
-8140,Munas Dabbur,Hoffenheim,1,4,4,0,2,4,3,18
-48,Jhon Córdoba,Hertha Berlin,4,1,2,3,4,3,1,18
-956,Andrej Kramaric,Hoffenheim,5,8,4,-,-,-,-,17
-208,Lars Stindl,Borussia M.Gladbach,2,1,4,3,2,0,5,17
-8292,Dani Olmo,RasenBallsport Leipzig,3,1,5,2,2,2,1,16
-5353,Josip Brekalo,Wolfsburg,4,2,2,4,-,1,3,16
-5250,Yussuf Poulsen,RasenBallsport Leipzig,7,0,-,3,2,2,2,16
-7882,Sheraldo Becker,Union Berlin,1,5,0,1,5,-,3,15
-8812,Sasa Kalajdzic,VfB Stuttgart,5,3,3,3,0,0,1,15
-993,Serge Gnabry,Bayern Munich,5,1,5,0,-,2,2,15
-5221,Leon Bailey,Bayer Leverkusen,-,0,0,2,4,6,3,15
-6556,Moussa Diaby,Bayer Leverkusen,1,4,4,1,1,1,2,14
-5735,Jean-Philippe Mateta,Mainz 05,2,2,2,0,2,0,6,14
-7051,Gonçalo Paciência,Schalke 04,2,2,0,1,1,1,6,13
-6098,Niclas Füllkrug,Werder Bremen,3,5,1,4,0,-,-,13
-5249,Emil Forsberg,RasenBallsport Leipzig,5,1,1,1,2,1,2,13
-5266,Vincenzo Grifo,Freiburg,1,2,2,2,2,3,0,12
-319,Marco Reus,Borussia Dortmund,0,1,1,3,0,2,5,12
-158,Bas Dost,Eintracht Frankfurt,2,2,3,1,0,2,2,12
-3300,Christopher Nkunku,RasenBallsport Leipzig,1,1,2,1,5,0,2,12
-8809,Mateo Klimowicz,VfB Stuttgart,1,1,2,0,-,6,2,12
-6345,Jadon Sancho,Borussia Dortmund,2,2,-,2,2,3,1,12
-6475,Lucas Höler,Freiburg,1,3,0,4,2,1,1,12
-4248,Nils Petersen,Freiburg,2,2,0,4,0,2,2,12
-3310,Alassane Pléa,Borussia M.Gladbach,0,3,3,-,2,3,0,11
-1040,Angelino,RasenBallsport Leipzig,2,1,2,2,2,1,1,11
-8191,Giovanni Reyna,Borussia Dortmund,1,1,1,4,3,0,1,11
-7295,Joshua Sargent,Werder Bremen,1,3,0,1,0,3,3,11
-335,Leon Goretzka,Bayern Munich,2,1,1,1,4,-,2,11
-224,Thomas Müller,Bayern Munich,1,2,1,4,2,1,0,11
-7074,Nicolás González,VfB Stuttgart,-,-,-,0,1,4,5,10
-2645,Marcel Hartel,Arminia Bielefeld,0,1,1,1,2,3,2,10
-7107,Jean-Paul Boëtius,Mainz 05,0,2,0,2,4,1,1,10
-88,Mark Uth,Schalke 04,0,2,1,-,-,1,6,10
-82,Nadiem Amiri,Bayer Leverkusen,0,0,0,2,2,4,2,10
-5992,Marcus Thuram,Borussia M.Gladbach,0,2,1,1,2,0,3,9
-420,Patrick Herrmann,Borussia M.Gladbach,1,2,1,0,4,1,0,9
-320,Jonas Hofmann,Borussia M.Gladbach,3,1,1,3,1,0,0,9
-3431,Almamy Touré,Eintracht Frankfurt,-,1,2,2,4,0,0,9
-6145,Daichi Kamada,Eintracht Frankfurt,2,0,1,2,1,2,1,9
-316,Gonzalo Castro,VfB Stuttgart,2,0,1,1,0,2,3,9
-7883,Marcus Ingvartsen,Union Berlin,3,1,2,0,3,-,-,9
-3743,Lucas Tousart,Hertha Berlin,1,3,0,2,1,2,-,9
-1277,Roland Sallai,Freiburg,2,1,0,2,2,0,2,9
-5706,Dodi Lukebakio,Hertha Berlin,2,2,1,0,1,2,1,9
-5654,Baptiste Santamaria,Freiburg,-,4,2,1,0,2,0,9
-6531,Alexander Sørloth,RasenBallsport Leipzig,-,0,0,0,3,5,1,9
-306,Florian Niederlechner,Augsburg,1,1,2,2,1,-,2,9
-6088,Orel Mangala,VfB Stuttgart,2,2,1,0,1,2,1,9
-412,André Hahn,Augsburg,2,0,1,0,0,4,1,8
-3455,Raphael Guerreiro,Borussia Dortmund,-,2,0,1,3,2,0,8
-7877,Robert Andrich,Union Berlin,1,1,0,2,3,0,1,8
-7783,Xaver Schlager,Wolfsburg,1,0,3,0,0,3,1,8
-8807,Silas Wamangituka,VfB Stuttgart,3,2,1,1,0,0,1,8
-4243,Christian Günter,Freiburg,0,3,0,3,2,0,0,8
-153,Maximilian Arnold,Wolfsburg,0,1,2,2,2,-,1,8
-8791,Ritsu Doan,Arminia Bielefeld,1,0,1,4,1,0,1,8
-5240,Ondrej Duda,FC Cologne,2,1,0,2,2,0,1,8
-7876,Christopher Lenz,Union Berlin,2,1,1,2,1,1,0,8
-155,Max Kruse,Union Berlin,0,0,2,0,1,2,2,7
-8146,Ismail Jakobs,FC Cologne,-,-,-,1,2,4,0,7
-4468,Dedryck Boyata,Hertha Berlin,1,0,0,1,0,5,0,7
-8808,Wataru Endo,VfB Stuttgart,1,2,0,1,2,1,0,7
-8824,Jude Bellingham,Borussia Dortmund,0,2,1,0,-,3,1,7
-7831,Stefan Lainer,Borussia M.Gladbach,1,0,1,0,4,0,1,7
-5222,Joel Pohjanpalo,Union Berlin,-,-,2,0,3,2,0,7
-2631,Karim Onisiwo,Mainz 05,1,3,1,0,-,2,0,7
-8792,Fabian Klos,Arminia Bielefeld,2,1,2,1,0,0,1,7
-373,Mats Hummels,Borussia Dortmund,0,2,1,0,1,3,0,7
-7065,Florian Neuhaus,Borussia M.Gladbach,1,1,2,3,0,0,0,7
-2668,Martin Hinteregger,Eintracht Frankfurt,2,1,1,1,0,0,2,7
-5680,Thomas Meunier,Borussia Dortmund,0,2,2,1,1,1,0,7
-337,Leroy Sané,Bayern Munich,2,3,-,-,1,0,1,7
-7422,Christoph Baumgartner,Hoffenheim,0,1,0,2,1,0,3,7
-171,Michael Gregoritsch,Augsburg,2,0,1,0,1,2,1,7
-226,Kingsley Coman,Bayern Munich,-,1,-,1,2,-,3,7
-7810,Ruben Vargas,Augsburg,1,-,1,0,1,3,1,7
-7867,Robert Skov,Hoffenheim,-,1,1,0,5,0,-,7
-186,Karim Bellarabi,Bayer Leverkusen,0,1,5,0,0,0,0,6
-5659,Nordi Mukiele,RasenBallsport Leipzig,0,1,3,1,0,-,1,6
-3603,Corentin Tolisso,Bayern Munich,2,0,1,2,-,-,1,6
-157,Daniel Caligiuri,Augsburg,1,1,1,1,2,0,0,6
-223,Joshua Kimmich,Bayern Munich,2,2,0,-,1,1,0,6
-140,Yannick Gerhardt,Wolfsburg,0,1,2,1,0,2,0,6
-300,Daniel Didavi,VfB Stuttgart,3,1,0,0,2,-,0,6
-6096,Sergio Córdova,Arminia Bielefeld,2,0,3,-,1,0,0,6
-283,David Abraham,Eintracht Frankfurt,1,1,0,2,-,1,1,6
-7439,Tahith Chong,Werder Bremen,0,0,2,-,0,1,3,6
-38,Daniel Brosinski,Mainz 05,2,0,1,0,1,0,2,6
-285,Bastian Oczipka,Schalke 04,1,2,0,1,1,0,1,6
-7059,Benito Raman,Schalke 04,1,3,-,1,0,1,0,6
-4291,Marc-Oliver Kempf,VfB Stuttgart,3,1,0,1,0,0,1,6
-7813,Jeremiah St. Juste,Mainz 05,1,2,0,0,1,1,1,6
-176,Sven Schipplock,Arminia Bielefeld,2,0,1,1,2,0,0,6
-5356,Breel Embolo,Borussia M.Gladbach,-,-,0,2,3,0,1,6
-6445,Elvis Rexhbecaj,FC Cologne,0,1,3,0,1,-,1,6
-7900,Sargis Adamyan,Hoffenheim,-,-,-,-,0,1,5,6
-6081,Dennis Geiger,Hoffenheim,1,1,1,0,3,0,-,6
-3059,Axel Witsel,Borussia Dortmund,1,1,2,0,0,0,2,6
-8205,Jan Thielmann,FC Cologne,2,1,1,-,-,2,0,6
-7431,Jean-Manuel Mbom,Werder Bremen,-,1,0,1,0,1,2,5
-7784,Joao Victor,Wolfsburg,1,2,-,-,1,0,1,5
-7791,Sebastiaan Bornauw,FC Cologne,0,3,0,0,1,0,1,5
-3349,Ramy Bensebaini,Borussia M.Gladbach,0,1,2,0,-,0,2,5
-69,Carlos Gruezo,Augsburg,0,1,0,1,1,0,2,5
-1275,Robin Quaison,Mainz 05,0,1,0,0,3,1,0,5
-3834,Ishak Belfodil,Hoffenheim,0,-,0,2,-,1,2,5
-5242,Stefan Ilsanker,Eintracht Frankfurt,1,1,0,1,0,1,1,5
-8406,Can Bozdogan,Schalke 04,-,-,2,1,0,2,0,5
-269,Dominik Kohr,Eintracht Frankfurt,2,-,-,-,-,0,3,5
-96,Salif Sané,Schalke 04,-,1,0,1,0,1,2,5
-7501,Amadou Haidara,RasenBallsport Leipzig,1,0,3,-,-,1,0,5
-188,Kevin Kampl,RasenBallsport Leipzig,1,1,1,-,1,0,1,5
-5243,Dayotchanculle Upamecano,RasenBallsport Leipzig,0,0,0,2,3,0,-,5
-419,Maximilian Mittelstädt,Hertha Berlin,0,2,0,2,0,1,-,5
-370,Marvin Friedrich,Union Berlin,0,0,1,2,2,0,0,5
-7075,Borna Sosa,VfB Stuttgart,-,1,2,-,-,2,0,5
-2663,Felix Passlack,Borussia Dortmund,1,-,1,2,0,1,-,5
-6484,Renato Steffen,Wolfsburg,0,0,-,0,3,0,2,5
-261,Julian Brandt,Borussia Dortmund,0,0,2,0,0,3,0,5
-8789,Manuel Prietl,Arminia Bielefeld,2,0,0,1,2,0,0,5
-7879,Marius Bülter,Union Berlin,3,0,0,2,0,0,-,5
-7485,Nico Schlotterbeck,Union Berlin,-,2,3,-,-,-,-,5
-2693,Marius Wolf,FC Cologne,-,-,1,1,1,1,1,5
-7073,Pierre Kunde,Mainz 05,-,-,1,1,1,1,1,5
-194,Admir Mehmedi,Wolfsburg,1,0,2,2,0,0,0,5
-5248,Marcel Sabitzer,RasenBallsport Leipzig,-,-,-,-,2,1,2,5
-8397,Florian Wirtz,Bayer Leverkusen,1,2,0,-,1,0,1,5
-43,Danny Latza,Mainz 05,2,0,0,0,1,1,0,4
-8790,Cebio Soukou,Arminia Bielefeld,1,2,0,-,-,-,1,4
-7522,Nassim Boujellab,Schalke 04,-,4,-,-,-,-,-,4
-7376,Ozan Kabak,Schalke 04,0,0,-,-,-,-,4,4
-7814,Taiwo Awoniyi,Union Berlin,-,1,-,1,0,2,0,4
-8317,Edmond Tapsoba,Bayer Leverkusen,1,1,0,0,0,1,1,4
-290,Mijat Gacinovic,Hoffenheim,0,0,0,2,0,1,1,4
-315,Matthias Ginter,Borussia M.Gladbach,0,2,0,0,2,0,0,4
-7108,Jonathan Burkardt,Mainz 05,1,0,0,1,0,1,1,4
-6522,Cedric Teuchert,Union Berlin,1,1,-,-,-,1,1,4
-81,Jonathan Schmid,Freiburg,0,2,1,1,0,0,0,4
-7289,Amin Younes,Eintracht Frankfurt,-,-,-,3,0,1,0,4
-418,Niklas Stark,Hertha Berlin,0,1,0,0,0,1,2,4
-8044,Joshua Zirkzee,Bayern Munich,0,4,-,-,-,0,-,4
-3347,Ellyes Skhiri,FC Cologne,1,0,1,0,2,0,-,4
-5257,Willi Orban,RasenBallsport Leipzig,-,-,2,0,2,0,0,4
-6045,Davy Klaassen,Werder Bremen,2,2,0,-,-,-,-,4
-8806,Roberto Massimo,VfB Stuttgart,3,1,0,-,0,-,-,4
-125,Maximilian Eggestein,Werder Bremen,2,0,0,0,1,1,0,4
-6083,Ludwig Augustinsson,Werder Bremen,0,3,1,0,-,-,-,4
-8418,Jamal Musiala,Bayern Munich,1,0,0,1,2,-,-,4
-5273,Kerem Demirbay,Bayer Leverkusen,0,1,2,0,-,1,-,4
-8813,Tanguy Coulibaly,VfB Stuttgart,-,0,0,0,1,1,1,3
-22,John Brooks,Wolfsburg,1,0,2,0,0,0,0,3
-8845,Hee-Chan Hwang,RasenBallsport Leipzig,0,1,-,1,-,1,0,3
-6100,Felix Uduokhai,Augsburg,1,1,0,0,0,1,0,3
-409,Philipp Klement,VfB Stuttgart,3,0,0,-,0,0,-,3
-2456,Omar Mascarell,Schalke 04,-,1,1,1,0,0,0,3
-7267,Woo-Yeong Jeong,Freiburg,1,0,0,1,0,0,1,3
-27,Vladimir Darida,Hertha Berlin,0,0,1,1,1,0,0,3
-6490,Manuel Akanji,Borussia Dortmund,0,0,0,-,2,1,0,3
-205,Mahmoud Dahoud,Borussia Dortmund,-,1,-,0,2,-,-,3
-7789,Dominick Drexler,FC Cologne,2,0,0,-,-,1,0,3
-7090,Krzysztof Piatek,Hertha Berlin,1,0,0,0,0,0,2,3
-443,Peter Pekarík,Hertha Berlin,1,0,0,0,0,2,0,3
-1236,Patrik Schick,Bayer Leverkusen,1,1,1,-,-,-,-,3
-2655,Alfred Finnbogason,Augsburg,0,2,1,-,-,0,0,3
-116,Florian Grillitsch,Hoffenheim,-,0,0,0,-,1,2,3
-90,Sebastian Rudy,Hoffenheim,-,-,-,1,1,1,0,3
-4247,Maximilian Philipp,Wolfsburg,-,-,-,0,3,0,0,3
-3339,Jérôme Roussillon,Wolfsburg,0,0,1,0,0,1,1,3
-4280,Davie Selke,Werder Bremen,3,0,0,0,-,-,-,3
-6523,Milot Rashica,Werder Bremen,-,-,-,0,-,1,2,3
-8874,Jóan Símun Edmundsson,Arminia Bielefeld,-,1,1,0,0,1,-,3
-451,Matija Nastasic,Schalke 04,-,-,0,1,1,0,1,3
-435,Benjamin Henrichs,RasenBallsport Leipzig,0,0,0,2,1,0,0,3
-5235,Aymen Barkok,Eintracht Frankfurt,1,1,0,1,0,0,0,3
-254,Steven Zuber,Eintracht Frankfurt,1,0,0,0,1,0,1,3
-8378,Malick Thiaw,Schalke 04,-,-,-,-,0,3,-,3
-7899,Daley Sinkgraven,Bayer Leverkusen,0,0,0,2,0,1,-,3
-8117,Nick Woltemade,Werder Bremen,2,-,-,1,-,-,-,3
-7815,Christian Groß,Werder Bremen,-,1,0,0,0,2,0,3
-7868,Diadie Samassékou,Hoffenheim,0,0,-,1,1,1,0,3
-391,David Alaba,Bayern Munich,-,0,1,0,0,0,2,3
-8171,Hannes Wolf,Borussia M.Gladbach,0,1,0,0,0,1,1,3
-5254,Marcel Halstenberg,RasenBallsport Leipzig,1,-,2,0,-,-,-,3
-228,Sebastian Rode,Eintracht Frankfurt,1,1,0,0,1,0,-,3
-2276,Lucas Hernández,Bayern Munich,0,-,0,1,2,-,0,3
-8853,Maxence Lacroix,Wolfsburg,0,-,1,0,2,0,0,3
-4340,Grischa Prömel,Union Berlin,1,1,0,1,-,-,-,3
-118,Levin Öztunali,Mainz 05,0,1,-,1,1,0,0,3
-8876,Dimitris Limnios,FC Cologne,-,0,0,-,2,0,0,2
-3393,Bouna Sarr,Bayern Munich,-,-,-,-,1,0,1,2
-212,Nico Elvedi,Borussia M.Gladbach,0,0,0,1,0,0,1,2
-311,Sven Bender,Bayer Leverkusen,0,0,1,0,1,0,0,2
-74,Pavel Kaderábek,Hoffenheim,1,0,1,-,-,-,-,2
-2611,Philipp Lienhart,Freiburg,0,1,0,1,0,0,0,2
-4250,Nicolas Höfler,Freiburg,0,0,1,0,0,0,1,2
-6708,Bote Baku,Wolfsburg,-,-,0,1,0,1,0,2
-339,Eric Maxim Choupo-Moting,Bayern Munich,-,-,-,0,0,2,-,2
-8875,Tolu Arokodare,FC Cologne,-,1,0,-,-,1,-,2
-6722,Konstantinos Mavropanos,VfB Stuttgart,-,-,2,-,-,-,-,2
-249,Danny da Costa,Eintracht Frankfurt,2,0,-,-,0,-,-,2
-150,Josuha Guilavogui,Wolfsburg,-,0,1,1,0,-,-,2
-84,Ermin Bicakcic,Hoffenheim,1,1,-,-,-,-,-,2
-5358,Lukas Klostermann,RasenBallsport Leipzig,2,0,0,0,-,-,-,2
-8878,Atakan Karazor,VfB Stuttgart,-,-,0,0,1,1,0,2
-6326,Ibrahima Konaté,RasenBallsport Leipzig,-,-,-,-,0,-,2,2
-9006,Brian Behrendt,Arminia Bielefeld,-,-,-,0,1,1,-,2
-7044,Kevin Möhwald,Werder Bremen,-,-,-,2,0,0,0,2
-2691,Milos Veljkovic,Werder Bremen,-,1,0,0,0,1,-,2
-1673,Edimilson Fernandes,Mainz 05,-,-,-,1,0,0,1,2
-5340,Marco Friedl,Werder Bremen,0,0,0,1,0,0,1,2
-79,Tobias Strobl,Augsburg,0,0,0,1,0,1,0,2
-8951,Keita Endo,Union Berlin,-,-,0,0,0,-,2,2
-7885,Joshua Mees,Union Berlin,2,-,-,-,-,-,-,2
-604,Emre Can,Borussia Dortmund,0,1,1,0,-,-,-,2
-213,Thorgan Hazard,Borussia Dortmund,0,-,-,-,0,1,1,2
-7054,Steven Skrzybski,Schalke 04,0,-,-,1,-,-,1,2
-7320,Amos Pieper,Arminia Bielefeld,1,1,0,0,0,0,0,2
-8788,Anderson-Lenda Lucoqui,Arminia Bielefeld,1,1,0,0,-,0,-,2
-8796,Christian Gebauer,Arminia Bielefeld,0,-,-,2,-,-,-,2
-6271,Ihlas Bebou,Hoffenheim,1,1,0,0,-,-,0,2
-5329,Stefan Posch,Hoffenheim,-,0,1,1,0,0,-,2
-5251,Rani Khedira,Augsburg,0,0,1,0,0,-,1,2
-29,Vedad Ibisevic,Schalke 04,-,2,0,0,-,-,0,2
-1702,Mike van der Hoorn,Arminia Bielefeld,0,0,1,1,0,0,0,2
-8986,Omar Alderete,Hertha Berlin,-,-,-,-,0,1,0,1
-6085,Marcin Kaminski,VfB Stuttgart,0,-,-,0,1,-,-,1
-8805,Deyovaisio Zeefuik,Hertha Berlin,0,0,1,0,0,-,-,1
-187,Christoph Kramer,Borussia M.Gladbach,0,0,0,0,1,0,0,1
-454,Charles Aránguiz,Bayer Leverkusen,0,0,1,0,-,-,-,1
-326,Pascal Stenzel,VfB Stuttgart,-,0,-,0,0,1,0,1
-421,Lars Bender,Bayer Leverkusen,0,1,-,0,0,0,0,1
-106,Waldemar Anton,VfB Stuttgart,0,1,0,-,-,-,0,1
-110,Theodor Gebre Selassie,Werder Bremen,0,1,0,0,0,0,0,1
-135,Yuya Osako,Werder Bremen,0,0,-,-,1,0,0,1
-7043,Eduard Löwen,Hertha Berlin,-,-,-,1,0,-,0,1
-184,Ömer Toprak,Werder Bremen,-,-,-,0,-,0,1,1
-3363,Benjamin Pavard,Bayern Munich,0,1,0,0,-,0,-,1
-5759,Matteo Guendouzi,Hertha Berlin,-,-,-,-,-,0,1,1
-8793,Fabian Kunze,Arminia Bielefeld,1,0,-,0,-,-,0,1
-4336,Raphael Framberger,Augsburg,0,0,0,0,0,1,-,1
-42,Julian Baumgartlinger,Bayer Leverkusen,0,-,0,0,0,0,1,1
-7197,Fredrik Jensen,Augsburg,1,0,0,0,0,-,-,1
-183,Jonathan Tah,Bayer Leverkusen,-,0,-,-,-,1,-,1
-5263,Lukas Kübler,Freiburg,0,-,0,-,-,0,1,1
-7786,Rafael Czichos,FC Cologne,0,1,0,0,0,0,0,1
-7785,Kingsley Ehizibue,FC Cologne,0,0,0,0,1,-,-,1
-5294,Salih Özcan,FC Cologne,0,0,-,0,1,0,0,1
-8065,Iago,Augsburg,0,0,0,-,0,1,0,1
-8795,Jacob Laursen,Arminia Bielefeld,0,-,0,-,0,-,1,1
-2627,Jannes Horn,FC Cologne,0,0,0,1,0,0,0,1
-138,Frederik Sörensen,FC Cologne,1,0,0,-,-,-,-,1
-137,Anthony Modeste,FC Cologne,-,-,-,1,0,-,-,1
-131,Jonas Hector,FC Cologne,1,0,-,-,-,-,-,1
-5625,Kwon Chang-Hoon,Freiburg,0,0,0,1,0,0,0,1
-23,Marvin Plattenhardt,Hertha Berlin,-,0,-,0,-,0,1,1
-241,Mathew Leckie,Hertha Berlin,0,-,-,1,-,-,0,1
-8396,Jessic Ngankam,Hertha Berlin,-,-,1,-,0,-,0,1
-5230,Thomas Delaney,Borussia Dortmund,0,-,0,0,0,1,0,1
-7807,Luca Kilian,Mainz 05,-,-,0,0,0,1,0,1
-8213,Paulo Otávio,Wolfsburg,0,0,1,-,-,-,-,1
-7024,Kasim Nuhu,Hoffenheim,1,-,-,-,-,-,-,1
-220,Jérôme Boateng,Bayern Munich,1,0,0,-,0,0,0,1
-7026,Joshua Brenet,Hoffenheim,1,-,-,-,-,-,-,1
-75,Niklas Süle,Bayern Munich,1,-,0,0,-,0,-,1
-350,Felix Klaus,Wolfsburg,0,0,-,-,0,1,-,1
-225,Javi Martínez,Bayern Munich,-,-,0,1,0,0,0,1
-426,Daniel Ginczek,Wolfsburg,-,1,0,-,-,-,-,1
-129,Dominique Heintz,Freiburg,0,1,0,0,0,0,0,1
-8815,Klauss,Hoffenheim,-,-,-,-,1,0,0,1
-60,Christian Gentner,Union Berlin,0,-,-,0,0,0,1,1
-7109,Leandro Barreiro Martins,Mainz 05,0,1,-,-,0,-,0,1
-6963,Justin Kluivert,RasenBallsport Leipzig,-,-,-,0,1,-,-,1
-161,Robin Knoche,Union Berlin,0,0,0,0,0,0,1,1
-8825,Reinier,Borussia Dortmund,-,1,0,-,-,0,-,1
-133,Kevin Vogt,Hoffenheim,1,0,0,0,0,0,0,1
-7875,Christopher Trimmel,Union Berlin,1,0,0,0,0,-,0,1
-8801,Sebastian Griesbeck,Union Berlin,0,0,0,-,0,1,0,1
-90,Sebastian Rudy,Schalke 04,1,0,-,-,-,-,-,1
-6352,Valentino Lazaro,Borussia M.Gladbach,-,-,-,-,-,0,1,1
-307,Suat Serdar,Schalke 04,0,-,1,-,-,-,-,1
-8341,Lazar Samardzic,RasenBallsport Leipzig,-,-,0,-,-,1,-,1
-206,Oscar Wendt,Borussia M.Gladbach,0,0,-,0,1,0,-,1
-8325,Exequiel Palacios,Bayer Leverkusen,-,-,-,0,1,0,-,1
-449,Robin Zentner,Mainz 05,0,0,0,0,1,0,0,1
-359,Timothy Chandler,Eintracht Frankfurt,0,-,1,-,0,-,-,1
-64,Filip Kostic,Eintracht Frankfurt,0,0,-,-,-,-,1,1
-7995,Akaki Gogia,Union Berlin,-,-,-,-,-,-,1,1
-7997,Julian Ryerson,Union Berlin,-,1,0,-,0,0,-,1
-6148,Michaël Cuisance,Bayern Munich,0,-,-,-,-,-,-,0
-8799,Joakim Nilsson,Arminia Bielefeld,-,-,-,-,-,0,-,0
-217,Manuel Neuer,Bayern Munich,0,0,0,0,0,0,0,0
-7352,Tyler Adams,RasenBallsport Leipzig,0,0,-,0,-,-,0,0
-8958,Reinhold Yabo,Arminia Bielefeld,-,-,0,0,-,0,0,0
-8797,Nils Seufert,Arminia Bielefeld,-,-,-,0,0,-,0,0
-5265,Amir Abrashi,Freiburg,0,-,-,-,-,-,-,0
-5298,Arne Maier,Arminia Bielefeld,-,-,-,-,0,-,0,0
-393,Douglas Costa,Bayern Munich,-,-,-,0,0,0,-,0
-5292,Manuel Gulde,Freiburg,0,0,0,-,-,-,0,0
-5328,Florian Müller,Freiburg,0,0,0,0,0,0,0,0
-8794,Cédric Brunner,Arminia Bielefeld,0,0,0,-,-,0,0,0
-5086,Marc Roca,Bayern Munich,-,-,-,-,-,0,-,0
-6496,Ermedin Demirovic,Freiburg,-,0,-,0,0,0,-,0
-5260,Andreas Luthe,Union Berlin,0,0,0,0,0,0,0,0
-7401,Keven Schlotterbeck,Freiburg,-,-,0,-,-,-,-,0
-7811,Lino Tempelmann,Freiburg,-,-,-,-,0,-,0,0
-5241,Péter Gulácsi,RasenBallsport Leipzig,0,0,0,0,0,0,0,0
-6097,Florian Hübner,Union Berlin,-,-,-,-,-,0,-,0
-8787,Nathan de Medina,Arminia Bielefeld,0,-,-,0,0,-,-,0
-8786,Stefan Ortega Moreno,Arminia Bielefeld,0,0,0,0,0,0,0,0
-7056,Niko Gießelmann,Union Berlin,0,-,-,-,-,0,-,0
-9100,Tim Maciejewski,Union Berlin,-,-,-,-,-,-,0,0
-8962,Joscha Wosz,RasenBallsport Leipzig,-,-,0,-,-,-,-,0
-2659,Noah Joel Sarenren Bazee,Augsburg,-,-,-,-,-,0,-,0
-7345,Alphonso Davies,Bayern Munich,-,0,0,0,0,-,-,0
-8430,Chris Richards,Bayern Munich,0,-,0,-,-,-,-,0
-5717,Amine Harit,Schalke 04,0,-,-,0,0,0,0,0
-7048,Frederik Rönnow,Schalke 04,-,-,0,0,0,0,0,0
-7309,Ahmed Kutucu,Schalke 04,-,-,-,-,0,-,-,0
-7394,Rabbi Matondo,Schalke 04,0,-,-,-,0,-,-,0
-8148,Timo Becker,Schalke 04,0,-,-,-,-,-,-,0
-9028,Kilian Ludewig,Schalke 04,-,-,-,0,0,0,0,0
-7869,Philipp Pentke,Hoffenheim,-,-,-,-,0,-,-,0
-52,Alexander Hack,Mainz 05,-,0,0,-,-,-,-,0
-276,Dong-Won Ji,Mainz 05,-,-,-,0,0,0,0,0
-5133,Aarón Martín,Mainz 05,-,-,0,-,-,-,-,0
-5989,Moussa Niakhate,Mainz 05,0,0,-,0,0,0,0,0
-6708,Bote Baku,Mainz 05,0,0,-,-,-,-,-,0
-7058,Kevin Stöger,Mainz 05,-,-,-,-,-,0,-,0
-7106,Philipp Mwene,Mainz 05,-,-,0,-,-,-,-,0
-7181,Issah Abass,Mainz 05,0,-,-,-,-,-,-,0
-8846,Paul Nebel,Mainz 05,0,0,0,0,-,-,-,0
-8847,Niklas Tauer,Mainz 05,0,-,-,-,-,-,-,0
-3290,Benjamin Stambouli,Schalke 04,0,0,0,-,-,-,-,0
-2638,Alessandro Schöpf,Schalke 04,0,-,0,0,-,0,0,0
-914,Nabil Bentaleb,Schalke 04,0,0,0,0,0,0,-,0
-5262,Alexander Schwolow,Hertha Berlin,0,0,0,0,0,0,0,0
-5293,Rafal Gikiewicz,Augsburg,0,0,0,0,0,0,0,0
-6357,Marco Richter,Augsburg,-,-,-,0,0,-,0,0
-7808,Marek Suchy,Augsburg,-,0,-,-,-,-,-,0
-7809,Mads Pedersen,Augsburg,-,-,-,0,-,-,-,0
-8803,Robert Gumny,Augsburg,-,-,-,-,0,0,0,0
-543,Reece Oxford,Augsburg,0,0,0,-,-,-,0,0
-5238,Jordan Torunarigha,Hertha Berlin,0,0,-,-,-,-,-,0
-5298,Arne Maier,Hertha Berlin,0,0,-,-,-,-,-,0
-330,Ralf Fährmann,Schalke 04,0,0,0,-,-,-,-,0
-7122,Javairo Dilrosun,Hertha Berlin,-,-,-,0,0,0,-,0
-7918,Daishawn Redan,Hertha Berlin,-,0,-,-,-,-,-,0
-8398,Márton Dárdai,Hertha Berlin,-,-,-,-,-,-,0,0
-1936,Niklas Moisander,Werder Bremen,0,-,0,-,0,0,0,0
-6082,Jiri Pavlenka,Werder Bremen,0,0,0,0,0,0,0,0
-6084,Johannes Eggestein,Werder Bremen,-,0,0,-,-,-,-,0
-8192,Melayro Bogarde,Hoffenheim,-,-,-,-,-,-,0,0
-6837,Ryan Sessegnon,Hoffenheim,-,-,-,0,0,0,0,0
-263,Marwin Hitz,Borussia Dortmund,-,-,0,0,-,-,-,0
-309,Roman Bürki,Borussia Dortmund,0,0,-,-,0,0,0,0
-8810,Hamadi Al Ghaddioui,VfB Stuttgart,0,0,-,0,-,-,-,0
-7524,Tuta,Eintracht Frankfurt,-,-,0,-,0,-,-,0
-8869,Ragnar Ache,Eintracht Frankfurt,-,0,0,-,-,-,-,0
-5219,Aleksandar Dragovic,Bayer Leverkusen,-,0,-,-,0,-,0,0
-281,Lukas Hradecky,Bayer Leverkusen,0,0,0,0,0,0,0,0
-5288,Gregor Kobel,VfB Stuttgart,0,0,0,0,0,0,0,0
-7790,Darko Churlinov,VfB Stuttgart,-,-,-,-,0,0,-,0
-185,Wendell,Bayer Leverkusen,0,-,0,-,-,-,0,0
-8811,Alkhaly Momo Cissé,VfB Stuttgart,0,-,-,-,-,-,-,0
-3286,Kevin Trapp,Eintracht Frankfurt,0,0,0,0,0,0,0,0
-8987,Lilian Egloff,VfB Stuttgart,-,-,-,0,-,-,-,0
-9076,Philipp Förster,VfB Stuttgart,-,-,-,-,-,0,-,0
-91,Ron-Robert Zieler,FC Cologne,-,-,-,-,-,-,0,0
-127,Timo Horn,FC Cologne,0,0,0,0,0,0,0,0
-427,Marco Höger,FC Cologne,0,-,0,-,-,-,-,0
-5253,Benno Schmitz,FC Cologne,-,-,-,0,-,-,-,0
-8083,Noah Katterbach,FC Cologne,0,-,-,-,0,0,0,0
-5222,Joel Pohjanpalo,Bayer Leverkusen,0,-,-,-,-,-,-,0
-7113,Santiago Arias,Bayer Leverkusen,-,-,0,-,-,-,-,0
-310,Lukasz Piszczek,Borussia Dortmund,-,-,-,0,-,0,-,0
-5258,László Bénes,Borussia M.Gladbach,-,-,-,-,-,-,0,0
-433,Nico Schulz,Borussia Dortmund,-,-,0,-,-,-,-,0
-6327,Kevin Akpoguma,Hoffenheim,0,0,0,0,0,0,0,0
-5355,Jacob Bruun Larsen,Hoffenheim,-,-,-,0,0,-,-,0
-8070,Mateu Morey,Borussia Dortmund,-,-,-,-,0,-,-,0
-199,Yann Sommer,Borussia M.Gladbach,0,0,0,0,0,0,0,0
-201,Tony Jantschke,Borussia M.Gladbach,-,-,-,0,0,-,-,0
-207,Ibrahima Traoré,Borussia M.Gladbach,-,-,0,0,-,-,-,0
-73,Oliver Baumann,Hoffenheim,0,0,0,0,-,0,0,0
-2624,Djibril Sow,Eintracht Frankfurt,-,0,-,-,0,-,0,0
-8826,Rocco Reitz,Borussia M.Gladbach,-,-,-,-,0,-,-,0
-45,Yunus Malli,Wolfsburg,-,0,-,-,-,-,-,0
-159,Koen Casteels,Wolfsburg,0,-,0,0,0,0,0,0
-2665,Jeffrey Gouweleeuw,Augsburg,0,0,0,0,0,0,0,0
-8303,Marin Pongracic,Wolfsburg,-,-,-,-,-,-,0,0
-8855,Bartosz Bialek,Wolfsburg,-,-,-,-,-,0,-,0
-282,Makoto Hasebe,Eintracht Frankfurt,0,0,0,0,0,0,0,0
-7053,Pavao Pervan,Wolfsburg,-,0,-,-,-,-,-,0
+id,name,team,1,2,3,4,5,6,7,8,total
+227,Robert Lewandowski,Bayern Munich,4,1,13,6,5,-,2,3,34
+6170,André Silva,Eintracht Frankfurt,3,3,8,4,1,8,4,1,32
+8260,Erling Haaland,Borussia Dortmund,5,2,4,2,4,-,4,6,27
+7080,Matheus Cunha,Hertha Berlin,3,3,4,4,2,3,4,3,26
+956,Andrej Kramaric,Hoffenheim,5,8,4,-,-,-,-,6,23
+7052,Wout Weghorst,Wolfsburg,1,1,2,4,3,2,5,3,21
+7880,Sebastian Andersson,FC Cologne,4,4,2,3,2,1,3,1,20
+5735,Jean-Philippe Mateta,Mainz 05,2,2,2,0,2,0,6,6,20
+6338,Lucas Alario,Bayer Leverkusen,3,-,1,2,6,3,3,2,20
+5353,Josip Brekalo,Wolfsburg,4,2,2,4,-,1,3,4,20
+208,Lars Stindl,Borussia M.Gladbach,2,1,4,3,2,0,5,2,19
+262,Leonardo Bittencourt,Werder Bremen,3,0,3,3,3,1,5,1,19
+8292,Dani Olmo,RasenBallsport Leipzig,3,1,5,2,2,2,1,3,19
+8140,Munas Dabbur,Hoffenheim,1,4,4,0,2,4,3,-,18
+48,Jhon Córdoba,Hertha Berlin,4,1,2,3,4,3,1,-,18
+7051,Gonçalo Paciência,Schalke 04,2,2,0,1,1,1,6,5,18
+5250,Yussuf Poulsen,RasenBallsport Leipzig,7,0,-,3,2,2,2,2,18
+8812,Sasa Kalajdzic,VfB Stuttgart,5,3,3,3,0,0,1,2,17
+993,Serge Gnabry,Bayern Munich,5,1,5,0,-,2,2,1,16
+5221,Leon Bailey,Bayer Leverkusen,-,0,0,2,4,6,3,1,16
+7882,Sheraldo Becker,Union Berlin,1,5,0,1,5,-,3,0,15
+6556,Moussa Diaby,Bayer Leverkusen,1,4,4,1,1,1,2,1,15
+5266,Vincenzo Grifo,Freiburg,1,2,2,2,2,3,0,3,15
+1277,Roland Sallai,Freiburg,2,1,0,2,2,0,2,6,15
+4248,Nils Petersen,Freiburg,2,2,0,4,0,2,2,3,15
+7074,Nicolás González,VfB Stuttgart,-,-,-,0,1,4,5,4,14
+319,Marco Reus,Borussia Dortmund,0,1,1,3,0,2,5,2,14
+7107,Jean-Paul Boëtius,Mainz 05,0,2,0,2,4,1,1,4,14
+7295,Joshua Sargent,Werder Bremen,1,3,0,1,0,3,3,3,14
+6098,Niclas Füllkrug,Werder Bremen,3,5,1,4,0,-,-,-,13
+1040,Angelino,RasenBallsport Leipzig,2,1,2,2,2,1,1,2,13
+8191,Giovanni Reyna,Borussia Dortmund,1,1,1,4,3,0,1,2,13
+6475,Lucas Höler,Freiburg,1,3,0,4,2,1,1,1,13
+5249,Emil Forsberg,RasenBallsport Leipzig,5,1,1,1,2,1,2,0,13
+8807,Silas Wamangituka,VfB Stuttgart,3,2,1,1,0,0,1,5,13
+7422,Christoph Baumgartner,Hoffenheim,0,1,0,2,1,0,3,5,12
+3300,Christopher Nkunku,RasenBallsport Leipzig,1,1,2,1,5,0,2,0,12
+8809,Mateo Klimowicz,VfB Stuttgart,1,1,2,0,-,6,2,0,12
+6145,Daichi Kamada,Eintracht Frankfurt,2,0,1,2,1,2,1,3,12
+158,Bas Dost,Eintracht Frankfurt,2,2,3,1,0,2,2,0,12
+3455,Raphael Guerreiro,Borussia Dortmund,-,2,0,1,3,2,0,4,12
+224,Thomas Müller,Bayern Munich,1,2,1,4,2,1,0,1,12
+6345,Jadon Sancho,Borussia Dortmund,2,2,-,2,2,3,1,-,12
+7883,Marcus Ingvartsen,Union Berlin,3,1,2,0,3,-,-,2,11
+226,Kingsley Coman,Bayern Munich,-,1,-,1,2,-,3,4,11
+5356,Breel Embolo,Borussia M.Gladbach,-,-,0,2,3,0,1,5,11
+3310,Alassane Pléa,Borussia M.Gladbach,0,3,3,-,2,3,0,-,11
+7783,Xaver Schlager,Wolfsburg,1,0,3,0,0,3,1,3,11
+88,Mark Uth,Schalke 04,0,2,1,-,-,1,6,1,11
+2631,Karim Onisiwo,Mainz 05,1,3,1,0,-,2,0,4,11
+420,Patrick Herrmann,Borussia M.Gladbach,1,2,1,0,4,1,0,2,11
+6531,Alexander Sørloth,RasenBallsport Leipzig,-,0,0,0,3,5,1,2,11
+335,Leon Goretzka,Bayern Munich,2,1,1,1,4,-,2,0,11
+316,Gonzalo Castro,VfB Stuttgart,2,0,1,1,0,2,3,1,10
+153,Maximilian Arnold,Wolfsburg,0,1,2,2,2,-,1,2,10
+157,Daniel Caligiuri,Augsburg,1,1,1,1,2,0,0,4,10
+2645,Marcel Hartel,Arminia Bielefeld,0,1,1,1,2,3,2,0,10
+5706,Dodi Lukebakio,Hertha Berlin,2,2,1,0,1,2,1,1,10
+5654,Baptiste Santamaria,Freiburg,-,4,2,1,0,2,0,1,10
+82,Nadiem Amiri,Bayer Leverkusen,0,0,0,2,2,4,2,0,10
+155,Max Kruse,Union Berlin,0,0,2,0,1,2,2,3,10
+4243,Christian Günter,Freiburg,0,3,0,3,2,0,0,2,10
+306,Florian Niederlechner,Augsburg,1,1,2,2,1,-,2,0,9
+3743,Lucas Tousart,Hertha Berlin,1,3,0,2,1,2,-,-,9
+7065,Florian Neuhaus,Borussia M.Gladbach,1,1,2,3,0,0,0,2,9
+7059,Benito Raman,Schalke 04,1,3,-,1,0,1,0,3,9
+5992,Marcus Thuram,Borussia M.Gladbach,0,2,1,1,2,0,3,0,9
+6088,Orel Mangala,VfB Stuttgart,2,2,1,0,1,2,1,0,9
+320,Jonas Hofmann,Borussia M.Gladbach,3,1,1,3,1,0,0,-,9
+8808,Wataru Endo,VfB Stuttgart,1,2,0,1,2,1,0,2,9
+5240,Ondrej Duda,FC Cologne,2,1,0,2,2,0,1,1,9
+3431,Almamy Touré,Eintracht Frankfurt,-,1,2,2,4,0,0,-,9
+8791,Ritsu Doan,Arminia Bielefeld,1,0,1,4,1,0,1,0,8
+6445,Elvis Rexhbecaj,FC Cologne,0,1,3,0,1,-,1,2,8
+2668,Martin Hinteregger,Eintracht Frankfurt,2,1,1,1,0,0,2,1,8
+5680,Thomas Meunier,Borussia Dortmund,0,2,2,1,1,1,0,1,8
+8824,Jude Bellingham,Borussia Dortmund,0,2,1,0,-,3,1,1,8
+412,André Hahn,Augsburg,2,0,1,0,0,4,1,0,8
+8146,Ismail Jakobs,FC Cologne,-,-,-,1,2,4,0,1,8
+7876,Christopher Lenz,Union Berlin,2,1,1,2,1,1,0,0,8
+7877,Robert Andrich,Union Berlin,1,1,0,2,3,0,1,0,8
+300,Daniel Didavi,VfB Stuttgart,3,1,0,0,2,-,0,2,8
+6484,Renato Steffen,Wolfsburg,0,0,-,0,3,0,2,3,8
+7831,Stefan Lainer,Borussia M.Gladbach,1,0,1,0,4,0,1,0,7
+5222,Joel Pohjanpalo,Union Berlin,-,-,2,0,3,2,0,-,7
+171,Michael Gregoritsch,Augsburg,2,0,1,0,1,2,1,0,7
+4468,Dedryck Boyata,Hertha Berlin,1,0,0,1,0,5,0,0,7
+337,Leroy Sané,Bayern Munich,2,3,-,-,1,0,1,0,7
+7813,Jeremiah St. Juste,Mainz 05,1,2,0,0,1,1,1,1,7
+373,Mats Hummels,Borussia Dortmund,0,2,1,0,1,3,0,0,7
+4291,Marc-Oliver Kempf,VfB Stuttgart,3,1,0,1,0,0,1,1,7
+8792,Fabian Klos,Arminia Bielefeld,2,1,2,1,0,0,1,0,7
+7810,Ruben Vargas,Augsburg,1,-,1,0,1,3,1,0,7
+7867,Robert Skov,Hoffenheim,-,1,1,0,5,0,-,-,7
+1275,Robin Quaison,Mainz 05,0,1,0,0,3,1,0,1,6
+3059,Axel Witsel,Borussia Dortmund,1,1,2,0,0,0,2,0,6
+38,Daniel Brosinski,Mainz 05,2,0,1,0,1,0,2,0,6
+8813,Tanguy Coulibaly,VfB Stuttgart,-,0,0,0,1,1,1,3,6
+285,Bastian Oczipka,Schalke 04,1,2,0,1,1,0,1,0,6
+7439,Tahith Chong,Werder Bremen,0,0,2,-,0,1,3,0,6
+176,Sven Schipplock,Arminia Bielefeld,2,0,1,1,2,0,0,0,6
+370,Marvin Friedrich,Union Berlin,0,0,1,2,2,0,0,1,6
+7075,Borna Sosa,VfB Stuttgart,-,1,2,-,-,2,0,1,6
+186,Karim Bellarabi,Bayer Leverkusen,0,1,5,0,0,0,0,0,6
+8418,Jamal Musiala,Bayern Munich,1,0,0,1,2,-,-,2,6
+283,David Abraham,Eintracht Frankfurt,1,1,0,2,-,1,1,0,6
+27,Vladimir Darida,Hertha Berlin,0,0,1,1,1,0,0,3,6
+6096,Sergio Córdova,Arminia Bielefeld,2,0,3,-,1,0,0,-,6
+223,Joshua Kimmich,Bayern Munich,2,2,0,-,1,1,0,-,6
+3603,Corentin Tolisso,Bayern Munich,2,0,1,2,-,-,1,-,6
+7501,Amadou Haidara,RasenBallsport Leipzig,1,0,3,-,-,1,0,1,6
+8205,Jan Thielmann,FC Cologne,2,1,1,-,-,2,0,0,6
+7900,Sargis Adamyan,Hoffenheim,-,-,-,-,0,1,5,-,6
+6081,Dennis Geiger,Hoffenheim,1,1,1,0,3,0,-,0,6
+81,Jonathan Schmid,Freiburg,0,2,1,1,0,0,0,2,6
+5659,Nordi Mukiele,RasenBallsport Leipzig,0,1,3,1,0,-,1,-,6
+140,Yannick Gerhardt,Wolfsburg,0,1,2,1,0,2,0,-,6
+96,Salif Sané,Schalke 04,-,1,0,1,0,1,2,-,5
+3834,Ishak Belfodil,Hoffenheim,0,-,0,2,-,1,2,-,5
+6522,Cedric Teuchert,Union Berlin,1,1,-,-,-,1,1,1,5
+194,Admir Mehmedi,Wolfsburg,1,0,2,2,0,0,0,0,5
+7485,Nico Schlotterbeck,Union Berlin,-,2,3,-,-,-,-,-,5
+7814,Taiwo Awoniyi,Union Berlin,-,1,-,1,0,2,0,1,5
+7784,Joao Victor,Wolfsburg,1,2,-,-,1,0,1,0,5
+5243,Dayotchanculle Upamecano,RasenBallsport Leipzig,0,0,0,2,3,0,-,0,5
+7879,Marius Bülter,Union Berlin,3,0,0,2,0,0,-,-,5
+418,Niklas Stark,Hertha Berlin,0,1,0,0,0,1,2,1,5
+5235,Aymen Barkok,Eintracht Frankfurt,1,1,0,1,0,0,0,2,5
+5248,Marcel Sabitzer,RasenBallsport Leipzig,-,-,-,-,2,1,2,0,5
+8397,Florian Wirtz,Bayer Leverkusen,1,2,0,-,1,0,1,0,5
+8406,Can Bozdogan,Schalke 04,-,-,2,1,0,2,0,-,5
+7431,Jean-Manuel Mbom,Werder Bremen,-,1,0,1,0,1,2,0,5
+419,Maximilian Mittelstädt,Hertha Berlin,0,2,0,2,0,1,-,0,5
+6523,Milot Rashica,Werder Bremen,-,-,-,0,-,1,2,2,5
+2663,Felix Passlack,Borussia Dortmund,1,-,1,2,0,1,-,-,5
+3347,Ellyes Skhiri,FC Cologne,1,0,1,0,2,0,-,1,5
+5242,Stefan Ilsanker,Eintracht Frankfurt,1,1,0,1,0,1,1,0,5
+8171,Hannes Wolf,Borussia M.Gladbach,0,1,0,0,0,1,1,2,5
+261,Julian Brandt,Borussia Dortmund,0,0,2,0,0,3,0,0,5
+125,Maximilian Eggestein,Werder Bremen,2,0,0,0,1,1,0,1,5
+269,Dominik Kohr,Eintracht Frankfurt,2,-,-,-,-,0,3,0,5
+7791,Sebastiaan Bornauw,FC Cologne,0,3,0,0,1,0,1,-,5
+69,Carlos Gruezo,Augsburg,0,1,0,1,1,0,2,-,5
+8789,Manuel Prietl,Arminia Bielefeld,2,0,0,1,2,0,0,0,5
+3349,Ramy Bensebaini,Borussia M.Gladbach,0,1,2,0,-,0,2,-,5
+188,Kevin Kampl,RasenBallsport Leipzig,1,1,1,-,1,0,1,0,5
+2693,Marius Wolf,FC Cologne,-,-,1,1,1,1,1,0,5
+7073,Pierre Kunde,Mainz 05,-,-,1,1,1,1,1,0,5
+118,Levin Öztunali,Mainz 05,0,1,-,1,1,0,0,1,4
+43,Danny Latza,Mainz 05,2,0,0,0,1,1,0,-,4
+3339,Jérôme Roussillon,Wolfsburg,0,0,1,0,0,1,1,1,4
+7108,Jonathan Burkardt,Mainz 05,1,0,0,1,0,1,1,-,4
+7289,Amin Younes,Eintracht Frankfurt,-,-,-,3,0,1,0,-,4
+8044,Joshua Zirkzee,Bayern Munich,0,4,-,-,-,0,-,-,4
+8853,Maxence Lacroix,Wolfsburg,0,-,1,0,2,0,0,1,4
+315,Matthias Ginter,Borussia M.Gladbach,0,2,0,0,2,0,0,0,4
+5273,Kerem Demirbay,Bayer Leverkusen,0,1,2,0,-,1,-,0,4
+391,David Alaba,Bayern Munich,-,0,1,0,0,0,2,1,4
+5257,Willi Orban,RasenBallsport Leipzig,-,-,2,0,2,0,0,0,4
+7522,Nassim Boujellab,Schalke 04,-,4,-,-,-,-,-,-,4
+8317,Edmond Tapsoba,Bayer Leverkusen,1,1,0,0,0,1,1,-,4
+2456,Omar Mascarell,Schalke 04,-,1,1,1,0,0,0,1,4
+290,Mijat Gacinovic,Hoffenheim,0,0,0,2,0,1,1,0,4
+8806,Roberto Massimo,VfB Stuttgart,3,1,0,-,0,-,-,-,4
+7376,Ozan Kabak,Schalke 04,0,0,-,-,-,-,4,-,4
+2655,Alfred Finnbogason,Augsburg,0,2,1,-,-,0,0,1,4
+6045,Davy Klaassen,Werder Bremen,2,2,0,-,-,-,-,-,4
+6083,Ludwig Augustinsson,Werder Bremen,0,3,1,0,-,-,-,0,4
+8378,Malick Thiaw,Schalke 04,-,-,-,-,0,3,-,1,4
+8790,Cebio Soukou,Arminia Bielefeld,1,2,0,-,-,-,1,0,4
+4340,Grischa Prömel,Union Berlin,1,1,0,1,-,-,-,1,4
+451,Matija Nastasic,Schalke 04,-,-,0,1,1,0,1,1,4
+4247,Maximilian Philipp,Wolfsburg,-,-,-,0,3,0,0,0,3
+7899,Daley Sinkgraven,Bayer Leverkusen,0,0,0,2,0,1,-,0,3
+7789,Dominick Drexler,FC Cologne,2,0,0,-,-,1,0,0,3
+8874,Jóan Símun Edmundsson,Arminia Bielefeld,-,1,1,0,0,1,-,-,3
+7267,Woo-Yeong Jeong,Freiburg,1,0,0,1,0,0,1,-,3
+42,Julian Baumgartlinger,Bayer Leverkusen,0,-,0,0,0,0,1,2,3
+228,Sebastian Rode,Eintracht Frankfurt,1,1,0,0,1,0,-,-,3
+339,Eric Maxim Choupo-Moting,Bayern Munich,-,-,-,0,0,2,-,1,3
+7090,Krzysztof Piatek,Hertha Berlin,1,0,0,0,0,0,2,0,3
+8065,Iago,Augsburg,0,0,0,-,0,1,0,2,3
+5251,Rani Khedira,Augsburg,0,0,1,0,0,-,1,1,3
+435,Benjamin Henrichs,RasenBallsport Leipzig,0,0,0,2,1,0,0,-,3
+5254,Marcel Halstenberg,RasenBallsport Leipzig,1,-,2,0,-,-,-,-,3
+90,Sebastian Rudy,Hoffenheim,-,-,-,1,1,1,0,-,3
+79,Tobias Strobl,Augsburg,0,0,0,1,0,1,0,1,3
+205,Mahmoud Dahoud,Borussia Dortmund,-,1,-,0,2,-,-,0,3
+254,Steven Zuber,Eintracht Frankfurt,1,0,0,0,1,0,1,-,3
+7868,Diadie Samassékou,Hoffenheim,0,0,-,1,1,1,0,0,3
+7786,Rafael Czichos,FC Cologne,0,1,0,0,0,0,0,2,3
+116,Florian Grillitsch,Hoffenheim,-,0,0,0,-,1,2,0,3
+6708,Bote Baku,Wolfsburg,-,-,0,1,0,1,0,1,3
+22,John Brooks,Wolfsburg,1,0,2,0,0,0,0,0,3
+6100,Felix Uduokhai,Augsburg,1,1,0,0,0,1,0,0,3
+443,Peter Pekarík,Hertha Berlin,1,0,0,0,0,2,0,0,3
+7815,Christian Groß,Werder Bremen,-,1,0,0,0,2,0,0,3
+8845,Hee-Chan Hwang,RasenBallsport Leipzig,0,1,-,1,-,1,0,-,3
+7054,Steven Skrzybski,Schalke 04,0,-,-,1,-,-,1,1,3
+2276,Lucas Hernández,Bayern Munich,0,-,0,1,2,-,0,0,3
+6490,Manuel Akanji,Borussia Dortmund,0,0,0,-,2,1,0,0,3
+4280,Davie Selke,Werder Bremen,3,0,0,0,-,-,-,-,3
+7109,Leandro Barreiro Martins,Mainz 05,0,1,-,-,0,-,0,2,3
+8117,Nick Woltemade,Werder Bremen,2,-,-,1,-,-,-,-,3
+409,Philipp Klement,VfB Stuttgart,3,0,0,-,0,0,-,0,3
+1236,Patrik Schick,Bayer Leverkusen,1,1,1,-,-,-,-,0,3
+1673,Edimilson Fernandes,Mainz 05,-,-,-,1,0,0,1,1,3
+6271,Ihlas Bebou,Hoffenheim,1,1,0,0,-,-,0,0,2
+6326,Ibrahima Konaté,RasenBallsport Leipzig,-,-,-,-,0,-,2,0,2
+7885,Joshua Mees,Union Berlin,2,-,-,-,-,-,-,-,2
+5329,Stefan Posch,Hoffenheim,-,0,1,1,0,0,-,0,2
+5294,Salih Özcan,FC Cologne,0,0,-,0,1,0,0,1,2
+2611,Philipp Lienhart,Freiburg,0,1,0,1,0,0,0,0,2
+8796,Christian Gebauer,Arminia Bielefeld,0,-,-,2,-,-,-,-,2
+8878,Atakan Karazor,VfB Stuttgart,-,-,0,0,1,1,0,-,2
+150,Josuha Guilavogui,Wolfsburg,-,0,1,1,0,-,-,-,2
+29,Vedad Ibisevic,Schalke 04,-,2,0,0,-,-,0,-,2
+249,Danny da Costa,Eintracht Frankfurt,2,0,-,-,0,-,-,-,2
+213,Thorgan Hazard,Borussia Dortmund,0,-,-,-,0,1,1,-,2
+106,Waldemar Anton,VfB Stuttgart,0,1,0,-,-,-,0,1,2
+74,Pavel Kaderábek,Hoffenheim,1,0,1,-,-,-,-,-,2
+8875,Tolu Arokodare,FC Cologne,-,1,0,-,-,1,-,0,2
+8876,Dimitris Limnios,FC Cologne,-,0,0,-,2,0,0,0,2
+84,Ermin Bicakcic,Hoffenheim,1,1,-,-,-,-,-,-,2
+9006,Brian Behrendt,Arminia Bielefeld,-,-,-,0,1,1,-,-,2
+393,Douglas Costa,Bayern Munich,-,-,-,0,0,0,-,2,2
+64,Filip Kostic,Eintracht Frankfurt,0,0,-,-,-,-,1,1,2
+7044,Kevin Möhwald,Werder Bremen,-,-,-,2,0,0,0,0,2
+6722,Konstantinos Mavropanos,VfB Stuttgart,-,-,2,-,-,-,-,-,2
+7320,Amos Pieper,Arminia Bielefeld,1,1,0,0,0,0,0,0,2
+311,Sven Bender,Bayer Leverkusen,0,0,1,0,1,0,0,0,2
+4250,Nicolas Höfler,Freiburg,0,0,1,0,0,0,1,0,2
+5759,Matteo Guendouzi,Hertha Berlin,-,-,-,-,-,0,1,1,2
+604,Emre Can,Borussia Dortmund,0,1,1,0,-,-,-,0,2
+1702,Mike van der Hoorn,Arminia Bielefeld,0,0,1,1,0,0,0,0,2
+3393,Bouna Sarr,Bayern Munich,-,-,-,-,1,0,1,-,2
+129,Dominique Heintz,Freiburg,0,1,0,0,0,0,0,1,2
+5358,Lukas Klostermann,RasenBallsport Leipzig,2,0,0,0,-,-,-,-,2
+2691,Milos Veljkovic,Werder Bremen,-,1,0,0,0,1,-,-,2
+212,Nico Elvedi,Borussia M.Gladbach,0,0,0,1,0,0,1,0,2
+8951,Keita Endo,Union Berlin,-,-,0,0,0,-,2,-,2
+206,Oscar Wendt,Borussia M.Gladbach,0,0,-,0,1,0,-,1,2
+5340,Marco Friedl,Werder Bremen,0,0,0,1,0,0,1,0,2
+8788,Anderson-Lenda Lucoqui,Arminia Bielefeld,1,1,0,0,-,0,-,0,2
+131,Jonas Hector,FC Cologne,1,0,-,-,-,-,-,-,1
+5625,Kwon Chang-Hoon,Freiburg,0,0,0,1,0,0,0,-,1
+2627,Jannes Horn,FC Cologne,0,0,0,1,0,0,0,-,1
+5263,Lukas Kübler,Freiburg,0,-,0,-,-,0,1,-,1
+7785,Kingsley Ehizibue,FC Cologne,0,0,0,0,1,-,-,0,1
+7811,Lino Tempelmann,Freiburg,-,-,-,-,0,-,0,1,1
+137,Anthony Modeste,FC Cologne,-,-,-,1,0,-,-,-,1
+326,Pascal Stenzel,VfB Stuttgart,-,0,-,0,0,1,0,0,1
+75,Niklas Süle,Bayern Munich,1,-,0,0,-,0,-,-,1
+8083,Noah Katterbach,FC Cologne,0,-,-,-,0,0,0,1,1
+3363,Benjamin Pavard,Bayern Munich,0,1,0,0,-,0,-,0,1
+138,Frederik Sörensen,FC Cologne,1,0,0,-,-,-,-,-,1
+359,Timothy Chandler,Eintracht Frankfurt,0,-,1,-,0,-,-,-,1
+6085,Marcin Kaminski,VfB Stuttgart,0,-,-,0,1,-,-,-,1
+7807,Luca Kilian,Mainz 05,-,-,0,0,0,1,0,0,1
+8213,Paulo Otávio,Wolfsburg,0,0,1,-,-,-,-,-,1
+8396,Jessic Ngankam,Hertha Berlin,-,-,1,-,0,-,0,0,1
+7995,Akaki Gogia,Union Berlin,-,-,-,-,-,-,1,0,1
+7997,Julian Ryerson,Union Berlin,-,1,0,-,0,0,-,0,1
+426,Daniel Ginczek,Wolfsburg,-,1,0,-,-,-,-,-,1
+184,Ömer Toprak,Werder Bremen,-,-,-,0,-,0,1,0,1
+135,Yuya Osako,Werder Bremen,0,0,-,-,1,0,0,-,1
+110,Theodor Gebre Selassie,Werder Bremen,0,1,0,0,0,0,0,0,1
+8986,Omar Alderete,Hertha Berlin,-,-,-,-,0,1,0,0,1
+8805,Deyovaisio Zeefuik,Hertha Berlin,0,0,1,0,0,-,-,0,1
+7043,Eduard Löwen,Hertha Berlin,-,-,-,1,0,-,0,0,1
+241,Mathew Leckie,Hertha Berlin,0,-,-,1,-,-,0,0,1
+23,Marvin Plattenhardt,Hertha Berlin,-,0,-,0,-,0,1,0,1
+421,Lars Bender,Bayer Leverkusen,0,1,-,0,0,0,0,0,1
+307,Suat Serdar,Schalke 04,0,-,1,-,-,-,-,0,1
+454,Charles Aránguiz,Bayer Leverkusen,0,0,1,0,-,-,-,-,1
+7197,Fredrik Jensen,Augsburg,1,0,0,0,0,-,-,-,1
+4336,Raphael Framberger,Augsburg,0,0,0,0,0,1,-,0,1
+8815,Klauss,Hoffenheim,-,-,-,-,1,0,0,0,1
+8793,Fabian Kunze,Arminia Bielefeld,1,0,-,0,-,-,0,0,1
+8795,Jacob Laursen,Arminia Bielefeld,0,-,0,-,0,-,1,-,1
+7026,Joshua Brenet,Hoffenheim,1,-,-,-,-,-,-,-,1
+7024,Kasim Nuhu,Hoffenheim,1,-,-,-,-,-,-,-,1
+6327,Kevin Akpoguma,Hoffenheim,0,0,0,0,0,0,0,1,1
+133,Kevin Vogt,Hoffenheim,1,0,0,0,0,0,0,-,1
+6837,Ryan Sessegnon,Hoffenheim,-,-,-,0,0,0,0,1,1
+90,Sebastian Rudy,Schalke 04,1,0,-,-,-,-,-,-,1
+8801,Sebastian Griesbeck,Union Berlin,0,0,0,-,0,1,0,0,1
+225,Javi Martínez,Bayern Munich,-,-,0,1,0,0,0,0,1
+449,Robin Zentner,Mainz 05,0,0,0,0,1,0,0,0,1
+5230,Thomas Delaney,Borussia Dortmund,0,-,0,0,0,1,0,-,1
+6963,Justin Kluivert,RasenBallsport Leipzig,-,-,-,0,1,-,-,0,1
+7875,Christopher Trimmel,Union Berlin,1,0,0,0,0,-,0,0,1
+6352,Valentino Lazaro,Borussia M.Gladbach,-,-,-,-,-,0,1,0,1
+8341,Lazar Samardzic,RasenBallsport Leipzig,-,-,0,-,-,1,-,-,1
+183,Jonathan Tah,Bayer Leverkusen,-,0,-,-,-,1,-,0,1
+5219,Aleksandar Dragovic,Bayer Leverkusen,-,0,-,-,0,-,0,1,1
+187,Christoph Kramer,Borussia M.Gladbach,0,0,0,0,1,0,0,0,1
+220,Jérôme Boateng,Bayern Munich,1,0,0,-,0,0,0,0,1
+28,Mitchell Weiser,Bayer Leverkusen,-,-,-,-,-,-,-,1,1
+60,Christian Gentner,Union Berlin,0,-,-,0,0,0,1,-,1
+161,Robin Knoche,Union Berlin,0,0,0,0,0,0,1,0,1
+8325,Exequiel Palacios,Bayer Leverkusen,-,-,-,0,1,0,-,-,1
+350,Felix Klaus,Wolfsburg,0,0,-,-,0,1,-,0,1
+8825,Reinier,Borussia Dortmund,-,1,0,-,-,0,-,-,1
+5241,Péter Gulácsi,RasenBallsport Leipzig,0,0,0,0,0,0,0,0,0
+7401,Keven Schlotterbeck,Freiburg,-,-,0,-,-,-,-,-,0
+8797,Nils Seufert,Arminia Bielefeld,-,-,-,0,0,-,0,0,0
+7771,Guus Til,Freiburg,-,-,-,-,-,-,-,0,0
+8799,Joakim Nilsson,Arminia Bielefeld,-,-,-,-,-,0,-,-,0
+8958,Reinhold Yabo,Arminia Bielefeld,-,-,0,0,-,0,0,0,0
+217,Manuel Neuer,Bayern Munich,0,0,0,0,0,0,0,0,0
+8794,Cédric Brunner,Arminia Bielefeld,0,0,0,-,-,0,0,0,0
+5328,Florian Müller,Freiburg,0,0,0,0,0,0,0,0,0
+8787,Nathan de Medina,Arminia Bielefeld,0,-,-,0,0,-,-,-,0
+8786,Stefan Ortega Moreno,Arminia Bielefeld,0,0,0,0,0,0,0,0,0
+7352,Tyler Adams,RasenBallsport Leipzig,0,0,-,0,-,-,0,0,0
+6496,Ermedin Demirovic,Freiburg,-,0,-,0,0,0,-,0,0
+8962,Joscha Wosz,RasenBallsport Leipzig,-,-,0,-,-,-,-,-,0
+9100,Tim Maciejewski,Union Berlin,-,-,-,-,-,-,0,-,0
+5265,Amir Abrashi,Freiburg,0,-,-,-,-,-,-,-,0
+5260,Andreas Luthe,Union Berlin,0,0,0,0,0,0,0,0,0
+5292,Manuel Gulde,Freiburg,0,0,0,-,-,-,0,-,0
+6097,Florian Hübner,Union Berlin,-,-,-,-,-,0,-,-,0
+7056,Niko Gießelmann,Union Berlin,0,-,-,-,-,0,-,0,0
+5298,Arne Maier,Arminia Bielefeld,-,-,-,-,0,-,0,-,0
+5258,László Bénes,Borussia M.Gladbach,-,-,-,-,-,-,0,-,0
+5253,Benno Schmitz,FC Cologne,-,-,-,0,-,-,-,-,0
+2638,Alessandro Schöpf,Schalke 04,0,-,0,0,-,0,0,-,0
+281,Lukas Hradecky,Bayer Leverkusen,0,0,0,0,0,0,0,0,0
+1936,Niklas Moisander,Werder Bremen,0,-,0,-,0,0,0,-,0
+6082,Jiri Pavlenka,Werder Bremen,0,0,0,0,0,0,0,0,0
+6084,Johannes Eggestein,Werder Bremen,-,0,0,-,-,-,-,-,0
+8804,Felix Agu,Werder Bremen,-,-,-,-,-,-,-,0,0
+185,Wendell,Bayer Leverkusen,0,-,0,-,-,-,0,-,0
+330,Ralf Fährmann,Schalke 04,0,0,0,-,-,-,-,-,0
+914,Nabil Bentaleb,Schalke 04,0,0,0,0,0,0,-,0,0
+3290,Benjamin Stambouli,Schalke 04,0,0,0,-,-,-,-,0,0
+7918,Daishawn Redan,Hertha Berlin,-,0,-,-,-,-,-,-,0
+5717,Amine Harit,Schalke 04,0,-,-,0,0,0,0,0,0
+7048,Frederik Rönnow,Schalke 04,-,-,0,0,0,0,0,0,0
+7309,Ahmed Kutucu,Schalke 04,-,-,-,-,0,-,-,0,0
+7394,Rabbi Matondo,Schalke 04,0,-,-,-,0,-,-,-,0
+8148,Timo Becker,Schalke 04,0,-,-,-,-,-,-,-,0
+9028,Kilian Ludewig,Schalke 04,-,-,-,0,0,0,0,0,0
+52,Alexander Hack,Mainz 05,-,0,0,-,-,-,-,0,0
+276,Dong-Won Ji,Mainz 05,-,-,-,0,0,0,0,0,0
+8398,Márton Dárdai,Hertha Berlin,-,-,-,-,-,-,0,-,0
+7122,Javairo Dilrosun,Hertha Berlin,-,-,-,0,0,0,-,-,0
+5989,Moussa Niakhate,Mainz 05,0,0,-,0,0,0,0,0,0
+543,Reece Oxford,Augsburg,0,0,0,-,-,-,0,-,0
+7113,Santiago Arias,Bayer Leverkusen,-,-,0,-,-,-,-,-,0
+5222,Joel Pohjanpalo,Bayer Leverkusen,0,-,-,-,-,-,-,-,0
+73,Oliver Baumann,Hoffenheim,0,0,0,0,-,0,0,0,0
+202,Håvard Nordtveit,Hoffenheim,-,-,-,-,-,-,-,0,0
+5355,Jacob Bruun Larsen,Hoffenheim,-,-,-,0,0,-,-,-,0
+7869,Philipp Pentke,Hoffenheim,-,-,-,-,0,-,-,-,0
+8137,Maximilian Beier,Hoffenheim,-,-,-,-,-,-,-,0,0
+8192,Melayro Bogarde,Hoffenheim,-,-,-,-,-,-,0,-,0
+2659,Noah Joel Sarenren Bazee,Augsburg,-,-,-,-,-,0,-,-,0
+5298,Arne Maier,Hertha Berlin,0,0,-,-,-,-,-,-,0
+2665,Jeffrey Gouweleeuw,Augsburg,0,0,0,0,0,0,0,0,0
+5293,Rafal Gikiewicz,Augsburg,0,0,0,0,0,0,0,0,0
+6357,Marco Richter,Augsburg,-,-,-,0,0,-,0,0,0
+7808,Marek Suchy,Augsburg,-,0,-,-,-,-,-,-,0
+7809,Mads Pedersen,Augsburg,-,-,-,0,-,-,-,-,0
+8803,Robert Gumny,Augsburg,-,-,-,-,0,0,0,0,0
+5238,Jordan Torunarigha,Hertha Berlin,0,0,-,-,-,-,-,-,0
+5262,Alexander Schwolow,Hertha Berlin,0,0,0,0,0,0,0,0,0
+5133,Aarón Martín,Mainz 05,-,-,0,-,-,-,-,-,0
+6708,Bote Baku,Mainz 05,0,0,-,-,-,-,-,-,0
+2210,Jorge Meré,FC Cologne,-,-,-,-,-,-,-,0,0
+8869,Ragnar Ache,Eintracht Frankfurt,-,0,0,-,-,-,-,-,0
+6148,Michaël Cuisance,Bayern Munich,0,-,-,-,-,-,-,-,0
+5086,Marc Roca,Bayern Munich,-,-,-,-,-,0,-,-,0
+282,Makoto Hasebe,Eintracht Frankfurt,0,0,0,0,0,0,0,-,0
+2624,Djibril Sow,Eintracht Frankfurt,-,0,-,-,0,-,0,0,0
+2640,Erik Durm,Eintracht Frankfurt,-,-,-,-,-,-,-,0,0
+3286,Kevin Trapp,Eintracht Frankfurt,0,0,0,0,0,0,0,0,0
+7049,Evan Ndicka,Eintracht Frankfurt,-,-,-,-,-,-,-,0,0
+7524,Tuta,Eintracht Frankfurt,-,-,0,-,0,-,-,-,0
+5288,Gregor Kobel,VfB Stuttgart,0,0,0,0,0,0,0,0,0
+8303,Marin Pongracic,Wolfsburg,-,-,-,-,-,-,0,-,0
+7790,Darko Churlinov,VfB Stuttgart,-,-,-,-,0,0,-,-,0
+8810,Hamadi Al Ghaddioui,VfB Stuttgart,0,0,-,0,-,-,-,-,0
+8811,Alkhaly Momo Cissé,VfB Stuttgart,0,-,-,-,-,-,-,-,0
+8987,Lilian Egloff,VfB Stuttgart,-,-,-,0,-,-,-,-,0
+9076,Philipp Förster,VfB Stuttgart,-,-,-,-,-,0,-,0,0
+91,Ron-Robert Zieler,FC Cologne,-,-,-,-,-,-,0,-,0
+127,Timo Horn,FC Cologne,0,0,0,0,0,0,0,0,0
+427,Marco Höger,FC Cologne,0,-,0,-,-,-,-,-,0
+8855,Bartosz Bialek,Wolfsburg,-,-,-,-,-,0,-,0,0
+7053,Pavao Pervan,Wolfsburg,-,0,-,-,-,-,-,-,0
+7058,Kevin Stöger,Mainz 05,-,-,-,-,-,0,-,-,0
+8070,Mateu Morey,Borussia Dortmund,-,-,-,-,0,-,-,-,0
+7106,Philipp Mwene,Mainz 05,-,-,0,-,-,-,-,-,0
+7181,Issah Abass,Mainz 05,0,-,-,-,-,-,-,-,0
+8846,Paul Nebel,Mainz 05,0,0,0,0,-,-,-,-,0
+8847,Niklas Tauer,Mainz 05,0,-,-,-,-,-,-,-,0
+263,Marwin Hitz,Borussia Dortmund,-,-,0,0,-,-,-,-,0
+309,Roman Bürki,Borussia Dortmund,0,0,-,-,0,0,0,0,0
+310,Lukasz Piszczek,Borussia Dortmund,-,-,-,0,-,0,-,0,0
+433,Nico Schulz,Borussia Dortmund,-,-,0,-,-,-,-,0,0
+9133,Youssoufa Moukoko,Borussia Dortmund,-,-,-,-,-,-,-,0,0
+159,Koen Casteels,Wolfsburg,0,-,0,0,0,0,0,0,0
+8430,Chris Richards,Bayern Munich,0,-,0,-,-,-,-,-,0
+199,Yann Sommer,Borussia M.Gladbach,0,0,0,0,0,0,0,0,0
+201,Tony Jantschke,Borussia M.Gladbach,-,-,-,0,0,-,-,-,0
+207,Ibrahima Traoré,Borussia M.Gladbach,-,-,0,0,-,-,-,-,0
+6147,Denis Zakaria,Borussia M.Gladbach,-,-,-,-,-,-,-,0,0
+8826,Rocco Reitz,Borussia M.Gladbach,-,-,-,-,0,-,-,-,0
+7345,Alphonso Davies,Bayern Munich,-,0,0,0,0,-,-,-,0
+45,Yunus Malli,Wolfsburg,-,0,-,-,-,-,-,-,0
+9128,Andreas Voglsammer,Arminia Bielefeld,-,-,-,-,-,-,-,0,0
