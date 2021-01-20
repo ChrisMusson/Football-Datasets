@@ -1,10 +1,10 @@
 id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,total
 2371,Cristiano Ronaldo,Juventus,1,1,-,-,1,1,2,-,0,0,0,2,0,2,0,1,0,-,11
-594,Romelu Lukaku,Inter,1,2,0,1,1,-,0,1,0,1,1,0,0,0,1,0,0,0,9
+1229,Luis Muriel,Atalanta,1,0,1,0,-,2,0,-,0,0,0,1,1,1,1,1,0,1,10
 1741,Zlatan Ibrahimovic,AC Milan,1,-,-,2,1,1,1,2,-,-,-,-,-,-,-,-,0,1,9
 7006,Lautaro Martínez,Inter,1,1,1,0,0,0,1,1,0,0,0,0,0,1,3,0,0,0,9
 1209,Ciro Immobile,Lazio,1,0,0,-,1,0,-,1,0,1,0,1,1,1,0,1,0,1,9
-1229,Luis Muriel,Atalanta,1,0,1,0,-,2,0,-,0,0,0,1,1,1,1,1,0,-,9
+594,Romelu Lukaku,Inter,1,2,0,1,1,-,0,1,0,1,1,0,0,0,1,0,0,0,9
 1592,João Pedro,Cagliari,0,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,0,0,8
 7999,Hirving Lozano,Napoli,0,2,2,0,0,0,0,0,1,1,0,0,0,1,0,0,1,-,8
 1253,Edin Dzeko,Roma,-,0,0,2,1,0,-,-,0,0,1,0,1,1,1,0,0,0,7
@@ -17,12 +17,12 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,total
 1810,Roberto Soriano,Bologna,0,2,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,6
 2116,Felipe Caicedo,Lazio,0,1,-,0,-,1,1,0,0,0,1,0,0,-,0,1,1,0,6
 1219,Luis Alberto,Lazio,0,0,0,0,1,-,0,0,0,0,-,0,1,1,0,0,1,2,6
-1148,Duván Zapata,Atalanta,0,0,1,0,0,0,0,0,0,0,0,1,0,2,1,1,0,-,6
+1148,Duván Zapata,Atalanta,0,0,1,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,6
 9018,M'Bala Nzola,Spezia,-,-,-,0,0,0,2,0,0,1,-,2,0,1,0,0,0,-,6
 8838,Junior Messias,Crotone,0,0,0,0,1,0,0,0,0,0,2,0,0,2,0,0,1,0,6
 6980,Francesco Caputo,Sassuolo,0,1,1,1,1,-,0,-,-,-,-,0,0,1,0,0,0,0,5
 1102,Giovanni Simeone,Cagliari,1,0,0,2,1,1,0,0,-,-,0,0,0,0,0,0,0,0,5
-6155,Robin Gosens,Atalanta,0,1,0,0,0,-,-,0,-,1,0,1,0,1,1,0,0,-,5
+6155,Robin Gosens,Atalanta,0,1,0,0,0,-,-,0,-,1,0,1,0,1,1,0,0,0,5
 1612,Domenico Berardi,Sassuolo,0,0,1,1,0,-,0,1,0,0,0,0,1,1,0,0,-,-,5
 7193,Rafael Leão,AC Milan,-,0,2,0,0,0,0,-,-,-,0,0,1,0,1,0,1,-,5
 7909,Gaetano Castrovilli,Fiorentina,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-,0,4
@@ -39,163 +39,163 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,total
 1493,Andrea Petagna,Napoli,0,-,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,-,4
 1958,Mattia Zaccagni,Verona,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,4
 1362,Simy,Crotone,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,3
-7084,Dusan Vlahovic,Fiorentina,0,0,1,0,0,0,-,0,0,0,0,0,0,1,0,0,1,0,3
 1136,Gianluca Lapadula,Benevento,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
-1972,Gaetano Letizia,Benevento,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,-,-,-,3
-6512,Musa Barrow,Bologna,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,3
-8912,Tommaso Pobega,Spezia,0,0,0,-,0,1,1,0,-,-,0,0,-,-,0,1,0,0,3
-1577,Marko Pjaca,Genoa,1,0,-,0,0,0,1,-,0,1,0,0,0,0,0,0,0,0,3
-687,Pedro,Roma,0,0,1,1,0,1,0,0,0,0,-,0,0,0,-,-,-,0,3
-1523,Danilo D'Ambrosio,Inter,1,-,0,0,1,-,0,0,-,0,1,0,0,-,-,0,-,-,3
-2252,Borja Mayoral,Roma,-,-,-,0,-,-,0,1,0,0,0,0,-,0,0,2,0,0,3
-1471,Lorenzo Pellegrini,Roma,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,3
-6691,Dejan Kulusevski,Juventus,1,0,0,1,0,0,0,0,0,0,-,1,0,0,0,0,0,-,3
-1233,Filip Djuricic,Sassuolo,0,1,0,1,1,-,-,0,0,0,0,0,0,-,-,0,0,0,3
-1537,Sasa Lukic,Torino,0,0,0,1,1,1,0,-,-,0,0,0,0,0,0,0,0,0,3
-5509,Hernani,Parma Calcio 1913,0,1,0,1,0,0,0,-,0,0,1,0,0,0,0,0,0,-,3
-1145,Rodrigo de Paul,Udinese,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,-,3
 6997,Ignacio Pussetto,Udinese,-,-,-,1,0,0,0,0,1,1,0,0,0,0,-,-,-,-,3
-6208,Antonin Barak,Verona,0,0,0,-,0,2,1,0,0,0,0,0,-,-,0,0,0,0,3
-6201,Andrej Galabinov,Spezia,1,2,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,3
+1145,Rodrigo de Paul,Udinese,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,3
+6512,Musa Barrow,Bologna,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,3
+5509,Hernani,Parma Calcio 1913,0,1,0,1,0,0,0,-,0,0,1,0,0,0,0,0,0,-,3
+1523,Danilo D'Ambrosio,Inter,1,-,0,0,1,-,0,0,-,0,1,0,0,-,-,0,-,-,3
+7084,Dusan Vlahovic,Fiorentina,0,0,1,0,0,0,-,0,0,0,0,0,0,1,0,0,1,0,3
+687,Pedro,Roma,0,0,1,1,0,1,0,0,0,0,-,0,0,0,-,-,-,0,3
+1577,Marko Pjaca,Genoa,1,0,-,0,0,0,1,-,0,1,0,0,0,0,0,0,0,0,3
+1537,Sasa Lukic,Torino,0,0,0,1,1,1,0,-,-,0,0,0,0,0,0,0,0,0,3
+1233,Filip Djuricic,Sassuolo,0,1,0,1,1,-,-,0,0,0,0,0,0,-,-,0,0,0,3
 1543,Sergej Milinkovic-Savic,Lazio,0,0,1,0,-,1,0,-,-,1,0,0,0,0,0,0,0,0,3
+1972,Gaetano Letizia,Benevento,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,-,-,-,3
+6201,Andrej Galabinov,Spezia,1,2,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,3
+1471,Lorenzo Pellegrini,Roma,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,3
+6208,Antonin Barak,Verona,0,0,0,-,0,2,1,0,0,0,0,0,-,-,0,0,0,0,3
+8912,Tommaso Pobega,Spezia,0,0,0,-,0,1,1,0,-,-,0,0,-,-,0,1,0,0,3
 677,Jordan Veretout,Roma,0,1,0,0,0,0,0,0,0,-,1,0,0,1,0,0,0,0,3
-6253,Gianluca Scamacca,Genoa,-,-,0,-,1,1,0,0,0,0,0,0,0,0,0,0,-,-,2
-1569,Valerio Verre,Sampdoria,0,0,1,0,0,0,0,-,0,-,0,1,0,0,0,-,0,0,2
-1496,Roberto Gagliardini,Inter,-,1,0,-,-,0,0,0,1,0,-,0,0,0,0,0,0,0,2
-1605,Diego Farias,Spezia,0,0,-,1,-,0,-,0,0,0,1,0,0,0,0,0,0,0,2
+2252,Borja Mayoral,Roma,-,-,-,0,-,-,0,1,0,0,0,0,-,0,0,2,0,0,3
+6691,Dejan Kulusevski,Juventus,1,0,0,1,0,0,0,0,0,0,-,1,0,0,0,0,0,-,3
+1723,Roberto Pereyra,Udinese,-,-,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2
+1484,Rafael Toloi,Atalanta,0,0,-,0,0,0,0,0,0,1,-,0,0,-,0,1,0,0,2
+6159,Gianluca Mancini,Roma,0,0,0,0,0,0,0,0,0,-,-,0,0,1,0,0,1,0,2
+1123,Juraj Kucka,Parma Calcio 1913,0,0,0,0,0,0,0,0,0,-,-,0,0,1,0,-,-,1,2
+5360,Weston McKennie,Juventus,0,0,-,-,0,0,0,-,1,0,0,0,0,0,1,0,0,-,2
+1492,Jasmin Kurtic,Parma Calcio 1913,-,-,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+1294,Paulo Dybala,Juventus,-,-,-,0,0,0,0,0,0,1,0,-,-,1,0,0,-,-,2
+1287,Leonardo Bonucci,Juventus,1,0,0,0,0,0,-,-,1,0,0,0,0,0,0,0,0,-,2
 5246,Diego Demme,Napoli,0,-,0,0,-,-,-,0,1,0,0,-,0,-,-,0,1,-,2
+1426,Josip Ilicic,Atalanta,-,-,-,0,0,0,-,0,0,-,-,1,0,0,0,1,0,0,2
+1903,Kevin Lasagna,Udinese,0,0,0,0,0,0,0,0,-,0,-,1,0,0,0,1,0,0,2
+1763,Stefano Okaka,Udinese,0,0,0,0,2,0,0,0,-,-,-,-,-,-,-,-,-,-,2
+1496,Roberto Gagliardini,Inter,-,1,0,-,-,0,0,0,1,0,-,0,0,0,0,0,0,0,2
+5322,Victor Osimhen,Napoli,0,0,1,0,0,1,-,-,-,-,-,-,-,-,-,-,-,-,2
+1406,Marco Sau,Benevento,0,-,0,0,0,-,0,0,0,0,0,-,0,0,0,1,1,0,2
+8859,Mikkel Damsgaard,Sampdoria,0,-,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2
+7939,Morten Thorsby,Sampdoria,0,0,0,0,1,0,0,1,0,0,0,-,0,0,0,0,0,0,2
+1569,Valerio Verre,Sampdoria,0,0,1,0,0,0,0,-,0,-,0,1,0,0,0,-,0,0,2
+1210,Keita,Sampdoria,-,-,-,0,0,0,-,-,-,-,-,-,-,1,-,1,0,0,2
+411,Albin Ekdal,Sampdoria,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,-,0,0,2
+1517,Antonio Candreva,Sampdoria,-,0,0,0,-,0,0,0,1,0,0,-,0,0,0,0,1,0,2
+6672,Riccardo Sottil,Cagliari,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+6517,Charalampos Lykogiannis,Cagliari,0,0,0,0,1,0,0,-,-,0,0,0,1,0,0,-,0,0,2
+1997,Andrea Favilli,Verona,-,1,0,0,1,-,-,-,0,0,0,-,-,-,-,-,-,-,2
+3,Luca Caldirola,Benevento,2,0,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,0,2
+1324,Federico Dimarco,Verona,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,1,1,0,2
+1617,Roberto Insigne,Benevento,0,0,-,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2
+6253,Gianluca Scamacca,Genoa,-,-,0,-,1,1,0,0,0,0,0,0,0,0,0,0,-,-,2
 5954,Eldor Shomurodov,Genoa,-,-,0,0,-,-,-,0,1,0,0,0,0,-,0,1,0,0,2
-6986,Hamed Junior Traore,Sassuolo,-,0,0,0,0,0,0,0,0,0,-,1,0,1,0,0,0,0,2
+498,Alexis Sánchez,Inter,0,0,0,0,-,-,0,1,1,0,0,-,-,-,-,0,-,0,2
+1223,Milan Skriniar,Inter,-,0,0,-,-,-,0,0,0,0,0,0,0,1,0,0,1,0,2
+1409,Nicolò Barella,Inter,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2
+8870,Sam Lammers,Atalanta,0,0,1,1,0,-,0,0,0,0,-,-,-,-,-,-,0,-,2
+6960,Bremer,Torino,0,0,-,0,1,0,0,0,0,-,-,0,0,0,0,1,0,0,2
+1096,Armando Izzo,Torino,0,-,-,-,-,-,-,-,-,-,0,-,0,1,1,0,0,0,2
+4941,Hans Hateboer,Atalanta,1,1,0,-,0,0,0,-,0,0,0,0,0,0,0,0,0,0,2
+4348,Tolgay Arslan,Udinese,0,-,0,0,0,0,0,0,1,-,0,-,0,-,1,0,0,0,2
+8297,Alexis Saelemaekers,AC Milan,0,0,0,0,1,0,0,0,0,0,-,0,1,0,-,-,-,0,2
 3544,Jeremie Boga,Sassuolo,-,-,-,-,0,0,0,1,0,0,0,0,0,0,0,1,0,-,2
+6974,Mattias Svanberg,Bologna,0,-,0,1,0,0,0,0,0,0,0,0,0,0,0,1,-,0,2
+6160,Riccardo Orsolini,Bologna,0,0,0,1,0,0,0,1,0,-,-,-,-,0,0,0,0,0,2
+1605,Diego Farias,Spezia,0,0,-,1,-,0,-,0,0,0,1,0,0,0,0,0,0,0,2
+6174,Nikola Milenkovic,Fiorentina,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,-,0,0,2
+6986,Hamed Junior Traore,Sassuolo,-,0,0,0,0,0,0,0,0,0,-,1,0,1,0,0,0,0,2
+7931,Takehiro Tomiyasu,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2
 1468,Gregoire Defrel,Sassuolo,0,1,0,-,-,0,0,-,-,-,-,0,0,-,0,0,1,0,2
 1395,Vlad Chiriches,Sassuolo,0,0,0,0,1,0,-,0,0,-,-,0,-,0,1,-,0,0,2
-1210,Keita,Sampdoria,-,-,-,0,0,0,-,-,-,-,-,-,-,1,-,1,0,0,2
-498,Alexis Sánchez,Inter,0,0,0,0,-,-,0,1,1,0,0,-,-,-,-,0,-,0,2
-8870,Sam Lammers,Atalanta,0,0,1,1,0,-,0,0,0,0,-,-,-,-,-,-,0,-,2
-4941,Hans Hateboer,Atalanta,1,1,0,-,0,0,0,-,0,0,0,0,0,0,0,0,0,-,2
-1484,Rafael Toloi,Atalanta,0,0,-,0,0,0,0,0,0,1,-,0,0,-,0,1,0,-,2
-6159,Gianluca Mancini,Roma,0,0,0,0,0,0,0,0,0,-,-,0,0,1,0,0,1,0,2
-1426,Josip Ilicic,Atalanta,-,-,-,0,0,0,-,0,0,-,-,1,0,0,0,1,0,-,2
-1517,Antonio Candreva,Sampdoria,-,0,0,0,-,0,0,0,1,0,0,-,0,0,0,0,1,0,2
-411,Albin Ekdal,Sampdoria,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,-,0,0,2
-1287,Leonardo Bonucci,Juventus,1,0,0,0,0,0,-,-,1,0,0,0,0,0,0,0,0,-,2
-1294,Paulo Dybala,Juventus,-,-,-,0,0,0,0,0,0,1,0,-,-,1,0,0,-,-,2
-5360,Weston McKennie,Juventus,0,0,-,-,0,0,0,-,1,0,0,0,0,0,1,0,0,-,2
-1223,Milan Skriniar,Inter,-,0,0,-,-,-,0,0,0,0,0,0,0,1,0,0,1,0,2
-6960,Bremer,Torino,0,0,-,0,1,0,0,0,0,-,-,0,0,0,0,1,0,0,2
-1409,Nicolò Barella,Inter,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2
-1096,Armando Izzo,Torino,0,-,-,-,-,-,-,-,-,-,0,-,0,1,1,0,0,0,2
-1903,Kevin Lasagna,Udinese,0,0,0,0,0,0,0,0,-,0,-,1,0,0,0,1,0,-,2
-4348,Tolgay Arslan,Udinese,0,-,0,0,0,0,0,0,1,-,0,-,0,-,1,0,0,-,2
-6672,Riccardo Sottil,Cagliari,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2
-8859,Mikkel Damsgaard,Sampdoria,0,-,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2
-1123,Juraj Kucka,Parma Calcio 1913,0,0,0,0,0,0,0,0,0,-,-,0,0,1,0,-,-,1,2
-1997,Andrea Favilli,Verona,-,1,0,0,1,-,-,-,0,0,0,-,-,-,-,-,-,-,2
-1617,Roberto Insigne,Benevento,0,0,-,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2
-7939,Morten Thorsby,Sampdoria,0,0,0,0,1,0,0,1,0,0,0,-,0,0,0,0,0,0,2
-8297,Alexis Saelemaekers,AC Milan,0,0,0,0,1,0,0,0,0,0,-,0,1,0,-,-,-,0,2
 1574,Davide Calabria,AC Milan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2
-1406,Marco Sau,Benevento,0,-,0,0,0,-,0,0,0,0,0,-,0,0,0,1,1,0,2
-3,Luca Caldirola,Benevento,2,0,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,0,2
-6160,Riccardo Orsolini,Bologna,0,0,0,1,0,0,0,1,0,-,-,-,-,0,0,0,0,0,2
-1492,Jasmin Kurtic,Parma Calcio 1913,-,-,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
-6517,Charalampos Lykogiannis,Cagliari,0,0,0,0,1,0,0,-,-,0,0,0,1,0,0,-,0,0,2
-5322,Victor Osimhen,Napoli,0,0,1,0,0,1,-,-,-,-,-,-,-,-,-,-,-,-,2
-6974,Mattias Svanberg,Bologna,0,-,0,1,0,0,0,0,0,0,0,0,0,0,0,1,-,0,2
-6174,Nikola Milenkovic,Fiorentina,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,-,0,0,2
-7931,Takehiro Tomiyasu,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2
-1324,Federico Dimarco,Verona,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,1,1,0,2
-1763,Stefano Okaka,Udinese,0,0,0,0,2,0,0,0,-,-,-,-,-,-,-,-,-,-,2
-222,Arturo Vidal,Inter,0,0,0,0,0,0,0,0,0,0,-,-,0,0,0,0,0,1,1
+8884,Alessandro Tuia,Benevento,0,0,0,-,0,0,-,-,0,0,0,0,0,0,0,1,-,0,1
+2447,Fabián,Napoli,0,0,0,0,0,0,0,1,-,0,0,0,0,0,0,0,-,-,1
+1942,Martín Cáceres,Fiorentina,0,0,0,0,0,0,0,-,0,0,-,0,-,1,0,-,0,-,1
+7609,Carles Pérez,Roma,-,-,0,1,-,0,-,0,0,-,0,-,0,-,0,0,-,-,1
+6324,Marash Kumbulla,Roma,-,0,0,0,1,0,-,-,-,0,0,0,-,0,-,0,-,-,1
+922,Andreas Pereira,Lazio,-,-,-,-,0,1,0,0,0,0,0,0,0,0,0,-,0,-,1
+1809,Joaquín Correa,Lazio,0,-,0,0,0,0,0,1,0,-,0,0,-,0,-,-,-,-,1
+4937,Miha Zajc,Genoa,0,0,-,0,0,0,0,0,0,-,-,-,-,0,0,0,1,0,1
+6180,Manuel Lazzari,Lazio,1,0,0,-,0,-,0,0,0,0,0,0,0,0,0,0,0,0,1
+1296,Stefano Sturaro,Genoa,-,-,-,-,-,-,-,0,0,0,1,0,0,-,-,-,-,-,1
+1178,Davide Zappacosta,Genoa,1,0,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,1
+1115,Goran Pandev,Genoa,1,0,0,0,0,0,0,0,0,-,0,-,0,0,-,-,-,0,1
+1642,Simone Zaza,Torino,0,0,-,-,-,-,-,1,0,0,0,-,-,0,-,-,0,0,1
+1164,Cristiano Biraghi,Fiorentina,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-,0,0,0,1
+8883,Riccardo Improta,Benevento,0,-,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6182,Pasquale Schiattarella,Benevento,0,0,0,0,0,0,0,0,0,-,0,1,-,0,0,0,0,-,1
+7500,Giacomo Raspadori,Sassuolo,-,-,-,0,0,0,0,0,0,0,0,0,-,0,0,1,-,0,1
+1185,Iago Falque,Benevento,-,-,0,0,-,-,-,-,-,-,0,0,-,-,-,-,-,1,1
+1433,Federico Chiesa,Fiorentina,0,1,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,1
+7947,Ruslan Malinovskiy,Atalanta,0,0,0,0,0,0,0,-,-,1,0,0,0,0,0,0,0,0,1
+2143,Germán Pezzella,Fiorentina,-,-,-,1,0,-,-,0,0,0,0,0,0,0,0,0,0,0,1
+8856,Razvan Marin,Cagliari,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
 7096,Omar Colley,Sampdoria,0,1,-,-,-,-,-,0,-,0,0,0,0,0,0,0,0,0,1
+8926,Milos Vulic,Crotone,-,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,1,1
+8839,Eduardo Henrique,Crotone,0,0,-,-,-,-,-,-,-,0,1,0,0,-,0,0,0,0,1
+7014,Arkadiusz Reca,Crotone,-,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-,1
+4917,Niccolò Zanellato,Crotone,0,0,-,-,-,0,-,-,-,-,0,0,-,0,1,0,0,0,1
+3989,Salvatore Molina,Crotone,0,0,0,0,1,-,-,-,0,0,0,0,0,0,0,0,0,-,1
+777,Emmanuel Rivière,Crotone,1,-,-,-,0,-,-,0,-,-,0,0,0,0,0,0,0,0,1
+7912,Eljif Elmas,Napoli,0,1,-,-,0,0,0,0,0,-,0,0,0,0,0,0,0,-,1
+1489,Franck Kessié,AC Milan,0,0,0,0,0,1,0,0,0,0,0,0,0,-,0,0,0,0,1
+3429,Tiemoué Bakayoko,Napoli,-,-,0,0,0,0,0,-,0,0,0,0,0,0,0,1,0,-,1
+7953,Nahitan Nández,Cagliari,0,0,0,0,0,0,1,-,-,-,0,0,0,0,0,0,-,-,1
+2019,Federico Bonazzoli,Torino,-,-,0,-,0,0,0,0,-,0,1,0,0,-,-,0,0,-,1
+2264,Diego Godín,Cagliari,-,-,1,0,0,0,0,-,-,-,-,-,0,0,-,-,0,0,1
+1104,Leonardo Pavoletti,Cagliari,-,0,0,0,0,0,0,0,1,0,0,-,0,0,0,0,0,0,1
+8837,Vladimir Golemic,Crotone,0,0,0,0,0,-,-,-,0,-,-,0,-,0,0,1,0,0,1
+7091,Christian Kouamé,Fiorentina,0,1,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,1
+1106,Darko Lazovic,Verona,-,-,0,0,0,1,0,-,-,0,0,0,0,0,0,-,-,0,1
+1425,Nikola Kalinic,Verona,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,1,0,1
+9022,Amer Gojak,Torino,-,-,-,-,-,0,0,-,-,-,0,0,0,-,1,0,0,0,1
+7472,Wilfried Stephane Singo,Torino,-,-,0,0,0,0,0,0,0,0,0,0,-,0,1,0,0,0,1
+3739,Soualiho Meité,Torino,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-,-,-,-,1
+7003,Mehdi Bourabia,Sassuolo,1,0,0,0,0,0,-,-,-,0,0,0,0,-,0,0,-,-,1
+3387,Nicolas N'Koulou,Torino,0,0,0,0,0,-,-,0,-,1,0,-,-,-,-,-,-,-,1
 448,Ivan Perisic,Inter,0,0,0,0,0,1,0,0,0,0,0,-,0,0,0,0,0,-,1
+1119,Alessio Romagnoli,AC Milan,-,-,-,0,0,0,-,0,1,0,0,0,0,0,0,0,0,0,1
+5700,Yann Karamoh,Parma Calcio 1913,0,0,0,1,0,-,0,0,0,0,0,0,0,0,0,0,-,-,1
+8828,Ivan Ilic,Verona,0,-,0,0,0,0,0,0,0,-,-,-,0,1,-,0,0,0,1
+1518,Rodrigo Palacio,Bologna,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7993,Ernesto Torregrossa,Sampdoria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+5996,Adrien Tameze,Verona,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-,1
+4943,Emanuel Vignato,Bologna,0,-,0,-,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+1122,Manuel Locatelli,Sassuolo,0,0,1,0,0,0,0,0,0,0,0,0,-,0,0,0,0,-,1
+6973,Nehuén Paz,Bologna,-,-,-,-,-,-,-,-,-,-,0,0,-,1,0,0,0,-,1
+3291,Adrien Rabiot,Juventus,0,0,0,0,1,0,0,0,0,0,0,-,-,-,0,0,0,-,1
+2244,Danilo,Juventus,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,1,0,-,1
+504,Aaron Ramsey,Juventus,0,0,-,0,0,-,-,0,0,-,-,0,0,0,0,1,0,-,1
+7934,Andreas Skov Olsen,Bologna,0,1,0,-,-,-,-,-,-,-,-,-,-,-,0,-,0,0,1
+8252,Nicolás Domínguez,Bologna,0,-,-,0,-,0,0,0,0,0,0,1,0,0,0,-,0,0,1
+8313,Pierre Kalulu Kyatengwa,AC Milan,-,-,-,-,-,-,-,-,-,-,0,1,0,0,0,0,-,0,1
+8974,Jens Petter Hauge,AC Milan,-,-,0,-,-,-,0,1,0,0,0,0,0,0,-,0,0,0,1
+3772,Maxime Lopez,Sassuolo,-,-,-,0,0,1,0,0,0,0,0,-,0,-,0,-,0,0,1
+1134,Mario Pasalic,Atalanta,0,0,1,0,0,0,0,0,-,-,-,-,-,-,-,-,-,-,1
+1488,Remo Freuler,Atalanta,0,0,0,-,-,0,0,-,0,0,1,0,0,0,0,0,0,0,1
+1710,Marten de Roon,Atalanta,1,0,0,0,0,-,-,0,0,0,0,0,0,0,0,0,0,0,1
+2711,Aleksey Miranchuk,Atalanta,-,-,-,-,-,-,1,0,-,-,0,0,0,0,0,0,0,0,1
+1852,Ante Rebic,AC Milan,0,0,-,-,-,0,0,0,0,0,0,0,-,1,0,-,-,-,1
+1193,Lorenzo De Silvestri,Bologna,0,0,0,0,1,0,0,0,0,0,0,0,0,-,0,-,-,0,1
+1896,Riccardo Gagliolo,Parma Calcio 1913,-,-,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-,-,1
+1500,Leonardo Spinazzola,Roma,0,0,0,0,0,1,0,0,0,0,0,0,0,-,-,-,0,0,1
+222,Arturo Vidal,Inter,0,0,0,0,0,0,0,0,0,0,-,-,0,0,0,0,0,1,1
+7013,Matteo Pessina,Atalanta,-,-,-,-,-,0,0,0,-,0,0,0,0,1,0,0,-,0,1
 1511,Marcelo Brozovic,Inter,0,0,0,0,0,1,0,-,-,0,0,0,0,0,0,0,0,0,1
 1541,Stefan de Vrij,Inter,-,0,0,0,-,0,0,0,0,0,0,0,0,0,0,1,0,0,1
 1445,Simone Verdi,Torino,0,0,0,0,0,0,0,0,0,-,-,-,1,0,0,0,0,0,1
 1226,Karol Linetty,Torino,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-1106,Darko Lazovic,Verona,-,-,0,0,0,1,0,-,-,0,0,0,0,0,0,-,-,0,1
-6182,Pasquale Schiattarella,Benevento,0,0,0,0,0,0,0,0,0,-,0,1,-,0,0,0,0,-,1
-7912,Eljif Elmas,Napoli,0,1,-,-,0,0,0,0,0,-,0,0,0,0,0,0,0,-,1
-4937,Miha Zajc,Genoa,0,0,-,0,0,0,0,0,0,-,-,-,-,0,0,0,1,0,1
-9022,Amer Gojak,Torino,-,-,-,-,-,0,0,-,-,-,0,0,0,-,1,0,0,0,1
-7472,Wilfried Stephane Singo,Torino,-,-,0,0,0,0,0,0,0,0,0,0,-,0,1,0,0,0,1
-3739,Soualiho Meité,Torino,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-,-,-,-,1
-3387,Nicolas N'Koulou,Torino,0,0,0,0,0,-,-,0,-,1,0,-,-,-,-,-,-,-,1
-2019,Federico Bonazzoli,Torino,-,-,0,-,0,0,0,0,-,0,1,0,0,-,-,0,0,-,1
-1642,Simone Zaza,Torino,0,0,-,-,-,-,-,1,0,0,0,-,-,0,-,-,0,0,1
-2447,Fabián,Napoli,0,0,0,0,0,0,0,1,-,0,0,0,0,0,0,0,-,-,1
-1104,Leonardo Pavoletti,Cagliari,-,0,0,0,0,0,0,0,1,0,0,-,0,0,0,0,0,0,1
-2264,Diego Godín,Cagliari,-,-,1,0,0,0,0,-,-,-,-,-,0,0,-,-,0,0,1
-1296,Stefano Sturaro,Genoa,-,-,-,-,-,-,-,0,0,0,1,0,0,-,-,-,-,-,1
-8884,Alessandro Tuia,Benevento,0,0,0,-,0,0,-,-,0,0,0,0,0,0,0,1,-,0,1
-1178,Davide Zappacosta,Genoa,1,0,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,1
-1115,Goran Pandev,Genoa,1,0,0,0,0,0,0,0,0,-,0,-,0,0,-,-,-,0,1
-7953,Nahitan Nández,Cagliari,0,0,0,0,0,0,1,-,-,-,0,0,0,0,0,0,-,-,1
-1723,Roberto Pereyra,Udinese,-,-,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-,1
-8856,Razvan Marin,Cagliari,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-3429,Tiemoué Bakayoko,Napoli,-,-,0,0,0,0,0,-,0,0,0,0,0,0,0,1,0,-,1
-1185,Iago Falque,Benevento,-,-,0,0,-,-,-,-,-,-,0,0,-,-,-,-,-,1,1
-1425,Nikola Kalinic,Verona,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,1,0,1
-8883,Riccardo Improta,Benevento,0,-,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-6303,Marvin Zeegelaar,Udinese,0,0,-,-,-,-,0,0,0,0,0,0,0,1,0,0,0,-,1
-1030,Fernando Forestieri,Udinese,0,0,0,0,0,0,-,-,1,-,-,-,-,0,0,-,-,-,1
-1272,Ilija Nestorovski,Udinese,0,0,0,-,-,-,-,-,-,1,0,0,0,0,0,0,0,-,1
-3842,Claudio Terzi,Spezia,-,0,-,0,0,0,0,0,0,0,0,-,0,0,-,0,1,0,1
-7937,Julian Chabot,Spezia,0,0,0,0,1,0,0,0,0,0,0,0,-,0,0,-,0,0,1
-8010,Kevin Agudelo,Spezia,0,-,0,0,1,0,0,-,0,0,0,0,0,-,0,0,0,-,1
-8913,Emmanuel Gyasi,Spezia,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
-6421,Brahim Diaz,AC Milan,0,1,0,-,-,0,0,-,0,0,0,0,0,-,0,0,0,0,1
 2303,Samu Castillejo,AC Milan,0,0,-,0,0,-,-,0,-,1,0,0,0,0,0,0,0,0,1
-1852,Ante Rebic,AC Milan,0,0,-,-,-,0,0,0,0,0,0,0,-,1,0,-,-,-,1
-1119,Alessio Romagnoli,AC Milan,-,-,-,0,0,0,-,0,1,0,0,0,0,0,0,0,0,0,1
-7003,Mehdi Bourabia,Sassuolo,1,0,0,0,0,0,-,-,-,0,0,0,0,-,0,0,-,-,1
-7500,Giacomo Raspadori,Sassuolo,-,-,-,0,0,0,0,0,0,0,0,0,-,0,0,1,-,0,1
-1164,Cristiano Biraghi,Fiorentina,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-,0,0,0,1
-1433,Federico Chiesa,Fiorentina,0,1,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,1
-6180,Manuel Lazzari,Lazio,1,0,0,-,0,-,0,0,0,0,0,0,0,0,0,0,0,0,1
-1809,Joaquín Correa,Lazio,0,-,0,0,0,0,0,1,0,-,0,0,-,0,-,-,-,-,1
-922,Andreas Pereira,Lazio,-,-,-,-,0,1,0,0,0,0,0,0,0,0,0,-,0,-,1
-6324,Marash Kumbulla,Roma,-,0,0,0,1,0,-,-,-,0,0,0,-,0,-,0,-,-,1
-7609,Carles Pérez,Roma,-,-,0,1,-,0,-,0,0,-,0,-,0,-,0,0,-,-,1
-1942,Martín Cáceres,Fiorentina,0,0,0,0,0,0,0,-,0,0,-,0,-,1,0,-,0,-,1
-2143,Germán Pezzella,Fiorentina,-,-,-,1,0,-,-,0,0,0,0,0,0,0,0,0,0,0,1
-7091,Christian Kouamé,Fiorentina,0,1,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,1
-8837,Vladimir Golemic,Crotone,0,0,0,0,0,-,-,-,0,-,-,0,-,0,0,1,0,0,1
-1489,Franck Kessié,AC Milan,0,0,0,0,0,1,0,0,0,0,0,0,0,-,0,0,0,0,1
-777,Emmanuel Rivière,Crotone,1,-,-,-,0,-,-,0,-,-,0,0,0,0,0,0,0,0,1
-3989,Salvatore Molina,Crotone,0,0,0,0,1,-,-,-,0,0,0,0,0,0,0,0,0,-,1
-4917,Niccolò Zanellato,Crotone,0,0,-,-,-,0,-,-,-,-,0,0,-,0,1,0,0,0,1
-7014,Arkadiusz Reca,Crotone,-,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-,1
-8839,Eduardo Henrique,Crotone,0,0,-,-,-,-,-,-,-,0,1,0,0,-,0,0,0,0,1
-8926,Milos Vulic,Crotone,-,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,1,1
+6421,Brahim Diaz,AC Milan,0,1,0,-,-,0,0,-,0,0,0,0,0,-,0,0,0,0,1
+8913,Emmanuel Gyasi,Spezia,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+6303,Marvin Zeegelaar,Udinese,0,0,-,-,-,-,0,0,0,0,0,0,0,1,0,0,0,0,1
+1272,Ilija Nestorovski,Udinese,0,0,0,-,-,-,-,-,-,1,0,0,0,0,0,0,0,-,1
+1142,Samir,Udinese,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1030,Fernando Forestieri,Udinese,0,0,0,0,0,0,-,-,1,-,-,-,-,0,0,-,-,-,1
+8010,Kevin Agudelo,Spezia,0,-,0,0,1,0,0,-,0,0,0,0,0,-,0,0,0,-,1
+7937,Julian Chabot,Spezia,0,0,0,0,1,0,0,0,0,0,0,0,-,0,0,-,0,0,1
 7375,Roberto Piccoli,Spezia,-,-,0,0,0,-,-,-,0,0,0,-,1,0,0,-,0,0,1
+3842,Claudio Terzi,Spezia,-,0,-,0,0,0,0,0,0,0,0,-,0,0,-,0,1,0,1
 2044,Daniele Verde,Spezia,-,0,0,1,0,0,-,-,-,-,0,-,-,-,-,-,-,-,1
-1142,Samir,Udinese,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1
-1710,Marten de Roon,Atalanta,1,0,0,0,0,-,-,0,0,0,0,0,0,0,0,0,0,-,1
-1896,Riccardo Gagliolo,Parma Calcio 1913,-,-,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-,-,1
-5700,Yann Karamoh,Parma Calcio 1913,0,0,0,1,0,-,0,0,0,0,0,0,0,0,0,0,-,-,1
-8828,Ivan Ilic,Verona,0,-,0,0,0,0,0,0,0,-,-,-,0,1,-,0,0,0,1
-7993,Ernesto Torregrossa,Sampdoria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
-5996,Adrien Tameze,Verona,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-,1
-1122,Manuel Locatelli,Sassuolo,0,0,1,0,0,0,0,0,0,0,0,0,-,0,0,0,0,-,1
-3291,Adrien Rabiot,Juventus,0,0,0,0,1,0,0,0,0,0,0,-,-,-,0,0,0,-,1
-2244,Danilo,Juventus,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,1,0,-,1
-504,Aaron Ramsey,Juventus,0,0,-,0,0,-,-,0,0,-,-,0,0,0,0,1,0,-,1
-1134,Mario Pasalic,Atalanta,0,0,1,0,0,0,0,0,-,-,-,-,-,-,-,-,-,-,1
-1500,Leonardo Spinazzola,Roma,0,0,0,0,0,1,0,0,0,0,0,0,0,-,-,-,0,0,1
-1488,Remo Freuler,Atalanta,0,0,0,-,-,0,0,-,0,0,1,0,0,0,0,0,0,-,1
-2711,Aleksey Miranchuk,Atalanta,-,-,-,-,-,-,1,0,-,-,0,0,0,0,0,0,0,-,1
-7013,Matteo Pessina,Atalanta,-,-,-,-,-,0,0,0,-,0,0,0,0,1,0,0,-,-,1
-7947,Ruslan Malinovskiy,Atalanta,0,0,0,0,0,0,0,-,-,1,0,0,0,0,0,0,0,-,1
-3772,Maxime Lopez,Sassuolo,-,-,-,0,0,1,0,0,0,0,0,-,0,-,0,-,0,0,1
-8974,Jens Petter Hauge,AC Milan,-,-,0,-,-,-,0,1,0,0,0,0,0,0,-,0,0,0,1
-8313,Pierre Kalulu Kyatengwa,AC Milan,-,-,-,-,-,-,-,-,-,-,0,1,0,0,0,0,-,0,1
-8252,Nicolás Domínguez,Bologna,0,-,-,0,-,0,0,0,0,0,0,1,0,0,0,-,0,0,1
-7934,Andreas Skov Olsen,Bologna,0,1,0,-,-,-,-,-,-,-,-,-,-,-,0,-,0,0,1
-6973,Nehuén Paz,Bologna,-,-,-,-,-,-,-,-,-,-,0,0,-,1,0,0,0,-,1
-4943,Emanuel Vignato,Bologna,0,-,0,-,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-1518,Rodrigo Palacio,Bologna,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-1193,Lorenzo De Silvestri,Bologna,0,0,0,0,1,0,0,0,0,0,0,0,0,-,0,-,-,0,1
 7938,Tommaso Augello,Sampdoria,0,0,0,1,0,0,0,-,0,0,0,0,0,0,0,0,0,0,1
 8820,Jacopo Segre,Torino,-,0,-,0,-,-,-,-,-,0,-,0,-,0,0,0,0,0,0
 8819,Mergim Vojvoda,Torino,0,0,0,0,0,0,0,-,-,-,0,0,0,0,-,0,-,-,0
@@ -339,13 +339,13 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,total
 1474,Alfred Duncan,Fiorentina,0,-,0,-,-,0,-,0,-,-,-,-,-,-,-,-,-,-,0
 7625,Manolo Portanova,Juventus,-,-,0,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,0
 4903,Mamadou Coulibaly,Udinese,0,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0
-3951,Kevin Bonifazi,Udinese,-,-,-,-,0,0,-,-,-,0,0,0,0,0,0,0,0,-,0
-3821,Rolando Mandragora,Udinese,-,-,-,-,-,-,-,0,-,0,-,0,-,0,0,0,0,-,0
+3951,Kevin Bonifazi,Udinese,-,-,-,-,0,0,-,-,-,0,0,0,0,0,0,0,0,0,0
+3821,Rolando Mandragora,Udinese,-,-,-,-,-,-,-,0,-,0,-,0,-,0,0,0,0,0,0
 3536,Jean-Victor Makengo,Udinese,-,-,-,0,-,0,-,0,-,0,-,-,-,0,-,-,-,-,0
-1431,Sebastien De Maio,Udinese,0,0,0,0,0,0,-,-,-,-,-,0,-,0,-,-,-,-,0
+1431,Sebastien De Maio,Udinese,0,0,0,0,0,0,-,-,-,-,-,0,-,0,-,-,-,0,0
 1273,Mato Jajalo,Udinese,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,0
 1153,Ryder Matos,Udinese,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0
-591,Gerard Deulofeu,Udinese,-,-,-,0,0,0,0,-,-,0,0,0,0,-,-,-,-,-,0
+591,Gerard Deulofeu,Udinese,-,-,-,0,0,0,0,-,-,0,0,0,0,-,-,-,-,0,0
 9105,Radu Dragusin,Juventus,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,0
 7902,Matthijs de Ligt,Juventus,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,-,-,-,0
 7416,Merih Demiral,Juventus,0,-,0,0,0,0,0,-,-,-,-,-,-,-,0,0,-,-,0
@@ -360,10 +360,10 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,total
 1285,Gianluigi Buffon,Juventus,-,-,0,-,0,-,0,-,-,-,-,0,-,-,-,-,-,-,0
 1244,Wojciech Szczesny,Juventus,0,0,-,0,-,0,-,0,0,0,0,-,0,0,0,0,0,-,0
 1120,Mattia De Sciglio,Juventus,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0
-5226,Walace,Udinese,-,-,-,-,0,-,-,-,0,0,-,0,0,0,0,0,0,-,0
+5226,Walace,Udinese,-,-,-,-,0,-,-,-,0,0,-,0,0,0,0,0,0,0,0
 6129,Nícolas,Udinese,-,-,-,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,0
 6206,Bram Nuytinck,Udinese,-,-,-,-,-,-,0,0,0,0,-,-,-,-,-,-,-,-,0
-6262,Jens Stryger Larsen,Udinese,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,-,0
+6262,Jens Stryger Larsen,Udinese,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 4970,Luca Pellegrini,Genoa,-,0,-,0,0,0,0,0,0,0,0,0,-,-,-,-,-,-,0
 4959,Filippo Melegoni,Genoa,0,0,-,0,0,-,-,-,-,-,-,0,-,-,-,-,0,-,0
 2040,Paolo Ghiglione,Genoa,0,0,0,0,-,0,0,0,0,0,-,0,0,0,-,0,0,-,0
@@ -379,12 +379,12 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,total
 1093,Mattia Perin,Genoa,0,-,0,0,0,0,0,0,-,-,0,0,0,0,0,0,0,0,0
 570,Valon Behrami,Genoa,0,0,0,0,0,-,-,-,-,0,0,0,-,0,0,-,0,0,0
 3065,Domenico Criscito,Genoa,-,-,-,-,0,0,0,-,-,-,-,-,0,0,0,0,0,0,0
-8963,Nahuel Molina,Udinese,-,-,0,-,0,-,-,-,0,-,0,-,-,0,0,0,0,-,0
+8963,Nahuel Molina,Udinese,-,-,0,-,0,-,-,-,0,-,0,-,-,0,0,0,0,0,0
 8922,Thomas Ouwejan,Udinese,0,0,0,0,0,0,-,-,-,-,-,-,-,-,0,-,0,-,0
 8487,Martin Palumbo,Udinese,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0
-7095,Juan Musso,Udinese,0,0,0,-,-,0,0,0,0,0,0,0,0,0,0,0,0,-,0
+7095,Juan Musso,Udinese,0,0,0,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 7000,Hidde ter Avest,Udinese,0,0,0,0,-,-,-,-,-,-,-,0,0,-,-,-,-,-,0
-6806,Rodrigo Becão,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,-,0
+6806,Rodrigo Becão,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0
 1089,Juan Cuadrado,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0,-,-,-,-,-,0
 393,Douglas Costa,Juventus,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0
 9124,Mattia Pagliuca,Bologna,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,0
@@ -474,17 +474,17 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,total
 1121,Giacomo Bonaventura,Fiorentina,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0
 329,Franck Ribéry,Fiorentina,0,0,-,0,-,0,0,0,0,0,0,0,0,0,0,0,-,0,0
 6130,Daniel Bessa,Verona,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0
-9233,Joakim Maehle,Atalanta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,-,0
+9233,Joakim Maehle,Atalanta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0
 9189,Emmanuel Gyabuaa,Atalanta,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,0
 8872,Matteo Ruggeri,Atalanta,-,-,-,-,-,-,0,-,0,-,-,-,-,0,-,-,-,-,0
 8475,Bosko Sutalo,Atalanta,0,-,0,-,0,0,-,0,-,-,-,-,-,-,-,-,-,-,0
 8127,Amad Diallo Traore,Atalanta,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,0
-7218,Cristian Romero,Atalanta,-,0,0,0,-,0,0,0,-,0,0,0,0,0,-,0,-,-,0
+7218,Cristian Romero,Atalanta,-,0,0,0,-,0,0,0,-,0,0,0,0,0,-,0,-,0,0
 6242,Johan Mojica,Atalanta,0,0,0,0,0,0,0,-,0,0,-,0,0,-,-,-,-,-,0
-4733,José Luis Palomino,Atalanta,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,-,0
+4733,José Luis Palomino,Atalanta,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0
 2560,Cristiano Piccini,Atalanta,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0
 1927,Berat Gjimshiti,Atalanta,-,0,0,0,0,0,0,-,0,0,0,0,0,0,0,-,0,-,0
-1841,Pierluigi Gollini,Atalanta,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,-,0
+1841,Pierluigi Gollini,Atalanta,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0
 1624,Fabio Depaoli,Atalanta,-,-,-,0,0,-,-,0,-,-,-,-,-,0,-,0,-,-,0
 1387,Faouzi Ghoulam,Napoli,-,0,0,0,-,-,-,-,-,0,0,0,-,0,-,-,-,-,0
 1377,Nikola Maksimovic,Napoli,-,0,-,-,-,-,-,-,0,-,-,0,0,0,0,0,-,-,0

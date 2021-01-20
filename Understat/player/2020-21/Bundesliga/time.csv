@@ -1,70 +1,77 @@
 id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,total
-5340,Marco Friedl,Werder Bremen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
-5262,Alexander Schwolow,Hertha Berlin,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
-125,Maximilian Eggestein,Werder Bremen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
-315,Matthias Ginter,Borussia M.Gladbach,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
-6082,Jiri Pavlenka,Werder Bremen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
-281,Lukas Hradecky,Bayer Leverkusen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
 110,Theodor Gebre Selassie,Werder Bremen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+217,Manuel Neuer,Bayern Munich,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+315,Matthias Ginter,Borussia M.Gladbach,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+125,Maximilian Eggestein,Werder Bremen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+3286,Kevin Trapp,Eintracht Frankfurt,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+5288,Gregor Kobel,VfB Stuttgart,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+8808,Wataru Endo,VfB Stuttgart,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+5260,Andreas Luthe,Union Berlin,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+5262,Alexander Schwolow,Hertha Berlin,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+281,Lukas Hradecky,Bayer Leverkusen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+5293,Rafal Gikiewicz,Augsburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+2611,Philipp Lienhart,Freiburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+6082,Jiri Pavlenka,Werder Bremen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+6100,Felix Uduokhai,Augsburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+4243,Christian Günter,Freiburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+5328,Florian Müller,Freiburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+161,Robin Knoche,Union Berlin,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+5340,Marco Friedl,Werder Bremen,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+8786,Stefan Ortega Moreno,Arminia Bielefeld,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+5241,Péter Gulácsi,RasenBallsport Leipzig,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
+370,Marvin Friedrich,Union Berlin,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1530
 418,Niklas Stark,Hertha Berlin,83,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1523
 373,Mats Hummels,Borussia Dortmund,90,90,90,90,90,87,90,90,90,90,90,85,90,90,90,90,90,1522
+7876,Christopher Lenz,Union Berlin,87,90,90,90,90,90,90,90,90,81,90,90,90,90,90,90,81,1509
+224,Thomas Müller,Bayern Munich,83,90,90,90,70,90,90,90,90,90,90,90,90,89,90,89,90,1501
+157,Daniel Caligiuri,Augsburg,87,90,90,90,90,90,90,90,90,90,90,90,90,90,90,59,90,1496
+2668,Martin Hinteregger,Eintracht Frankfurt,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,55,90,1495
+127,Timo Horn,FC Cologne,90,90,90,90,90,90,39,90,90,90,90,90,90,90,90,90,90,1479
+8792,Fabian Klos,Arminia Bielefeld,90,90,90,90,90,90,90,64,90,86,90,90,73,90,90,90,81,1474
 6556,Moussa Diaby,Bayer Leverkusen,90,90,90,90,90,81,90,81,90,90,90,90,90,68,63,90,90,1463
+4291,Marc-Oliver Kempf,VfB Stuttgart,90,90,90,90,33,90,90,90,90,90,90,80,90,83,90,90,90,1456
+2645,Marcel Hartel,Arminia Bielefeld,90,89,90,90,90,90,50,90,90,90,82,90,83,72,90,90,89,1455
+8791,Ritsu Doan,Arminia Bielefeld,74,74,89,90,90,65,86,90,76,90,90,90,90,90,90,90,89,1453
 7052,Wout Weghorst,Wolfsburg,90,12,90,90,90,90,90,90,90,90,90,90,90,90,90,90,88,1450
-449,Robin Zentner,Mainz 05,90,90,90,90,90,90,90,90,90,90,90,90,90,-,90,90,90,1440
-6100,Felix Uduokhai,Augsburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-8808,Wataru Endo,VfB Stuttgart,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-5288,Gregor Kobel,VfB Stuttgart,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-5293,Rafal Gikiewicz,Augsburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-199,Yann Sommer,Borussia M.Gladbach,90,90,90,90,90,90,90,90,90,90,-,90,90,90,90,90,90,1440
-3286,Kevin Trapp,Eintracht Frankfurt,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-4243,Christian Günter,Freiburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-2611,Philipp Lienhart,Freiburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-5328,Florian Müller,Freiburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-5241,Péter Gulácsi,RasenBallsport Leipzig,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-370,Marvin Friedrich,Union Berlin,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-217,Manuel Neuer,Bayern Munich,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-161,Robin Knoche,Union Berlin,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-73,Oliver Baumann,Hoffenheim,90,90,90,90,-,90,90,90,90,90,90,90,90,90,90,90,90,1440
-5260,Andreas Luthe,Union Berlin,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
-8786,Stefan Ortega Moreno,Arminia Bielefeld,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,1440
 159,Koen Casteels,Wolfsburg,90,-,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,1440
-7876,Christopher Lenz,Union Berlin,87,90,90,90,90,90,90,90,90,81,90,90,90,90,90,90,-,1428
-224,Thomas Müller,Bayern Munich,83,90,90,90,70,90,90,90,90,90,90,90,90,89,90,89,-,1411
-157,Daniel Caligiuri,Augsburg,87,90,90,90,90,90,90,90,90,90,90,90,90,90,90,59,-,1406
-2668,Martin Hinteregger,Eintracht Frankfurt,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,55,-,1405
-8792,Fabian Klos,Arminia Bielefeld,90,90,90,90,90,90,90,64,90,86,90,90,73,90,90,90,-,1393
-127,Timo Horn,FC Cologne,90,90,90,90,90,90,39,90,90,90,90,90,90,90,90,90,-,1389
+7791,Sebastiaan Bornauw,FC Cologne,90,90,90,90,90,90,90,-,90,90,90,90,90,90,90,90,90,1440
+449,Robin Zentner,Mainz 05,90,90,90,90,90,90,90,90,90,90,90,90,90,-,90,90,90,1440
+199,Yann Sommer,Borussia M.Gladbach,90,90,90,90,90,90,90,90,90,90,-,90,90,90,90,90,90,1440
+2665,Jeffrey Gouweleeuw,Augsburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,90,90,1440
+73,Oliver Baumann,Hoffenheim,90,90,90,90,-,90,90,90,90,90,90,90,90,90,90,90,90,1440
+6088,Orel Mangala,VfB Stuttgart,90,87,90,90,90,90,90,90,90,90,90,-,90,90,90,90,90,1437
+1040,Angelino,RasenBallsport Leipzig,90,90,84,90,90,90,90,90,90,90,-,90,90,90,90,90,90,1434
+3347,Ellyes Skhiri,FC Cologne,90,90,87,90,90,60,-,90,90,90,90,66,90,90,90,90,90,1383
 4250,Nicolas Höfler,Freiburg,90,90,90,90,90,90,76,41,90,90,90,90,90,90,90,90,-,1377
+6170,André Silva,Eintracht Frankfurt,90,87,90,88,73,90,90,79,90,74,-,87,77,90,90,90,90,1375
 22,John Brooks,Wolfsburg,90,90,90,90,90,90,90,90,90,90,90,-,16,90,90,90,90,1366
-2645,Marcel Hartel,Arminia Bielefeld,90,89,90,90,90,90,50,90,90,90,82,90,83,72,90,90,-,1366
-4291,Marc-Oliver Kempf,VfB Stuttgart,90,90,90,90,33,90,90,90,90,90,90,80,90,83,90,90,-,1366
-8791,Ritsu Doan,Arminia Bielefeld,74,74,89,90,90,65,86,90,76,90,90,90,90,90,90,90,-,1364
+391,David Alaba,Bayern Munich,-,90,90,90,90,10,90,90,90,90,90,90,90,90,90,90,90,1360
 7295,Joshua Sargent,Werder Bremen,90,89,82,90,90,90,90,90,-,61,90,66,90,90,82,90,74,1354
 7831,Stefan Lainer,Borussia M.Gladbach,90,90,90,79,90,90,78,90,24,65,25,90,90,90,90,90,90,1351
-7791,Sebastiaan Bornauw,FC Cologne,90,90,90,90,90,90,90,-,90,90,90,90,90,90,90,90,-,1350
-2665,Jeffrey Gouweleeuw,Augsburg,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,90,-,1350
-7813,Jeremiah St. Juste,Mainz 05,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,-,1350
 309,Roman Bürki,Borussia Dortmund,90,90,-,-,90,90,90,90,90,90,90,90,90,90,90,90,90,1350
-6088,Orel Mangala,VfB Stuttgart,90,87,90,90,90,90,90,90,90,90,90,-,90,90,90,90,-,1347
-1040,Angelino,RasenBallsport Leipzig,90,90,84,90,90,90,90,90,90,90,-,90,90,90,90,90,-,1344
+7813,Jeremiah St. Juste,Mainz 05,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,-,-,1350
 5989,Moussa Niakhate,Mainz 05,90,77,-,90,90,90,90,90,90,90,90,90,90,-,90,90,90,1337
+5243,Dayotchanculle Upamecano,RasenBallsport Leipzig,90,90,72,90,90,90,-,46,47,90,90,90,90,90,90,90,90,1335
+227,Robert Lewandowski,Bayern Munich,90,30,90,86,70,-,90,90,90,90,90,90,90,90,90,90,68,1334
+5240,Ondrej Duda,FC Cologne,90,77,78,74,82,90,90,66,90,90,77,-,90,90,46,90,89,1309
 212,Nico Elvedi,Borussia M.Gladbach,90,90,90,90,90,46,90,90,-,-,90,90,90,90,90,90,90,1306
+5266,Vincenzo Grifo,Freiburg,90,80,34,70,79,82,25,90,90,84,86,69,81,84,75,90,90,1299
 6490,Manuel Akanji,Borussia Dortmund,90,90,90,-,90,90,90,90,90,-,87,90,85,90,90,44,90,1296
-3347,Ellyes Skhiri,FC Cologne,90,90,87,90,90,60,-,90,90,90,90,66,90,90,90,90,-,1293
 7868,Diadie Samassékou,Hoffenheim,81,90,-,90,90,90,79,90,90,90,87,90,-,80,62,90,90,1289
-6170,André Silva,Eintracht Frankfurt,90,87,90,88,73,90,90,79,90,74,-,87,77,90,90,90,-,1285
+2693,Marius Wolf,FC Cologne,-,-,43,90,90,90,90,80,90,90,90,90,85,90,90,90,90,1288
 7783,Xaver Schlager,Wolfsburg,90,31,64,48,60,90,90,90,90,90,90,90,-,90,90,90,90,1283
-133,Kevin Vogt,Hoffenheim,90,90,90,90,90,90,90,-,-,90,90,90,90,90,90,46,61,1277
 7875,Christopher Trimmel,Union Berlin,90,74,69,90,81,-,90,90,90,81,90,90,72,90,90,90,-,1277
+133,Kevin Vogt,Hoffenheim,90,90,90,90,90,90,90,-,-,90,90,90,90,90,90,46,61,1277
+8794,Cédric Brunner,Arminia Bielefeld,78,90,90,-,-,66,90,90,90,90,90,90,83,90,90,58,90,1275
 7107,Jean-Paul Boëtius,Mainz 05,21,82,90,90,90,90,88,90,88,90,69,-,90,72,78,82,63,1273
 27,Vladimir Darida,Hertha Berlin,90,48,90,80,90,90,88,77,90,49,75,-,90,90,74,90,61,1272
-391,David Alaba,Bayern Munich,-,90,90,90,90,10,90,90,90,90,90,90,90,90,90,90,-,1270
 8853,Maxence Lacroix,Wolfsburg,90,-,90,90,90,90,90,90,90,90,90,90,90,9,-,90,90,1269
-227,Robert Lewandowski,Bayern Munich,90,30,90,86,70,-,90,90,90,90,90,90,90,90,90,90,-,1266
 7065,Florian Neuhaus,Borussia M.Gladbach,90,86,90,90,29,73,50,90,82,90,85,-,84,78,90,90,59,1256
-1702,Mike van der Hoorn,Arminia Bielefeld,90,90,90,90,89,83,90,90,90,90,90,90,90,90,-,-,-,1252
+1702,Mike van der Hoorn,Arminia Bielefeld,90,90,90,90,89,83,90,90,90,90,90,90,90,90,-,-,1,1253
+220,Jérôme Boateng,Bayern Munich,74,90,90,-,90,90,73,90,70,87,90,90,90,47,-,90,90,1251
 6345,Jadon Sancho,Borussia Dortmund,80,90,-,66,77,76,73,-,90,90,87,90,90,90,87,90,75,1251
-5243,Dayotchanculle Upamecano,RasenBallsport Leipzig,90,90,72,90,90,90,-,46,47,90,90,90,90,90,90,90,-,1245
+69,Carlos Gruezo,Augsburg,87,90,90,36,90,90,77,-,7,90,86,90,78,90,68,90,90,1249
+7320,Amos Pieper,Arminia Bielefeld,90,90,90,90,90,90,90,90,76,-,-,-,90,90,90,90,90,1246
 5706,Dodi Lukebakio,Hertha Berlin,83,85,88,42,87,76,88,76,70,88,75,29,90,87,90,61,29,1244
 187,Christoph Kramer,Borussia M.Gladbach,90,90,90,90,61,17,78,90,24,90,-,90,90,90,90,72,90,1242
 7080,Matheus Cunha,Hertha Berlin,90,90,90,90,90,90,90,90,90,90,-,90,47,83,-,29,90,1239
@@ -72,138 +79,138 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,total
 283,David Abraham,Eintracht Frankfurt,90,90,64,90,-,90,90,90,90,90,90,84,-,90,90,90,-,1228
 8807,Silas Wamangituka,VfB Stuttgart,90,83,61,90,58,15,73,90,90,90,68,90,61,90,88,90,-,1227
 6708,Bote Baku,Wolfsburg,-,-,17,90,90,90,90,90,90,90,90,71,88,90,90,72,76,1224
-5240,Ondrej Duda,FC Cologne,90,77,78,74,82,90,90,66,90,90,77,-,90,90,46,90,-,1220
 443,Peter Pekarík,Hertha Berlin,83,48,90,20,49,90,90,86,90,90,90,18,75,83,74,90,47,1213
 5654,Baptiste Santamaria,Freiburg,-,90,90,90,62,90,65,90,90,90,90,90,90,89,90,4,-,1210
-5266,Vincenzo Grifo,Freiburg,90,80,34,70,79,82,25,90,90,84,86,69,81,84,75,90,-,1209
 5221,Leon Bailey,Bayer Leverkusen,-,11,7,69,90,90,90,90,90,90,76,67,79,90,90,90,90,1209
 8317,Edmond Tapsoba,Bayer Leverkusen,90,90,90,90,90,90,90,-,-,16,90,22,90,90,90,90,90,1208
-2693,Marius Wolf,FC Cologne,-,-,43,90,90,90,90,80,90,90,90,90,85,90,90,90,-,1198
+285,Bastian Oczipka,Schalke 04,90,90,90,90,90,90,90,90,-,84,90,90,90,90,16,9,17,1206
 82,Nadiem Amiri,Bayer Leverkusen,26,10,7,90,90,90,90,81,-,90,90,79,90,90,90,90,90,1193
-285,Bastian Oczipka,Schalke 04,90,90,90,90,90,90,90,90,-,84,90,90,90,90,16,9,-,1189
 153,Maximilian Arnold,Wolfsburg,90,59,90,90,90,-,90,90,90,90,90,90,-,90,51,-,89,1189
 5353,Josip Brekalo,Wolfsburg,90,90,90,90,-,68,76,81,90,90,71,71,61,74,67,18,61,1188
-8794,Cédric Brunner,Arminia Bielefeld,78,90,90,-,-,66,90,90,90,90,90,90,83,90,90,58,-,1185
+106,Waldemar Anton,VfB Stuttgart,90,90,90,-,-,-,17,90,90,90,90,90,90,90,90,90,90,1187
+7877,Robert Andrich,Union Berlin,90,90,82,90,90,90,90,85,90,22,-,-,-,90,90,90,90,1179
 5680,Thomas Meunier,Borussia Dortmund,90,71,85,77,80,90,90,90,61,-,-,-,80,90,90,90,90,1174
 8789,Manuel Prietl,Arminia Bielefeld,90,90,90,90,90,90,90,90,90,90,90,-,90,89,-,-,-,1169
-220,Jérôme Boateng,Bayern Munich,74,90,90,-,90,90,73,90,70,87,90,90,90,47,-,90,-,1161
-69,Carlos Gruezo,Augsburg,87,90,90,36,90,90,77,-,7,90,86,90,78,90,68,90,-,1159
 956,Andrej Kramaric,Hoffenheim,90,90,90,-,-,-,-,90,90,90,77,90,90,90,90,90,90,1157
 4468,Dedryck Boyata,Hertha Berlin,90,90,90,90,90,90,90,90,90,90,90,90,76,-,-,-,-,1156
-7320,Amos Pieper,Arminia Bielefeld,90,90,90,90,90,90,90,90,76,-,-,-,90,90,90,90,-,1156
 8397,Florian Wirtz,Bayer Leverkusen,86,90,83,-,25,90,90,90,90,74,90,90,90,68,-,-,90,1146
+8292,Dani Olmo,RasenBallsport Leipzig,70,88,84,79,21,66,26,46,64,15,90,90,43,90,90,90,87,1139
+282,Makoto Hasebe,Eintracht Frankfurt,90,90,90,90,90,90,90,-,-,-,-,90,90,90,78,90,68,1136
 3059,Axel Witsel,Borussia Dortmund,90,85,90,90,19,7,90,90,90,90,90,90,90,90,29,-,-,1130
 81,Jonathan Schmid,Freiburg,79,90,85,90,90,90,25,90,90,90,77,90,90,50,-,-,-,1126
+6145,Daichi Kamada,Eintracht Frankfurt,89,90,88,90,48,90,87,63,90,90,90,1,-,76,81,9,42,1124
 208,Lars Stindl,Borussia M.Gladbach,59,90,78,72,55,10,90,79,18,90,5,90,89,90,85,73,31,1104
-106,Waldemar Anton,VfB Stuttgart,90,90,90,-,-,-,17,90,90,90,90,90,90,90,90,90,-,1097
+6475,Lucas Höler,Freiburg,90,90,56,90,90,81,90,88,90,75,68,30,29,20,24,26,60,1097
 316,Gonzalo Castro,VfB Stuttgart,62,74,74,90,90,90,90,78,59,60,-,90,7,75,79,75,-,1093
 1275,Robin Quaison,Mainz 05,69,90,71,31,69,83,2,73,80,90,21,80,90,90,78,68,7,1092
 8191,Giovanni Reyna,Borussia Dortmund,80,90,82,90,71,14,73,12,23,90,90,90,90,90,90,-,15,1090
-7877,Robert Andrich,Union Berlin,90,90,82,90,90,90,90,85,90,22,-,-,-,90,90,90,-,1089
 319,Marco Reus,Borussia Dortmund,10,28,72,24,13,76,90,78,90,-,90,90,72,88,87,90,90,1088
 5257,Willi Orban,RasenBallsport Leipzig,-,-,90,44,90,90,90,44,90,9,90,90,90,90,90,90,-,1087
 5329,Stefan Posch,Hoffenheim,-,90,90,81,90,33,-,90,90,90,80,-,80,-,90,90,90,1084
 7899,Daley Sinkgraven,Bayer Leverkusen,77,90,27,90,90,90,-,90,90,90,67,11,90,-,62,90,29,1083
-6145,Daichi Kamada,Eintracht Frankfurt,89,90,88,90,48,90,87,63,90,90,90,1,-,76,81,9,-,1082
+88,Mark Uth,Schalke 04,90,90,90,-,-,84,90,90,90,90,19,-,-,90,74,90,90,1077
+7075,Borna Sosa,VfB Stuttgart,-,90,61,-,-,75,90,28,90,90,90,46,83,90,90,90,64,1077
+7376,Ozan Kabak,Schalke 04,90,86,-,-,-,-,85,-,90,90,90,90,90,90,90,90,90,1071
 6484,Renato Steffen,Wolfsburg,90,39,-,10,86,90,76,75,66,90,-,-,90,90,90,87,90,1069
 6083,Ludwig Augustinsson,Werder Bremen,90,90,90,90,-,-,-,90,90,90,90,90,90,78,90,-,-,1068
-282,Makoto Hasebe,Eintracht Frankfurt,90,90,90,90,90,90,90,-,-,-,-,90,90,90,78,90,-,1068
 3455,Raphael Guerreiro,Borussia Dortmund,-,62,85,13,90,14,90,86,-,-,87,90,90,90,90,90,90,1067
 42,Julian Baumgartlinger,Bayer Leverkusen,4,-,7,43,90,67,90,90,90,90,84,68,90,90,90,73,-,1066
-8292,Dani Olmo,RasenBallsport Leipzig,70,88,84,79,21,66,26,46,64,15,90,90,43,90,90,90,-,1052
+2456,Omar Mascarell,Schalke 04,-,90,90,90,90,90,90,90,90,90,90,73,14,59,-,-,18,1064
+188,Kevin Kampl,RasenBallsport Leipzig,78,47,77,-,90,66,83,90,90,15,47,90,82,66,-,80,60,1061
+335,Leon Goretzka,Bayern Munich,52,30,90,65,90,-,90,72,90,90,79,-,-,43,90,89,90,1060
 43,Danny Latza,Mainz 05,87,90,90,78,81,83,90,-,-,-,69,13,11,90,90,90,90,1052
-2456,Omar Mascarell,Schalke 04,-,90,90,90,90,90,90,90,90,90,90,73,14,59,-,-,-,1046
-6475,Lucas Höler,Freiburg,90,90,56,90,90,81,90,88,90,75,68,30,29,20,24,26,-,1037
+8065,Iago,Augsburg,90,90,90,-,90,90,90,90,90,-,-,-,78,90,68,-,90,1046
+993,Serge Gnabry,Bayern Munich,73,90,90,65,-,90,90,25,70,23,90,71,90,77,-,27,68,1039
 7882,Sheraldo Becker,Union Berlin,72,58,64,79,72,-,87,86,75,5,90,61,90,90,79,24,-,1032
-38,Daniel Brosinski,Mainz 05,90,82,90,90,90,90,50,90,88,-,90,-,-,81,90,-,-,1021
+3363,Benjamin Pavard,Bayern Munich,90,60,23,90,-,90,-,90,90,90,90,-,-,47,90,90,90,1030
+7810,Ruben Vargas,Augsburg,77,-,32,36,42,79,77,83,90,90,90,17,24,71,68,75,73,1024
 5759,Matteo Guendouzi,Hertha Berlin,-,-,-,-,-,31,90,90,90,90,90,90,90,90,90,90,90,1021
-7075,Borna Sosa,VfB Stuttgart,-,90,61,-,-,75,90,28,90,90,90,46,83,90,90,90,-,1013
+38,Daniel Brosinski,Mainz 05,90,82,90,90,90,90,50,90,88,-,90,-,-,81,90,-,-,1021
+5251,Rani Khedira,Augsburg,90,65,73,75,83,-,14,90,74,-,90,90,90,1,48,88,47,1018
+6445,Elvis Rexhbecaj,FC Cologne,76,88,90,90,90,-,26,24,75,90,83,66,90,62,44,1,17,1012
 4340,Grischa Prömel,Union Berlin,72,89,90,90,-,-,-,61,86,86,90,90,90,78,-,90,-,1012
 5735,Jean-Philippe Mateta,Mainz 05,90,86,60,78,90,58,83,83,90,90,90,10,79,9,12,-,-,1008
+64,Filip Kostic,Eintracht Frankfurt,90,14,-,-,-,-,3,90,90,90,90,90,88,90,90,90,90,1005
 3743,Lucas Tousart,Hertha Berlin,90,90,90,90,90,59,-,-,-,49,15,72,-,90,90,90,90,1005
 8260,Erling Haaland,Borussia Dortmund,90,90,90,24,90,-,90,86,90,-,-,-,-,84,90,90,90,1004
-188,Kevin Kampl,RasenBallsport Leipzig,78,47,77,-,90,66,83,90,90,15,47,90,82,66,-,80,-,1001
-6445,Elvis Rexhbecaj,FC Cologne,76,88,90,90,90,-,26,24,75,90,83,66,90,62,44,1,-,995
-88,Mark Uth,Schalke 04,90,90,90,-,-,84,90,90,90,90,19,-,-,90,74,90,-,987
+3290,Benjamin Stambouli,Schalke 04,90,48,90,-,-,-,-,47,-,90,90,90,90,90,90,90,90,995
+326,Pascal Stenzel,VfB Stuttgart,-,90,-,90,90,90,90,78,-,43,1,36,74,75,90,83,57,987
 52,Alexander Hack,Mainz 05,-,8,90,-,-,-,-,90,90,90,78,90,90,90,90,90,90,986
-7376,Ozan Kabak,Schalke 04,90,86,-,-,-,-,85,-,90,90,90,90,90,90,90,90,-,981
+7814,Taiwo Awoniyi,Union Berlin,-,59,-,22,18,79,13,74,90,57,90,90,86,85,78,79,60,980
 7109,Leandro Barreiro Martins,Mainz 05,90,70,-,-,24,-,83,90,90,58,-,90,21,90,90,90,90,976
-5251,Rani Khedira,Augsburg,90,65,73,75,83,-,14,90,74,-,90,90,90,1,48,88,-,971
-993,Serge Gnabry,Bayern Munich,73,90,90,65,-,90,90,25,70,23,90,71,90,77,-,27,-,971
-335,Leon Goretzka,Bayern Munich,52,30,90,65,90,-,90,72,90,90,79,-,-,43,90,89,-,970
+1277,Roland Sallai,Freiburg,79,80,56,70,79,81,76,90,-,15,22,69,61,6,66,64,61,975
+7786,Rafael Czichos,FC Cologne,90,90,47,90,90,90,90,90,66,-,-,-,-,82,8,90,47,970
+2627,Jannes Horn,FC Cologne,90,90,90,90,82,60,17,-,24,90,90,41,1,-,33,80,90,968
+7501,Amadou Haidara,RasenBallsport Leipzig,90,90,90,-,-,24,64,90,28,80,73,13,63,90,73,90,3,961
 5356,Breel Embolo,Borussia M.Gladbach,-,-,1,72,73,73,67,90,72,90,90,24,90,65,90,62,-,959
-7501,Amadou Haidara,RasenBallsport Leipzig,90,90,90,-,-,24,64,90,28,80,73,13,63,90,73,90,-,958
-8065,Iago,Augsburg,90,90,90,-,90,90,90,90,90,-,-,-,78,90,68,-,-,956
 183,Jonathan Tah,Bayer Leverkusen,-,31,-,-,-,23,-,90,90,90,90,90,90,90,90,90,90,954
-7810,Ruben Vargas,Augsburg,77,-,32,36,42,79,77,83,90,90,90,17,24,71,68,75,-,951
+451,Matija Nastasic,Schalke 04,-,-,90,90,90,70,90,90,90,-,1,-,-,90,90,90,72,953
 3339,Jérôme Roussillon,Wolfsburg,71,12,73,90,90,87,90,90,82,78,90,87,-,-,-,-,-,940
-3363,Benjamin Pavard,Bayern Munich,90,60,23,90,-,90,-,90,90,90,90,-,-,47,90,90,-,940
+306,Florian Niederlechner,Augsburg,77,64,58,36,76,-,30,66,83,90,68,-,66,90,88,31,17,940
 7431,Jean-Manuel Mbom,Werder Bremen,-,90,90,78,90,72,74,15,31,-,8,87,-,42,90,90,82,939
 6327,Kevin Akpoguma,Hoffenheim,90,90,90,90,90,90,90,90,90,-,13,90,10,16,-,-,-,939
-326,Pascal Stenzel,VfB Stuttgart,-,90,-,90,90,90,90,78,-,43,1,36,74,75,90,83,-,930
+307,Suat Serdar,Schalke 04,29,-,21,-,-,-,-,78,90,90,90,90,90,90,90,90,90,938
+5292,Manuel Gulde,Freiburg,1,1,56,-,-,-,85,-,84,90,90,90,90,90,80,90,90,937
 320,Jonas Hofmann,Borussia M.Gladbach,90,90,89,90,29,90,90,-,-,-,-,-,-,90,90,90,90,928
-306,Florian Niederlechner,Augsburg,77,64,58,36,76,-,30,66,83,90,68,-,66,90,88,31,-,923
-7786,Rafael Czichos,FC Cologne,90,90,47,90,90,90,90,90,66,-,-,-,-,82,8,90,-,923
+2624,Djibril Sow,Eintracht Frankfurt,-,3,-,-,13,-,10,90,89,90,90,90,90,90,88,90,90,923
+79,Tobias Strobl,Augsburg,1,1,17,54,14,90,76,90,90,90,74,90,12,90,90,-,43,922
 604,Emre Can,Borussia Dortmund,90,90,90,90,-,-,-,77,90,90,60,10,80,2,61,90,-,920
-7814,Taiwo Awoniyi,Union Berlin,-,59,-,22,18,79,13,74,90,57,90,90,86,85,78,79,-,920
-64,Filip Kostic,Eintracht Frankfurt,90,14,-,-,-,-,3,90,90,90,90,90,88,90,90,90,-,915
-1277,Roland Sallai,Freiburg,79,80,56,70,79,81,76,90,-,15,22,69,61,6,66,64,-,914
+7883,Marcus Ingvartsen,Union Berlin,87,32,82,12,60,-,-,74,86,90,35,-,-,90,88,90,90,916
+5248,Marcel Sabitzer,RasenBallsport Leipzig,-,-,-,-,18,90,90,90,19,75,73,76,47,90,63,90,90,911
 184,Ömer Toprak,Werder Bremen,-,-,-,12,-,18,73,90,90,90,73,86,54,85,90,90,56,907
-3290,Benjamin Stambouli,Schalke 04,90,48,90,-,-,-,-,47,-,90,90,90,90,90,90,90,-,905
 421,Lars Bender,Bayer Leverkusen,90,90,-,90,35,90,89,47,90,84,76,-,-,-,28,-,90,899
+5254,Marcel Halstenberg,RasenBallsport Leipzig,90,-,90,90,-,-,-,-,47,-,90,42,90,90,90,90,90,899
+5249,Emil Forsberg,RasenBallsport Leipzig,78,67,73,66,69,24,64,44,26,65,17,48,43,73,63,48,30,898
 8146,Ismail Jakobs,FC Cologne,-,-,-,90,90,90,90,90,90,90,83,90,-,-,82,10,-,895
 419,Maximilian Mittelstädt,Hertha Berlin,90,90,90,90,87,76,-,4,-,2,-,29,90,3,90,87,61,889
 7815,Christian Groß,Werder Bremen,-,1,14,2,72,85,90,90,86,88,90,90,90,90,-,-,-,888
 206,Oscar Wendt,Borussia M.Gladbach,71,19,-,79,90,44,-,90,90,90,65,86,-,86,1,-,74,885
-451,Matija Nastasic,Schalke 04,-,-,90,90,90,70,90,90,90,-,1,-,-,90,90,90,-,881
-79,Tobias Strobl,Augsburg,1,1,17,54,14,90,76,90,90,90,74,90,12,90,90,-,-,879
-2627,Jannes Horn,FC Cologne,90,90,90,90,82,60,17,-,24,90,90,41,1,-,33,80,-,878
+7352,Tyler Adams,RasenBallsport Leipzig,90,90,-,90,-,-,7,90,90,90,43,14,90,81,90,-,13,878
+5659,Nordi Mukiele,RasenBallsport Leipzig,1,90,90,90,72,-,47,-,62,75,66,48,90,-,-,68,77,876
 262,Leonardo Bittencourt,Werder Bremen,42,70,82,67,90,72,90,68,72,60,82,24,-,48,-,-,8,875
-5249,Emil Forsberg,RasenBallsport Leipzig,78,67,73,66,69,24,64,44,26,65,17,48,43,73,63,48,-,868
-7352,Tyler Adams,RasenBallsport Leipzig,90,90,-,90,-,-,7,90,90,90,43,14,90,81,90,-,-,865
-5294,Salih Özcan,FC Cologne,14,13,-,16,8,90,90,84,90,38,90,90,90,82,46,20,-,861
+5294,Salih Özcan,FC Cologne,14,13,-,16,8,90,90,84,90,38,90,90,90,82,46,20,8,869
+226,Kingsley Coman,Bayern Munich,-,14,-,86,75,-,73,65,70,86,90,90,31,-,19,78,81,858
+330,Ralf Fährmann,Schalke 04,90,90,47,-,-,-,-,-,-,-,90,90,90,90,90,90,90,857
 228,Sebastian Rode,Eintracht Frankfurt,77,87,90,90,90,90,-,-,1,67,86,90,70,-,12,-,-,850
-307,Suat Serdar,Schalke 04,29,-,21,-,-,-,-,78,90,90,90,90,90,90,90,90,-,848
-5292,Manuel Gulde,Freiburg,1,1,56,-,-,-,85,-,84,90,90,90,90,90,80,90,-,847
-2624,Djibril Sow,Eintracht Frankfurt,-,3,-,-,13,-,10,90,89,90,90,90,90,90,88,90,-,833
+7401,Keven Schlotterbeck,Freiburg,-,-,34,-,-,-,-,-,90,90,90,90,90,90,90,90,90,844
 7090,Krzysztof Piatek,Hertha Berlin,63,48,21,10,3,6,44,77,70,41,85,80,87,11,23,90,73,832
 1236,Patrik Schick,Bayer Leverkusen,26,90,18,-,-,-,-,21,90,80,67,79,87,90,90,73,20,831
 4336,Raphael Framberger,Augsburg,90,90,90,90,83,60,-,12,-,72,90,60,90,-,-,-,-,827
-7883,Marcus Ingvartsen,Union Berlin,87,32,82,12,60,-,-,74,86,90,35,-,-,90,88,90,-,826
+4248,Nils Petersen,Freiburg,90,89,56,90,88,25,14,90,31,15,77,60,9,21,15,27,30,827
+223,Joshua Kimmich,Bayern Munich,90,90,66,-,90,90,35,-,-,-,-,-,17,90,90,78,90,826
+5717,Amine Harit,Schalke 04,80,-,-,28,90,90,75,38,-,-,-,70,33,59,89,81,90,823
 6837,Ryan Sessegnon,Hoffenheim,-,-,-,9,3,90,90,90,90,90,90,90,90,90,-,-,-,822
-5248,Marcel Sabitzer,RasenBallsport Leipzig,-,-,-,-,18,90,90,90,19,75,73,76,47,90,63,90,-,821
 158,Bas Dost,Eintracht Frankfurt,90,68,81,90,90,90,90,11,90,16,90,-,13,-,-,-,-,819
 8788,Anderson-Lenda Lucoqui,Arminia Bielefeld,74,90,72,90,-,90,-,90,90,90,89,12,-,18,12,-,-,817
 48,Jhon Córdoba,Hertha Berlin,27,42,90,90,87,84,46,-,-,-,-,-,-,79,90,87,90,812
-5254,Marcel Halstenberg,RasenBallsport Leipzig,90,-,90,90,-,-,-,-,47,-,90,42,90,90,90,90,-,809
+7059,Benito Raman,Schalke 04,24,48,-,83,19,6,15,52,64,90,90,73,90,-,21,63,73,811
+6096,Sergio Córdova,Arminia Bielefeld,82,69,72,-,79,24,4,-,-,11,29,90,90,53,78,67,62,810
 5242,Stefan Ilsanker,Eintracht Frankfurt,13,90,90,90,77,48,80,90,90,23,90,3,20,-,2,-,-,806
 6271,Ihlas Bebou,Hoffenheim,23,29,17,81,-,-,11,90,79,90,60,8,18,90,90,90,29,805
-5659,Nordi Mukiele,RasenBallsport Leipzig,1,90,90,90,72,-,47,-,62,75,66,48,90,-,-,68,-,799
-4248,Nils Petersen,Freiburg,90,89,56,90,88,25,14,90,31,15,77,60,9,21,15,27,-,797
 8986,Omar Alderete,Hertha Berlin,-,-,-,-,90,90,90,90,75,-,-,-,-,90,90,90,90,795
 7108,Jonathan Burkardt,Mainz 05,69,8,30,59,21,7,70,-,18,90,78,10,-,81,86,82,83,792
 90,Sebastian Rudy,Hoffenheim,-,-,-,90,90,90,90,-,11,69,47,68,43,11,-,90,90,789
-226,Kingsley Coman,Bayern Munich,-,14,-,86,75,-,73,65,70,86,90,90,31,-,19,78,-,777
-330,Ralf Fährmann,Schalke 04,90,90,47,-,-,-,-,-,-,-,90,90,90,90,90,90,-,767
+337,Leroy Sané,Bayern Munich,73,76,-,-,20,64,17,25,20,67,24,90,42,90,90,63,22,783
+2276,Lucas Hernández,Bayern Munich,90,-,66,90,88,-,90,18,59,-,-,90,90,-,-,-,90,771
 2640,Erik Durm,Eintracht Frankfurt,-,-,-,-,-,-,-,90,80,90,86,90,90,87,88,64,-,765
 96,Salif Sané,Schalke 04,-,42,90,90,90,90,90,-,-,-,90,90,90,-,-,-,-,762
-337,Leroy Sané,Bayern Munich,73,76,-,-,20,64,17,25,20,67,24,90,42,90,90,63,-,761
 2691,Milos Veljkovic,Werder Bremen,-,90,90,90,90,90,-,-,-,-,-,-,36,5,90,90,90,761
 261,Julian Brandt,Borussia Dortmund,10,28,18,66,77,90,17,90,68,74,3,17,18,-,3,90,90,759
-7401,Keven Schlotterbeck,Freiburg,-,-,34,-,-,-,-,-,90,90,90,90,90,90,90,90,-,754
-6096,Sergio Córdova,Arminia Bielefeld,82,69,72,-,79,24,4,-,-,11,29,90,90,53,78,67,-,748
+8812,Sasa Kalajdzic,VfB Stuttgart,23,87,90,89,75,46,5,59,13,60,-,10,16,58,2,33,90,756
+8809,Mateo Klimowicz,VfB Stuttgart,80,16,16,24,-,75,85,28,31,-,89,46,29,7,79,57,90,752
+3300,Christopher Nkunku,RasenBallsport Leipzig,12,23,90,90,90,21,88,72,43,90,-,-,-,-,-,42,87,748
 8140,Munas Dabbur,Hoffenheim,67,83,90,9,78,83,90,-,11,-,-,68,18,10,-,80,61,748
+8813,Tanguy Coulibaly,VfB Stuttgart,-,7,29,66,58,79,17,62,83,74,68,44,62,32,2,7,57,747
 23,Marvin Plattenhardt,Hertha Berlin,-,22,-,68,-,14,90,86,90,90,90,61,-,87,48,-,-,746
 7880,Sebastian Andersson,FC Cologne,90,77,90,90,71,80,90,90,-,1,-,66,-,-,-,-,-,745
-7059,Benito Raman,Schalke 04,24,48,-,83,19,6,15,52,64,90,90,73,90,-,21,63,-,738
-223,Joshua Kimmich,Bayern Munich,90,90,66,-,90,90,35,-,-,-,-,-,17,90,90,78,-,736
-129,Dominique Heintz,Freiburg,90,90,90,90,90,90,90,90,6,-,-,-,-,-,10,-,-,736
-5717,Amine Harit,Schalke 04,80,-,-,28,90,90,75,38,-,-,-,70,33,59,89,81,-,733
-5250,Yussuf Poulsen,RasenBallsport Leipzig,90,26,-,24,21,66,90,44,-,25,90,90,47,24,90,1,-,728
+129,Dominique Heintz,Freiburg,90,90,90,90,90,90,90,90,6,-,-,-,-,-,10,-,2,738
+5250,Yussuf Poulsen,RasenBallsport Leipzig,90,26,-,24,21,66,90,44,-,25,90,90,47,24,90,1,3,731
+412,André Hahn,Augsburg,13,90,58,54,48,90,60,24,90,-,-,-,-,19,22,90,73,731
 155,Max Kruse,Union Berlin,18,31,64,78,90,90,86,90,90,90,-,-,-,-,-,-,-,727
 2631,Karim Onisiwo,Mainz 05,88,90,90,20,-,32,20,17,10,32,90,80,11,18,16,22,90,726
 6338,Lucas Alario,Bayer Leverkusen,64,-,72,90,83,90,84,69,-,-,23,11,3,22,27,17,70,725
 420,Patrick Herrmann,Borussia M.Gladbach,19,4,20,18,90,80,6,68,90,10,64,-,75,86,13,18,59,720
+7049,Evan Ndicka,Eintracht Frankfurt,-,-,-,-,-,-,-,90,90,90,90,-,-,90,90,90,90,720
 1673,Edimilson Fernandes,Mainz 05,-,-,-,31,24,7,90,73,81,58,90,90,85,90,-,-,-,719
 171,Michael Gregoritsch,Augsburg,90,59,58,90,48,75,60,24,16,61,4,73,12,1,42,2,-,715
 3310,Alassane Pléa,Borussia M.Gladbach,31,76,89,-,35,80,12,-,90,80,26,66,-,25,-,28,74,712
@@ -211,146 +218,139 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,total
 5992,Marcus Thuram,Borussia M.Gladbach,31,71,70,88,35,17,84,11,72,24,25,90,80,-,-,-,-,698
 7044,Kevin Möhwald,Werder Bremen,-,-,-,41,18,5,17,75,50,-,82,66,90,-,82,90,82,698
 5219,Aleksandar Dragovic,Bayer Leverkusen,-,1,-,-,55,-,1,39,74,90,6,68,90,90,90,90,-,694
-8205,Jan Thielmann,FC Cologne,76,63,12,-,-,30,17,10,90,90,61,47,90,61,44,-,-,691
-8813,Tanguy Coulibaly,VfB Stuttgart,-,7,29,66,58,79,17,62,83,74,68,44,62,32,2,7,-,690
+8205,Jan Thielmann,FC Cologne,76,63,12,-,-,30,17,10,90,90,61,47,90,61,44,-,1,692
+8801,Sebastian Griesbeck,Union Berlin,66,1,8,-,18,89,13,29,4,33,74,87,90,12,87,-,81,692
 8171,Hannes Wolf,Borussia M.Gladbach,59,14,12,18,17,90,40,90,18,66,85,49,15,4,5,17,85,684
 7074,Nicolás González,VfB Stuttgart,-,-,-,24,32,44,90,31,-,-,22,90,90,90,88,83,-,684
-2276,Lucas Hernández,Bayern Munich,90,-,66,90,88,-,90,18,59,-,-,90,90,-,-,-,-,681
 6081,Dennis Geiger,Hoffenheim,81,61,73,90,90,64,-,90,82,-,-,-,47,-,-,-,-,678
 5273,Kerem Demirbay,Bayer Leverkusen,64,80,83,69,-,23,-,9,90,-,-,22,11,22,90,90,19,672
 8824,Jude Bellingham,Borussia Dortmund,69,62,72,13,-,90,26,27,-,16,65,73,10,-,-,63,84,670
-8812,Sasa Kalajdzic,VfB Stuttgart,23,87,90,89,75,46,5,59,13,60,-,10,16,58,2,33,-,666
-8809,Mateo Klimowicz,VfB Stuttgart,80,16,16,24,-,75,85,28,31,-,89,46,29,7,79,57,-,662
-3300,Christopher Nkunku,RasenBallsport Leipzig,12,23,90,90,90,21,88,72,43,90,-,-,-,-,-,42,-,661
 3349,Ramy Bensebaini,Borussia M.Gladbach,90,90,90,11,-,90,90,-,-,-,-,-,-,4,90,90,16,661
 8213,Paulo Otávio,Wolfsburg,19,78,90,-,-,-,-,-,8,12,-,3,90,90,90,90,90,660
-412,André Hahn,Augsburg,13,90,58,54,48,90,60,24,90,-,-,-,-,19,22,90,-,658
 7867,Robert Skov,Hoffenheim,-,52,73,81,87,27,-,-,34,21,43,82,72,74,-,-,-,646
+7789,Dominick Drexler,FC Cologne,14,43,79,-,-,30,73,66,15,52,7,-,73,8,-,90,89,639
+6531,Alexander Sørloth,RasenBallsport Leipzig,-,64,17,1,90,90,26,46,90,10,17,27,27,17,27,-,90,639
 140,Yannick Gerhardt,Wolfsburg,11,90,26,42,4,90,14,-,-,-,-,-,90,74,90,90,14,635
+300,Daniel Didavi,VfB Stuttgart,90,83,88,66,75,-,1,62,-,-,-,44,82,-,11,7,26,635
 7345,Alphonso Davies,Bayern Munich,-,90,90,1,2,-,-,-,-,-,90,-,90,90,90,90,-,633
-7049,Evan Ndicka,Eintracht Frankfurt,-,-,-,-,-,-,-,90,90,90,90,-,-,90,90,90,-,630
+8799,Joakim Nilsson,Arminia Bielefeld,-,-,-,-,-,90,-,-,14,90,90,78,-,-,90,90,90,632
+3603,Corentin Tolisso,Bayern Munich,38,75,24,76,-,-,55,-,84,-,11,71,73,89,-,12,22,630
 116,Florian Grillitsch,Hoffenheim,-,7,90,9,-,83,64,79,56,90,65,-,86,-,-,-,-,629
-311,Sven Bender,Bayer Leverkusen,90,59,90,90,90,67,90,51,-,-,-,-,-,-,-,-,-,627
 118,Levin Öztunali,Mainz 05,21,20,-,70,66,83,40,90,72,-,-,-,-,-,12,90,63,627
-8801,Sebastian Griesbeck,Union Berlin,66,1,8,-,18,89,13,29,4,33,74,87,90,12,87,-,-,611
-300,Daniel Didavi,VfB Stuttgart,90,83,88,66,75,-,1,62,-,-,-,44,82,-,11,7,-,609
-3603,Corentin Tolisso,Bayern Munich,38,75,24,76,-,-,55,-,84,-,11,71,73,89,-,12,-,608
+311,Sven Bender,Bayer Leverkusen,90,59,90,90,90,67,90,51,-,-,-,-,-,-,-,-,-,627
+5235,Aymen Barkok,Eintracht Frankfurt,43,3,2,2,17,28,44,90,-,74,4,90,76,14,9,81,48,625
+7289,Amin Younes,Eintracht Frankfurt,-,-,-,19,42,28,44,-,-,-,1,74,77,76,81,81,87,610
 5230,Thomas Delaney,Borussia Dortmund,21,-,18,70,90,83,64,-,-,-,-,-,-,90,71,-,90,597
 2638,Alessandro Schöpf,Schalke 04,61,-,90,7,-,6,67,-,26,-,90,17,72,90,69,-,-,595
 7048,Frederik Rönnow,Schalke 04,-,-,43,90,90,90,90,90,90,-,-,-,-,-,-,-,-,583
-5235,Aymen Barkok,Eintracht Frankfurt,43,3,2,2,17,28,44,90,-,74,4,90,76,14,9,81,-,577
 4247,Maximilian Philipp,Wolfsburg,-,-,-,1,86,67,67,1,24,70,90,87,-,-,-,3,76,572
 7024,Kasim Nuhu,Hoffenheim,90,-,-,-,-,-,-,-,90,-,-,90,-,90,28,90,90,568
 7051,Gonçalo Paciência,Schalke 04,80,90,47,32,56,90,90,78,-,-,-,-,-,-,-,-,-,563
 194,Admir Mehmedi,Wolfsburg,71,30,73,80,69,23,23,90,82,-,-,-,-,16,-,-,2,559
-7789,Dominick Drexler,FC Cologne,14,43,79,-,-,30,73,66,15,52,7,-,73,8,-,90,-,550
-6531,Alexander Sørloth,RasenBallsport Leipzig,-,64,17,1,90,90,26,46,90,10,17,27,27,17,27,-,-,549
-8799,Joakim Nilsson,Arminia Bielefeld,-,-,-,-,-,90,-,-,14,90,90,78,-,-,90,90,-,542
+7879,Marius Bülter,Union Berlin,90,74,26,90,30,1,-,-,4,9,74,29,66,-,11,11,30,545
+8793,Fabian Kunze,Arminia Bielefeld,16,1,-,70,-,-,40,9,-,4,-,90,7,37,90,90,90,544
 5238,Jordan Torunarigha,Hertha Berlin,90,90,-,-,-,-,-,-,-,90,90,90,90,-,-,-,-,540
+8877,Sava-Arangel Cestic,FC Cologne,-,-,-,-,-,-,-,-,90,90,90,90,-,-,-,90,90,540
+6496,Ermedin Demirovic,Freiburg,-,1,-,1,2,9,-,2,59,75,13,21,61,69,75,63,88,539
+8958,Reinhold Yabo,Arminia Bielefeld,-,-,1,20,-,7,40,81,70,64,-,-,-,37,89,67,62,538
 150,Josuha Guilavogui,Wolfsburg,-,90,90,90,30,-,-,-,-,-,-,10,90,-,43,90,1,534
 8378,Malick Thiaw,Schalke 04,-,-,-,-,90,90,-,90,90,90,-,-,76,-,1,-,-,527
 9028,Kilian Ludewig,Schalke 04,-,-,-,90,90,90,75,90,90,-,-,-,-,-,-,-,-,525
-7289,Amin Younes,Eintracht Frankfurt,-,-,-,19,42,28,44,-,-,-,1,74,77,76,81,81,-,523
-7879,Marius Bülter,Union Berlin,90,74,26,90,30,1,-,-,4,9,74,29,66,-,11,11,-,515
+3431,Almamy Touré,Eintracht Frankfurt,-,68,90,90,73,62,46,-,-,-,-,-,-,3,2,9,82,525
+6357,Marco Richter,Augsburg,-,-,-,15,7,-,13,7,43,29,16,60,90,89,78,-,73,520
+176,Sven Schipplock,Arminia Bielefeld,8,16,18,20,11,66,1,26,20,79,82,71,17,18,12,23,28,516
 135,Yuya Osako,Werder Bremen,48,1,-,-,52,18,25,-,85,81,1,73,72,48,-,-,8,512
 7073,Pierre Kunde,Mainz 05,-,-,61,59,66,83,7,17,9,32,12,90,69,-,-,-,-,505
-176,Sven Schipplock,Arminia Bielefeld,8,16,18,20,11,66,1,26,20,79,82,71,17,18,12,23,-,488
+7785,Kingsley Ehizibue,FC Cologne,39,90,67,85,16,-,-,10,1,-,-,43,-,-,-,79,73,503
+543,Reece Oxford,Augsburg,3,25,1,-,-,-,13,-,-,-,1,90,-,90,90,88,90,491
 290,Mijat Gacinovic,Hoffenheim,9,28,17,62,12,7,26,11,1,3,13,22,-,-,90,88,90,479
 3834,Ishak Belfodil,Hoffenheim,9,-,12,62,-,64,64,-,-,-,30,22,72,80,62,2,-,479
-8958,Reinhold Yabo,Arminia Bielefeld,-,-,1,20,-,7,40,81,70,64,-,-,-,37,89,67,-,476
+8795,Jacob Laursen,Arminia Bielefeld,16,-,18,-,90,-,90,-,-,-,-,-,-,-,78,90,90,472
+9160,Matthew Hoppe,Schalke 04,-,-,-,-,-,-,-,-,82,24,-,4,-,82,89,89,90,460
 254,Steven Zuber,Eintracht Frankfurt,43,76,88,71,48,62,46,-,-,-,-,-,13,-,9,-,-,456
-8793,Fabian Kunze,Arminia Bielefeld,16,1,-,70,-,-,40,9,-,4,-,90,7,37,90,90,-,454
 6147,Denis Zakaria,Borussia M.Gladbach,-,-,-,-,-,-,-,1,66,54,90,41,6,12,77,90,16,453
-6496,Ermedin Demirovic,Freiburg,-,1,-,1,2,9,-,2,59,75,13,21,61,69,75,63,-,451
-8877,Sava-Arangel Cestic,FC Cologne,-,-,-,-,-,-,-,-,90,90,90,90,-,-,-,90,-,450
+131,Jonas Hector,FC Cologne,90,47,-,-,-,-,-,-,-,-,-,24,17,29,90,70,82,449
 914,Nabil Bentaleb,Schalke 04,90,90,90,90,56,20,-,12,-,-,-,-,-,-,-,-,-,448
-6357,Marco Richter,Augsburg,-,-,-,15,7,-,13,7,43,29,16,60,90,89,78,-,-,447
-3431,Almamy Touré,Eintracht Frankfurt,-,68,90,90,73,62,46,-,-,-,-,-,-,3,2,9,-,443
+6097,Florian Hübner,Union Berlin,-,-,-,-,-,90,-,-,-,-,-,-,-,90,90,90,76,436
 202,Håvard Nordtveit,Hoffenheim,-,-,-,-,-,-,-,90,-,90,90,-,90,-,-,44,29,433
-7785,Kingsley Ehizibue,FC Cologne,39,90,67,85,16,-,-,10,1,-,-,43,-,-,-,79,-,430
 8787,Nathan de Medina,Arminia Bielefeld,12,-,-,83,48,-,-,-,-,-,-,90,90,72,-,32,-,427
+8083,Noah Katterbach,FC Cologne,1,-,-,-,8,30,73,80,-,-,7,-,90,87,-,-,43,419
+7522,Nassim Boujellab,Schalke 04,-,90,-,-,-,-,-,-,8,66,90,90,57,-,-,-,17,418
 8803,Robert Gumny,Augsburg,-,-,-,-,7,30,90,55,47,18,86,30,-,-,22,31,-,416
+5263,Lukas Kübler,Freiburg,11,-,5,-,-,65,65,-,-,-,-,-,-,40,75,63,88,412
 1936,Niklas Moisander,Werder Bremen,90,-,1,-,90,90,90,-,-,-,17,-,-,-,-,-,34,412
+6522,Cedric Teuchert,Union Berlin,18,16,-,-,-,5,4,16,-,4,55,68,85,1,12,66,60,410
 454,Charles Aránguiz,Bayer Leverkusen,90,90,90,47,-,-,-,-,-,-,-,-,-,-,-,17,71,405
-7522,Nassim Boujellab,Schalke 04,-,90,-,-,-,-,-,-,8,66,90,90,57,-,-,-,-,401
-543,Reece Oxford,Augsburg,3,25,1,-,-,-,13,-,-,-,1,90,-,90,90,88,-,401
 8406,Can Bozdogan,Schalke 04,-,-,69,62,34,84,23,-,-,6,71,-,-,21,-,27,-,397
-8790,Cebio Soukou,Arminia Bielefeld,74,90,89,-,-,-,50,9,14,-,61,-,7,-,1,-,-,395
-8795,Jacob Laursen,Arminia Bielefeld,16,-,18,-,90,-,90,-,-,-,-,-,-,-,78,90,-,382
+8790,Cebio Soukou,Arminia Bielefeld,74,90,89,-,-,-,50,9,14,-,61,-,7,-,1,-,1,396
+5358,Lukas Klostermann,RasenBallsport Leipzig,90,90,18,46,-,-,-,-,-,-,-,-,-,9,27,22,90,392
+2655,Alfred Finnbogason,Augsburg,13,26,32,-,-,15,30,66,-,-,4,30,90,-,-,59,17,382
+7997,Julian Ryerson,Union Berlin,-,16,21,-,9,89,-,5,-,85,16,22,18,5,3,1,90,380
 7807,Luca Kilian,Mainz 05,-,-,19,90,90,90,90,1,-,-,-,-,-,-,-,-,-,380
 7439,Tahith Chong,Werder Bremen,65,1,14,-,2,64,16,1,17,90,17,-,18,12,61,-,-,378
 6326,Ibrahima Konaté,RasenBallsport Leipzig,-,-,-,-,1,-,90,90,43,90,-,63,-,-,-,-,-,377
 8878,Atakan Karazor,VfB Stuttgart,-,-,2,90,90,90,73,-,31,-,-,-,-,-,-,-,-,376
-8083,Noah Katterbach,FC Cologne,1,-,-,-,8,30,73,80,-,-,7,-,90,87,-,-,-,376
-9160,Matthew Hoppe,Schalke 04,-,-,-,-,-,-,-,-,82,24,-,4,-,82,89,89,-,370
 186,Karim Bellarabi,Bayer Leverkusen,86,79,83,21,7,9,6,9,-,10,14,23,-,22,-,-,-,369
-131,Jonas Hector,FC Cologne,90,47,-,-,-,-,-,-,-,-,-,24,17,29,90,70,-,367
+9076,Philipp Förster,VfB Stuttgart,-,-,-,-,-,1,-,12,77,30,78,80,-,15,11,-,64,368
 6352,Valentino Lazaro,Borussia M.Gladbach,-,-,-,-,-,10,23,22,66,25,90,41,90,-,-,-,-,367
-2655,Alfred Finnbogason,Augsburg,13,26,32,-,-,15,30,66,-,-,4,30,90,-,-,59,-,365
-6097,Florian Hübner,Union Berlin,-,-,-,-,-,90,-,-,-,-,-,-,-,90,90,90,-,360
 7054,Steven Skrzybski,Schalke 04,10,-,-,90,-,-,15,43,82,84,1,-,18,10,-,-,-,353
 2210,Jorge Meré,FC Cologne,-,-,-,-,-,-,-,90,-,-,-,24,90,90,57,-,-,351
-6522,Cedric Teuchert,Union Berlin,18,16,-,-,-,5,4,16,-,4,55,68,85,1,12,66,-,350
 9069,Romano Schmid,Werder Bremen,-,-,-,-,-,-,-,-,-,9,73,3,85,78,8,17,74,347
 2663,Felix Passlack,Borussia Dortmund,72,-,5,90,19,90,-,-,67,-,-,-,-,-,-,-,-,343
+8418,Jamal Musiala,Bayern Munich,17,15,24,4,15,-,-,65,-,66,66,19,17,13,-,12,9,342
 7106,Philipp Mwene,Mainz 05,-,-,71,-,-,-,-,-,-,-,-,-,-,90,-,90,90,341
-185,Wendell,Bayer Leverkusen,13,-,63,-,-,-,90,-,-,-,23,90,-,-,-,-,61,340
-8805,Deyovaisio Zeefuik,Hertha Berlin,7,42,69,60,4,-,-,4,-,1,-,72,15,7,16,-,43,340
 435,Benjamin Henrichs,RasenBallsport Leipzig,12,2,13,90,90,90,43,-,-,-,-,-,-,-,-,-,-,340
+8805,Deyovaisio Zeefuik,Hertha Berlin,7,42,69,60,4,-,-,4,-,1,-,72,15,7,16,-,43,340
+185,Wendell,Bayer Leverkusen,13,-,63,-,-,-,90,-,-,-,23,90,-,-,-,-,61,340
 6722,Konstantinos Mavropanos,VfB Stuttgart,-,-,74,-,-,-,-,-,59,47,89,54,-,15,-,-,-,338
 983,Kevin Mbabu,Wolfsburg,-,-,-,-,-,-,-,-,-,-,90,90,29,-,23,90,14,336
-8418,Jamal Musiala,Bayern Munich,17,15,24,4,15,-,-,65,-,66,66,19,17,13,-,12,-,333
 8876,Dimitris Limnios,FC Cologne,-,27,23,-,74,60,64,24,-,-,-,49,-,8,-,-,-,329
 4280,Davie Selke,Werder Bremen,90,20,8,12,-,-,-,-,5,29,-,-,-,42,29,73,16,324
-5263,Lukas Kübler,Freiburg,11,-,5,-,-,65,65,-,-,-,-,-,-,40,75,63,-,324
+8148,Timo Becker,Schalke 04,10,-,-,-,-,-,-,-,-,-,-,-,-,31,90,90,90,311
+8796,Christian Gebauer,Arminia Bielefeld,16,-,-,70,-,-,-,-,-,-,8,19,90,53,1,23,28,308
 6098,Niclas Füllkrug,Werder Bremen,25,70,76,78,36,-,-,-,-,-,-,-,-,12,8,-,-,305
-9076,Philipp Förster,VfB Stuttgart,-,-,-,-,-,1,-,12,77,30,78,80,-,15,11,-,-,304
-5358,Lukas Klostermann,RasenBallsport Leipzig,90,90,18,46,-,-,-,-,-,-,-,-,-,9,27,22,-,302
 7058,Kevin Stöger,Mainz 05,-,-,-,-,-,7,-,-,2,32,21,77,79,9,74,1,-,302
 6963,Justin Kluivert,RasenBallsport Leipzig,-,-,-,1,69,-,-,18,-,81,90,29,-,-,-,10,-,298
+7524,Tuta,Eintracht Frankfurt,-,-,26,-,90,-,-,-,-,-,-,-,90,-,-,-,90,296
 6523,Milot Rashica,Werder Bremen,-,-,-,23,-,26,65,90,73,-,-,-,-,-,-,1,16,294
-7997,Julian Ryerson,Union Berlin,-,16,21,-,9,89,-,5,-,85,16,22,18,5,3,1,-,290
 8070,Mateu Morey,Borussia Dortmund,-,-,-,-,10,-,-,-,-,90,90,85,10,-,-,-,-,285
-8303,Marin Pongracic,Wolfsburg,-,-,-,-,-,-,1,-,-,-,-,80,74,81,47,-,-,283
+7267,Woo-Yeong Jeong,Freiburg,90,10,34,20,11,8,14,-,-,-,4,21,29,-,15,-,29,285
+60,Christian Gentner,Union Berlin,24,-,-,11,72,85,77,-,-,-,1,-,-,-,-,-,14,284
 393,Douglas Costa,Bayern Munich,-,-,-,25,70,26,-,65,20,4,-,1,-,1,71,-,-,283
-8796,Christian Gebauer,Arminia Bielefeld,16,-,-,70,-,-,-,-,-,-,8,19,90,53,1,23,-,280
+8303,Marin Pongracic,Wolfsburg,-,-,-,-,-,-,1,-,-,-,-,80,74,81,47,-,-,283
 9133,Youssoufa Moukoko,Borussia Dortmund,-,-,-,-,-,-,-,4,22,44,3,80,90,-,-,27,6,276
-3393,Bouna Sarr,Bayern Munich,-,-,-,-,90,90,90,-,-,-,-,-,-,-,-,-,-,270
 74,Pavel Kaderábek,Hoffenheim,90,90,90,-,-,-,-,-,-,-,-,-,-,-,-,-,-,270
+3393,Bouna Sarr,Bayern Munich,-,-,-,-,90,90,90,-,-,-,-,-,-,-,-,-,-,270
 9108,Marco John,Hoffenheim,-,-,-,-,-,-,-,-,-,-,-,-,-,-,90,90,90,270
-60,Christian Gentner,Union Berlin,24,-,-,11,72,85,77,-,-,-,1,-,-,-,-,-,-,270
-225,Javi Martínez,Bayern Munich,-,-,1,25,20,80,17,90,6,24,-,-,-,-,-,1,-,264
+225,Javi Martínez,Bayern Munich,-,-,1,25,20,80,17,90,6,24,-,-,-,-,-,1,1,265
 8192,Melayro Bogarde,Hoffenheim,-,-,-,-,-,-,90,-,-,-,3,-,-,79,90,-,1,263
 205,Mahmoud Dahoud,Borussia Dortmund,-,5,-,77,71,-,-,63,-,46,-,-,-,-,-,-,-,262
-7122,Javairo Dilrosun,Hertha Berlin,-,-,-,22,3,14,-,-,-,41,75,61,43,-,-,-,-,259
 5133,Aarón Martín,Mainz 05,-,-,19,-,-,-,-,-,2,58,-,90,90,-,-,-,-,259
+7122,Javairo Dilrosun,Hertha Berlin,-,-,-,22,3,14,-,-,-,41,75,61,43,-,-,-,-,259
 6708,Bote Baku,Mainz 05,90,90,-,-,-,-,-,-,-,-,-,-,-,-,-,-,76,256
-7267,Woo-Yeong Jeong,Freiburg,90,10,34,20,11,8,14,-,-,-,4,21,29,-,15,-,-,256
+8806,Roberto Massimo,VfB Stuttgart,80,7,29,-,32,-,-,-,7,16,22,-,28,-,-,-,33,254
 5222,Joel Pohjanpalo,Union Berlin,-,-,26,68,72,11,77,-,-,-,-,-,-,-,-,-,-,254
+8797,Nils Seufert,Arminia Bielefeld,-,-,-,1,42,-,40,81,70,-,8,-,1,-,-,1,9,253
+342,Sead Kolasinac,Schalke 04,-,-,-,-,-,-,-,-,-,-,-,-,-,-,90,90,73,253
 269,Dominik Kohr,Eintracht Frankfurt,47,-,-,-,-,42,90,27,-,16,-,16,-,14,-,-,-,252
-8797,Nils Seufert,Arminia Bielefeld,-,-,-,1,42,-,40,81,70,-,8,-,1,-,-,1,-,244
 7784,Joao Victor,Wolfsburg,79,51,-,-,21,22,14,15,1,-,-,19,2,16,-,-,-,240
 6045,Davy Klaassen,Werder Bremen,65,89,76,-,-,-,-,-,-,-,-,-,-,-,-,-,-,230
+7811,Lino Tempelmann,Freiburg,-,-,-,-,28,-,90,49,-,-,13,1,-,-,15,27,2,225
 8804,Felix Agu,Werder Bremen,-,-,-,-,-,-,-,22,18,-,-,4,-,-,-,90,90,224
 7394,Rabbi Matondo,Schalke 04,66,-,-,-,71,-,-,-,-,-,-,86,-,-,-,-,-,223
-7811,Lino Tempelmann,Freiburg,-,-,-,-,28,-,90,49,-,-,13,1,-,-,15,27,-,223
-8148,Timo Becker,Schalke 04,10,-,-,-,-,-,-,-,-,-,-,-,-,31,90,90,-,221
-8806,Roberto Massimo,VfB Stuttgart,80,7,29,-,32,-,-,-,7,16,22,-,28,-,-,-,-,221
 28,Mitchell Weiser,Bayer Leverkusen,-,-,-,-,-,-,-,43,-,6,14,90,-,68,-,-,-,221
-7524,Tuta,Eintracht Frankfurt,-,-,26,-,90,-,-,-,-,-,-,-,90,-,-,-,-,206
 7809,Mads Pedersen,Augsburg,-,-,-,90,-,-,-,-,-,-,-,-,-,-,22,90,-,202
+409,Philipp Klement,VfB Stuttgart,28,3,16,-,15,15,-,12,-,30,-,10,8,-,1,15,33,186
 137,Anthony Modeste,FC Cologne,-,-,-,1,19,-,-,-,-,-,29,24,-,28,70,11,-,182
 7485,Nico Schlotterbeck,Union Berlin,-,90,90,-,-,-,-,-,-,-,-,-,-,-,-,-,-,180
 263,Marwin Hitz,Borussia Dortmund,-,-,90,90,-,-,-,-,-,-,-,-,-,-,-,-,-,180
-342,Sead Kolasinac,Schalke 04,-,-,-,-,-,-,-,-,-,-,-,-,-,-,90,90,-,180
 90,Sebastian Rudy,Schalke 04,90,90,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,180
+7197,Fredrik Jensen,Augsburg,3,31,32,54,42,-,-,-,-,-,-,-,-,-,-,-,17,179
 5625,Kwon Chang-Hoon,Freiburg,11,10,34,20,11,9,5,-,-,-,-,-,-,70,-,-,-,170
 40,Stefan Bell,Mainz 05,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,90,75,165
 6103,Dan-Axel Zagadou,Borussia Dortmund,-,-,-,-,-,-,-,-,-,90,3,5,-,1,19,46,-,164
 201,Tony Jantschke,Borussia M.Gladbach,-,-,-,11,55,-,-,-,90,-,-,-,-,-,1,-,5,162
-7197,Fredrik Jensen,Augsburg,3,31,32,54,42,-,-,-,-,-,-,-,-,-,-,-,-,162
 213,Thorgan Hazard,Borussia Dortmund,18,-,-,-,13,83,17,-,29,-,-,-,-,-,-,-,-,160
-409,Philipp Klement,VfB Stuttgart,28,3,16,-,15,15,-,12,-,30,-,10,8,-,1,15,-,153
 8855,Bartosz Bialek,Wolfsburg,-,-,-,-,-,1,-,1,8,-,19,19,74,1,-,-,29,152
 29,Vedad Ibisevic,Schalke 04,-,42,43,58,-,-,5,-,-,-,-,-,-,-,-,-,-,148
 8341,Lazar Samardzic,RasenBallsport Leipzig,-,-,6,-,-,69,-,-,71,-,-,-,-,-,1,-,-,147
@@ -362,72 +362,74 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,total
 350,Felix Klaus,Wolfsburg,19,90,-,-,4,3,-,9,-,-,1,-,-,-,-,-,-,126
 6085,Marcin Kaminski,VfB Stuttgart,67,-,-,1,57,-,-,-,-,-,-,-,-,-,-,-,-,125
 241,Mathew Leckie,Hertha Berlin,7,-,-,48,-,-,1,14,20,1,15,18,-,-,-,-,-,124
+7056,Niko Gießelmann,Union Berlin,3,-,-,-,-,1,-,4,-,9,-,90,5,-,-,-,9,121
 7900,Sargis Adamyan,Hoffenheim,-,-,-,-,12,26,26,-,-,-,-,-,4,10,28,10,1,117
 8845,Hee-Chan Hwang,RasenBallsport Leipzig,20,43,-,11,-,24,2,-,-,-,-,-,-,-,17,-,-,117
 339,Eric Maxim Choupo-Moting,Bayern Munich,-,-,-,4,20,64,-,25,-,-,1,-,-,1,-,1,-,116
-7056,Niko Gießelmann,Union Berlin,3,-,-,-,-,1,-,4,-,9,-,90,5,-,-,-,-,112
 7995,Akaki Gogia,Union Berlin,-,-,-,-,-,-,71,16,15,-,-,3,4,-,2,-,-,111
+4271,Janik Haberer,Freiburg,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,33,77,110
 8396,Jessic Ngankam,Hertha Berlin,-,-,2,-,3,-,2,13,20,-,15,10,14,7,19,-,-,105
 5253,Benno Schmitz,FC Cologne,-,-,-,5,-,-,-,-,-,1,1,-,5,-,90,-,-,102
 249,Danny da Costa,Eintracht Frankfurt,47,22,-,-,17,-,-,-,10,-,4,1,-,-,-,-,-,101
 5298,Arne Maier,Arminia Bielefeld,-,-,-,-,48,-,50,-,-,-,-,-,-,1,1,-,-,100
+8951,Keita Endo,Union Berlin,-,-,8,1,18,-,19,-,-,-,16,-,24,-,-,-,9,95
 5728,Hamza Mendyl,Schalke 04,-,-,-,-,-,-,-,-,-,6,-,17,72,-,-,-,-,95
 7309,Ahmed Kutucu,Schalke 04,-,-,-,-,34,-,-,12,-,-,-,20,18,8,1,1,-,94
 8044,Joshua Zirkzee,Bayern Munich,7,60,-,-,-,26,-,-,-,-,-,-,-,-,-,-,-,93
 138,Frederik Sörensen,FC Cologne,1,2,90,-,-,-,-,-,-,-,-,-,-,-,-,-,-,93
 7808,Marek Suchy,Augsburg,-,1,-,-,-,-,-,-,-,90,-,-,-,-,-,-,-,91
-7053,Pavao Pervan,Wolfsburg,-,90,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,90
-7220,Michael Langer,Schalke 04,-,-,-,-,-,-,-,-,-,90,-,-,-,-,-,-,-,90
 7113,Santiago Arias,Bayer Leverkusen,-,-,90,-,-,-,-,-,-,-,-,-,-,-,-,-,-,90
-7869,Philipp Pentke,Hoffenheim,-,-,-,-,90,-,-,-,-,-,-,-,-,-,-,-,-,90
-214,Tobias Sippel,Borussia M.Gladbach,-,-,-,-,-,-,-,-,-,-,90,-,-,-,-,-,-,90
 6596,Finn Dahmen,Mainz 05,-,-,-,-,-,-,-,-,-,-,-,-,-,90,-,-,-,90
+214,Tobias Sippel,Borussia M.Gladbach,-,-,-,-,-,-,-,-,-,-,90,-,-,-,-,-,-,90
+7220,Michael Langer,Schalke 04,-,-,-,-,-,-,-,-,-,90,-,-,-,-,-,-,-,90
+7053,Pavao Pervan,Wolfsburg,-,90,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,90
+7869,Philipp Pentke,Hoffenheim,-,-,-,-,90,-,-,-,-,-,-,-,-,-,-,-,-,90
 5355,Jacob Bruun Larsen,Hoffenheim,-,-,-,28,60,-,-,-,-,-,-,-,-,-,-,-,-,88
 8325,Exequiel Palacios,Bayer Leverkusen,-,-,-,21,65,1,-,-,-,-,-,-,-,-,-,-,-,87
-8951,Keita Endo,Union Berlin,-,-,8,1,18,-,19,-,-,-,16,-,24,-,-,-,-,86
 8430,Chris Richards,Bayern Munich,16,-,67,-,-,-,-,-,-,3,-,-,-,-,-,-,-,86
 207,Ibrahima Traoré,Borussia M.Gladbach,-,-,1,2,-,-,-,-,-,-,65,4,1,-,-,-,-,73
 9006,Brian Behrendt,Arminia Bielefeld,-,-,-,7,42,24,-,-,-,-,-,-,-,-,-,-,-,73
+8875,Tolu Arokodare,FC Cologne,-,13,11,-,-,10,-,6,-,-,-,-,-,3,20,-,1,64
 8825,Reinier,Borussia Dortmund,-,19,8,-,-,7,-,-,-,-,30,-,-,-,-,-,-,64
-8875,Tolu Arokodare,FC Cologne,-,13,11,-,-,10,-,6,-,-,-,-,-,3,20,-,-,63
 8826,Rocco Reitz,Borussia M.Gladbach,-,-,-,-,61,-,-,-,-,-,-,-,-,-,-,-,-,61
 45,Yunus Malli,Wolfsburg,-,60,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,60
 5265,Amir Abrashi,Freiburg,1,-,-,-,-,-,-,-,-,-,-,1,1,1,-,53,-,57
+359,Timothy Chandler,Eintracht Frankfurt,1,-,2,-,42,-,-,-,-,-,-,-,2,-,-,-,8,55
+7790,Darko Churlinov,VfB Stuttgart,-,-,-,-,15,11,-,-,-,1,1,-,-,-,-,-,26,54
 427,Marco Höger,FC Cologne,51,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,54
-91,Ron-Robert Zieler,FC Cologne,-,-,-,-,-,-,51,-,-,-,-,-,-,-,-,-,-,51
+9023,Ajdin Hrustic,Eintracht Frankfurt,-,-,-,-,-,-,-,-,-,-,-,-,14,-,-,35,3,52
 8401,Luca Netz,Hertha Berlin,-,-,-,-,-,-,-,-,-,-,-,-,-,3,16,3,29,51
-9023,Ajdin Hrustic,Eintracht Frankfurt,-,-,-,-,-,-,-,-,-,-,-,-,14,-,-,35,-,49
+91,Ron-Robert Zieler,FC Cologne,-,-,-,-,-,-,51,-,-,-,-,-,-,-,-,-,-,51
 8874,Jóan Símun Edmundsson,Arminia Bielefeld,-,21,1,1,1,25,-,-,-,-,-,-,-,-,-,-,-,49
+6228,Luka Jovic,Eintracht Frankfurt,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,26,22,48
 276,Dong-Won Ji,Mainz 05,-,-,-,12,9,7,7,7,-,-,-,-,5,-,-,-,-,47
 9128,Andreas Voglsammer,Arminia Bielefeld,-,-,-,-,-,-,-,1,20,26,-,-,-,-,-,-,-,47
-359,Timothy Chandler,Eintracht Frankfurt,1,-,2,-,42,-,-,-,-,-,-,-,2,-,-,-,-,47
 8846,Paul Nebel,Mainz 05,1,4,29,12,-,-,-,-,-,-,-,-,-,-,-,-,-,46
 310,Lukasz Piszczek,Borussia Dortmund,-,-,-,20,-,3,-,13,-,-,-,5,-,-,-,-,-,41
 8815,Klauss,Hoffenheim,-,-,-,-,30,7,1,1,-,-,-,-,-,-,-,-,-,39
 8847,Niklas Tauer,Mainz 05,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,8,27,38
-4271,Janik Haberer,Freiburg,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,33,-,33
 7918,Daishawn Redan,Hertha Berlin,-,5,-,-,-,-,-,-,-,-,5,-,3,-,-,3,17,33
 8869,Ragnar Ache,Eintracht Frankfurt,-,22,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,31
 8962,Joscha Wosz,RasenBallsport Leipzig,-,-,6,-,-,-,-,-,-,-,24,-,-,-,-,-,-,30
-7790,Darko Churlinov,VfB Stuttgart,-,-,-,-,15,11,-,-,-,1,1,-,-,-,-,-,-,28
-2659,Noah Joel Sarenren Bazee,Augsburg,-,-,-,-,-,11,-,-,-,-,-,-,-,-,2,15,-,28
+7266,Leon Dajaku,Union Berlin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,30,30
 360,Ádám Szalai,Mainz 05,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,8,15,28
-5298,Arne Maier,Hertha Berlin,7,20,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,28
 6084,Johannes Eggestein,Werder Bremen,-,20,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,28
+5298,Arne Maier,Hertha Berlin,7,20,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,28
+2659,Noah Joel Sarenren Bazee,Augsburg,-,-,-,-,-,11,-,-,-,-,-,-,-,-,2,15,-,28
 269,Dominik Kohr,Mainz 05,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,27,27
 7043,Eduard Löwen,Hertha Berlin,-,-,-,10,1,-,2,13,-,-,-,-,-,-,-,-,-,26
-6228,Luka Jovic,Eintracht Frankfurt,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,26,-,26
 5086,Marc Roca,Bayern Munich,-,-,-,-,-,1,-,-,-,-,-,19,-,-,-,-,-,20
 7981,Nianzou Kouassi,Bayern Munich,-,-,-,-,-,-,-,-,20,-,-,-,-,-,-,-,-,20
 7040,Patrick Erras,Werder Bremen,-,-,-,-,-,-,-,-,-,2,-,17,-,-,-,-,-,19
 6148,Michaël Cuisance,Bayern Munich,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,17
-417,Tin Jedvaj,Bayer Leverkusen,-,-,-,-,-,-,-,-,16,-,-,-,-,-,-,-,-,16
 8398,Márton Dárdai,Hertha Berlin,-,-,-,-,-,-,1,-,15,-,-,-,-,-,-,-,-,16
+417,Tin Jedvaj,Bayer Leverkusen,-,-,-,-,-,-,-,-,16,-,-,-,-,-,-,-,-,16
 7181,Issah Abass,Mainz 05,2,-,-,-,-,-,-,-,-,-,12,-,-,-,-,-,-,14
 8810,Hamadi Al Ghaddioui,VfB Stuttgart,10,3,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,14
 8987,Lilian Egloff,VfB Stuttgart,-,-,-,1,-,-,-,-,-,-,12,-,-,-,-,-,-,13
-9227,Steffen Tigges,Borussia Dortmund,-,-,-,-,-,-,-,-,-,-,-,-,-,6,3,-,1,10
+8206,Yannik Keitel,Freiburg,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,13,13
 8811,Alkhaly Momo Cissé,VfB Stuttgart,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,10
+9227,Steffen Tigges,Borussia Dortmund,-,-,-,-,-,-,-,-,-,-,-,-,-,6,3,-,1,10
 8502,Dennis Borkowski,RasenBallsport Leipzig,-,-,-,-,-,-,-,-,-,-,1,-,8,-,-,-,-,9
 9161,Jan-Luca Schuler,Schalke 04,-,-,-,-,-,-,-,-,8,-,-,-,-,-,-,-,-,8
 7771,Guus Til,Freiburg,-,-,-,-,-,-,-,1,-,6,-,-,-,-,-,-,-,7
@@ -436,8 +438,8 @@ id,name,team,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,total
 9100,Tim Maciejewski,Union Berlin,-,-,-,-,-,-,3,-,-,-,-,-,-,-,-,-,-,3
 7885,Joshua Mees,Union Berlin,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3
 9186,Tim Civeja,Augsburg,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2
-6229,William,Wolfsburg,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,2
 8137,Maximilian Beier,Hoffenheim,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-,-,2
+6229,William,Wolfsburg,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,2
 9187,Sebastian Müller,Arminia Bielefeld,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,2
 8000,Ilia Gruev,Werder Bremen,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1
 9178,Merveille Papela,Mainz 05,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1
