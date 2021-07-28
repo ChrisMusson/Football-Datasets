@@ -119,7 +119,7 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 118,Dwight,McNeil,McNeil,M,Burnley,6.0,6.0,fc15fb84,6756
 119,César,Azpilicueta,Azpilicueta,D,Chelsea,6.0,6.0,53cad200,681
 120,Olivier,Giroud,Giroud,F,Chelsea,6.5,6.5,16ceb862,502
-121,Thiago,Thiago,Thiago Silva,D,Chelsea,5.5,5.5,86e7deaf,3288
+121,Thiago,Emiliano da Silva,Thiago Silva,D,Chelsea,5.5,5.5,86e7deaf,3288
 122,Marcos,Alonso,Alonso,D,Chelsea,5.5,5.5,f4290206,1621
 123,Jorge Luiz,Frello Filho,Jorginho,M,Chelsea,6.0,6.0,45db685d,1389
 124,Ross,Barkley,Barkley,M,Chelsea,5.5,5.5,3a24769f,592
@@ -481,3 +481,8 @@ fpl_id,first_name,second_name,web_name,position,team,start_cost,now_cost,fbref_i
 480,Wayne,Hennessey,Hennessey,G,Burnley,4.5,4.5,76eca7e2,509
 481,Asmir,Begović,Begović,G,Everton,4.0,4.0,7b4de647,694
 482,Andros,Townsend,Townsend,M,Everton,5.5,5.5,b28bbd58,775
+483,Kristoffer,Ajer,Ajer,D,Brentford,4.5,4.5,a8c0acb7,0
+484,Demarai,Gray,Gray,M,Everton,5.5,5.5,4468ec10,762
+485,Jadon,Sancho,Sancho,M,Man Utd,9.5,9.5,dbf053da,6345
+486,Pierluigi,Gollini,Gollini,G,Spurs,4.5,4.5,f0f7f62f,1841
+487,Bryan,Gil Salvatierra,Bryan,M,Spurs,6.0,6.0,7b5ab7f2,7338
